@@ -984,4 +984,15 @@ Under the accrual basis of accounting, revenues are reported in the accounting p
 Which of the following statements is incorrect? | The normal balance of an expense account is a credit.
 A method of valuing the cost of goods sold that uses the cost of the oldest items in inventory first. What is it? | FIFO
 Office supplies available at the beginning of the year are 0. During the year, the company purchased $3000 of office supplies. On December 31, $1000 of office supplies remained. Additional company's insurance expense is $ 1000. How much should the company report as office supplies expense for the year? | $2000
+Which are expected to be sold, collected or used within one year or the company's operating cycle? | Current assets
+Adjusting entries at the end of an accounting period would not be required for which of the following? | Revenue that has been earned and recorded in the accounting records
+At the end of the current accounting period, Johnson Company failed to record utilities consumed during the period. Johnson will be billed for the utilities during the next accounting period. As a result, current period liabilities, and income, respectively, are | Understate, overstate
+Which account of these accounts will be presented in Post-closing trial balance? | Retained Earnings
+How will the Financial Statements be affected if Accountant in the company forgot to adjust a prepaid expense account at the end of the period? | Assets in the Balance sheet will be overstated and Expenses in the Income Statement will be understated
+How will it affect total Assets in the balance sheet if tangible fixed assets are not depreciated at the end of the period? | Total Assets are overstated
+How will it affect Income Statement if an accrued expense of $450 is forgotten to record at the end of the period? | Net Income in the Income Statement will be overstated for $450
+Where is Accumulated depreciation reported? | Balance sheet
+Which accounts belong to Permanent Accounts? | Asset, liability, owner capital
+An adjusting entries for unearned revenue affects | Revenue and Liabilities
+Which kind of account is accumulated depreciation? | Contra - asset account
 
