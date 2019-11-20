@@ -4,6 +4,7 @@ How will it affect Income Statement if an accrued expense of $450 is forgotten t
 What accounting principle requires credit sales revenue also included in the income statement? | Accrual basis
 Which kind of account is accumulated depreciation? | Contra - asset account
 Where is Accumulated depreciation reported? | Balance sheet
+Which statement is true about Mary's capital: |  The owner's equity account that contains the amount invested in the sole proprietorship by Mary Smith plus the net income since the company began minus the draws made by Mary Smith since the company began.
 Which account of these accounts will be presented in Post-closing trial balance? | Retained Earnings
 Adjusting entries at the end of an accounting period would not be required for which of the following? | Revenue that has been earned and recorded in the accounting records
 At the end of the current accounting period, Johnson Company failed to record utilities consumed during the period. Johnson will be billed for the utilities during the next accounting period. As a result, current period liabilities, and income, respectively, are | Understate, overstate
