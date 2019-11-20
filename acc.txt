@@ -1,4 +1,14 @@
+An adjusting entries for unearned revenue affects | Revenue and Liabilities
+How will it affect total Assets in the balance sheet if tangible fixed assets are not depreciated at the end of the period? |  Total Assets are overstated
+How will it affect Income Statement if an accrued expense of $450 is forgotten to record at the end of the period? | Net Income in the Income Statement will be overstated for $450
 What accounting principle requires credit sales revenue also included in the income statement? | Accrual basis
+Which kind of account is accumulated depreciation? | Contra - asset account
+Where is Accumulated depreciation reported? | Balance sheet
+Which account of these accounts will be presented in Post-closing trial balance? | Retained Earnings
+Adjusting entries at the end of an accounting period would not be required for which of the following? | Revenue that has been earned and recorded in the accounting records
+At the end of the current accounting period, Johnson Company failed to record utilities consumed during the period. Johnson will be billed for the utilities during the next accounting period. As a result, current period liabilities, and income, respectively, are | Understate, overstate
+How will the Financial Statements be affected if Accountant in the company forgot to adjust a prepaid expense account at the end of the period? | Assets in the Balance sheet will be overstated and Expenses in the Income Statement will be understated
+
 The following transactions, among others, occurred during August. Which transaction represented an expense during August | Rent a space for office on account. The rental amount will be paid in the next 2 months
 How many accounts does every business transaction affect at least? | 2
 Which type of information would be of most interest to creditors? | Ability of the company to pay debts
@@ -34,14 +44,14 @@ Assets created by selling goods and services on credit are: | Accounts receivabl
 A payment to an owner for personal use is called a(n): | Withdrawal.
 The properties used in operation activities of a business is called: | Assets
 Which of the following is a liability? | Note payable
-Which of the following is not considered as subcategory of owner’s Equity? | Assets
+Which of the following is not considered as subcategory of ownerï¿½s Equity? | Assets
 Which of the following is not a liability? | Short term investment
 Which of the following is not a category or element of the balance sheet? | Expense             
 The account used to record the transfers of assets from a business to its owner is: | The owner's withdrawals account.
 Reflects assumption that the business will continue operating instead of being closed or sold. | Going-Concern Assumption 
 A company must record its expenses incurred to generate the revenue reported at the same period.It is about: | Matching Principle 
 Which is the assumption stating that A business is accounted for separately from other business entities, including its owner? | Business Entity Assumption 
-Which are expected to be sold, collected or used within one year or the company’s operating cycle? | Current assets
+Which are expected to be sold, collected or used within one year or the companyï¿½s operating cycle? | Current assets
 Flash has beginning equity of $257,000, net income of $51,000, withdrawals of $40,000 and investments by owners of $6,000. Its ending equity is: | $274,000
 Which of the following statements is true about assets? | All of these
 Net Income: | Is the excess of revenues over expenses
@@ -134,7 +144,7 @@ Costs included in the Merchandise Inventory account can include: | All of these.
 Costs included in the Merchandise Inventory account can include: | Invoice price minus any discount, Transportation-in, Storage, Insurance
 Creditors' claims on the assets of a company are called: | Liabilities.
 Decreases in equity that represent costs of assets or services used to earn revenues are called: | Expenses.
-Depreciation is: | The assigning or allocating of a fixed asset’s cost to expense over the accounting periods that the asset is likely to be used.
+Depreciation is: | The assigning or allocating of a fixed assetï¿½s cost to expense over the accounting periods that the asset is likely to be used.
 Dina Kader withdrew a total of $35,000 from her business during the current year. The entry needed to close the withdrawals account is: | Debit Dina Kader, Capital and credit Dina Kader, Withdrawals for $35,000.
 Distributions by a business to its owners are called: | Withdrawals
 During a period of steadily rising costs, the inventory valuation method that yields the lowest reported net income is: | LIFO method.
@@ -169,7 +179,7 @@ Inventory accounts should be classified in which section of a balance sheet? | C
 Invested $10,000 cash, and $15,000 of computer equipment. Prepare journal entries to record the above transactions | Debit Cash $ 10,000 Debit Equipment $ 15,000 Credit Capital $25,000
 Items used in business operations, such as office pens and  paper are several samples of: | Office supplies
 J. Awn, the proprietor of Awn Services, withdrew $8,700 from the business during the current year. The entry to close the withdrawals account at the end of the year, is: | Debit capital $8,700 and credit withdrawal  $ 8,700
-John set up a new business and completed these transactions: 1. Open new restaurant, by investing $30,000 cash and equipment valued at $10,000. 2. Purchased $1,000 of kitchen utility on credit. 3. Paid $1,500 cash for the staff’s salary. 4. Service meals to customers and collected$4,000 cash What was the balance of the cash account after these transactions were posted? | $32,500
+John set up a new business and completed these transactions: 1. Open new restaurant, by investing $30,000 cash and equipment valued at $10,000. 2. Purchased $1,000 of kitchen utility on credit. 3. Paid $1,500 cash for the staffï¿½s salary. 4. Service meals to customers and collected$4,000 cash What was the balance of the cash account after these transactions were posted? | $32,500
 John, the owner of Matt company, withdrew $8,000 from the business during the current year. The entry to close the withdrawals account at the end of the year, is: | Debit capital $8,000 and credit withdrawal  $ 8,000
 Journal entries recorded at the end of each accounting period to prepare the revenue, expense, and withdrawals accounts for the upcoming period and to update the owner's capital account for the events of the period just finished are referred to as: | Closing entries.
 Lomax Enterprises purchased a depreciable asset for $20,000 on January 1, 2008. The asset will be depreciated using the straight-line method over its four-year useful life. Assuming the asset's salvage value is $2,000, what will be the amount of accumulated depreciation on this asset on June 30, 2011?  | $15750
@@ -183,7 +193,7 @@ Newton Company uses the allowance method of accounting for uncollectible account
 Of the following account types, which would be increased by a debit? | Assets and expenses.
 Of the following accounts, the one that normally has a credit balance is: | Sales Salaries Payable.
 Office supplies available at the beginning of the year are 0. During the year, the company purchased $250 of office supplies. On December 31, $90 of office supplies remained. How much should the company report as office supplies expense for the year? | $160
-Office supplies available at the beginning of the year are 0. During the year, the company purchased $3000 of office supplies. On December 31,   $1000 of office supplies remained. Additional company’s insurance expense is $ 1000. How much should the company report as office supplies expense for the year? | $2000
+Office supplies available at the beginning of the year are 0. During the year, the company purchased $3000 of office supplies. On December 31,   $1000 of office supplies remained. Additional companyï¿½s insurance expense is $ 1000. How much should the company report as office supplies expense for the year? | $2000
 On April 1, 2009, a company paid the $1,350 premium on a three-year insurance policy with benefits beginning on that date. What will be the insurance expense on the annual income statement for the year ended December 31, 2009? | $337.50.
 On April 30, 2009, a three-year insurance policy was purchased for $18,000 with coverage to begin immediately. What is the amount of insurance expense that would appear on the company's income statement for the year ended December 31, 2009? | $4,000.
 On April 30, Holden Company had an Accounts Receivable balance of $18,000. During the month of May, total credits to Accounts Receivable were $52,000 from customer payments. The May 31 Accounts Receivable balance was $13,000. What was the amount of credit sales during May? | $47,000.
@@ -294,21 +304,21 @@ When a sale is made with the credit terms of 2/10, net 30, the "2" refers to the
 Which account is noncurrent or long-term asset | Equipment, building, vehicle
 Which accounts belong to Permanent Accounts ? | Asset, liability, owner capital
 Which accounts belong to Temporary Accounts? | Revenue, expense, withdrawal, income summary
-Which accounts don’t need to do closing entries? | Current Liability
-Which accounts don’t need to do closing entries? | Current asset
-Which accounts don’t need to do closing entries? | Gross profit
-Which accounts don’t need to do closing entries? | Intangible asset
-Which accounts don’t need to do closing entries? | Non – current Liability
-Which accounts don’t need to do closing entries? | Non – current asset
+Which accounts donï¿½t need to do closing entries? | Current Liability
+Which accounts donï¿½t need to do closing entries? | Current asset
+Which accounts donï¿½t need to do closing entries? | Gross profit
+Which accounts donï¿½t need to do closing entries? | Intangible asset
+Which accounts donï¿½t need to do closing entries? | Non ï¿½ current Liability
+Which accounts donï¿½t need to do closing entries? | Non ï¿½ current asset
 Which accounts need to do closing entries? | All of these
 Which accounts used to record amounts owed to suppliers for products or services purchased on credit? | Trade accounts payable
-Which are expected to be sold collected or used within one year or the company’s operating cycle? | Current assets
+Which are expected to be sold collected or used within one year or the companyï¿½s operating cycle? | Current assets
 Which discounts are offered based on quantities purchased | Trade discounts
 Which discounts are provided to customers as an incentive for them to pay early | Purchase discounts
 Which is the process that resets revenue, expense and withdrawal account balances to zero at the end of the period | Closing process
 Which is true about An account balance: | Is the difference between the total debits and total credits for an account including the beginning balance
 Which is true about Expenses: | The costs of assets or services used to generate revenue.
-Which is true about Revenues: | Company's earning activities that contribute to increase owner’s equity .
+Which is true about Revenues: | Company's earning activities that contribute to increase ownerï¿½s equity .
 Which is true about account receivable: | Money which is owed to a company by a customer for products and services provided on credit.
 Which of the following accounting principles would require that all goods and services purchased should be recorded at cost? | Cost principle.
 Which of the following accounts is not increased by a credit | Asset
@@ -319,13 +329,13 @@ Which of the following is a liability? | Account payable
 Which of the following is a liability? | Account payable
 Which of the following is not a category or element of the balance sheet? | Expense             
 Which of the following is not a liability? | Short term investment
-Which of the following is not considered as subcategory of owner’s Equity? | Assets
+Which of the following is not considered as subcategory of ownerï¿½s Equity? | Assets
 Which of the following statements is correct? | The left side of a T-account is the debit side.
 Which of the following statements is incorrect? | Adjusting entries affect the cash account.
 Which of the following statements is incorrect? | The normal balance of an expense account is a credit.
 Which of the following statements is true about assets? | All of these.
 Which of the following statements is true? | A debit increases an asset while a credit  decrease an asset
-Which statement is about Mary’s capital: | The owner's equity account that contains the amount invested in the sole proprietorship by Mary Smith plus the net income since the company began minus the draws made by Mary Smith since the company began.
+Which statement is about Maryï¿½s capital: | The owner's equity account that contains the amount invested in the sole proprietorship by Mary Smith plus the net income since the company began minus the draws made by Mary Smith since the company began.
 Which statement is correct? | Accumulated Depreciation is a contra asset account
 Which statement is true about revenue: | Revenue is reported in the financial statements on the income statement.
 Which statement is true about tangible asset? | Tangible  assets are assets held for operating activity of the company 
@@ -336,7 +346,7 @@ Which statement is true: | Generally when an expense or withdraw is involved in 
 Which statement is true: | Merchandise available for sale includes Beginning inventory and Net cost of purchases.
 Which statement is true: | Prepaid expense is considered an asset on the balance sheet
 Which statement is true: | Unearned revenue  is considered a liability on the balance sheet
-Which statement is true? | Expenses decrease Owner’s equity
+Which statement is true? | Expenses decrease Ownerï¿½s equity
 Which statement is true? | The double entry system requires every transaction to be recorded in at least two places
 Which statement is true? | Assets need to depreciate include  vehicle, machine,  buildings
 Which statement is true? | A contra-asset account such as Accumulated Depreciation will likely have credit balance
@@ -454,7 +464,7 @@ Costs included in the Merchandise Inventory account can include: | All of these.
 Costs included in the Merchandise Inventory account can include: | Invoice price minus any discount, Transportation-in, Storage, Insurance
 Creditors' claims on the assets of a company are called: | Liabilities.
 Decreases in equity that represent costs of assets or services used to earn revenues are called: | Expenses.
-Depreciation is: | The assigning or allocating of a fixed asset’s cost to expense over the accounting periods that the asset is likely to be used.
+Depreciation is: | The assigning or allocating of a fixed assetï¿½s cost to expense over the accounting periods that the asset is likely to be used.
 Dina Kader withdrew a total of $35,000 from her business during the current year. The entry needed to close the withdrawals account is: | Debit Dina Kader, Capital and credit Dina Kader, Withdrawals for $35,000.
 Distributions by a business to its owners are called: | Withdrawals
 During a period of steadily rising costs, the inventory valuation method that yields the lowest reported net income is: | LIFO method.
@@ -489,7 +499,7 @@ Inventory accounts should be classified in which section of a balance sheet? | C
 Invested $10,000 cash, and $15,000 of computer equipment. Prepare journal entries to record the above transactions | Debit Cash $ 10,000 Debit Equipment $ 15,000 Credit Capital $25,000
 Items used in business operations, such as office pens and  paper are several samples of: | Office supplies
 J. Awn, the proprietor of Awn Services, withdrew $8,700 from the business during the current year. The entry to close the withdrawals account at the end of the year, is: | Debit capital $8,700 and credit withdrawal  $ 8,700
-John set up a new business and completed these transactions: 1. Open new restaurant, by investing $30,000 cash and equipment valued at $10,000. 2. Purchased $1,000 of kitchen utility on credit. 3. Paid $1,500 cash for the staff’s salary. 4. Service meals to customers and collected$4,000 cash What was the balance of the cash account after these transactions were posted? | $32,500
+John set up a new business and completed these transactions: 1. Open new restaurant, by investing $30,000 cash and equipment valued at $10,000. 2. Purchased $1,000 of kitchen utility on credit. 3. Paid $1,500 cash for the staffï¿½s salary. 4. Service meals to customers and collected$4,000 cash What was the balance of the cash account after these transactions were posted? | $32,500
 John, the owner of Matt company, withdrew $8,000 from the business during the current year. The entry to close the withdrawals account at the end of the year, is: | Debit capital $8,000 and credit withdrawal  $ 8,000
 Journal entries recorded at the end of each accounting period to prepare the revenue, expense, and withdrawals accounts for the upcoming period and to update the owner's capital account for the events of the period just finished are referred to as: | Closing entries.
 Lomax Enterprises purchased a depreciable asset for $20,000 on January 1, 2008. The asset will be depreciated using the straight-line method over its four-year useful life. Assuming the asset's salvage value is $2,000, what will be the amount of accumulated depreciation on this asset on June 30, 2011?  | $15750
@@ -503,7 +513,7 @@ Newton Company uses the allowance method of accounting for uncollectible account
 Of the following account types, which would be increased by a debit? | Assets and expenses.
 Of the following accounts, the one that normally has a credit balance is: | Sales Salaries Payable.
 Office supplies available at the beginning of the year are 0. During the year, the company purchased $250 of office supplies. On December 31, $90 of office supplies remained. How much should the company report as office supplies expense for the year? | $160
-Office supplies available at the beginning of the year are 0. During the year, the company purchased $3000 of office supplies. On December 31,   $1000 of office supplies remained. Additional company’s insurance expense is $ 1000. How much should the company report as office supplies expense for the year? | $2000
+Office supplies available at the beginning of the year are 0. During the year, the company purchased $3000 of office supplies. On December 31,   $1000 of office supplies remained. Additional companyï¿½s insurance expense is $ 1000. How much should the company report as office supplies expense for the year? | $2000
 On April 1, 2009, a company paid the $1,350 premium on a three-year insurance policy with benefits beginning on that date. What will be the insurance expense on the annual income statement for the year ended December 31, 2009? | $337.50.
 On April 30, 2009, a three-year insurance policy was purchased for $18,000 with coverage to begin immediately. What is the amount of insurance expense that would appear on the company's income statement for the year ended December 31, 2009? | $4,000.
 On April 30, Holden Company had an Accounts Receivable balance of $18,000. During the month of May, total credits to Accounts Receivable were $52,000 from customer payments. The May 31 Accounts Receivable balance was $13,000. What was the amount of credit sales during May? | $47,000.
@@ -612,21 +622,21 @@ When a sale is made with the credit terms of 2/10, net 30, the "2" refers to the
 Which account is noncurrent or long-term asset | Equipment, building, vehicle
 Which accounts belong to Permanent Accounts ? | Asset, liability, owner capital
 Which accounts belong to Temporary Accounts? | Revenue, expense, withdrawal, income summary
-Which accounts don’t need to do closing entries? | Current Liability
-Which accounts don’t need to do closing entries? | Current asset
-Which accounts don’t need to do closing entries? | Gross profit
-Which accounts don’t need to do closing entries? | Intangible asset
-Which accounts don’t need to do closing entries? | Non – current Liability
-Which accounts don’t need to do closing entries? | Non – current asset
+Which accounts donï¿½t need to do closing entries? | Current Liability
+Which accounts donï¿½t need to do closing entries? | Current asset
+Which accounts donï¿½t need to do closing entries? | Gross profit
+Which accounts donï¿½t need to do closing entries? | Intangible asset
+Which accounts donï¿½t need to do closing entries? | Non ï¿½ current Liability
+Which accounts donï¿½t need to do closing entries? | Non ï¿½ current asset
 Which accounts need to do closing entries? | All of these
 Which accounts used to record amounts owed to suppliers for products or services purchased on credit? | Trade accounts payable
-Which are expected to be sold collected or used within one year or the company’s operating cycle? | Current assets
+Which are expected to be sold collected or used within one year or the companyï¿½s operating cycle? | Current assets
 Which discounts are offered based on quantities purchased | Trade discounts
 Which discounts are provided to customers as an incentive for them to pay early | Purchase discounts
 Which is the process that resets revenue, expense and withdrawal account balances to zero at the end of the period | Closing process
 Which is true about An account balance: | Is the difference between the total debits and total credits for an account including the beginning balance
 Which is true about Expenses: | The costs of assets or services used to generate revenue.
-Which is true about Revenues: | Company's earning activities that contribute to increase owner’s equity .
+Which is true about Revenues: | Company's earning activities that contribute to increase ownerï¿½s equity .
 Which is true about account receivable: | Money which is owed to a company by a customer for products and services provided on credit.
 Which of the following accounting principles would require that all goods and services purchased should be recorded at cost? | Cost principle.
 Which of the following accounts is not increased by a credit | Asset
@@ -637,13 +647,13 @@ Which of the following is a liability? | Account payable
 Which of the following is a liability? | Account payable
 Which of the following is not a category or element of the balance sheet? | Expense             
 Which of the following is not a liability? | Short term investment
-Which of the following is not considered as subcategory of owner’s Equity? | Assets
+Which of the following is not considered as subcategory of ownerï¿½s Equity? | Assets
 Which of the following statements is correct? | The left side of a T-account is the debit side.
 Which of the following statements is incorrect? | Adjusting entries affect the cash account.
 Which of the following statements is incorrect? | The normal balance of an expense account is a credit.
 Which of the following statements is true about assets? | All of these.
 Which of the following statements is true? | A debit increases an asset while a credit  decrease an asset
-Which statement is about Mary’s capital: | The owner's equity account that contains the amount invested in the sole proprietorship by Mary Smith plus the net income since the company began minus the draws made by Mary Smith since the company began.
+Which statement is about Maryï¿½s capital: | The owner's equity account that contains the amount invested in the sole proprietorship by Mary Smith plus the net income since the company began minus the draws made by Mary Smith since the company began.
 Which statement is correct? | Accumulated Depreciation is a contra asset account
 Which statement is true about revenue: | Revenue is reported in the financial statements on the income statement.
 Which statement is true about tangible asset? | Tangible  assets are assets held for operating activity of the company 
@@ -654,7 +664,7 @@ Which statement is true: | Generally when an expense or withdraw is involved in 
 Which statement is true: | Merchandise available for sale includes Beginning inventory and Net cost of purchases.
 Which statement is true: | Prepaid expense is considered an asset on the balance sheet
 Which statement is true: | Unearned revenue  is considered a liability on the balance sheet
-Which statement is true? | Expenses decrease Owner’s equity
+Which statement is true? | Expenses decrease Ownerï¿½s equity
 Which statement is true? | The double entry system requires every transaction to be recorded in at least two places
 Which statement is true? |Assets need to depreciate include  vehicle, machine,  buildings
 Which statement is true? | A contra-asset account such as Accumulated Depreciation will likely have credit balance
@@ -811,7 +821,6 @@ Which statement is true: | A retailer is an intermediary that buys products from
 Provide descriptions for this transaction:Debit unearned revenue $8,000 and credit revenue $8,000 | Adjusting unearned revenue at the end of period $8,000
 Which statement is true? | Expenses decrease Owner's equity
 Provide descriptions for this transaction:Debit office supplies $2,000 and credit liability $,2000 | Buying office supplies on credit $2,000
-The Income Summary account is used: | To close the revenue and expense accounts.
 Which accounts used to record amounts owed to suppliers for products or services purchased on credit? | Trade accounts payable
 Adjusting entries: | Affect both income statement and balance sheet accounts.
 Lomax Enterprises purchased a depreciable asset for $20,000 on January 1, 2008. The asset will be depreciated using the straight-line method over its four-year useful life. Assuming the asset's salvage value is $2,000, what will be the amount of accumulated depreciation on this asset on June 30, 2011? | $15750
