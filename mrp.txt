@@ -1,4 +1,4 @@
-How to set data for a ListView? | Use function setListAdapter() & Use function addView()
+﻿How to set data for a ListView? | Use function setListAdapter() & Use function addView()
 Intent myIntent = new Intent(this. ActivityTwo.class); myIntentputExtra("Value1". "This value one for ActivityTwo "); myIntentputExtra("Value2". "This value two ActivityTwo"); | myIntent is explicit Intent
 Android MapActivity is | Base class with code to manage the boring necessities of any activity that displays a MapView
 Which statements are correct about Category? | All of above
@@ -3837,3 +3837,4 @@ Choose whether the statement is true or false Does PhoneGap support iOS, Android
 PhoneGap uses HTML5, CSS, and __________ to write and deploy application. | JavaScript
 Can PhoneGap work with Contacts data of mobile device? | true
 Can PhoneGap framework support for playing audio? | true
+abcde
