@@ -1,89 +1,86 @@
-1.	How to set data for a ListView? | Use function setListAdapter() & Use function addView()
-2.	Intent myIntent = new Intent(this. ActivityTwo.class); myIntentputExtra("Value1". "This value one for ActivityTwo "); myIntentputExtra("Value2". "This value two ActivityTwo"); | myIntent is explicit Intent
-3.	 Android MapActivity is | Base class with code to manage the boring necessities of any activity that displays a MapView
-4.	Which statements are correct about Category? | All of above
-5.	Name the three events you can override to save an activity’s state | onPause() , onSaveInstanceState() , and on RetainNonConfigurationInstance()
-6.	How do you specify the minimum version of Android rnew equired by your application? | You specify the minimum Android version required using the minSDKVersion attribute in the AndroidManifest.xml file
-7.	When contentProvider would be activated? | using ContentResolver
-8.	Android : Which class provides a general framework that allows you to save and retrieve persistent key-value pairs of primitive data types | SharedPreferences
-9.	There are five different methods to store persistent data . They are : Shared Preferences , Internal Storage , External Storage , Network and …? | SQLite Database
-10.	How do we get access to the preference? | Via getPreference() method
-11.	Name the method that enables you to obtain the path of the external storage of an Android | The method name is getExternalStorageDirectory()
-12.	What is the geocoding? | Geocoding converts a pair of location coordinates into an address
-13.	Android : Services run without a dedicated GUI, so they don’t execute in the main thread of the application’s process | False
-14.	Which Android File API to create a file? | getFile()
-15.	On Android SQLite: Where can we define tables, columns , views , triggers? | onCreate()
-16.	Which database is natively supported by android | SQLite
-17.	In Android, by default, SQLite database save data in | Internal storage
-18.	In auto-generated code of an Android app, what is R class? | Contains IDs of the project resources
-19.	There are two statements:Statement A: You should use AsyncTask, to do a long operation.Statement B : You should use Service to do a shorter operation.Which of them are correct? | Statement A is False, and Statement B is False
-20.	What is the name of Android class do we need to use to build up an JSON object? | JSONObject
-21.	The application must declare all its components in Manifest file | False
-22.	Android : Which attribute will be used in XML if the Java code needs a refrence to View? | android: id
-23.	Android : Which Layout adds each child View in a straight line, either vertically or horizontally and allows you to specify a “weight” for each child View that controls the relative size of each within the available space? | LinearLayout
-24.	The px unit corresponds to an actual pixel on screen | False
-25.	Android: Which statements are correct about Broadcast receivers ?   | All of above
-26.	How to display a Toast? | None of above
-27.	Which method is NOT a method of activity class? | onPlay()
-28.	Which is right xml-based way to load view layout | setContentView(R.layout.some_layout)
-29.	Four main components of an Android application are: Activities,Services,Broadcast Receivers and _ | Intents
-30.	What are the Direct subclasses of Activity? | ListActivity
-31.	How many main approaches to build GUI of Android app? | 2
-32.	What is android view group? | Layouts
-33.	Android: What is value on component’s attribute “layout_width” and “layout_height” to display the component big enough to enclose its content only? | wrap_content  
-34.	In Android, which class is used to makes http connection | HttpURLConnection
-35.	What is Toast class? | The Toast class is used to display notifications on the device’s status bar and disappears after a few seconds
-36.	How to call an AJAX request in Sencha Touch? | Use Ext.Ajax.request()
-37.	Why is the AbsoluteLayout not recommended for use | using the AbsoluteLayout makes it quick for your application to have a consistent look and feel across devices
-38.	What is not true about the Android application lifecycle | Each activity of an app is run in its own process
-39.	How to instantiate a Spinner control? | All of above
-40.	Name the permissions you need to declare in your AndroidManifest.xml file for sending and receiving SMS message | The two permissions are SEND_PERMISSION and RECEIVE_PERMISSION
-41.	Android : Before the dialog is displayed, which callback methods will Android call? | onShowDialog(int)
-42.	Three main approaches to build GUI of Android app are Java-base, XML-base and …? | Hybrid
-43.	How many threads are there in AsyncTask in android? | Three
-44.	Is TextView read-only by default? | Yes
-45.	What is the method for monitoring a location? | The method is addProximityNotify().
-46.	Which one of four main components of an Android application that is corresponding with the following description: “They handle background processing associated with an application.” | Services
-47.	What is NOT correct about HTML5? | All browsers support for all new elements of HTML5
-48.	Android is licensed under which open source licensing license? | Apache/MIT
-49.	What is NOT correct about Ext.Viewport in Sencha Touch? | Can add items to it at any time, from anywhere in code
-50.	Which is Not a rule for Android single thread model? | Do manipulation of the UI from both UI thread and Worker thread to increase performance
-51.	How to set data for a Gallery control? | Define in XML file
-52.	Which of the following item(s) is/ are a correct layout in Android? | Relative Layout
-53.	What is NotificationManager class? | The NotificationManager class is used to display notifications on the device’s status bar
-54.	Which statement is NOT correct about Google Map Overlay? | Overlay is added to map automatically after instancing it
-55.	On android, a layout can contain other layout? | True
-56.	Is it valid if we perform asynchronous operation in the onReceive() method? | Yes
-57.	In HTML5, what is TRUE about localStorage? | It is never expired
-58.	How do you register a content provider in your AndroidManifest.xml file? | <provider android:name=”ProductsProvider” android:path=”fu.android.provider.Products” />
-59.	What is TRUE about sessionStorage? | It is slower than localStorage
-60.	Given the following JSON content:{“parent”:[{“child”:”Peter”}]}Assume that content of “parent” is stored in reader variable, and inside it has a child object named “child”.Which of the following statement we need to you to get this child object? | JSONObject childObj = reader.getJSONObject(“child”);
-61.	Does Sencha Touch provide access to the native Compass API when running on a device? | No
-62.	How to add a scroll view? | All of above
-63.	Intent mylntent = new Intent(IntentACTION_VIEW Uri.pars("http://www.google.com")); startActivity(myIntent): | myIntent is implicit Intent
-64.	Which of the following used to detect when a user clicks or taps on a button? | OnClickListener
-65.	There are two statements:Statement A : Using Shared Perferences, you can store private primitive data only.Statement B : Using External Storage option, you can store public data on the shared external storage.Which of them are correct? | Statement A is True, and Statement B is False
-66.	How to display a Toast? | Call .show() method
-67.	Android is based on which language? |   Java     
-68.	What will happen if you have two or more activities with the same INTENT FILTER action name | The Android OS will display a dialog from which users can choose which activity they want to use.
-69.	Does CSS support to detecting device size and orientation? | Yes
-70.	Do we need to register all of Controller in app.js with Sencha Touch? | No
-71.	Android: How to calling Sub-Activities for result data? | All of above
-72.	Which of the following is/are appropriate for saving the state of an Android application? | Activity.onPause()
-73.	Do we need to declare all of Controller in app.js with Sencha Touch? | Yes
-74.	Android: Is a dialog always created and displayed as a part of an Activity? | Yes
-75.	The first step when working with SQLite is to create a class that inherits from a helper class, what is it? | SQLiteDatabaseHelper class
-76.	How to create a Sencha Touch app? | Download app skeleton from Sencha Touch website
-77.	Android: Is the main thread called the UI thread? | Yes
-78.	Data type integrity is not maintained in SQLite, you can put a value of a certain data type in a column of another datatype (put string in an integer and vice versa)? | True
-79.	Which statements are NOT correct about Intent Filters? | If a component does not have any intent filters, it can receive only explicit intents 
-80.	In Sencha Touch, which of the following folder contains the Models, Views, Controllers, and Stores for your app | app
-81.	How does Android system manage activity’s life cycle | Via system activity stack
-82.	Which statement is NOT correct about Intents Action? | All of above
-83.	“Gingerbread” is nickname of | Android version 2.3.x
-
-                                                  
-
+How to set data for a ListView? | Use function setListAdapter() & Use function addView()
+Intent myIntent = new Intent(this. ActivityTwo.class); myIntentputExtra("Value1". "This value one for ActivityTwo "); myIntentputExtra("Value2". "This value two ActivityTwo"); | myIntent is explicit Intent
+Android MapActivity is | Base class with code to manage the boring necessities of any activity that displays a MapView
+Which statements are correct about Category? | All of above
+Name the three events you can override to save an activity’s state | onPause() , onSaveInstanceState() , and on RetainNonConfigurationInstance()
+How do you specify the minimum version of Android rnew equired by your application? | You specify the minimum Android version required using the minSDKVersion attribute in the AndroidManifest.xml file
+When contentProvider would be activated? | using ContentResolver
+Android : Which class provides a general framework that allows you to save and retrieve persistent key-value pairs of primitive data types | SharedPreferences
+There are five different methods to store persistent data . They are : Shared Preferences , Internal Storage , External Storage , Network and …? | SQLite Database
+How do we get access to the preference? | Via getPreference() method
+Name the method that enables you to obtain the path of the external storage of an Android | The method name is getExternalStorageDirectory()
+What is the geocoding? | Geocoding converts a pair of location coordinates into an address
+Android : Services run without a dedicated GUI, so they don’t execute in the main thread of the application’s process | False
+Which Android File API to create a file? | getFile()
+On Android SQLite: Where can we define tables, columns , views , triggers? | onCreate()
+Which database is natively supported by android | SQLite
+In Android, by default, SQLite database save data in | Internal storage
+In auto-generated code of an Android app, what is R class? | Contains IDs of the project resources
+There are two statements:Statement A: You should use AsyncTask, to do a long operation.Statement B : You should use Service to do a shorter operation.Which of them are correct? | Statement A is False, and Statement B is False
+What is the name of Android class do we need to use to build up an JSON object? | JSONObject
+The application must declare all its components in Manifest file | False
+Android : Which attribute will be used in XML if the Java code needs a refrence to View? | android: id
+Android : Which Layout adds each child View in a straight line, either vertically or horizontally and allows you to specify a “weight” for each child View that controls the relative size of each within the available space? | LinearLayout
+The px unit corresponds to an actual pixel on screen | False
+Android: Which statements are correct about Broadcast receivers ?   | All of above
+How to display a Toast? | None of above
+Which method is NOT a method of activity class? | onPlay()
+Which is right xml-based way to load view layout | setContentView(R.layout.some_layout)
+Four main components of an Android application are: Activities,Services,Broadcast Receivers and _ | Intents
+What are the Direct subclasses of Activity? | ListActivity
+How many main approaches to build GUI of Android app? | 2
+What is android view group? | Layouts
+Android: What is value on component’s attribute “layout_width” and “layout_height” to display the component big enough to enclose its content only? | wrap_content  
+In Android, which class is used to makes http connection | HttpURLConnection
+What is Toast class? | The Toast class is used to display notifications on the device’s status bar and disappears after a few seconds
+How to call an AJAX request in Sencha Touch? | Use Ext.Ajax.request()
+Why is the AbsoluteLayout not recommended for use | using the AbsoluteLayout makes it quick for your application to have a consistent look and feel across devices
+What is not true about the Android application lifecycle | Each activity of an app is run in its own process
+How to instantiate a Spinner control? | All of above
+Name the permissions you need to declare in your AndroidManifest.xml file for sending and receiving SMS message | The two permissions are SEND_PERMISSION and RECEIVE_PERMISSION
+Android : Before the dialog is displayed, which callback methods will Android call? | onShowDialog(int)
+Three main approaches to build GUI of Android app are Java-base, XML-base and …? | Hybrid
+How many threads are there in AsyncTask in android? | Three
+Is TextView read-only by default? | Yes
+What is the method for monitoring a location? | The method is addProximityNotify().
+Which one of four main components of an Android application that is corresponding with the following description: “They handle background processing associated with an application.” | Services
+What is NOT correct about HTML5? | All browsers support for all new elements of HTML5
+Android is licensed under which open source licensing license? | Apache/MIT
+What is NOT correct about Ext.Viewport in Sencha Touch? | Can add items to it at any time, from anywhere in code
+Which is Not a rule for Android single thread model? | Do manipulation of the UI from both UI thread and Worker thread to increase performance
+How to set data for a Gallery control? | Define in XML file
+Which of the following item(s) is/ are a correct layout in Android? | Relative Layout
+What is NotificationManager class? | The NotificationManager class is used to display notifications on the device’s status bar
+Which statement is NOT correct about Google Map Overlay? | Overlay is added to map automatically after instancing it
+On android, a layout can contain other layout? | True
+Is it valid if we perform asynchronous operation in the onReceive() method? | Yes
+In HTML5, what is TRUE about localStorage? | It is never expired
+How do you register a content provider in your AndroidManifest.xml file? | <provider android:name=”ProductsProvider” android:path=”fu.android.provider.Products” />
+What is TRUE about sessionStorage? | It is slower than localStorage
+Given the following JSON content:{“parent”:[{“child”:”Peter”}]}Assume that content of “parent” is stored in reader variable, and inside it has a child object named “child”.Which of the following statement we need to you to get this child object? | JSONObject childObj = reader.getJSONObject(“child”);
+Does Sencha Touch provide access to the native Compass API when running on a device? | No
+How to add a scroll view? | All of above
+Intent mylntent = new Intent(IntentACTION_VIEW Uri.pars("http://www.google.com")); startActivity(myIntent): | myIntent is implicit Intent
+Which of the following used to detect when a user clicks or taps on a button? | OnClickListener
+There are two statements:Statement A : Using Shared Perferences, you can store private primitive data only.Statement B : Using External Storage option, you can store public data on the shared external storage.Which of them are correct? | Statement A is True, and Statement B is False
+How to display a Toast? | Call .show() method
+Android is based on which language? |   Java     
+What will happen if you have two or more activities with the same INTENT FILTER action name | The Android OS will display a dialog from which users can choose which activity they want to use.
+Does CSS support to detecting device size and orientation? | Yes
+Do we need to register all of Controller in app.js with Sencha Touch? | No
+Android: How to calling Sub-Activities for result data? | All of above
+Which of the following is/are appropriate for saving the state of an Android application? | Activity.onPause()
+Do we need to declare all of Controller in app.js with Sencha Touch? | Yes
+Android: Is a dialog always created and displayed as a part of an Activity? | Yes
+The first step when working with SQLite is to create a class that inherits from a helper class, what is it? | SQLiteDatabaseHelper class
+How to create a Sencha Touch app? | Download app skeleton from Sencha Touch website
+Android: Is the main thread called the UI thread? | Yes
+Data type integrity is not maintained in SQLite, you can put a value of a certain data type in a column of another datatype (put string in an integer and vice versa)? | True
+Which statements are NOT correct about Intent Filters? | If a component does not have any intent filters, it can receive only explicit intents 
+In Sencha Touch, which of the following folder contains the Models, Views, Controllers, and Stores for your app | app
+How does Android system manage activity’s life cycle | Via system activity stack
+Which statement is NOT correct about Intents Action? | All of above
+“Gingerbread” is nickname of | Android version 2.3.x
 Zbmgr tool is used to  | all of the above
 foreground service  | both a & c
 A1,A2,A3 and A4 are activities called using intents.Then A1-A4-A2--A3.A4 calls A2 with
@@ -193,12 +190,12 @@ How can  I check if an activity is already running before starting it? | NEW_TAS
 37. What is the android:versionCode attribute in the AndroidManifest.xml file? | The android:versionCode attribute is used to programmatically check if an application can be upgrade
 38. Which of the following used to detect when a user clicks or taps on a button? | OnClickListener
 39. What is contained within the manifest xml file? | The permissions the application requires Correct
-40. Android: What is value on component�s attribute �layout_width� and �layout_height� to display the component big enough to enclose its content only? | wrap_content
+40. Android: What is value on components attribute layout_width and layout_height to display the component big enough to enclose its content only? | wrap_content
 41. Android: Which attribute will be used in XML if the Java code needs a reference to View? | android:id
 42. How do you programmatically determine whether a RadioButton is checked? | You should check the isChecked() method
 43. What is contained within the Layout xml file? | Orientations and layouts that specify what the display looks like
-44. Which statement correctly changes the nameLabel TextView to Nguyen Van A? | nameLabel.setText(�Nguyen Van A�);
-45. What is NotificationManager class? | The NotificationManager class is used to display notifications on the device�s status bar
+44. Which statement correctly changes the nameLabel TextView to Nguyen Van A? | nameLabel.setText(Nguyen Van A);
+45. What is NotificationManager class? | The NotificationManager class is used to display notifications on the devices status bar
 46. Which dialog box can you use in you Android application? | AlertDialog
 47. On android, a layout can contain other layout? | True
 48. How to set data for a Spinner control? | Use method setAdapter()
@@ -219,7 +216,7 @@ How can  I check if an activity is already running before starting it? | NEW_TAS
 63. IntentFilters are typically defined via | Both of above
 64. Which Android File API to create a file? | openFileOutput()
 65. Does HTML5 native support for local storage? | True
-66. How to check if browser supports web storage? | Check if typeof(Storage) !== �undefined�
+66. How to check if browser supports web storage? | Check if typeof(Storage) !== undefined
 67. How to apply stylesheet with HTML element by id? | #id
 68. How to get the form data in Sencha Touch? | getFormInstance().getValues();
 69. Which permission needed in order to use MapActivity? | <uses-permission android:name="android.permission.INTERNET" />
@@ -393,18 +390,18 @@ Which of the following methods is used to return a View from a layout file given
 What is the android:versionCode attribute in the AndroidManifest.xml file?  | The android:versionCode attribute is used to programmatically check if an application can be upgrade
 Which of the following used to detect when a user clicks or taps on a button?  |  OnClickListene
 What is contained within the manifest xml file? |  The permissions the application requires
-Android: What is value on component�s attribute �layout_width� and �layout_height� to display the component big enough to enclose its content only? | wrap_content
+Android: What is value on components attribute layout_width and layout_height to display the component big enough to enclose its content only? | wrap_content
 Android: Which attribute will be used in XML if the Java code needs a reference to View? | android:id
 How do you programmatically determine whether a RadioButton is checked? | You should check the isChecked() method
 What is contained within the Layout xml file?  | Orientations and layouts that specify what the display looks like
 Which statement correctly changes the nameLabel TextView to Nguyen Van A?  | nameLabel.setText("Nguyen Van A") |
-What is NotificationManager class? |   The NotificationManager class is used to display notifications on the device�s status bar
+What is NotificationManager class? |   The NotificationManager class is used to display notifications on the devices status bar
 Which dialog box can you use in you Android application? AlertDialog
 On android, a layout can contain other layout? |  true
 How to set data for a Spinner control?  | Use method setAdapter()
 Which of the following are UI elements that you can use in a window in an Android application? |  TextView
 In auto-generated code of an Android app, what is R class?  | Contains IDs of the project resources
-How does Android system manage activity�s life cycle |  Via system activity stack Correct
+How does Android system manage activitys life cycle |  Via system activity stack Correct
 What statement is NOT correct about Canvas? | none of
 What is the correct HTML5 element for playing video files? | video
 Does CSS support to detecting device size and orientation? | true
@@ -419,7 +416,7 @@ In HTML5, onblur and onfocus are: | Event attribute
 IntentFilters are typically defined via | both of
 Which Android File API to create a file? | opentfileoutput()
 Does HTML5 native support for local storage? | true
-How to check if browser supports web storage?  | Check if typeof(Storage) !== �undefined�
+How to check if browser supports web storage?  | Check if typeof(Storage) !== undefined
 How to apply stylesheet with HTML element by id? | #id
 How to get the form data in Sencha Touch? | getFormInstance().getValues();
 Which permission needed in order to use MapActivity? |  <uses-permission android:name="android.permission.INTERNET" />
@@ -460,10 +457,10 @@ Intent myIntent = new Intent(Intent.ACTION_VIEW.Uri.pars(http://google.com)):
 startActivity(myIntent):   |  myIntent is implicit Intent
 In android intent. The activity can be embedded inside of another activity that hosts gadget is belonged to   |  CATEGORY_GADGET
 Android: where we can create tables and comlumns to them, create views or triggers ?                |  onCreate()
-�Gingerbread� is nickname of   |  Android version 2.3.x
+Gingerbread is nickname of   |  Android version 2.3.x
 By default, UI component made in the UI editor should have text defined in file ?   |  string.xml
 SQLite database save data in   |   internal storage
-How to set layout�s attribute programmatically in android ?   |  Use LayoutParams class
+How to set layouts attribute programmatically in android ?   |  Use LayoutParams class
 Does CSS support to detecting device size and orientation ?   |  YES
 What is base of all sencha touch component ?   |   Ext.Component
 Which method to display a dialoge ?   | show()
@@ -485,7 +482,7 @@ How many main approaches to build GUI of Android app?  |   1
 Android UI is threadsafe   |   True
 Do we need to register all of View classes in app.js with Sencha Touch   |  Yes
 Which class do we use for listening location update ?   |   LocationListener class
-How to make a TextView to be editable?   |  Either set attribute editable = �true� or Use EditText class instead of TextView class
+How to make a TextView to be editable?   |  Either set attribute editable = true or Use EditText class instead of TextView class
 What is NOT correct about Store in Sencha Touch ?   |   Load data via a proxy
 How to define a new Sencha Touch class ?   |  Use Ext.define()
 If the action is ACTION_CALL, what the data field would be ?   | URI with the number to call
@@ -495,13 +492,13 @@ What are location providers in Android ?   |  GPS & Wifi
 Android: when will onUpgrade() be invoked ?   |  All of above
 Android Async Task create new thread in background   |   true
 What is not true about the Android application lifecycle   |  Each activity of an apps is run in its own process
-Intent myintent = new Intent(this, ActivityTwo.class);   |  myIntent.putExtra(�Value1�, �This value one for ActivityTwo�)
+Intent myintent = new Intent(this, ActivityTwo.class);   |  myIntent.putExtra(Value1, This value one for ActivityTwo)
 Which of following is true?   |  myIntent is explicit intent
-Android: What is value on component�s attribute �layout_height� to display the component big enough to enclose its content only ?   |   wrap_content
+Android: What is value on components attribute layout_height to display the component big enough to enclose its content only ?   |   wrap_content
 What is true about localStorage ?   |  it is never expired
 How to listen to an event in Sencha Touch class ?   |  write event handler within listeners:{} body
 Which method to opena Http connection to an Uri?   |  url.openConnection()
-Which statement is Not correct about PhoneGap ?   |   it doesn�t support for Java phone
+Which statement is Not correct about PhoneGap ?   |   it doesnt support for Java phone
 Which are location provider in Android ?   |  LBS
 Android: which attribute will be used in XML if the Java code needs a reference to View ?            |  android: id
 How many css file can be included in a Sencha Touch project ?   |  many
@@ -1440,37 +1437,37 @@ Can PhoneGap framework support for playing audio | True1.	What is an intent obje
 97.	Which of the following is best choice for simple animations for your website? | A. JavaScript 
 98.	On android, a layout can contain other layout? | B. True
 99.	Which statement is correct about web storage? | D. It is key/value data
-100.	How to play a video in HTML5? | E. Only a & c 
-101.	What is NOT a new elements of input type in HTML5? | F. None of above
-102.	How many main approaches to build GUI of Android app? | E. 2 
-103.	Android UI is threadsafe | B. False
-104.	Do we need to register all of View classes in app.js with Sencha Touch? | A. No 
-105.	Which class do we use for listening location update? | B. LocationManager class 
-106.	How to make a TextView to be editable? | B. Either set its attribute editable ='true' or Use EditText class instead of TextView class 
-107.	What is NOT correct about Store in Sencha Touch? | B. Load data via a Proxy 
-108.	How to define a new Sencha Touch class? | A. Use Extdefine()
-109.	If the action is ACTION_CALL. what the data field would be? | A. URI with the number to call 
-110.	Android MapActivity is | D. Base class with code to manage the boring necessities of any activity that displays a MapView
-111.	There are five different methods to store persistent data. They are: Shared Preferences. Internal Storage. External Storage. Network and __? | B. SQLite Database
-112.	What are location providers in Android? | A. GPS & Network 
-113.	Android: When will onUpgrade() be invoked? | D. All of above 
-114.	Android AsyncTask create new thread in background | True 
-115.	What is not true about the Android application lifecycle | D. Each activity of an app is run in its own process 
-116.	Intent myIntent = new Intent(this. ActivityTwo.class); | C. myIntent is explicit Intent 	
-117.	What is value on component's attribute layout_widtlf and layout_heighl to display the component big enough to | A. wrap_content 
-118.	What is TRUE about localStorage? | A. It is never expired 
-119.	How to listen to an event in Sencha Touch class? | A. Write event handler within listeners:{} body 
-120.	Which method to open a Hap connection to an Uri? | B. url.openConnection() 
-121.	Which statement is NOT correct about PhoneGap? | B. It doesn't support for Java phone 
-122.	Which are location providers in android | GPS
-123.	Which attribute will be used in XML if the Java code needs a reference to View? | B. android: id 
-124.	How many CSS files can be included in a Sencha Touch project? | Many
-125.	You must declare all application components in Manifest file in this way: | A. <provider> elements for content providers 
-126.	How to set position of a Sencha Touch component? | E. Only a & b
-127.	In class SQLiteOpenHelper class, there are 2 methods we should usually override. What are they? | A. onCreate() and onUpgrade()
-128.	Android: Is the main thread called the UI thread? | A Yes 
-129.	Android: Which statement does not correct about Activity? | D. None of above
-130.	Android: Which statement is NOT correct about Toasts?  | E. None of above   
+How to play a video in HTML5? | E. Only a & c 
+What is NOT a new elements of input type in HTML5? | F. None of above
+How many main approaches to build GUI of Android app? | E. 2 
+Android UI is threadsafe | B. False
+Do we need to register all of View classes in app.js with Sencha Touch? | A. No 
+Which class do we use for listening location update? | B. LocationManager class 
+How to make a TextView to be editable? | B. Either set its attribute editable ='true' or Use EditText class instead of TextView class 
+What is NOT correct about Store in Sencha Touch? | B. Load data via a Proxy 
+How to define a new Sencha Touch class? | A. Use Extdefine()
+If the action is ACTION_CALL. what the data field would be? | A. URI with the number to call 
+Android MapActivity is | D. Base class with code to manage the boring necessities of any activity that displays a MapView
+There are five different methods to store persistent data. They are: Shared Preferences. Internal Storage. External Storage. Network and __? | B. SQLite Database
+What are location providers in Android? | A. GPS & Network 
+Android: When will onUpgrade() be invoked? | D. All of above 
+Android AsyncTask create new thread in background | True 
+What is not true about the Android application lifecycle | D. Each activity of an app is run in its own process 
+Intent myIntent = new Intent(this. ActivityTwo.class); | C. myIntent is explicit Intent 	
+What is value on component's attribute layout_widtlf and layout_heighl to display the component big enough to | A. wrap_content 
+What is TRUE about localStorage? | A. It is never expired 
+How to listen to an event in Sencha Touch class? | A. Write event handler within listeners:{} body 
+Which method to open a Hap connection to an Uri? | B. url.openConnection() 
+Which statement is NOT correct about PhoneGap? | B. It doesn't support for Java phone 
+Which are location providers in android | GPS
+Which attribute will be used in XML if the Java code needs a reference to View? | B. android: id 
+How many CSS files can be included in a Sencha Touch project? | Many
+You must declare all application components in Manifest file in this way: | A. <provider> elements for content providers 
+How to set position of a Sencha Touch component? | E. Only a & b
+In class SQLiteOpenHelper class, there are 2 methods we should usually override. What are they? | A. onCreate() and onUpgrade()
+Android: Is the main thread called the UI thread? | A Yes 
+Android: Which statement does not correct about Activity? | D. None of above
+Android: Which statement is NOT correct about Toasts?  | E. None of above   
 What is an intent object? |  An Intent object is a bundle of information Correct
 Intents designate the target component by its name and they are typically used for application-internal messages.  | Explicit Intents Correct
 For writing Android code using C/C++, you need to use__________  |  NDK Correct
@@ -3840,5 +3837,3 @@ Choose whether the statement is true or false Does PhoneGap support iOS, Android
 PhoneGap uses HTML5, CSS, and __________ to write and deploy application. | JavaScript
 Can PhoneGap work with Contacts data of mobile device? | true
 Can PhoneGap framework support for playing audio? | true
-
-
