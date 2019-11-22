@@ -2312,3 +2312,106 @@ Windows were invented to overcome physical constraints of a computer display? | 
 is a process to attribute human qualities to objects. | Anthropomorphism
 What is NOT a design implication of "learning"? | Design interface that is have many new interesting items to learn
 Why do the designers evaluate their product? | All of above
+By interaction design, we mean designing (a) products to support the way people (b) in their everyday and working lives."Fill in the blank (a), (b) with: | interactive, communicate
+Choose the 4 basic activities in the process of interaction design in the list below: 1. Building interactive versions of the design 2. Making a design plan 3. Identifying needs and establishing requirements 4. Evaluating what is being built 5. Developing designs that meet requirements 6. Creating report about what has been built | 1, 3, 4, 5
+What "Constraints" refer to? | Determining ways of restricting the kinds of user interaction that can take place at a given moment.
+Fill in (a) in this sentence: "The more (a) the more likely users will be able to know what to do next." | Visibility
+"People will want to watch movies on their cell phones". This sentence is a/an ... | Assumption
+According to Johnson and Henderson, a conceptual model should comprise of 4 components, what are they? |  The major metaphors and analogies, the concepts, the relationships between concepts, the mappings
+What is the designer's model? |  The model the designer has of how the system should work
+What are the design implications of "memory"? | Do not overload users' memories with complicated procedures for carrying out tasks
+What are the design implications of "memory"? | Design interfaces that promote recognition rather than recall
+According to Norman's theory of action, there are 7 stages of an activity. What is NOT one of them? | None of the others
+"Using pen and paper to solve a math problem" is an example of | Computational offloading
+Quantitative data is data that is in the form of numbers, or that can easily be translated into numbers | True
+In describing a population, we conclude that the average person is 5 feet 11 inches tall, weighs 180 pounds, and is 45 years old. What analysis we have used? | Quantitative
+In describing a population, we conclude that the average person tall, thin, and middle-aged. What analysis we have used? | Quantitative
+What is NOT a data gathering method? | None of the others
+Audio recordings, notes, and video recordings are raw data of ... | A and C
+Match the name and definitions of coding categories according to Strauss and Corbin (1998): 1. Open coding 2. Axial coding 3. Selective coding A. This is the process of systematically fleshing out categories and relating them to their subcategories B. This is the process through which categories, their properties, and dimensions are discovered in the data. C. This is the process of refining and integrating categories to form a larger theoretical scheme. | 1 - B, 2 - A, 3 - C
+Qualitative data analysis may be framed by 3 theories. What are they? | Grounded theory
+Qualitative data analysis may be framed by 3 theories. What are they? | Activity theory
+Qualitative data analysis may be framed by 3 theories. What are they? | Distributed cognition
+Developers can gain a better understanding of users' goals, leading to a more appropriate, more usable product when we have who involving in the development process? | User
+According to Gould and Lewis (1985), there are 3 principles that they believed would lead to a "useful and easy to use computer system". What are they? | Easy focus on users and tasks
+According to Gould and Lewis (1985), there are 3 principles that they believed would lead to a "useful and easy to use computer system". What are they? | Empirical measurement
+According to Gould and Lewis (1985), there are 3 principles that they believed would lead to a "useful and easy to use computer system". What are they? | Iterative design
+Looking at others' designs provides useful inspiration and encourages designers to consider alternative design solutions, which is key to effective design. | True
+Usability criteria, technical feasibility, and users' feedback on prototypes should not be used to choose among alternatives. | False
+Although the focus of use - cases is specifically on the interaction between the user and a software system, the stress is still very much on the user's perspective, not the system's. | True
+Essential use - cases were developed to combat the limitations of both scenarios and use cases. | True
+What is not the benefit of prototypes? | Show customer every functions of software
+Match the name and definition of prototyping types: 1. Low-fidelity prototyping 2. High-fidelity prototyping 3. Evolutionary prototyping 4. Throw away prototyping A. Does not look very much like the final product B. Uses the prototypes as stepping stones towards the final design C. Uses materials that would be expected to be in the final product, look more like the final thing. D. Involving a prototype into the final product |  1 - A; 2 - C; 3 - D; 4 - B
+Prototyping may be low fidelity - such as (A), or high fidelity - such as (B). What to fill in (A) and (B), respectively? | Paper - based, software - based
+Choose the statements which are NOT correct in the following list: | Low - fidelity prototypes may be vertical or horizontal
+Choose the statements which are NOT correct in the following list: | High - fidelity prototypes are quick and easy to produce and modify and are used in the early stages of design
+At what stage in the product lifecycle evaluation takes place depends on the type of product. | True
+What are not evaluation approaches? | Design evaluation and Analytical testing and Usability studies
+Evaluation and design are very closely integrated in user - centered design. | True
+What are the main evaluation methods? | All of the others
+Dealing with constraints, such as gaining access to users or accommodating users' routines, is an important skill for designer to develop. | False
+Evaluation is a process for collecting information about users' or potential users' experiences when interacting with a prototype, computer system, or a design artifact, in order to improve its design. | True
+In order to evaluate the wide range of products currently being developed, evaluators must be creative. | TrueThe sequence of links on a web site are generally best evaluated in | Laboratory
+Without evaluation, designer cannot be sure that their design is usable by the target user population, and that it is what users want. | True
+What is an approach to evaluation that does not involve end - users? | Analytical evaluation
+What is a study that is done in a natural environment such as at home, as opposed to a study in a controlled setting such as a laboratory | Field studies
+What is an approach to evaluation in which knowledge of typical users is applied, often guided by heuristics, to identify usability problems? | Heuristic evaluation
+What is an approach to evaluation in which theoretically based models are used to predict user performance? | Predictive evaluation
+What is an evaluation that is done when the design is complete to assess whether it meets required standards? | Summative evaluation
+What is an evaluation that involves users directly, either in their natural environment, or in the laboratory? | User studies
+What is an evaluation that is performed to examine the usability of a design or system? | Usability study
+What is an evaluation approach to evaluation that involves measuring users' performance and evaluating their satisfaction with the system in question on certain task in a laboratory setting? | Usability testing
+DucPV
+Which of the following is Usability testing | Procedure planned
+In ethical aspect of evaluation, the participants do not have the right to | Use the result of the study
+Attention, perception and recognition are parts of? | Cognition
+"What kinds of interface support have been provide to help users remember how to carry out tasks. especially for products and operations they use infrequently?". Which usability goal is this question for? | Memorability
+What is the most popular expanding menu | Cascade menu
+ACM stands for ? | The Association for Computing Machinery
+High-fidelity prototype uses materials expected in ...? | Final product
+Wearable interface designed for more than one person to use? | False
+Amusing to the designer but not the user is? | Gimmicks
+Nintendo's Pocket Pikachu is designed to motivate children to be more physically active on a regular basis? | True
+Attention is process of...? | Selecting things to concentrate on
+Anthropomorphism is the attribution of human qualities to objects? | True
+Field study is one approach of ...? | Evaluation
+Choose the correct statement: | Essential use cases represent abstractions from scenarios and try to avoid the assumptions of an use case
+Which is the disadvantage of high-fidelity prototype? | More expensive to develop
+Yahoo Messenger chatting is an example of | Synchronous communication
+VBIC stands for | Virtual Business Information Center
+They are fundamental activities that are recognized in all design EXCEPT: | Preparing the requirements
+Example quantitative data of interviews is | All of the others
+Which can be thought as a "conversation with a purpose" | Interviews
+In usability testing. field observations may be used to | provide contextual understanding.
+Which is NOT coordinating mechanisms? | Overhearing and overseeing
+What is a conceptual model? | A high-level description of how a system is organized and operates
+Which is type of quantitative data analysis? | Percentage and average
+What is NOT objection to the use of metaphors in interaction design? | Too detail information
+Which can be designed to be compact and variably positioned on a screen? | Icon
+Babble at IBM is developed by? | David Smith
+Dealing with constraints, such as gaining access to users or accommodating users' routines, is an important skill for designer to develop. | False
+Brain-computer interfaces (BCI) provide a communication pathway between | A person's brain waves and an external device. such as a cursor on a screen
+What is a basic RAD lifecycle model of software development? | Project initiation, JAD workshops, Iterative design and build. Evaluate final system. Implementation review.
+... is performed in laboratory which is controlled by evaluator | Controlled experiment
+Functional requirements are used to describe what the product should do. | True
+GOMS has also been developed to provide a quantitative model - the keystroke level model | True
+Which is effectiveness | appropriate support? task coverage. information available
+In usability testing, user satisfaction is evaluated using | questionnaires interviews
+Most effective icons are similar ones | Similar ones
+How many types of interaction designer can have with a product/system? | 4
+Awareness not involved? | All of above
+In order to make goals operational, we must clearly articulate the questions to be answered by the evaluation study | False
+Which statement is incorrect about interaction types? | Instructing is a bad repetitive kinds of action performed on multiple object.
+Learnability refers to ... | how easy a system is to learn to use
+Which is the second key issues of data gathering | The relationship with participants
+What is the order of 4 key issues of data gathering? | Goals, Triangulation, Participant relationship, Pilot
+Which is NOT a kind of inspection technique? | Predictive models
+Which is not Shneiderman's guidelines for error messages include? | All of the others
+In which kind of data recording that more expensive, editing, mixing and analysis equipment needed. | None of the others
+Which one of design principle refers to have the same interfaces to the all tasks? | Consistency
+Which of the following advise us not to use irrelevant information | Aesthetic and minimalist design
+Which basic activity in Interaction Design is the process of determining the usability and acceptability of a product or a design? | Evaluating designs
+The techniques used may not be compatible with the goal of the study | False
+According to Strauss and Corbin (1998), how many aspects of "coding" in grounded theory? | 3
+What is meant by "usable products"? | All of the others
+Designing usable interactive products requires considering ... | 1,3,4
