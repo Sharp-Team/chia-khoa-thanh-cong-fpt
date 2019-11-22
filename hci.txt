@@ -2744,6 +2744,33 @@ Designing usable interactive products requires considering ... | 1,3,4
 The techniques used may not be compatible with the goal of the study | False
 Which basic activity in Interaction Design is the process of determining the usability and acceptability of a product or a design? | Evaluating designs
 According to Strauss and Corbin (1998), how many aspects of "coding" in grounded theory? | 3
+Which is not an example of low-fidelity prototype? | Prototyping with index cards
+In which kind of data recording that analysis criterion is "Critical discussions can be identified" | Audio plus camera
+Heuristics are based on common-sense knowledge and usability guidelines? | Yes
+Which of the following advise us to follow platform conventions | Consistency and standards
+Which is concerned with whether the evaluation method measures what it is intended to measure | Validity
+Only one evaluation approach is used in evaluation study? | No
+_____ is an approach to evaluation that does not involve end-users | Analytical evaluation
+_____ has traditionally been about designing efficient and effective systems? | HCI
+Performance requirements are used to describe what the product should do | False
+Environmental requirements are used to describe what the product should do. | False
+Why designer should not apply the George Miller's theory , theory of how much information people can remember, when designing the user interface? | People recognize things much better than being able to recall things.
+Which is the third activity of interaction design | Building interactive versions of the designs
+Initial processing steps of questionnaires is | Clean up data, Filter into different data sets
+Functionality is the goal of interaction design? | False
+Which is NOT the Bødker's roles that suggested for scenarios: | As a basis for the early design
+Who said "My goal was to design Wufoo to feel like something Fisher Price would make."? | Kevin Hale. Wufoo director.
+Which is NOT one of interface types in HCI: | End-User Interface
+Efficiency is the of usability goals? | True
+Card-base prototype can be generated from use case output from the requirement activity | True
+Which of the following advise us to speak the user language, with word, phrase and concepts similar to the users | Match between system and the real world
+Soaps are good to watch for observing non-verbal behavior as the actors often exaggerate their gestures and facial expressions to convey their emotion? | False
+Which is NOT a type of task descriptions? | None of above
+Usability engineering is software development lifecycle model? | False
+_____ is an evaluation that is done during design to check products meet requirement | Formative evaluation
+Which of following is TRUE: | Low-fidelity prototype is useful for identifying market requirements while High-fidelity prototype is not
+Which of the following is true about Nielsen's heuristics: | Recognition rather than recall
+What is interaction designed for more than one person to use? | Shareable interface
 Everything that has been learned through the iterated steps of prototyping and evaluation needn't be integrated to produce the final product. | FALSE
 Evolutionary prototyping involves evolving a prototype into the final product | TRUE
 Throwaway prototyping uses the prototypes as stepping stones towards the final design | TRUE
@@ -2773,13 +2800,13 @@ They are fundamental activities that are recognized in all design EXCEPT: | Prep
 Mobiles have become pervasive, decreasingly used in all aspects of every day and working life | False
 Sketching is not an example of low-fidelity prototype? | False
 What is an evaluation approach where users are asked to perform certain tasks using a system or prototype in an informal or laboratory setting? | User testing
- Which is not Shneiderman's guidelines for error messages include? | All of the others
- Which statement is not a one of benefits of conceptualizing a design in general terms early on in the design process encourages design teams: | To become narrowly focused early on
- Deceptive, make people feel anxious, inferior or stupid? | TRUE
- Select the first step of design phase in Interaction Design | Developing conceptual model
- Reduced work load memory is NOT a design implication for supporting user's memory? | False
- Which is TRUE about Physical design: | All of above
- A scenario is an "formal narrative descriptions" | False
+Which is not Shneiderman's guidelines for error messages include? | All of the others
+Which statement is not a one of benefits of conceptualizing a design in general terms early on in the design process encourages design teams: | To become narrowly focused early on
+Deceptive, make people feel anxious, inferior or stupid? | TRUE
+Select the first step of design phase in Interaction Design | Developing conceptual model
+Reduced work load memory is NOT a design implication for supporting user's memory? | False
+Which is TRUE about Physical design: | All of above
+A scenario is an "formal narrative descriptions" | False
 Arrange the steps of interaction design in the same order: 1: Developing design 2: Evaluating 3: Building interactive design 4: Identify needs | 4.1.3.2
 triangulation in data gathering is only one method for data recording, such as: notes, audios, videos, | False
 Decision about conceptual design should be made ... commencing any physical design? | Before
@@ -2787,16 +2814,15 @@ A fundamental aspect of everyday life is being social - talking to one other? | 
 What are the main evaluation methods? | All of the others
 Select the technique, which is used mainly to investigate an existing situation, not to envision new products | Task analysis
 Which is not emotion in Yahoo Messenger? | ==))))))
- "What is the range of errors that are possible using the product and what measures are there to permit users to recovery easily from them?". Which usability goal is this question for? |  Safety
- Being good at displaying a small number of options at the same time and where the size of the display is small, e.g. iPods is one factors of? | Flat menus
- The current speaker chooses the next speaker by asking an opinion, question, or request is not one of rules of Sacks et al? |  True
- Which is middle value of data when ranked | Median
- Which of the following is type of data of usability test | All of the others
- Select incorrect statement | Closed-questions result is mainly qualitative data
- What does multi-touch support |  swiping
- The next step of exploring the questions is: | Choose the evaluation approach and methods
- Which of the following is not usability test type of data | Document file
- Designing usable interactive products requires considering ... 1.Who is going to be using them 2. What they are going to be used 3.How they are going to be used 4.Where they are going to be used | 1.3.4
- The interface should accommodate both novice and experienced users by using: | shortcut
- Evaluation is needed in | Checking users can use and like product or not
- 
+"What is the range of errors that are possible using the product and what measures are there to permit users to recovery easily from them?". Which usability goal is this question for? |  Safety
+Being good at displaying a small number of options at the same time and where the size of the display is small, e.g. iPods is one factors of? | Flat menus
+The current speaker chooses the next speaker by asking an opinion, question, or request is not one of rules of Sacks et al? |  True
+Which is middle value of data when ranked | Median
+Which of the following is type of data of usability test | All of the others
+Select incorrect statement | Closed-questions result is mainly qualitative data
+What does multi-touch support |  swiping
+The next step of exploring the questions is: | Choose the evaluation approach and methods
+Which of the following is not usability test type of data | Document file
+Designing usable interactive products requires considering ... 1.Who is going to be using them 2. What they are going to be used 3.How they are going to be used 4.Where they are going to be used | 1.3.4
+The interface should accommodate both novice and experienced users by using: | shortcut
+Evaluation is needed in | Checking users can use and like product or not
