@@ -2714,3 +2714,59 @@ Designing usable interactive products requires considering ... | 1,3,4
 The techniques used may not be compatible with the goal of the study | False
 Which basic activity in Interaction Design is the process of determining the usability and acceptability of a product or a design? | Evaluating designs
 According to Strauss and Corbin (1998), how many aspects of "coding" in grounded theory? | 3
+Everything that has been learned through the iterated steps of prototyping and evaluation needn't be integrated to produce the final product. | FALSE
+Evolutionary prototyping involves evolving a prototype into the final product | TRUE
+Throwaway prototyping uses the prototypes as stepping stones towards the final design | TRUE
+If an evolutionary prototyping approach is to be taken, the prototypes should be subjected to rigorous testing along the way. | TRUE
+Prototype are used for expressing proposed or imagined situations to help in conceptual design | FALSE
+FATAL, ERROR, INVALID are the guideline for designing good error message ? | False
+How many cognitive frameworks? | 5
+Which of following is FALSE: | Everything that has been learned through the iterated steps of prototyping and evaluation needn't be integrated to produce the final product.
+Which of following is FALSE: | Prototype are used for expressing proposed or imagined situations to help in conceptual design
+Memorability refers to | how easy a product is to remember how to use, once learned.
+In usability testing, user satisfaction is evaluated using | questionnaires & interviews
+What is not the questions in order to determine the goals | When we do it?
+Which of the following is Experiments for research | Results validated statistically
+Asking user, observing user, inspection method are.? | Investigating systems
+Usability testing is | Measuring typical users' performance on typical tasks
+Which is wrong. Expectation management is | Have surprises, have disappointments
+When working with the DECIDE framework, it is common to: | Moving backwards and forwards between items
+What's the field of usability engineering lifecycle? | Human Computer Interaction
+The system should keep the user informed about what is taking place by using | feedback
+Which offering lists of options that could be scrolled through and selected? | Menus
+In which kind of data recording that flexibility of use is needs positioning and focusing camera lens, obtrusive | Video
+Conversation can take a variety of forms | True
+One of similar ways of becoming aware and keeping aware take place in other contexts? | School
+Task analysis is an umbrella term that covers techniques for investigating cognitive processes and physical actions, at a high level of abstraction and in minute detail. | TRUE
+Which of IRB form asks "Are there any risk to the subject? | Risks and Benefits
+They are fundamental activities that are recognized in all design EXCEPT: | Preparing the requirements
+Mobiles have become pervasive, decreasingly used in all aspects of every day and working life | False
+Sketching is not an example of low-fidelity prototype? | False
+What is an evaluation approach where users are asked to perform certain tasks using a system or prototype in an informal or laboratory setting? | User testing
+ Which is not Shneiderman's guidelines for error messages include? | All of the others
+ Which statement is not a one of benefits of conceptualizing a design in general terms early on in the design process encourages design teams: | To become narrowly focused early on
+ Deceptive, make people feel anxious, inferior or stupid? | TRUE
+ Select the first step of design phase in Interaction Design | Developing conceptual model
+ Reduced work load memory is NOT a design implication for supporting user's memory? | False
+ Which is TRUE about Physical design: | All of above
+ A scenario is an "formal narrative descriptions" | False
+Arrange the steps of interaction design in the same order: 1: Developing design 2: Evaluating 3: Building interactive design 4: Identify needs | 4.1.3.2
+triangulation in data gathering is only one method for data recording, such as: notes, audios, videos, | False
+Decision about conceptual design should be made ... commencing any physical design? | Before
+A fundamental aspect of everyday life is being social - talking to one other? | True
+What are the main evaluation methods? | All of the others
+Select the technique, which is used mainly to investigate an existing situation, not to envision new products | Task analysis
+Which is not emotion in Yahoo Messenger? | ==))))))
+ "What is the range of errors that are possible using the product and what measures are there to permit users to recovery easily from them?". Which usability goal is this question for? |  Safety
+ Being good at displaying a small number of options at the same time and where the size of the display is small, e.g. iPods is one factors of? | Flat menus
+ The current speaker chooses the next speaker by asking an opinion, question, or request is not one of rules of Sacks et al? |  True
+ Which is middle value of data when ranked | Median
+ Which of the following is type of data of usability test | All of the others
+ Select incorrect statement | Closed-questions result is mainly qualitative data
+ What does multi-touch support |  swiping
+ The next step of exploring the questions is: | Choose the evaluation approach and methods
+ Which of the following is not usability test type of data | Document file
+ Designing usable interactive products requires considering ... 1.Who is going to be using them 2. What they are going to be used 3.How they are going to be used 4.Where they are going to be used | 1.3.4
+ The interface should accommodate both novice and experienced users by using: | shortcut
+ Evaluation is needed in | Checking users can use and like product or not
+ 
