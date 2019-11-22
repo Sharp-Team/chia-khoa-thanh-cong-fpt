@@ -1,4 +1,34 @@
-﻿How to set data for a ListView? | Use function setListAdapter() & Use function addView()
+﻿The difference between SQLite and Content provider is: | Content provider can share data with other application but SQLite cannot.
+A call to the _________ method of the ActivityCompat class will return a true result if the user has previously denied a request for the specified permission, and a false result if the request has not previously been made. | shouldShowRequestPermissionRationale()
+Android Storage Access Framework can only work with local storage. | False
+Which element use to define a permission in Android? | uses-permission
+Which type of Google map display the standard view consisting of the classic road map? | GoogleMap.MAP_TYPE_NORMAL
+To check a feature is available on system as camera or micro phone, we can use which method? | PackageManager.hasSystemFeature()
+On android services, onStart() and onBind() are the same? | False
+Which method perform a single SQL statement that does NOT return result data. | execSQL()
+Do we need API key for displaying Google Maps in Android? | Yes
+How many type of Android service do we have? | 2
+Android: What is value on component’s attribute “layout_width” and “layout_height“ to display the component big enough to enclose its content only? | wrap_content
+Which of following statement is true? | When an activity start sub-activity, the sub-activity can send data back by finish() method and activity can get data by onActivityResult() method
+To access through the result of database query, we can use class: | Cursor
+Which one is NOT a multi-windows mode? | Separate mode
+Which method use to check permission is granted by user or not? |  checkSelfPermission()
+Android: Which attribute will be used in XML if the Java code needs a reference to View? | android: id
+Which file contain Android permissions for and application? | AndroidManifest.xml
+Use of the video capture intent involves to implementation of code to call the intent activity and a method to handle the return from the activity. The Android built-in video recording intent is represented by | MediaStore.ACTION_VIDEO_CAPTURE
+Which class use to display the Storage Access Framework picker user interface to the user and let user open or create a file? | Intent
+Which class use to play audio in Android? | MediaPlayer
+Choose the right answer to fill in blank To develop your own service in Android, which of the following step you need to do? |  implements onStartCommand, onBind, onUnbind, onRebind, onCreate, onDestroy methods
+If you have embedded the Google Maps API into your Android application but it does not show the map when the application is loaded, what could be the likely reasons? | All of others
+Android: How do we execute Queries? | rawQuery()/query()
+The ____________ class provide a set of controls allowing the user to manage the playback such as pausing and seeking backwards/forwards in the video timeline. | MediaController
+Which method is NOT an override method of class ContentProvider? | select()
+Which multi-windows mode make two activities appear either side by side or one above the other. | Split-screen mode
+To share data for other application, the other application must be using ________ to access data from content provider. | Content Uri
+Which class must be implement to using SQLite database? | SQLiteOpenHelper
+Which class use enable or disable user gesture like zoom in, zoom out, rotate map and scroll on Google map? | UiSettings
+In class SQLiteOpenHelper class, there are 2 methods we should usually override. What are they? | onCreate() and onUpgrade()
+How to set data for a ListView? | Use function setListAdapter() & Use function addView()
 Intent myIntent = new Intent(this. ActivityTwo.class); myIntentputExtra("Value1". "This value one for ActivityTwo "); myIntentputExtra("Value2". "This value two ActivityTwo"); | myIntent is explicit Intent
 Android MapActivity is | Base class with code to manage the boring necessities of any activity that displays a MapView
 Which statements are correct about Category? | All of above
