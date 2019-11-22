@@ -2268,3 +2268,100 @@ Windows were invented to overcome physical constraints of a computer display? | 
 is a process to attribute human qualities to objects. | Anthropomorphism
 What is NOT a design implication of "learning"? | Design interface that is have many new interesting items to learn
 Why do the designers evaluate their product? | All of above
+Which of following is FALSE: Everything that has been learned through the iterated steps of prototyping and evaluation needn't be integrated to produce the final product. | Everything that has been learned through the iterated steps of prototyping and evaluation needn't be integrated to produce the final product.
+Which of following is FALSE: C. Prototype are used for expressing proposed or imagined situations to help in conceptual design | Prototype are used for expressing proposed or imagined situations to help in conceptual design
+How many cognitive fameworks: | 5
+Memorability refers to | how easy a product is to remember how to use, once learned.
+In usability testing, user satisfaction is evaluated using | questionnaires interviews
+Which of the following is Experiments for research | Results validated statistically
+What is not the questions in order to determine the goals | When we do it?
+FATAL. ERROR . INVALID are the guideline for designing good error message ? | False
+Asking user. observing user. inspection method are_.? | Main evaluation methods
+Usability testing is._? | Measuring typical users' performance on typical tasks
+Which is wrong Expectation management is | Have surprises. have disappointments
+When working with the DECIDE framework. it is common to: | Moving backwards and forwards between items
+What's the field of usability engineering lifecycle? | Human Computer Interaction
+The system should keep the user informed about what is taking place by using: | feedback
+Which basic activity in Interaction Design is the process of determining the usability and acceptability of a product or a design? | Evaluating designs
+Which offering lists of options that could be scrolled through and selected? | Menus
+Which kind of user involvement consistent. but loose touch with the rest of user group? | Long term
+In which kind of data recording that flexibility of use is needs positioning and focusing camera lens. obtrusive | Video
+Conversation can take a variety of forms? | True
+One of similar ways of becoming aware and keeping aware take place in other contexts? | School
+Which of IRB form asks "Are there any risk to the subject ?" | Risks and Benefits
+Task analysis is an umbrella term that covers techniques for investigating cognitive processes and physical actions. at a high level of abstraction and in minute detail | True
+They are fundamental activities that are recognized in all design EXCEPT: | Preparing the requirements
+Mobiles have become pervasive. decreasingly used in all aspects of everyday and working life | True
+Sketching is not an example of low-fidelity prototype? | False
+What is an evaluation approach where users are asked to perform certain tasks using a system or prototype in an informal or laboratory setting? | user testing
+Which is not Shneiderman's guidelines for error massages include? | All of the others
+Which statement is not a one of benefits of conceptualizing a design in general terms early on in the design process encourages design teams: | To become narrowly focused early on
+Deceptive. make people feel anxious. inferior or stupid? | True
+Select the first step of design phase in Interaction Design | Developing conceptual model
+Reduced work load memory is NOT a design implication for supporting users memory? | False
+Which is TRUE about Physical design: | All of above
+A scenario is an "formal narrative descriptions" | False
+Arrange the steps of interaction design in the same order: | 4.1.3.2
+Triangulation in data gathering is only one method for data recording. such as: notes. audios. videos | False
+A fundamental aspect of everyday life is being social - talking to one other? | True
+What are the main evaluation methods? | All of the others
+Select the technique. which is used mainly to investigate an existing situation. not to envision new products | Task analysis
+'What is the range of errors that are possible using the product and what measures are there to permit users to recovery easily from them?". Which usability goal is this question for? | Safety
+Being good at displaying a small number of options at the same time and where the size of the display is small. iPods one factors on | A number of menu interface styles
+Which is middle value of data when ranked | Median
+Select incorrect statement | Closed-questions result is mainly qualitative data 
+B Raw data from questionnaires consists of the respondents' answers
+Which of the following is type of data of usability test | All of the others
+What does multi-touch support | swiping
+The next step of exploring the questions is | Choose the evaluation approach and methods
+Which of the following is not usability test type of data | Document file
+Designing usable interactive products requires considering | I.3.4
+The interface should accommodate both novice and experienced users by using: | shortcut
+Evaluation is needed in._? | Checking users can use and like product or not
+Which of the following is Usability testing | Procedure planned
+In ethical aspect of evaluation, the participants do not have the right to | Use the result of the study
+"What kinds of interface support have been provide to help users remember how to carry out tasks. especially for products and operations they use infrequently?". Which usability goal is this question for? | Memorability
+What is the most popular expanding menu | Cascade menu
+ACM stands for ? | The Association for Computing Machinery
+High-fidelity prototype uses materials expected in ...? | Final product
+Amusing to the designer but not the user is? | Gimmicks
+Wearable interface designed for more than one person to use? | False
+Nintendo's Pocket Pikachu is designed to motivate children to be more physically active on a regular basis? | True
+Attention is process of...? | Selecting things to concentrate on
+Anthropomorphism is the attribution of human qualities to objects? | True
+Field study is one approach of ...? | Evaluation
+Choose the correct statement: | Essential use cases represent abstractions from scenarios and try to avoid the assumptions of an use case
+Which is the disadvantage of high-fidelity prototype? | More expensive to develop
+Yahoo Messenger chatting is an example of | Synchronous communication
+VBIC stands for | Virtual Business Information Center
+They are fundamental activities that are recognized in all design EXCEPT: | Preparing the requirements
+Example quantitative data of interviews is | All of the others
+In usability testing. field observations may be used to | provide contextual understanding.
+Which is NOT coordinating mechanisms? | Overhearing and overseeing
+Which is type of quantitative data analysis? | Percentage and average
+Which can be designed to be compact and variably positioned on a screen? | Icon
+Babble at IBM is developed by? | David Smith
+Dealing with constraints, such as gaining access to users or accommodating users' routines, is an important skill for designer to develop. | False
+Brain-computer interfaces (BCI) provide a communication pathway between | A person's brain waves and an external device. such as a cursor on a screen
+What is a basic RAD lifecycle model of software development? | Project initiation, JAD workshops, Iterative design and build. Evaluate final system. Implementation review.
+... is performed in laboratory which is controlled by evaluator | Controlled experiment
+Functional requirements are used to describe what the product should do. | True
+GOMS has also been developed to provide a quantitative model - the keystroke level model | True
+Which is effectiveness | appropriate support? task coverage. information available
+In usability testing, user satisfaction is evaluated using | questionnaires interviews
+Most effective icons are similar ones | Similar ones
+How many types of interaction designer can have with a product/system? | 4
+Awareness not involved? | All of above
+In order to make goals operational, we must clearly articulate the questions to be answered by the evaluation study | False
+Which statement is incorrect about interaction types? | Instructing is a bad repetitive kinds of action performed on multiple object.
+Learnability refers to ... | how easy a system is to learn to use
+What is the order of 4 key issues of data gathering | Goals, Triangulation, Participant relationship, Pilot
+Which is the second key issues of data gathering | Triangulation
+Which is NOT a kind of inspection technique? | Predictive models
+Which is not Shneiderman's guidelines for error messages include? | All of the others
+In which kind of data recording that more expensive, editing, mixing and analysis equipment needed. | None of the others
+Which one of design principle refers to have the same interfaces to the all tasks? | Consistency
+Which of the following advise us not to use irrelevant information | Aesthetic and minimalist design
+The techniques used may not be compatible with the goal of the study | False
+Which basic activity in Interaction Design is the process of determining the usability and acceptability of a product or a design? | Evaluating designs
+According to Strauss and Corbin (1998), how many aspects of "coding" in grounded theory? | 3
