@@ -2476,4 +2476,30 @@ Designing usable interactive products requires considering ... | 1,3,4
 The techniques used may not be compatible with the goal of the study | False
 Which basic activity in Interaction Design is the process of determining the usability and acceptability of a product or a design? | Evaluating designs
 According to Strauss and Corbin (1998), how many aspects of "coding" in grounded theory? | 3
-
+Which is not an example of low-fidelity prototype? | Prototyping with index cards
+In which kind of data recording that analysis criterion is "Critical discussions can be identified" | Audio plus camera
+Heuristics are based on common-sense knowledge and usability guidelines? | Yes
+Which of the following advise us to follow platform conventions | Consistency and standards
+Which is concerned with whether the evaluation method measures what it is intended to measure | Validity
+Only one evaluation approach is used in evaluation study? | No
+_____ is an approach to evaluation that does not involve end-users | Analytical evaluation
+_____ has traditionally been about designing efficient and effective systems? | HCI
+Performance requirements are used to describe what the product should do | False
+Environmental requirements are used to describe what the product should do. | False
+Why designer should not apply the George Miller's theory , theory of how much information people can remember, when designing the user interface? | People recognize things much better than being able to recall things.
+Which is the third activity of interaction design | Building interactive versions of the designs
+Initial processing steps of questionnaires is | Clean up data, Filter into different data sets
+Functionality is the goal of interaction design? | False
+Which is NOT the Bødker's roles that suggested for scenarios: | As a basis for the early design
+Who said "My goal was to design Wufoo to feel like something Fisher Price would make."? | Kevin Hale. Wufoo director.
+Which is NOT one of interface types in HCI: | End-User Interface
+Efficiency is the of usability goals? | True
+Card-base prototype can be generated from use case output from the requirement activity | True
+Which of the following advise us to speak the user language, with word, phrase and concepts similar to the users | Match between system and the real world
+Soaps are good to watch for observing non-verbal behavior as the actors often exaggerate their gestures and facial expressions to convey their emotion? | False
+Which is NOT a type of task descriptions? | None of above
+Usability engineering is software development lifecycle model? | False
+_____ is an evaluation that is done during design to check products meet requirement | Formative evaluation
+Which of following is TRUE: | Low-fidelity prototype is useful for identifying market requirements while High-fidelity prototype is not
+Which of the following is true about Nielsen's heuristics: | Recognition rather than recall
+What is interaction designed for more than one person to use? | Shareable interface
