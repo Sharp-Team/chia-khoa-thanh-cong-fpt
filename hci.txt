@@ -2252,3 +2252,47 @@ Essential use cases are more detailed than use cases. | False
 What is the starting point of an HTA? | User goal.
 Each step in an HTA  has a corresponding plan. | False 
 Prototype is a limited representation of a design that allows users to interact with it and to explore its suitability | True	
+The interface should accommodate both novice and experienced users by using: | shortcut 
+What is an evaluation approach where users are asked to perform certain tasks using a system or prototype in an informal or laboratory setting? | User testing
+Arrange the steps of interaction design in the same order: 1. Developing design 2. Evaluating 3. Building interactive design 4. Identify needs | 4, 1, 3, 2
+Which provide another way of framing and informing design and research? | Theories, models, frameworks
+Mobiles have become pervasive, decreasingly used in all aspects of everyday and working life | False
+The current speaker chooses the next speaker by asking an opinion, question, or request is not one of rules of Sacks et al? | False 
+Which offering lists of options that could be scrolled through and selected? | Menus
+Select the first step of design phase in Interaction Design  | Developing conceptual model 
+Deceptive, make people feel anxious, inferior or stupid? | False
+When working with the DECIDE framework, it is common to | Moving backwards and forwards between items 
+Being good at displaying a small number of options at the same time and where the size of the display is small, e.g. iPods is one factors of? | A number of menu interface styles 
+Triangulation in data gathering is only one method for data recording, such as: notes, audios, videos.  | True 
+The system should keep the user informed about what is taking place by using: | feedback 
+Evaluation is needed in | Checking users can use and like product or not 
+Sketching is not an example of low-fidelity prototype? | False
+Which of following is FALSE | Prototype are used for expressing proposed or imagined situations to help in conceptual design
+Utility refers to | the extent to which the product provides the right kind of functionally so that users can do what they need or want to do
+Select the technique, which is used mainly to investigate an existing situation, not to envision new products | Task analysis
+A scenario is an "formal narrative descriptions" | False
+What's the field of usability engineering lifecycle? | Human Computer Interaction 
+A fundamental aspect of everyday life is being social - talking to one other? | True 
+Which is TRUE about Physical design: | All of above
+What does multi-touch support | All of the others
+In usability testing, user satisfaction is evaluated using | questionnaires & interviews 
+Which of following is FALSE: | Everything that has been learned through the iterated steps of prototyping and evaluation needn't be integrated to produce the final product. 
+The next step of exploring the questions is | Choose the evaluation approach and methods
+Conversation can take a variety of forms? |  True
+Which of the following is Experiments for research | Results validated statistically 
+What are the main evaluation methods? | All of the others
+Reduced work load memory is NOT a design implication for supporting user's memory? | False
+Which is not Shneiderman's guidelines for error messages include? | All of the others
+Which is middle value of data when ranked | Median
+Which of IRB form asks Are there any risk to the subject? | Risks and Benefits
+Which is wrong. Expectation management is  | Realistic expectations
+Asking user, observing user, inspection method are | Main evaluation methods 
+Which of the following is type of data of usability test | All of the others
+In which kind of data recording that flexibility of use is needs positioning and focusing camera lens, obtrusive | Video
+Which of the following is not usability test type of data | Document file
+Decision about conceptual design should be made ... commencing any physical design? | Before
+Usability testing is | Measuring typical users' performance on typical tasks
+One of similar ways of becoming aware and keeping aware take place in other contexts? | School
+Designing usable interactive products requires considering ... 1. Who is going to be using them 2. What they are going to be used 3. How they are going to be used 4. Where they are going to be used | 1,3,4 
+Select incorrect statement | Closed-questions result is mainly qualitative data
+What is not the questions in order to determine the goals | When we do it?
