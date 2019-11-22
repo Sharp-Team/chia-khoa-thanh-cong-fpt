@@ -3867,4 +3867,3 @@ Choose whether the statement is true or false Does PhoneGap support iOS, Android
 PhoneGap uses HTML5, CSS, and __________ to write and deploy application. | JavaScript
 Can PhoneGap work with Contacts data of mobile device? | true
 Can PhoneGap framework support for playing audio? | true
-abcde
