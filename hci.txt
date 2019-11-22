@@ -2252,3 +2252,19 @@ Essential use cases are more detailed than use cases. | False
 What is the starting point of an HTA? | User goal.
 Each step in an HTA  has a corresponding plan. | False 
 Prototype is a limited representation of a design that allows users to interact with it and to explore its suitability | True	
+In usability testing, field observations may be used to | provide contextual understanding.
+Involving users in the design process helps with expectation management and feelings of ownership, but how and when to in | True
+Why should we build prototypes in design process? | All of above
+Which can be thought as a "conversation with a purpose" | Interviews
+Which is emergent from data, dependent on observation framework if used | Recurring patterns or themes
+The term 'affordance' refers to the relationship between the actor (for our purposes the user) and the world signifying possibility for action | TRUE
+Which is NOT an example of asynchronous computer-mediated communication ? | All of above
+Nielsen's heuristics: match between system and | real world
+What is a study that is performed in a laboratory which is controlled by the evaluator? | Controlled experiment
+Experiments test hypotheses to discover new knowledge by investigating the relationship between things | Two or more things
+How many basic rules Sacks et al. (1978) work on conversation analysis describe? | 3
+Xerox Star first WIMP and rise to______? | GUI
+Windows were invented to overcome physical constraints of a computer display? | TRUE
+is a process to attribute human qualities to objects. | Anthropomorphism
+What is NOT a design implication of "learning"? | Design interface that is have many new interesting items to learn
+Why do the designers evaluate their product? | All of above
