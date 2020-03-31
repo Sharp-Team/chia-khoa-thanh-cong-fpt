@@ -1,0 +1,57 @@
+The process of using sample statistics to draw conclusions about true population parameters is called | statistical inference
+Which of the following is a continuous quantitative variable?|The amount of milk produced by a cow in one 24-hour period
+A T.V. show’s executives raised the fee for commercials following a report that the show received a “ No.1” rating in a survey of viewers. What type of the description is?|Observation study
+A bag of colored candies contains 20 red, 25 yellow, 15 blue and 20 orange candies. An experiment consists of randomly choosing one candy from the bag and recording its color. What is the sample space for this experiment?|{red, yellow, blue, orange}
+Sixty-five percent of men consider themselves knowledgeable football fans. If 15 men are randomly selected, find the probability that exactly five of them will consider themselves knowledgeable fans.|0.0096
+A family is selected at random. Find the probability that the size of the family is more than 4. Round your result to three decimal places.| 0.169
+The following table shows the political affiliation of voters in one city and their positions on stronger gun control laws. What is the probability that a Democrat opposes stronger gun control laws?| 0.314
+Mr. Ômô figures that there is a 65% chance that his university will set up a branch office in Lao Cai. If it does, he is 90% certain that she will be made director of this new branch. What is the probability that Ômô will be a Lao Cai branch office director?|0.585
+Assume that P(C) = 0.5 and P(D) = 0.3. If C and D are independent, find P(C and D).|0.15
+It was found that 60% of the workers were white, 30% were black and 10% are other races. Given that a worker was white, the probability that the worker had claimed bias was 30%. Given that a worker was black, the probability that the worker had claimed bias was 40%. Given that a worker was other race, the probability that the worker had claimed bias was 0%|0.4
+The on-line access computer service industry is growing at an extraordinary rate. Current estimates suggest that 10% of people with home-based computers have access to on-line services. Suppose that 8 people with home-based computers were randomly and independently sampled. What is the probability that at least 1 of those sampled have access to on-line services at home?|6.30
+The number of weeds that remain living after a specific chemical has been applied averages 1.21 per square yard and follows a Poisson distribution. Based on this, what is the probability that a 1 square yard section will contain less than 5 weeds?|0.9920
+Suppose that X is a continuous random variable whose probability density function is given by f(x)=C(4x-2x^2),0<x<2 and f(x)=0 for other values of x. What is the value of C?|0.375
+Suppose X is a uniform random variable over the interval [40, 50]. Find the probability that a randomly selected observation exceeds 43.|0.7
+A bank's loan officer rates applicants for credit. The ratings are normally distributed with a mean of 350 and a standard deviation of 50. If an applicant is randomly selected, find the probability of a rating that is between 310 and 295.|0.0762
+If X is a normal random variable with µ = 50 and s = 6, then the probability that X is not between 44 and 56 is|0.3174.
+Assume that X is normally distributed with a mean of 23 and a standard deviation of 5. Find the value of c if P(X > c) = 0.0592.|30.81
+Suppose that the random variable X has an exponential distribution with ? = 1.5. Find the mean and standard deviation of X.|Mean = 0.67; Standard deviation = 0.67
+A nurse measured the blood pressure of each person who visited her clinic. Following is a relative-frequence histogram for the systolic blood pressure readings for those people aged between 25 and 40. The blood pressure reading were given to the nearest whole number. Approximately what percentage of the people aged 25-40 had a systolic blood pressure reading between 110 and 119 inclusive?|35%
+A random sample of 42 students has a mean annual earnings of $1200 and a population standard deviation of $230. Construct a 95% confidence interval for the population mean, µ.|($1130, $1270)
+Construct a 95% confidence interval for the population mean, µ. Assume the population has a normal distribution. A sample of 28 randomly selected students has a mean test score of 82.5 with a standard deviation of 9.2.|(78.93, 86.07)
+The waiting times (in minutes) of customers at the TienPhong Bank, where customers enter a single waiting line that feeds three teller windows, are normally distributed. A random sample of 6 has mean of 7.07 and standard deviation of 0.53.Construct a 94% upper confidence bound for the population standard deviation|1.06
+A random sample of 60 suspension helmets used by motorcycle riders and automobile race-car drivers was subjected to an impact test, and on 15 of these helmets some damage was observed. Find a 95% two-sided confidence interval on the true proportion of helmets of this type that would show damage from this test.|(0.14, 0.36)
+The Hilbert Drug Store owner plans to survey a random sample of his customers with the objective of estimating the mean dollars spent on pharmaceutical products during the past three months. He has assumed that the population standard deviation is known to be $14.50. Given this information, what would be the required sample size if we want the total width of the two-side confidence interval on mean to be $4 at 95 percent confidence?|202
+A regional hardware chain is interested in estimating the proportion of their customers who own their own homes. There is some evidence to suggest that the proportion might be around 0.825. Given this, what sample size is required if they wish a 94 percent confidence level with a error of ± 0.025?|About 817
+The owner of a football team claims that the average attendance at games is over 79,000, and he is therefore justified in moving the team to a city with a larger stadium. Express the null hypothesis H0 and the alternative hypothesis H1 in symbolic form.|H0: µ, the average attendance at games, is equal to 79,000 && H1: µ, the average attendance at games, is greater than 79,000
+You wish to test the claim that µ > 6 at a level of significance of a = 0.05. Let  sample statistics be n = 60, s = 1.4|1.66
+A telephone company claims that 25% of its customers have at least two telephone lines. The company selects a random sample of 500 customers and finds that 108 have two or more telephone lines. At \alpha = 0.05, compute the value of the test statistic to test the company's claim.|-1.76
+A manufacturing company is interested in predicting the number of defects that will be produced each hour on the assembly line. The managers believe that there is a relationship between the defect rate and the production rate per hour. The managers believe that they can use production rate to predict the number of defects. The following data were collected for 10 randomly selected hours.|y = 5.67 + .048x.
+A recent study of 60 shoppers showed that the correlation between the time spent in the store and the dollars spent was 0.235. Using a significance level equal to 0.01, the critical value for the test to determine whether the true population correlation coefficient is zero is:|2.66
+binomial distribution|P=nCk*p^k*(1-p)^(n-k)
+poisson distribution|Mean^k/k!*e^mean
+uniform distribution|f(x)=(x-a)/(b-a)
+normally distributed|(f(x,E,V)=1/(X*sqrt(2pi))*e^(-(x-V)^2/2V^2)
+standard normal distribution|f(x)=1/(X*sqrt(2pi))*e^(-x^2/2)
+exponential distribution|f(x)=1-e^(-lada*x)......V=lada
+An employee at the local ice cream parlor asks three customers if they like chocolate ice cream. What is the population?|all custormers
+The probability that a tennis set will go to a tie-breaker is 15%. What is the probability that two of three sets will go to tie-breakers?|0.057
+Find the probability that in 20 tosses of a fair six-sided die, a five will be obtained at least 5 times.|0.1223
+A machine is set to pump cleanser into a process at the rate of 10 gallons per minute. Upon inspection, it is learned that the machine actually pumps cleanser at a rate described by the uniform distribution over the interval 9.25 to 12.25 gallons per minute. Find the probability that between 10.5 gallons and 11.15 gallons are pumped during a randomly selected minute.|0.217
+A new phone system was installed last year to help reduce the expense of personal calls that were being made by employees. Before the new system was installed, the amount being spent on personal calls follows a normal distribution with an average of $705 per month and a standard deviation of $48 per month. Refer to such expenses as PCE's (personal call expenses). Find the probability that a randomly selected month had a PCE that falls below $650.| 0.1259
+Suppose that the random variable X has an exponential distribution with ? = 1.5. Find the mean and standard deviation of X.|Mean = 0.67; Standard deviation = 0.67
+Find the value of the linear correlation coefficient r.|0.58
+What is the sample correlation coefficient between X and Y?|-0.93
+geometric distribution|p*(1-p)^(k-1)
+Which of the following is a discrete quantitative variable?|The number of cracks exceeding one-half inch in 10 miles of an interstate highway.
+Jared was working on a project to look at global warming and accessed an Internet site where he captured average global surface temperatures from 1866. Which of the four methods of data collection was he using?|Retrospective study
+According to a survey of American households, the probability that the residents own 3 cars if annual household income is over $25,500 is 63%. Of the households surveyed, 62% had incomes over $25,500 and 44% had 3 cars. The probability that annual household income is over $25,500 if the residents of a household own 3 cars is:|0.89
+Suppose that X has a discrete uniform distribution on the integers 0 through 5. Determine the mean of the random variable Y = 4X|10
+The number of weeds that remain living after a specific chemical has been applied averages 1.21 per square yard and follows a Poisson distribution. Based on this, what is the probability that a 1 square yard section will contain less than 5 weeds?|0.9920
+A supermarket manager has determined that the amount of time customers spend in the supermarket is approximately normally distributed with a mean of 51 minutes and a standard deviation of 6.5 minutes. Find the number of minutes, m, for which the probability that a customer spends less than m minutes in the supermarket is 0.20.| 45.5
+
+
+
+
+
+
