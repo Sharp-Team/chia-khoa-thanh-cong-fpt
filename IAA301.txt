@@ -1,0 +1,253 @@
+1-what is the complex descriptive conceptual model?|stochastic
+2-which best describes physical model|a tangible representation of something
+3-which of the following is a graphical powerful tool for analytics|
+4-what does NIH stand for|not-invented-here
+5-which of the following is not a relationship model|tree
+6-what is a SIGINT denial|emissions control
+7-what is the finished step in a cycle of the traditional intelligence cycel|dissemination
+8-which of the following is a brawback of the traditional intelligence cycel|a gap exists between dissemination and needs
+9-what is occam's razor principle|explain your observations with the fewest possible hypotheses
+10-which of the following is not IT tool for analytics|
+11-what is the most complex system|narcotics distribution system
+12-what is the main reason of the vividness weighting problem|the channel for communication of intelligence is too short
+13-what is the framing effect|awareness of the problems in a certain frame
+14-the network persective suggests that the power of an individual actor arises from relationships with other actors. this concept is called:|equivalence
+15-which of the following is a projection technique|influence trees
+16-which of the following is not a level of conflict|statistical
+17-in social network analysis, what is the source to evaluate the centrality concept|degree, closeness and betweenness
+18-what is the first step of collection strategy|examining the relationship
+19-which of the following is not a characteristic of the complex problems|only one stakeholder
+20-what is the deterrence level|it focuses on an opponent's potential actions as a way to resolve an already unfavorable situation
+21-what is tradecraft|the techniques are standardized in business intelligence
+22-crisis management is activity called for wich of the following levels|defeat
+23-what is the first of the traditional intelligence cycle|requirements or needs
+24-what is a passive deception|decoys
+25-in wigmoire's charting method, question marks mean like|doubt about the probative effect of the evidence
+26-which of the following is a positive government regulatory force|intervention
+27-what is a cumulative reducdancy|the report does not duplicate information,butit adds credibility to the other reports
+28-what is the first step of the predictive approach|determine the forces that acted on the entity to bring it to its present state
+29-wich of the following is not the predictive mechanism|bayesian
+30-what are enigmas|something that the analyst knows exists with physical evidence
+31-which of the following is correct pertaining to the stochastic model|a model that has any uncertainty incorporated into it
+32-what is not SIGINT|imint
+33-what is the top stage of the generic target model has been used for describing the development of a technology or product|production prototype
+34-in statement of the problem, what is the result needed|written reports(increasingly in electronic form)
+35-geospatical intelligence is an example of|imint
+36-what is SIGINT|intelligence derived from deliberate electronic trasmission
+37-what is not an open source in technology assessment|license
+John works in the accounting department but travels to other company locations. He must present the past quarter's figures to the chief executive officer (CEO) in the morning. He forgot to update the PowerPoint presentation on his desktop computer at the main office. What is at issue here?|Availability of the data
+Governance is the practice of ensuring an entity is in conformance to policies, regulations, _______, and procedures. | Standards
+COBIT is a widely accepted international best practices policy framework.|True
+Which of the following are generally accepted as IA tenets but not ISS tenets? (Select two.)|Authentication - Nonrepudiation
+Greg has developed a document on how to operate and back up the new financial sections storage area network. In it, he lists the steps required for powering up and down the system as well as configuring the backup tape unit. Greg has written a _______. | Procedure
+When should a wireless security policy be initially written?|After a company decides to implement wireless and before it is installed
+A toy company is developing the next generation of children's reading aids. They already produced a comparable product, but the new one will not be available on shelves for another two years. What process would drive policies related to the new product's information systems security?|Business process reengineering
+Implementation and enforcement of policies is a challenge. The biggest hindrance to implementation of policies is the _______ factor. | Human
+Information systems security policies should support business operations. These policies focus on providing consistent protection of information in the system. This happens by controlling multiple aspects of the information system that directly or indirectly affect normal operations at some point. While there are many different benefits to supporting operations, some are more prevalent than others. Which of the following are aspects of ISS policies that extend to support business operations?|All the above
+Ted is an administrator in the server backup area. He is reviewing the contract for the offsite storage facility for validity. This contract includes topics such as the amount of storage space required, the pickup and delivery of media, response times during an outage, and security of media within the facility. This contract is an example of information security.|False
+CHAP2
+What is policy compliance?|Adherence to an organization's policy
+What is an automated control?|A control that stops behavior immediately and does not rely on human decisions
+Which of the following is not a business driver?|Ability to acquire the newest technology
+A firewall is generally considered an example of a _______ control. | Preventive
+What is an information security policy?|A policy that defines how to protect information in any form
+Which of the following is not a type of security control?|Correlative 
+Security awareness programs have two enforcement components: the _______ and the _______.|Carrot, stick
+Most security policies require that a label be applied when a document is classified.|False
+What are the benefits to having a security awareness program emphasize the business risk?|All of the above
+Within which of the following do security policies need to define PII legal requirements?|The context of the business and location
+Information used to open or access a bank account is generally considered PII data.|True
+Which of the following is not a benefit of having an acceptable use policy?|Prevents employees from misusing the Internet|Lower risk exposure can be perceived only through actual measurement.|False
+Which of the following do you need to measure to achieve operational consistency?|All of the above
+Well-defined and properly implemented security policies help the business in which of the following ways?|All of the above
+CHAP3
+When creating laws and regulations, the government's sole concern is the privacy of the individual.|False
+Which of the following are pressures on creating security policies?|All of the above
+Which of the following laws require proper security controls for handling privacy data?|All of the above
+Which of the following are control objectives for PCI DSS?|A and B only
+A SAS 70 audit is popular because it allows a service auditor to review an organization's _______ and issue an independent opinion. | Control environment
+Health care providers are those that process and facilitate billing.|False
+The law that attempts to limit children's exposure to sexually explicit material is _______. | CIPA
+It's easier to quantify leading practices than best practices.|True
+You should always write new security policies each time a new regulation is issued.|False
+What should you ask for to gain confidence that a vendor's security controls are adequate?|A SAS 70 Type II audit
+Why is it important to map regulatory requirements to policies and controls?|All of the above
+CHAP 4
+Private WANs must be encrypted at all times.|False
+Which of the following attempts to identify where sensitive data is currently stored?|Data Leakage Protection Inventory
+Voice over Internet Protocol (VoIP) can be used over which of the following?|Both
+Which of the following is not one of the seven domains of typical IT infrastructure?|World Area Network Domain
+Which of the seven domains refers to the technical infrastructure that connects the organization's LAN to a WAN and allows end users to surf the Internet? | LAN-to-WAN Domain
+Many of the business benefits of Internet access over mobile devices include which of the following?|A and B only
+A _______ is a term that refers to a network that limits what and how computers are able to talk to each other. | Segmented network
+A LAN is efficient for connecting computers within an office or groups of buildings.|True
+What policy generally requires that employees lock up all documents and digital media at the end of a workday and when not in use?|Clean desk policy
+What employees learn in awareness training influences them more than what they see within their department.|False
+What kind of workstation management refers to knowing what software is installed?|Discovery management
+Always applying the most strict authentication method is the best way to protect the business and ensure achievement of goals.|False
+Generally, remote authentication provides which of the following?|More controls than if you were in the office
+Remote access does not have to be encrypted if strong authentication is used.|False
+Where is a DMZ usually located?|Between the private LAN and public WAN
+CHAP 5
+Which of the following is a basic element of motivation?|All of the above
+Which personality type often breaks through barriers that previously prevented success?|Commanders
+Avoiders like to _______ and will do _______ but not much more. | Be in the background; precisely what is asked of them
+As the number of specialties increases so does _______. | The cost of business
+In hierarchical organizations, the leaders are close to the workers that deliver products and services.|False
+User apathy often results in an employee just going through the motions.|True
+Which of the following is a method for overcoming apathy?|Engaging in communication
+Why is HR policy language often intentionally vague? | avoid contract, promise
+In the case of policies, it is important to demonstrate to business how polices will reduce risk and will be derived in a way that keeps costs low.|True
+Interpreting security policies against new business situations and new technologies ensures the business gets the maximum benefit from the policies over time.|True
+Kotter's Eight-Step Change Model can help an organization gain support for _______ changes. | Security policy
+When a catastrophic security breach occurs, who is ultimately held accountable by regulators and the public?|Company officers
+Which of the following are attributes of entrepreneurs?|A and C
+A company can have two sets of enterprise security polices, if necessary, to address the needs of individual business units.|False
+Which of the following is the best measure of success for a security policy?|Reduction in risk
+CHAP 6
+An IT policy framework charter includes which of the following?|A, B, C, and D
+Which of the following is the first step in establishing an information security program?|Adoption of an information security policy framework or charter
+Which of the following are generally accepted and widely used policy frameworks? (Select three.)|COBIT - ISO/IEC 2 7002 - NIST SP 800-53
+Security policies provide the "what" and "why" of security measures.|True
+_______ are best defined as high-level statements, beliefs, goals, and objectives. | Policies
+Which of the following is not mandatory?|Guideline
+Which of the following includes all of the detailed actions and tasks that personnel are required to follow?|Procedure
+Risk management is the process of reducing risk to an acceptable level.|True
+List the five tenets of information assurance that you should consider when building an IT policy framework _______. | Confidentiality, integrity, availability, authorization, and nonrepudiation
+Preservation of confidentiality in information systems requires that the information not be disclosed to _______. | Unauthorized persons or processes
+When building a policy framework, which of the following information systems factors should be considered?|A, B, C, D, and E
+CHAP 7
+When writing policies and standards, you should address the six key questions who, what, where, when, why, and how.|True
+All policy and standards libraries follow a universal numbering scheme for consistency between organizations.|False
+Guideline documents are often tied to a specific control standard.|True
+Which of the following is not an administrative control?|Logical access control mechanisms
+Which of the following are common steps taken in the development of documents such as security policies, standards, and procedures?|Initiation, evaluation, development, approval, publication, implementation, and maintenance
+Which departments should review policies and standards before official approval? (Select four.)|Technical Legal HR Audit
+Controls are implemented to do which of the following?|Protect systems from attacks on the confidentiality, integrity, and availability of the system.
+Which type of control is associated with responding to and fixing a security incident?|Corrective ( khac phuc)
+List examples of physical security control items. _______| fences, security guards, locked doors, motion detectors, and alarms
+Security _______ are the technical implementations of the policies defined by the organization. | Procedures
+A(n) _______ is a plan or course of action used by an organization to convey instructions from its senior-most management to those who make decisions, take actions, and perform other duties on behalf of the organization. | Policy
+The principle that states security is improved when it is implemented as a series of overlapping controls is called _______ | Defense in depth
+Security principles are needed in the absence of complete information to make high-quality security decisions.|True
+"Access to all Organization information resources connected to the <Organization> network must be controlled by using user IDs and appropriate authentication" is a statement you might find in a procedure document.|False
+Which of the following does a policy change control board do? (Select two.)|Assesses recommendations for change , Reviews  framework
+CHAP 8
+The security committee is the key committee for the CISO.|True
+Which of the following is not an IT security policy framework?|ERM
+Which of the following are PCIDSS network requirements?|All of the above
+Which of the following are common IT framework characteristics?|All of the above
+Which of the following applies to both GRC and ERM?|Defines an approach to reduce risk
+The underlying concept of SOD is that individuals execute high-risk transactions as they receive pre-approval.|False
+A risk management and metrics team is generally the first team to respond to an incident.|False
+Which of the following approves business access to data?|Data steward
+Which of the following is not a key area of improvement noted after COBIT implementation?|Decentralization of the risk function
+A security team's organizational structure defines the team's _______. | Priorities or specialties
+Implementing a governance framework can allow an organization to systemically identify and prioritize risks|True
+The more layers of approval required for SOD, the more _______ it is to implement the process. | Expensive or burdensome
+Monitoring detects which of the following?|A and B
+All organizations should have a full-time team dedicated to collecting, reviewing, and reporting to demonstrate adherence to regulations.|False
+CHAP 9
+Pretexting is when a hacker breaks into a firewall.|False
+What can keylogger software capture?|All of the above
+You can use a _______ process to grant temporary elevated rights. | Firecall-ID
+Security awareness is required by which of the following?|Law
+A(n) _______ looks at risk and issues an independent opinion. | Auditor
+A privileged-level access agreement (PAA) prevents an administrator from abusing elevated rights.|False
+Which of the following does an acceptable use policy relate to?|Users accessing the Internet
+A(n) _______ has inside information on how an organization operates. | Insider
+Social engineering occurs when a hacker posts her victories on a social Web site.|False
+Typically in large organizations all administrators have the same level of authority.|False
+A CISO must _______ risks if the business unit is not responsive. | Escalate
+
+CHAP 10
+The steps to implement security controls on a firewall would be documented within which of the following?|Procedure
+A DMZ separates a LAN from which of the following?|Internet
+Visitor control is an aspect of which of the following?|Physical security
+Which of the following can you use to segment LANs?|Routers and firewalls
+5)	Without a policy that leads to controls that restrict employees from installing their own software on a company workstation, a company could suffer which of the following consequences?|All of the above
+6)	Good sources for security policies and standards include which of the following?|All of the above
+7)	Two-factor authentication is a typical control used by employees to remotely access which of the following?|LAN
+8)	Which document outlines the specific controls that a technology device needs to support?|Baseline standard
+9)	The User Proxy control standard is needed for the _______ domain. | LAN to WAN
+10)	The content for the documents in the policies and standards library should be written so they are _______ and _______. | Cohesive, coherent
+11)	Production data should be sanitized before being used in a test environment.|True
+12)	Organizations should always create new policies tailored to their needs rather than adopt industry norms found on the Internet.|False
+CHAP 11
+1)	Which of the following is not a common need for most organizations to classify data?|Sell information
+2)	Authorization is the process used to prove the identity of the person accessing systems, applications, and data.|False
+3)	You need to retain data for what major reasons?|All of the above
+4)	What qualities should the data owner possess?|All of the above
+5)	In all businesses you will always have data that needs to be protected|True
+6)	Risk exposure is best-guess professional judgment using a qualitative technique.|False
+7)	The lowest federal government data classification rating for classified material is _______. | Confidential
+8)	Federal agencies can customize their own data classification scheme.|False
+9)	A BIA identifies which of the following?|All of the above
+10)	A BIA is not required when creating a BCP.|False
+11)	What does RTO stand for?|Recovery time objective
+12)	A man-made disaster is easier to plan for than a natural disaster.|False
+13)	Data in transit refers to what type of data?|Data traversing a network
+14)	Encryption protects data at rest from all type of breaches.|False
+CHAP12
+1)	All incidents regardless of how small should be handled by an incident response team.|False
+2)	Which of the following should not be in an information response team charter?|Detailed line budget
+3)	Which of the following IRT members should be consulted before communicating to the public about an incident?|All of the above
+4)	As defined by this chapter, what is not a step in responding to an incident?|Creating a budget to compare options|Analyzing an incident response
+5)	A method outlined in this chapter to determine if an incident is major or minor is to classify an incident with a _______ rating. | Severity
+6)	When containing an incident, you should always apply a long-term preventive solution.|False
+7)	The IRT starts recording events once an _______. | Incident is declared
+8)	During the containment step, you should also gather as much evidence as reasonably possible about the incident.|True
+9)	To clean up after an incident, you should always wipe the affected machine clean and rebuild it from scratch.|False
+10)	What value does a forensic tool bring?|All of the above
+11)	How important is it to identify the attacker before issuing a final IRT report?|Moderately important; nice to have but issue the report if not available
+12)	When analyzing an incident, you must try to determine which of the following?|All of the above
+13)	Which IRT member is responsible for handling the media? | Public relations
+14)	It is a best practice to test the IRT capability at least once a year.|True
+15)	A federal agency is not required by law to report a security incident.|False
+CHAP13
+1)	Which of the following indicate that the culture of an organization is adopting IT security policies?|All of the above
+2)	Effective security policies require that everyone in the organization be accountable for policy implementation.|True
+3)	A quick indicator of whether a risk committee has discussed security policies or if the topic has been delegated to lower levels is by looking at _______. | Committee meeting minutes 
+4)	Deliberate acts and malicious behavior by employees are easy to control, especially when proper deterrents are installed.|False
+5)	Which of the following is not an organizational challenge when implementing security policies?|Tight schedules
+6)	Which type of plan is critical to ensuring security awareness reaches specific types of users?|Rollout plan ( trien khai)
+7)	Why should a security policy implementation be flexible to allow for updates?|A and C
+8)	Which of the following is the least objectionable when dealing with policies in regards to outdated technology?|Write security policies to best practices and issue a policy waiver ( tu bo) for outdated technology that inherently cannot comply.
+9)	What is a strong indicator that awareness training is not effective?|Sharing your password with a supervisor
+10)	Which of the following is a common cause of security breaches?|Inadequate management and user decisions
+11)	Classroom training for security policy awareness is always the superior option to other alternatives, such as online training.|False
+12)	To get employees to comply and accept security policies, the organization must understand the employees' _______ | Motivation for needs
+13)	A brown bag session is a formal training event with a tightly controlled agenda.|False
+14)	What is the best way to disseminate a new policy?|Intranet
+15)	Without _______, implementation of IT security policies is impossible. | Excutive support
+CHAP 14
+1)	Which of the following is not an organizational gateway committee?|Internal connection committee
+2)	_______ often focuses on enterprise risk management across multiple lines of business to resolve strategic business issues. | Executive management
+3)	The security compliance committee has one role, which is to identify when violations of policies occur.|False
+4)	Which of the following is not an access control?|Decryption
+5)	In which of the following areas might a company monitor its employees' actions?|All of the above
+6)	_______ establish how the organization achieves regulatory requirements. | Security policies
+7)	Laws define the specific internal IT processes needed to be compliant.|False
+8)	What is not required in modern-day CISO positions?|Needs to have strong law enforcement background
+9)	What is an example of a manual control?|A and C
+10)	Which of the following is not a reason to monitor employee computer activity?|Finding out whom the employee knows
+11)	Connecting a personal device to the company network can create legal implications.|True
+12)	Line management does which of the following to make policies operational?|All of the above
+13)	The major challenge in implementing automated security controls is in the deployment of the control.|True
+14)	Which of the following is not reviewed when monitoring a user's e-mail and Internet activity?|Network performance
+CHAP15
+1)	A _______ is a starting point or standard. Within IT, it provides a standard focused on a specific technology used within an organization. | Baseline
+2)	An operating system and different applications are installed on a system. The system is then locked down with various settings. You want the same operating system, applications, and settings deployed to 50 other computers. What's the easiest way?|Imaging
+3)	After a set of security settings has been applied to a system, there is no need to recheck these settings on the system.|False
+4)	The time between when a new vulnerability is discovered and when software developers start writing a patch is known as a _______. | Vulnerability windows or security gap
+5)	Your organization wants to automate the distribution of security policy settings. What should be considered?|All of the above
+6)	Several tools are available to automate the deployment of security policy settings. Some tools can deploy baseline settings. Other tools can deploy changes in security policy settings.|True
+7)	An organization uses a decentralized IT model with a central IT department for core services and security. The organization wants to ensure that each department is complying with primary security requirements. What can be used to verify compliance?|Random audits
+8)	Change requests are tracked in a control work order database. Approved changes are also recorded in a CMDB.|True
+9)	An organization wants to maintain a database of system settings. The database should include the original system settings and any changes. What should be implemented within the organization?|Configuration management
+10)	An organization wants to reduce the possibility of outages when changes are implemented on the network. What should the organization use?|Change management
+11)	Which NIST standard was developed for different scanning and vulnerability assessment tools, and comprises six specifications including XCCDF?|SCAP
+12)	Microsoft created the Web-Based Enterprise Management (WBEM) technologies for Microsoft products.|False
+13)	Which of the following specifications is used exclusively in Microsoft products to query and configure systems in the network?|WMI
+14)	Which of the following is used to manage and query network devices such as routers and switches?|SNMP
+15)	A _______ can be used with a downloaded file. It offers verification that the file was provided by a specific entity. It also verifies the file has not been modified. | Digital signature
