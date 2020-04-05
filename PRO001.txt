@@ -1,0 +1,97 @@
+Program | 3.is a simulation of solution, is the result of a programming process, is a set of instructions that computer hardware will execute
+Data is stored in computer memory in | binary format
+Which of these statements about primary memory are not true | 2.There is only one operation on primary memory and it is reading, ROM is a volatile memory
+1 One byte consists of 4 nibbles, 2 One nibble consists of 2 consecutive bits | 1 true, 2 false
+Which of these statements about fundamental unit in CPU is true | The natural unit of the CPU is a word
+Which of these definitions are true | 3. The CPU performs the operation, The addresses are either register names, Each program instruction consists of an operation and operands
+Comments of a program | 3. are used for documenting a program, are omitted by the compiler, enhance the readability of a program
+Select correct properties of C language | 3. C source code must be translated into, C language is a functional language, C is case sensitive language
+A compiler will translate each statement | An interpreter will iterate to translate each statement, Compiler of the language A can translate
+helps identifying the device which will communiate with CPU | all
+Which type qualifiers are defined in C | 2. short and long
+In C, select correct statements | 2. The expression x y, will copy value of the variable y to the variable x, A constant string
+Motorola use middle endian ordering | 1, 3 true
+Which of the following is an invalid identifier | 3. employee salary, ab, 45
+nWhich of these statements about constants are not true | 2. The compiler allocates memory for constants, The compiler compiles constants
+What are the right matching | 3. f, e, b
+operator is used for setting a value to a variable | 2. 2 false, 1 false
+Select correct statements. With respect to ASCII | 3. character A is 0100 0001, The code of a uppercase, The code of a digit
+Select correct conversion specifiers for an int variable in C lanaguge | 3. d, o, u
+In C language, the selection constructs use | 3. switch, if else, hoi va hai cham
+Suppose that the following codes are executed. What is the output, while i nho bang 10, if i cong | 40
+Flags is a technique that supports using goto, continue statements| F
+To improve readability, programmers are recommended | 3. using whitespace, removing continue, using break
+The rule in C is that an else statement always belongs to the innermost if available | Only 1st statement is true
+Program should be written | 2. as a well program, with a consistent
+Walkthrough | 3. A table that, Walkthrough is a manual, A listing of the
+Suppose that the following codes execute and input data are 9 and 12 | am 3
+Suppose that the following codes execute. What is the output i chia 3 bang 0 | None of the others
+In C, which of these statements are not true | 3. system directory, in user directory, is a symbol of
+What is the output if the following code executes n bang 3, m bang 7 | None of the others
+In C, incorrect order of a function implementation | 3. Sai, Return type, function name, parameters, body
+Which of these statements about the function is true | A function may receive data
+Actual parameter is a parameter in function implementation | 2. Actual parameter called, Formal parameter implementation
+Select the statements that belong to low cohesion | 2. logical, coincidental
+In C, with reference to property of reusing a function, the function that will check whether an integer is a prime or not, should be declared as | a function that will return an integer
+If this function is called as following with input data are 5 10 15. What is the output | 10
+Suppose that the above codes execute. What is the output | 3
+14 | 14
+Which of these statements about the scanf function are true | 3. interpreted and, scanf treats, If the buffer
+Select incorrect statements | 3. hex is used, u is used, b is used
+The getchar function can do | None of the others
+What library includes function to generate random numbers | stdlib.h
+Validation do not include | None of the others
+Which of these statements about format string are not true | None of the others
+What is the output of the following program | 11
+What is the output of the above program if user enters the keys 1 2 and ENTER | 12, 10
+What is the ouput of the above program if input is 12asd45 | 1
+When the program executes, user enters 9 100 . What is output | 9 and a non predictable value
+Which of these statements about the array are true | 3. An array is stored, The index, An array is a group
+The linear search algorithm can be applied on an array in which its elements | 2. descending order, ascending order
+What is the value of the variable pos | 4
+Flagging technique | 2. uses an intege, used when we
+What are the names of search algorithm applied to an array | 2. Linear search, Binary search
+When the above code executes, what is the value of the variable pos | 6
+Suppose that all needed libraries are included | 2, 3, 4, 4, 5
+The output of the program is | None of the others
+5, 1, 2,4, 3 | 5, 4, 3, 2, 1 
+With respect to the binary search algorithm on an array | The values contained
+Which of these statements about the  conversion specifier used in scanf function are true | 2. It is usually used, It will read
+ABCDEFGEH | ABCD
+Which of these statements about null byte terminator are not true | We can describe the null byte as the constant EOF
+specifier is true when it is used in the scanf function | will store the characters
+conversion specifier when it is used in the scanf function and the input is dfgh | None of the others
+Which is the result of strcmp | A positive integer
+ABCDEF | Length 6, CDEF
+GHI | ABCDEFGHI
+Study three following code segments | 1 and 3 have the same output
+AB1 | a negative and a positive integers
+is used for openning a text file. Which of the following mode parameters can not be used | 2. art, RW
+What in the following file operations should be used when the file closed only | renaming a file, remove a file
+Which of these statements about file format types are true | file are stored as ASCII, can be modified
+In C, which of following functions can be used to write data to a file | 3. fputc, fprintf, fputs
+Text format is used. Which of these statements about table, record, and fields are not true | 2. Typically, one table, A new line
+We can rename | the file is closed, Rewinding a file
+In C, if this variable is written to a textfile | 1
+In C, if this variable is written to a binary file, it will take | 4
+Writing int values into text file | is less efficient because type
+What guideline should be examined before working with a text file | data format in the file
+Which of these statements about the black box testing are not true | 3. logic driven, Each possible, structural
+software development model | Practical
+Methods are used in testing a software are | 2. White box, black box
+Which of these statements about comparing the difference of Waterfall and Open Source Model are true | None of the others
+If a program works then it is good designed | Both of them are false
+Study the following steps in software development process | 1, 2, 3, 4, 5
+The output of a program is incorrect. It may be caused by | 2. the algorithm is wrong, a semantic error
+Restricting our use of the language to the standard subset of a language will create the | portability
+Analysis and maintenance are | first and last
+
+
+
+
+
+
+
+
+
+   
