@@ -48,617 +48,540 @@
 # May transactions using optimistic concurrency control (BOCC) be involved in a deadlock? | never
 # Why are B+trees used in database systems instead of e. g. hash maps? | Records may be traversed in key sequence
 # Why is traversal of a non-clustered (B+-tree) index - leaf pages contain pointers to heap storage - expensive? | Records may be distrubuted over the persistent storage, needs block access for each key
-#QN=1 Which of the following relational algebra operations do not require the participating tables to be union-compatible? | dd.	Joi
-#QN=2 Which of the following is not a property of transactions? | bb.	Concurrence
-#QN=3 Relational Algebra does not have | cc.	Aggregation operators
-#QN=4 Checkpoints are a part of | aa.	Recovery measures
-#QN=5 Tree structures are used to store data in | cc.	Hierarchical model
-#QN=6 The language that requires a user to specify the data to be retrieved without specifying exactly how to get it is | bb.	Non-Procedural DM
-#QN=7 Precedence graphs help to find a | Aa.	Serializable schedule
-#QN=8 The rule that a value of a foreign key must appear as a value of some specific table is called a | aa.	Referential constrain
-#QN=9 The clause in SQL that specifies that the query result should be sorted in ascending or descending order based on the values of one or more columns is | bb. Order b
-#QN=10 What is a disjoint less constraint? | aa.	It requires that an entity belongs to no more than one level entity set
-#QN=11 According to the levels of abstraction, the schema at the intermediate level is called | conceptual schema 
-#QN=12 It is an abstraction through which relationships are treated as higher level entities | cc.	Aggregation
-#QN=13 A relation is in _________ if an attribute of a composite key is dependent on an attribute of other composite key. | bb.	3NF
-#QN=14 What is data integrity? | bb.	It is the data contained in database that is accurate and consistent
-#QN=15 What are the desirable properties of a decomposition? | bb.	Dependency preservation
-#QN=16 In an E-R diagram double lines indicate | aa.	Total participation
-#QN=17 The operation which is not considered a basic operation of relational algebra is | aa.	Join
-#QN=18 Fifth Normal form is concerned with | cc.	Join dependency
-#QN=19 Block-interleaved distributed parity is RAID level | dd. 5
-#QN=20 Immediate database modification technique uses | aa.	Both undo and redo
-#QN=21 In SQL the statement select * from R, S is equivalent to | bb.	Select * from R cross join S
-#QN=22 Which of the following is not a consequence of concurrent operations? | bb.	Update anomaly
-#QN=23 As per equivalence rules for query transformation, selection operation distributes over | dd.	All of the above
-#QN=24 The metadata is created by the | Cc. DDL interpreter
-#QN=25 When an E-R diagram is mapped to tables, the representation is redundant for | bb. weak relationship sets
-#QN=26 When R ? S ? ? , then the cost of computing R  S is | aa.	the same as R x S
-#QN=27 In SQL the word ?natural? can be used with | aa.	inner join
-#QN=28 The default level of consistency in SQL is | dd.	Serializable
-#QN=29 If a transaction T has obtained an exclusive lock on item Q, then T can | cc.	both read and write Q
-#QN=30 Shadow paging has | aa.	no redo
-#QN=31 If the closure of an attribute set is the entire relation then the attribute set is a | aa.	superkey
-#QN=32 DROP is a  	statement in SQL | cc.	DDL
-#QN=33 If two relations R and S are joined, then the non matching tuples of both R and S are ignored in | dd.	inner join
-#QN=34 The keyword to eliminate duplicate rows from the query result in SQL is | cc.	UNIQUE
-#QN=35 In 2NF | cc.	No partial FDs exist
-#QN=36 Which one is correct statement? Logical data independence provides following without changing application programs: (i)     Changes in access methods. (ii)    Adding new entities in database (iii)  Splitting an existing record into two or more records (iv)   Changing storage medium | dd.	(ii) and (iii)
-#QN=37 In an E-R, Y is the dominant entity and X is a subordinate entity. Then which of the following is incorrect | cc.	Operationally, if X is deleted, so is Y
-#QN=38 Relational Algebra is | cc.	Procedural query Language
-#QN=39 Which of the following aggregate functions does not ignore nulls in its results?. | bb.	COUNT (*)
-#QN=40 R (A,B,C,D) is a relation. Which of the following does not have a lossless join dependency preserving BCNF decomposition | dd.	A?BCD
-#QN=41 Consider the join of relation R with a relation S. If R has m tuples and S has n tuples, then the maximum and minimum size of the join respectively are | cc.	mn and 0
-#QN=42 Maximum height of a B+ tree of order m with n key values is | dd.	None of these
-#QN=43 Which one is true statement? | aa.	With finer degree of granularity of locking a high degree of concurrency is possible
-#QN=44 Which of the following statement on the view concept in SQL is invalid? | dd.	The definition of a view should not have GROUP BY clause in it
-#QN=45 Which  of  the  following  concurrency  control  schemes  is  not  based  on  the serializability property? | dd.	None of these
-#QN=46 Which of the following is a reason to model data? | dd.	All of the above
-#QN=47 If an entity can belong to only one lower level entity then the constraint is | bb.	partial
-#QN=48 The common column is eliminated in | cc.	natural join
-#QN=49 In SQL, testing whether a subquery is empty is done using | dd.	EXISTS
-#QN=50 Use of UNIQUE while defining an attribute of a table in SQL means that the attribute values are | cc.	both (A) & (B)
-#QN=51 The cost of reading and writing temporary files while evaluating a query can be reduced by | bb.	Pipelining
-#QN=52 A transaction is in  	state after the final statement has been executed. | cc.	Committed
-#QN=53 In multiple granularity of locks SIX lock is compatible with | bb.	IS
-#QN=54 The  statement that  is  executed automatically by  the  system  as  a  side  effect  of  the modification of the database is | dd.	Trigger
-#QN=55 The normal form that is not necessarily dependency preserving is | aa.	2NF
-#QN=56 A functional dependency of the form x ? y is trivial if | aa.	y ? x
-#QN=57 The normalization was first proposed by | bb.	Codd
-#QN=58 The division operator divides a dividend A of degree m+n by a divisor relation B of degree n and produces a result of degree | dd. m
-#QN=59 Which of the following is not a characteristic of a relational database model? | bb.	Tree like structure
-#QN=60 Assume transaction A holds a shared lock R. If transaction B also requests for a shared lock on R | cc.	It will immediately be granted
-#QN=61 In E-R Diagram total participation is represented by | aa.	double line
-#QN=62 The FD  A ? B , DB ? C implies | aa.	DA ? C
-#QN=63 The graphical representation of a query is | cc.	Query Tree
-#QN=64 Union operator is a : | cc.	Binary Operator
-#QN=65 Relations produced from an E-R model will always be | aa.	First normal form
-#QN=66 Manager salary details are hidden from the employee .This is | aa.	Conceptual level data hiding
-#QN=67 Which of the following is true for network structure? | aa.	It is a physical representation of the data
-#QN=68 Which two files are used during operation of the DBMS? | cc.	Data dictionary and transaction log
-#QN=69 A list consists of last names, first names, addresses and pin codes. If all people in the list have the same last name and same pin code a useful key would be | cc.	the compound key first name and last name
-#QN=70 In b-tree the number of keys in each node is  	 than the number of its children | aa.	one less
-#QN=71 The drawback of shadow paging technique are | dd.	All of these
-#QN=72 Which normal form is considered adequate for normal relational database design? | dd.	3NF
-#QN=73 Which of the following addressing modes permits relocation without any change over in the code? | bb.	Indexed addressing
-#QN=74 In a multi-user database, if two users wish to update the same record at the same time, they are prevented from doing so by | dd.	record lock
-#QN=75 The values of the attribute describes a particular | cc.	Entity instance
-#QN=76 Which of the following relational algebraic operations is not from set theory? | dd.	Select
-#QN=77 Which of the following ensures the atomicity of the transaction? | aa.	Transaction management component of DBMS
-#QN=78 If  both the functional dependencies : X?Y and Y?X hold for two attributes X and Y then the relationship between X and Y is | cc.	1:1
-#QN=79 What will be the number of columns and rows respectively obtained for the operation, A - B, if A B are Base union compatible and all the rows of a are common to B? Assume A has 4 columns and 10 rows; and B has 4 columns and 15 rows | aa.	4,0
-#QN=80 For correct behaviour during recovery, undo and redo operation must be | cc.	idempotent
-#QN=81 Which of the following is not a consequence of non-normalized database? | dd.	Lost update problem
-#QN=82 Which of the following is true for relational calculus? | aa.	?x?P?x????????x???P?x?
-#QN=83 The part of a database management system which ensures that the data remains in a consistent state is | cc.	transaction manager
-#QN=84 Relationships among relationships can be represented in an-E-R model using | aa.	Aggregation
-#QN=85 In tuple relational calculus P1 AND P2 is equivalent to | dd. ???P1OR ?P2?
-#QN=86 If ??? holds then so does | aa.	????
-#QN=87 Cascading rollback is avoided in all protocol except | dd.	validation based protocol
-#QN=88 Wait-for graph is used for | dd.	deadlock detection
-#QN=89	The expression ??1?E1  ?2E2? is the same as | aa. E1  ?1^ ?2E2
-#QN=90	The clause alter table in SQL can be used to | dd.	all of the above
-#QN=91	The data models defined by ANSI/SPARC architecture are | dd.	Logical, physical and vieý
-#QN=92	Whenever two independent one-to-many relationships are mixed in the same relation, a 	 arises | bb.	Multi-valued dependency
-#QN=93	A table can have only one | dd.	Primary key
-#QN=94	Dependency preservation is not guaranteed in | aa.	BCNF
-#QN=95	Which is the best file organization when data is frequently added or deleted from a file? | bb.	Direct	
-#QN=96	Which of the following constitutes a basic set of operations for manipulating relational data? | cc.	Relational algebra
-#QN=97	An advantage of views is | aa.	Data securitt
-#QN=98	Which of the following is not a recovery technique? | cc.	Two-phase commit
-#QN=99	Isolation of the transactions is ensured by | cc.	Concurrency control
-#QN=100	operator is used to compare a value to a list of literals values that have been specified | aa.	Like
-#QN=101	If a denormalization situation exists with a one-to-one binary relationship, which of the following is true? | Aa.	All fields are stored in one relation
-#QN=102  Selecting a data type involves which of the following? | Cc.	Improve data integrity
-#QN=103	What is the best data type definition for Oracle when a field is alphanumeric and has a length that can vary? | Aa.	VARCHAR2
-#QN=104	If a denormalization situation exists with a many-to-many or associative binary relationship, which of the following is true? | Bb.	All fields are stored in two relations
-#QN=105	Which of the following is an advantage of partitioning? | dd.	Security
-#QN=106	The blocking factor is: | Bb.	the number of physical records per page
-#QN=107	Which of the following improves a query's processing time? | dd.	Use compatible data types
-#QN=108	Which of the following are integrity controls that a DBMS may support? | dd.	All of the above
-#QN=109	Which of the following is not a factor to consider when switching from small to large block size? | Bb.	The number of columns
-#QN=110	What is the best data type definition for Oracle when a field is alphanumeric and has a fixed length? | Bb.	CHAR
-#QN=111	Two basic constructs to link one piece of data with another piece of data: sequential storage and pointers. | Aa.	True
-#QN=112 Denormalization and clustering can work well to minimize data access time for small records. | Bb.	True
-#QN=113	Hashing algorithm converts a primary key value into a record address. | Aa.	False
-#QN=114	The primary goal of physical database design is data processing efficiency. | Bb.	True
-#QN=115	A bitmap index is an index on columns from two or more tables that come from the same domain of values. | Aa.	False
-#QN=116	A secondary key is which of the following? | Aa.	Nonunique key
-#QN=117	The fastest read/write time and most efficient data storage of any disk array type is: | Aa.	RAID-0
-#QN=118	A rule of thumb for choosing indexes for a relational database includes which of the following? | Dd.	Be careful indexing attributes that have null values
-#QN=119	Sequential retrieval on a primary key for sequential file storage has which of the following features? | Aa.	Very fast
-#QN=120  A multidimensional database model is used most often in which of the following models? | Aa.	Data warehouse
-#QN=121	When storage space is scarce and physical records cannot span pages, creating multiple physical records from one logical relation will minimize wasted storage space. | Aa.	True
-#QN=122	A field represents each component of a composite attribute. | Aa.	True
-#QN=123	Some advantages of partitioning include: efficiency, security, and load balancing. | Aa.	True
-#QN=124	A pointer is a detailed coding scheme recognized by system software for representing organizational data. | Bb.	False
-#QN=125	Distributing the columns of a table into several separate physical records is known as horizontal partitioning. | Bb.	False
-#QN=126	It is usually not very important to design the physical database to minimize the time required by users to interact with the information systems. | Bb.	False
-#QN=127	In general, larger block sizes are used for online transaction processing applications and smaller block sizes are used for databases with a decision support or data warehousing system. | Bb.	False
-#QN=128	Data-volume and frequency-of-use statistics are not critical inputs to the physical database design process | Bb.	False
-#QN=129	The three newest database architectures in use today are relational, multidimensional and hierarchical. | Bb.	False
-#QN=130	An extent is a contiguous section of disk storage space. | Aa.	True
-#QN=131	Data scrubbing is which of the following? | Dd.	A process to upgrade the quality of data before it is moved into a data warehouse
-#QN=132	The @active data warehouse architecture includes which of the following? | Dd.	All of the above
-#QN=133	A goal of data mining includes which of the following? | Aa.	To explain some observed event or condition
-#QN=134	An operational system is which of the following? | Bb.	A system that is used to run the business in real time and is based on current data
-#QN=135	A data warehouse is which of the following? | Cc.	Organized around important subject areas
-#QN=136	A data mart is designed to optimize the performance for well-defined and predicable uses. | Aa.	True
-#QN=137	Successful data warehousing requires that a formal program in total quality management (TQM) be implemented. | Aa.	True
-#QN=138	Data in operational systems are typically fragmented and inconsistent. | Aa.	True
-#QN=139	Most operational systems are based on the use of transient data. | Aa.	True
-#QN=140	Independent data marts are often created because an organization focuses on a series of short-term business objectives. | Aa.	True
-#QN=141	A snowflake schema is which of the following types of tables? | Dd.	All of the above
-#QN=142	The generic two-level data warehouse architecture includes which of the following? | Bb.	Data that can extracted from numerous internal and external source
-#QN=143	Fact tables are which of the following? | Cc.	Completely normalize
-#QN=144	Data transformation includes which of the following? | Aa.	A process to change data from a detailed level to a summary level
-#QN=145	Reconciled data is which of the following? | Bb.	Current data intended to be the single source for all decision support system
-#QN=146	Joining is the process of partitioning data according to predefined criteria. | Bb.	False
-#QN=147	The role of the ETL process is to identify erroneous data and to fix them. | Bb.	False
-#QN=148	Data in the data warehouse are loaded and refreshed from operational systems. | Aa.	True
-#QN=149	Star schema is suited to online transaction processing, and therefore is generally used in operational systems, operational data stores, or an EDW. | Bb.	False
-#QN=150	Periodic data are data that are physically altered once added to the store | Bb.	False
-#QN=151  Both status data and event data can be stored in a database. | Aa.	True
-#QN=152	Static extract is used for ongoing warehouse maintenance | Bb.	False
-#QN=153	Data scrubbing can help upgrade data quality; it is not a long-term solution to the data quality problem. | Aa.	True
-#QN=154	Every key used to join the fact table with a dimensional table should be a surrogate key | Aa.	True
-#QN=155	Every key used to join the fact table with a dimensional table should be a surrogate key | Bb.	False
-#QN=156	The load and index is which of the following? | Bb.	A process to load the data in the data warehouse and to create the necessary indexes
-#QN=157	The extract process is which of the following? | Bb.	Capturing a subset of the data contained in various operational system
-#QN=158	A star schema has what type of relationship between a dimension and fact table? | Cc.	One-to-many
-#QN=159	Transient data is which of the following? | Aa.	Data in which changes to existing records cause the previous version of the records to be eliminated
-#QN=160	A multifield transformation does which of the following? | Dd.	All of the above
-#QN=161	A distributed database has which of the following advantages over a centralized database? | Dd.	Modular growth
-#QN=162	An autonomous homogenous environment is which of the following? | Aa.	The same DBMS is at each node and each DBMS works independently
-#QN=163	A transaction manager is which of the following? | Dd.	All of the above
-#QN=164	Location transparency allows for which of the following? | Dd.	All of the above
-#QN=165	A heterogeneous distributed database is which of the following? | Dd.	A different DBMS is used at each location and data are distributed across all nodes
-#QN=166	Some of the columns of a relation are at different sites is which of the following? | Cc.	Vertical Partitioning
-#QN=167	Which of the following is true concerning a global transaction? | Bb.	The required data are located in at least one nonlocal site and the distributed DBMS routes requests as necessary
-#QN=168	A homogenous distributed database is which of the following? | Bb.	The same DBMS is used at each location and data are distributed across all nodes
-#QN=169	Replication should be used when which of the following exist? | Cc.	The application's data can be somewhat out-of-date
-#QN=170	Storing a separate copy of the database at multiple locations is which of the following? | Aa.	Data Replication
-#QN=171	With failure transparency, all of the actions of a transaction are committed or none of them are committed | Aa.	True
-#QN=172	Each site (or node) in a distributed system is subject to the same types of failure as in a centralized system. | Aa.	True
-#QN=173	Replication may use either synchronous or asynchronous distributed database technologies, although asynchronous technologies are more typical in a replicated environment. | Aa.	True
-#QN=174	Synchronization for pull replication is less disruptive and occurs only when needed by each site, not when a central master site thinks it is best to update. | Aa.	True
-#QN=175	With asynchronous technology, if any copy of a data item is updated anywhere on the network, the same update is immediately applied to all other copies or it is aborted. | Bb.	False
-#QN=176	Databases that are stored on computers at multiple locations and are not interconnected by a network are known as distributed databases. | Bb.	False
-#QN=177	An increasingly popular option for data distribution as well as for fault tolerance of any database is to store a separate copy of the database at each of two or more sites. | Aa.	True
-#QN=178	Asynchronous technology can result in unsatisfactorily slow response time because the distributed DBMS is spending considerable time checking that an update is accurately and completely propagated across the network. | Bb.	False
-#QN=179	A distributed unit of work allows various statements within a unit of work to refer to multiple remote DBMS locations. | Aa.	True
-#QN=180	The purpose of timestamping is to avoid the use of locks. | Aa.	True
-#QN=181	Data replication is favored where most process requests are read-only and where the data are relatively static | Aa.	True
-#QN=182	The cost to perform a snapshot refresh may depend on whether the snapshot is simple or complex | Aa.	True
-#QN=183	The semijoin approach saves network traffic. | Aa.	True
-#QN=184	In a semijoin, only the joining attribute is sent from one site to another, and then only the required rows are returned. | Aa.	True
-#QN=185	The problem of concurrency control is more complex in a distributed database. | Aa.	True
-#QN=186	A distributed database is which of the following? | Aa.	A single logical database that is spread to multiple locations and is interconnected by a network
-#QN=187	A semijoin is which of the following? | Cc.	Only the joining attributes are sent from one site to another and then only the required rows are returned
-#QN=188 | Cc.	Each site must have the same storage capacity
-#QN=189	A distributed database can use which of the following strategies? | Dd.	All of the above
-#QN=190	Which of the following is not one of the stages in the evolution of distributed DBMS? | Aa.	Unit of work
-#QN=191	ODL supports which of the following types of association relationships? | Bb.	Unary and Binary
-#QN=192	An extent is which of the following? | Cc.	The set of all instances of a class within a database
-#QN=193	Identify the class name for the following code: ABC123 course(); | Aa.	ABC123
-#QN=194	Using ODL, you can define which of the following? | Dd.	All of the above
-#QN=195	The keyword "inverse" is used in which of the following? | Cc.	Relationship
-#QN=196	The object definition language (ODL) is which of the following? | Dd.	All of the above
-#QN=197	An atomic literal is which of the following? | Dd.	All of the above
-#QN=198	Which of the following is true concerning an ODBMS? | Aa.	They have the ability to store complex data types on the Web
-#QN=199	The reserved word enum is used for which of the following? | Aa.	To define a range for an attribute
-#QN=200	Which of the following is an unordered collection of elements that may contain duplicates? | Bb.	Bag
-#QN=201	Which of the following is true concerning the following statement: class Manager extends Employee | Bb.	Manager is a concrete class and a subclass
-#QN=202	Which of the following is an ordered collection of elements of the same type? | Cc.	List
-#QN=203	A relationship should be specified how in the ODL? | Dd.	Both direction
-#QN=204	Using OQL, you may do which of the following? | Dd.	All of the above
-#QN=205	The Object Query Language is which of the following"? | Aa.	Similar to SQL and uses a select-from-where structure
-#QN=206	ODL supports the abstract keyword for classes and operations. | Bb.	False
-#QN=207	The ODMG Object Model requires that a relationship be specified in both directions | Aa.	True
-#QN=208	Before specifying a key for a class, you must specify its extent. | Aa.	True
-#QN=209	The Object Model supports different literal types, but does not support atomic literals, collection literals, and structured literals. | Bb.	False
-#QN=210	The ODMG Object Model supports only unary and binary relationships | Aa.	True
-#QN=211	Literals do not have identifiers, and, therefore, cannot be individually referenced like objects. | Aa.	True
-#QN=212	An attribute's value is always literal | Aa.	True
-#QN=213	An attribute's value is either a literal or an object identifier | Aa.	True
-#QN=214	Database objects are almost always transient. | Bb.	False
-#QN=215	A collection of literals or object types is called a bag. | Bb.	False
-#QN=216	An ordered collection of elements of the same type are called sets. | Bb.	False
-#QN=217	You may specify an object identifier with only one unique tag name. | Bb.	False
-#QN=218	Specifying a key ensures that no two objects belonging to a class have the same value for the key attribute(s). | Aa.	True
-#QN=219	If you know all the possible values that an attribute can have, you can enumerate those values in ODL. | Aa.	True
-#QN=220	In ODL, you specify an operation using parentheses after its name | Aa.	True
-#QN=221	The entity integrity rule states that: | Aa.	no primary key attribute may be null
-#QN=222	When mapping a many-to-many unary relationship into a relation which of the following is true? | Bb.	Two relations are created
-#QN=223	If no multivalued attributes exist and no partial dependencies exist in a relation, then the relation is in what normal form? | Bb.	First normal form
-#QN=224	A foreign key is which of the following? | Cc.	An attribute that serves as the primary key of another relation
-#QN=225	A transitive dependency is which of the following? | Bb.	A functional dependency between two or more nonkey attributes
-#QN=226	When mapping a multivalued attribute into a relation which of the following is true? | Bb.	Two relations are created
-#QN=227	If no multivalued attributes exist in a relation, then the relation is in what normal form? | Aa.	First normal form
-#QN=228	A primary key is which of the following? | Bb.	An attribute that uniquely identifies each roý
-#QN=229	The relational model consists of: | Aa.	data in the form of tables
-#QN=230	When mapping a binary many-to-many relationship into a relation which of the following is true? | Cc.	Three relations are created
-#QN=231	A relation has which of the following properties? | Cc.	Each relation has a unique name
-#QN=232	When mapping a ternary relationship with an associative entity into a relation which of the following is true? | Dd.	Four relations are created
-#QN=233	When mapping a regular entity into a relation which of the following is true? | Cc.	Three relations are create
-#QN=234	When mapping a supertype/subtype relationship which of the following is true? | Aa.	The supertype primary key is assigned to each subtype
-#QN=235	Relations are: | Aa.	two-dimensional tables
-#QN=236	A composite attribute does not get mapped into a relation. | Aa.	True
-#QN=237	A relation is a two-dimensional table | Aa.	True
-#QN=238	An enterprise key is a primary key whose value is unique for a given relation. | Bb.	False
-#QN=239	Weak entities do not get mapped into a relation. | Bb.	False
-#QN=240	A primary key may be null. | Bb.	False
-#QN=241	Normalization is a formal process for deciding which attributes should be grouped together in a relation. | Aa.	True
-#QN=242	In a 1:M relationship, the primary key on the one side migrates to the many side to become the foreign key on the many side. | Aa.	True
-#QN=243	A synonym is two or more attributes that have different names but the same meaning | Aa.	True
-#QN=244	A null value is assigned when no other value applies. | Aa.	True
-#QN=245	The primary key in a relation does not need to be underlined. | Bb.	False
-#QN=246	The primary key of the new relation in a many-to-many relationship is a composite key comprised of the primary keys of each of the binary entities. | Aa.	Tru
-#QN=247	A foreign key may be null and still adhere to the referential integrity constraint. | Aa.	True
-#QN=248	A candidate key must uniquely identify each row. | Aa.	True
-#QN=249	Well-structured relations encourage anomalies of data. | Bb.	False
-#QN=250	If a relation is in third normal form, it does not need to be in second normal form. | Bb.	False
-#QN=3  A relation in this form is free of all modification anomalies | Dd.	Domain/key normal form
-#QN=4	A relation is in this form if it is in BCNF and has no multivalued dependencies: | Cc.	Fourth normal form
-#QN=5	When the values in one or more attributes being used as a foreign key must exist in another set of one or more attributes in another table, we have created a(n): | Cc.	Referential integrity constraint
-#QN=6	If a denormalization situation exists with a one-to-one binary relationship, which of the following is true? | Aa.	All fields are stored in one relation
-#QN=7	Which of the following is an advantage of partitioning? | Dd.	Security
-#QN=8	Two basic constructs to link one piece of data with another piece of data: sequential storage and pointers. | Aa.	True
-#QN=9	A bitmap index is an index on columns from two or more tables that come from the same domain of values. | Bb.	False
-#QN=10	Which of the following are integrity controls that a DBMS may support? | Dd.	All of the above
-#QN=11	In a one-to-many relationship, the entity that is on the one side of the relationship is called a(n) ________ entity | Aa.	parent
-#QN=12	Which of the following indicates the minimum number of entities that must be involved in a relationship? | Aa.	Minimum cardinality
-#QN=13	Which type of entity is related to two or more associated entities that each contain specialized attributes that apply to some but not all of the instances of the entity? | Aa.	Supertype entity
-#QN=14	Which of the following is NOT a basic element of all versions of the E-R model? | Dd.	Primary key
-#QN=15	An ID-dependent entity is an entity whose identifier is a composite identifier where no portion of the composite identifier is an identifier of another entity. | Bb.	False
-#QN=16	All instances of an entity class have the same attributes. | Aa.	True
-#QN=17	An entity is something that can be identified in the user's work environment; something that the users want to track. | Aa.	True
-#QN=18	The SQL command to create a table is: | Dd.	CREATE TABLE
-#QN=19	SQL views can be used to hide: | Cc.	both of the above can be hidden by an SQL view
-#QN=20	To update an SQL view, the DBMS must be able to associate the column(s) to be updated with: | Cc.	a particular row in a particular underlying table
-#QN=21	A ________ is a program that performs some common action on database data and that is stored in the database. | Bb.	stored procedure
-#QN=22	What is an SQL virtual table that is constructed from other tables? | Bb.	A view
-#QN=23	What is not an advantage of stored procedures? | Dd.	Increased network traffic
-#QN=24	Standard SQL-92 views are constructed from SQL SELECT statements that do not contain the GROUP BY clause. | Bb.	False
-#QN=25	Common types of SQL CHECK constraints include range checks and limiting columns values. | Aa.	True
-#QN=26	If any required (NOT NULL) columns are missing from the view, the view cannot be used for inserting new data. | Aa.	True
-#QN=27	What type of failure occurs when Oracle fails due to an operating system or computer hardware failure? | Bb.	Instance Failure
-#QN=28	Which of the following is not true about indexes? | Dd.	Indexes are created with the ALTER TABLE command
-#QN=29	Which of the following is NOT an Oracle-supported trigger? | Bb.	DURING
-#QN=30	Of the three ways to create an Oracle database, which one is the easiest and most recommended? | Aa.	Using the Oracle Database Configuration Assistant
-#QN=31	Which SQL phrase is not supported by Oracle? | Bb.	ON UPDATE CASCAD
-#QN=32 Money is defined in Oracle with the Currency data type | Bb.	False
-#QN=33	Oracle maintains a System Change Number (SCN) which is a database-wide value that is incremented by Oracle whenever database changes are made. | Aa.	True
-#QN=34	A distributed database has which of the following advantages over a centralized database? | Dd.	Modular growth
-#QN=35	A homogenous distributed database is which of the following? | Bb.	The same DBMS is used at each location and data are distributed across all nodes
-#QN=36	Replication should be used when which of the following exist? | Cc.	The application's data can be somewhat out-of-date
-#QN=37	A distributed database is which of the following? | Aa.	A single logical database that is spread to multiple locations and is interconnected by a networ
-#QN=38	With failure transparency, all of the actions of a transaction are committed or none of them are committed | Aa.	True
-#QN=39	Databases that are stored on computers at multiple locations and are not interconnected by a network are known as distributed databases. | Bb.	False
-#QN=40	The purpose of timestamping is to avoid the use of locks. | Aa.	True
-#QN=41	A semijoin is which of the following? | Cc.	Only the joining attributes are sent from one site to another and then only the required rows are returned
-#QN=42	An autonomous homogenous environment is which of the following? | Aa.	The same DBMS is at each node and each DBMS works independently
-#QN=86	Which of the following SQL statements are helpful in database redesign? | Cc.	Both of the above are helpful 
-#QN=87	What SQL command can be used to delete columns from a table? | Cc.	ALTER TABLE TableName DROP COLUMN ColumnName
-#QN=88	Database redesign is not terribly difficult if the: | Cc.	database has no data
-#QN=89	Which SQL-92 standard SQL command can be used to change a table name? | Dd.	None of the above is correct.
-#QN=90	The process of reading a database schema and producing a data model from that schema is known as: | Cc.	reverse engineering
-#QN=91	Before any changes to database structure are attempted one should first: | Dd.	All of the above should be done
-#QN=92	Which of the following modifications may not succeed? | Aa.	Changing a column data type from char to dat
-#QN=93	How can you find rows that do not match some specified condition? | Bb.	Double use of NOT EXIST
-#QN=94	A regular subquery can be processed: | Bb.	from the bottom up
-#QN=95	What SQL command can be used to add columns to a table? | Dd.	ALTER TABLE TableName ADD ColumnNam
-#QN=96	The EXISTS keyword will be true if: | Aa.	any row in the subquery meets the condition only
-#QN=97	Changing cardinalities in a database is: | Aa.	a common database design task
-#QN=98	The NOT EXISTS keyword will be true if: | Bb.	all rows in the subquery fail the condition
-#QN=99	The data model that is produced from reverse engineering is: | Dd.	None of the above is correct
-#QN=100	To drop a column that is used as a foreign key, first: | Cc.	drop the foreign key constraint
-#QN=101	What SQL command will allow you to change the table STUDENT to add the constraint named GradeCheck that states that the values of the Grade column must be greater than 0? | Cc.	ALTER TABLE STUDENT ADD CONSTRAINT GradeCheck CHECK (Grade > 0)
-#QN=102	Which is not true of a correlated subquery? | Dd.	They are very similar to a regular subquery
-#QN=103	A tool that can help designers understand the dependencies of database structures is a: | Aa.	dependency graph
-#QN=104	How many copies of the database schema are typically used in the redesign process? | Cc.	Thre
-#QN=105	Because of the importance of making data model changes correctly, many professionals are ________ about using an automated process for database redesign. | Bb.	skeptica
-#QN=106	A correlated subquery is processed as a nested subquery. | Aa.	Tru
-#QN=107	A regular subquery is processed from the bottom up. | Aa.	Tru
-#QN=108	Correlated subqueries are similar to a regular subquery. | Bb.	Fals
-#QN=109	Database redesign is especially difficult if the database has no data. | Bb.	Fals
-#QN=110	Some organizations take the stand that no application should ever employ the true name of a table. | Aa.	Tru
-#QN=111	The use of the double NOT EXISTS can be used to find rows that do not match some specified condition. | Aa.	Tru
-#QN=112	Although creating test databases is a critical and necessary job, there are few career opportunities in this area. | Bb.	Fals
-#QN=113	Because of the need for extensive knowledge of SQL, many database developers choose to automate the redesign process. | Bb.	Fals
-#QN=114	The data model produced from the reverse engineering process does not include intersection table data. | Bb.	Fals
-#QN=115	If a database is built correctly the first time, it will not have to be redesigned. | Bb.	Fals
-#QN=116	The SQL-92 command to change a table name is RENAME TABLE. | Bb.	Fals
-#QN=117	Reverse engineering is the process of reading a database schema and producing a data model from that schema. | Aa.	Tru
-#QN=118	The data model produced from the reverse engineering process is a true logical model. | Bb.	Fals
-#QN=119	It is not easy to build a database correctly the first time. | Aa.	Tru
-#QN=120	Typically, there should be at least two different copies of the database schema used in the redesign process. | Bb.	Fals
-#QN=121	Information systems and organizations do not just influence each other; they create each other. | Aa.	True
-#QN=122	Adding null columns to a table is straightforward. | Aa.	Tru
- | 
-#QN=123	The NOT EXISTS keyword will be true if any row in the subquery meets the condition. | Bb.	Fals
- | 
-#QN=124	Dependency graphs are diagrams that consist of nodes and arcs that show the dependencies of a database. | Aa.	Tru
- | 
-#QN=125	The EXISTS keyword will be true if any row in the subquery meets the condition. | Aa.	Tru
- | 
-#QN=126	Which of the following data constraints would be used to specify that the value of cells in a column must be one of a specific set of possible values? | Aa.	A domain constrain
- | 
-#QN=127	In a 1:N relationship, the foreign key is placed in: | Cc.	the child table
- | 
-#QN=128	Which of the following column properties specifies whether or not cells in a column must contain a data value? | Aa.	Null statu
- | 
-#QN=129	A primary key should be defined as: | Bb.	NOT NULL
- | 
-#QN=130	Which of the following column properties would be used to specify that cells in a column must contain a monetary value? | Bb.	Data typ
- | 
-#QN=131	Which of the following situation requires the use of ID-dependent entities? | Dd.	All of the above use ID dependent entitie
- | 
-#QN=132	A foreign key is: | Aa.	a column containing the primary key of another table
- | 
-#QN=133	Which of the following columns is(are) are required in a table? | Cc.	A primary ke
- | 
-#QN=134	In a 1:1 relationship, the foreign key is placed in: | Aa.	either table without specifying parent and child tables
- | 
-#QN=135	Which of the following column properties would be used to specify that cells in a column must be immediately filled with a monetary value of $10,000? | Cc.	Default valu
- | 
-#QN=136	The identifier of an entity will become the ________ of the new table. | Cc.	primary ke
- | 
-#QN=137	Which of the following data constraints would be used to specify that the value of a cell in one column must be less than the value of a cell in another column in the same row of the same table? | Cc.	An intrarelation constrain
- | 
-#QN=138	A unique, DBMS-supplied identifier used as the primary key of a relation is called a(n): | Dd.	surrogate key
- | 
-#QN=139	Which is not true about surrogate keys? | Cc.	They have meaning to the user
- | 
-#QN=140	For every relationship, how many possible types of actions are there when enforcing minimum cardinalities? | Dd.	Si
- | 
-#QN=141	Which constraint requires that the binary relationship indicate all combinations that must appear in the ternary relationship? | Aa.	MUST COVE
- | 
-#QN=142	Each entity is represented as a(n): | Bb.	table
- | 
-#QN=143	For every relationship, how many possible sets of minimum cardinalities are there? | Cc.	Fou
- | 
-#QN=144	If a relationship has a cascade updates constraint, then if ________ in the parent table is changed, then the same change will automatically be made to any corresponding foreign key value. | Aa.	the primary ke
- | 
-#QN=145	Which of the following column properties would be used to specify that cells in a column must contain a monetary value that is less than another monetary value in the same row? | Dd.	Data constraint
- | 
-#QN=146	A foreign key is used to implement relationships between tables. | Aa.	Tru
- | 
-#QN=147	The terms alternate key and candidate key mean the same thing. | Aa.	Tru
- | 
-#QN=148	In 1:N relationships, which entity becomes the parent entity is arbitrary. | Bb.	Fals
- | 
-#QN=149	When the parent entity is required, cascading updates and cascading deletions should be allowed or the associated actions on the parent should be prohibited. | Aa.	Tru
- | 
-#QN=150	In a 1:1 relationship, the primary key placement is arbitrary. | Aa.	Tru
- | 
-#QN=151	When the parent entity is required, a new child row can always be inserted. | Bb.	Fals
- | 
-#QN=152	All primary keys are required. | Aa.	Tru
- | 
-#QN=153	Intersection tables are ID-dependent on both their parent tables. | Aa.	Tru
- | 
-#QN=154	For every relationship, there are six possible sets of minimum cardinalities. | Bb.	Fals
- | 
-#QN=155	An intersection table is required to represent M:N relationships. | Aa.	Tru
- | 
-#QN=156	The DBMS allows surrogate keys to be changed. | Bb.	Fals
- | 
-#QN=157	Cascading updates refers to child rows being automatically deleted when a parent row is deleted. | Bb.	Fals
- | 
-#QN=158	When transforming an entity-relationship model into a relational database design, each entity is represented as a table. | Aa.	Tru
- | 
-#QN=159	Surrogate keys have much meaning for users. | Bb.	Fals
- | 
-#QN=160	When the child entity is required, we are restricted from creating a new parent row without also creating a corresponding child row at the same time. | Aa.	Tru
- | 
-#QN=161	(STREET ADDRESS, CITY, STATE, ZIP) is an ideal primary key. | Bb.	Fals
- | 
-#QN=162	When the parent entity is required and the parent has a surrogate key, update actions can be ignored. | Aa.	Tru
- | 
-#QN=163	When the parent entity is required, a new parent row can always be inserted. | Aa.	Tru
- | 
-#QN=164	For every relationship, there are six possible referential integrity actions. | Aa.	Tru
- | 
-#QN=165	An ideal primary key is short, numeric and seldom changing. | Aa.	Tru
- | 
-#QN=166	You can add a row using SQL in a database with which of the following? | Cc.	INSERT
- | 
-#QN=167	The command to remove rows from a table 'CUSTOMER' is: | Cc.	DELETE FROM CUSTOMER WHERE ..
- | 
-#QN=168	The SQL WHERE clause: | Bb.	limits the row data are returned
- | 
-#QN=169	Which of the following is the original purpose of SQL? | Dd.	All of the above
- | 
-#QN=170	The wildcard in a WHERE clause is useful when? | Bb.	An exact match is not possible in a SELECT statement
- | 
-#QN=171	A view is which of the following? | Aa.	A virtual table that can be accessed via SQL command
- | 
-#QN=172	The command to eliminate a table from a database is: | Bb.	DROP TABLE CUSTOMER
- | 
-#QN=173	ON UPDATE CASCADE ensures which of the following? | Bb.	Data Integrity
- | 
-#QN=174	SQL data definition commands make up a(n) ________ . | Aa.	DDL
- | 
-#QN=175	Which of the following is valid SQL for an Index? | Aa.	CREATE INDEX ID;
- | 
-#QN=176	The SQL keyword(s) ________ is used with wildcards. | Aa.	LIKE only
- | 
-#QN=177	Which of the following is the correct order of keywords for SQL SELECT statements? | Aa.	SELECT, FROM, WHER
- | 
-#QN=178	A subquery in an SQL SELECT statement is enclosed in: | Cc.	parenthesis -- (...)
- | 
-#QN=179	The result of a SQL SELECT statement is a(n) ________ . | Dd.	table
- | 
-#QN=180	Which of the following are the five built-in functions provided by SQL? | Aa.	COUNT, SUM, AVG, MAX, MIN
- | 
-#QN=181	In an SQL SELECT statement querying a single table, according to the SQL-92 standard the asterisk (*) means that: | Aa.	all columns of the table are to be returned
- | 
-#QN=182	The HAVING clause does which of the following? | Aa.	Acts like a WHERE clause but is used for groups rather than rows
- | 
-#QN=183	The SQL -92 wildcards are ____ and ____ . | Bb.	percent sign (%); underscore (_
- | 
-#QN=184	To remove duplicate rows from the results of an SQL SELECT statement, the ________ qualifier specified must be included. | Cc.	DISTINCT
- | 
-#QN=185	The benefits of a standard relational language include which of the following? | Aa.	Reduced training cost
- | 
-#QN=186	Which of the following do you need to consider when you make a table in SQL? | Dd.	All of the above
- | 
-#QN=187	SQL query and modification commands make up a(n) ________ . | Bb.	DM
- | 
-#QN=188	When three or more AND and OR conditions are combined, it is easier to use the SQL keyword(s): | Dd.	Both IN and NOT IN
- | 
-#QN=189	The Microsoft Access wildcards are ____ and ____ . | Dd.	question mark (?); asterisk (*
- | 
-#QN=190	Find the SQL statement below that is equal to the following: SELECT NAME FROM CUSTOMER WHERE STATE = 'VA'; | Dd.	SELECT NAME FROM CUSTOMER WHERE STATE IN ('VA')
- | 
-#QN=191	Which one of the following sorts rows in SQL? | Cc.	ORDER B
- | 
-#QN=192	To sort the results of a query use: | Cc.	ORDER BY
- | 
-#QN=193	To define what columns should be displayed in an SQL SELECT statement: | Aa.	use FROM to name the source table(s) and list the columns to be shown after SELECT
- | 
-#QN=194	SQL can be used to: | Dd.	All of the above can be done by SQL
- | 
-#QN=195	The SQL statement that queries or reads data from a table is ________ . | Aa.	SELEC
- | 
-#QN=196	The SQL keyword BETWEEN is used: | Aa.	for ranges
- | 
-#QN=197	A subquery in an SQL SELECT statement: | Cc.	has a distinct form that cannot be duplicated by a join
- | 
-#QN=198	________ was adopted as a national standard by ANSI in 1992. | Bb.	SQ
- | 
-#QN=199	SQL is: | Cc.	a data sublanguage
-#QN=1	The DBMS acts as an interface between what two components of an enterprise-class database system? | Aa.
-#QN=2	Which of the following products was an early implementation of the relational model developed by E.F. Codd of IBM? | Bb.	DB
-#QN=3	The following are components of a database except ________ . | Cc.	report
+# Which of the following relational algebra operations do not require the participating tables to be union-compatible? | dd.	Joi
+# Which of the following is not a property of transactions? | bb.	Concurrence
+# Relational Algebra does not have | cc.	Aggregation operators
+# Checkpoints are a part of | aa.	Recovery measures
+# Tree structures are used to store data in | cc.	Hierarchical model
+# The language that requires a user to specify the data to be retrieved without specifying exactly how to get it is | bb.	Non-Procedural DM
+# Precedence graphs help to find a | Aa.	Serializable schedule
+# The rule that a value of a foreign key must appear as a value of some specific table is called a | aa.	Referential constrain
+# The clause in SQL that specifies that the query result should be sorted in ascending or descending order based on the values of one or more columns is | bb. Order b
+# What is a disjoint less constraint? | aa.	It requires that an entity belongs to no more than one level entity set
+# According to the levels of abstraction, the schema at the intermediate level is called | conceptual schema 
+# It is an abstraction through which relationships are treated as higher level entities | cc.	Aggregation
+# A relation is in _________ if an attribute of a composite key is dependent on an attribute of other composite key. | bb.	3NF
+# What is data integrity? | bb.	It is the data contained in database that is accurate and consistent
+# What are the desirable properties of a decomposition? | bb.	Dependency preservation
+# In an E-R diagram double lines indicate | aa.	Total participation
+# The operation which is not considered a basic operation of relational algebra is | aa.	Join
+# Fifth Normal form is concerned with | cc.	Join dependency
+# Block-interleaved distributed parity is RAID level | dd. 5
+# Immediate database modification technique uses | aa.	Both undo and redo
+# In SQL the statement select * from R, S is equivalent to | bb.	Select * from R cross join S
+# Which of the following is not a consequence of concurrent operations? | bb.	Update anomaly
+# As per equivalence rules for query transformation, selection operation distributes over | dd.	All of the above
+# The metadata is created by the | Cc. DDL interpreter
+# When an E-R diagram is mapped to tables, the representation is redundant for | bb. weak relationship sets
+# When R ? S ? ? , then the cost of computing R  S is | aa.	the same as R x S
+# In SQL the word ?natural? can be used with | aa.	inner join
+# The default level of consistency in SQL is | dd.	Serializable
+# If a transaction T has obtained an exclusive lock on item Q, then T can | cc.	both read and write Q
+# Shadow paging has | aa.	no redo
+# If the closure of an attribute set is the entire relation then the attribute set is a | aa.	superkey
+# DROP is a  	statement in SQL | cc.	DDL
+# If two relations R and S are joined, then the non matching tuples of both R and S are ignored in | dd.	inner join
+# The keyword to eliminate duplicate rows from the query result in SQL is | cc.	UNIQUE
+# In 2NF | cc.	No partial FDs exist
+# Which one is correct statement? Logical data independence provides following without changing application programs: (i)     Changes in access methods. (ii)    Adding new entities in database (iii)  Splitting an existing record into two or more records (iv)   Changing storage medium | dd.	(ii) and (iii)
+# In an E-R, Y is the dominant entity and X is a subordinate entity. Then which of the following is incorrect | cc.	Operationally, if X is deleted, so is Y
+# Relational Algebra is | cc.	Procedural query Language
+# Which of the following aggregate functions does not ignore nulls in its results?. | bb.	COUNT (*)
+# R (A,B,C,D) is a relation. Which of the following does not have a lossless join dependency preserving BCNF decomposition | dd.	A?BCD
+# Consider the join of relation R with a relation S. If R has m tuples and S has n tuples, then the maximum and minimum size of the join respectively are | cc.	mn and 0
+# Maximum height of a B+ tree of order m with n key values is | dd.	None of these
+# Which one is true statement? | aa.	With finer degree of granularity of locking a high degree of concurrency is possible
+# Which of the following statement on the view concept in SQL is invalid? | dd.	The definition of a view should not have GROUP BY clause in it
+# Which  of  the  following  concurrency  control  schemes  is  not  based  on  the serializability property? | dd.	None of these
+# Which of the following is a reason to model data? | dd.	All of the above
+# If an entity can belong to only one lower level entity then the constraint is | bb.	partial
+# The common column is eliminated in | cc.	natural join
+# In SQL, testing whether a subquery is empty is done using | dd.	EXISTS
+# Use of UNIQUE while defining an attribute of a table in SQL means that the attribute values are | cc.	both (A) & (B)
+# The cost of reading and writing temporary files while evaluating a query can be reduced by | bb.	Pipelining
+# A transaction is in  	state after the final statement has been executed. | cc.	Committed
+# In multiple granularity of locks SIX lock is compatible with | bb.	IS
+# The  statement that  is  executed automatically by  the  system  as  a  side  effect  of  the modification of the database is | dd.	Trigger
+# The normal form that is not necessarily dependency preserving is | aa.	2NF
+# A functional dependency of the form x ? y is trivial if | aa.	y ? x
+# The normalization was first proposed by | bb.	Codd
+# The division operator divides a dividend A of degree m+n by a divisor relation B of degree n and produces a result of degree | dd. m
+# Which of the following is not a characteristic of a relational database model? | bb.	Tree like structure
+# Assume transaction A holds a shared lock R. If transaction B also requests for a shared lock on R | cc.	It will immediately be granted
+# In E-R Diagram total participation is represented by | aa.	double line
+# The FD  A ? B , DB ? C implies | aa.	DA ? C
+# The graphical representation of a query is | cc.	Query Tree
+# Union operator is a : | cc.	Binary Operator
+# Relations produced from an E-R model will always be | aa.	First normal form
+# Manager salary details are hidden from the employee .This is | aa.	Conceptual level data hiding
+# Which of the following is true for network structure? | aa.	It is a physical representation of the data
+# Which two files are used during operation of the DBMS? | cc.	Data dictionary and transaction log
+# A list consists of last names, first names, addresses and pin codes. If all people in the list have the same last name and same pin code a useful key would be | cc.	the compound key first name and last name
+# In b-tree the number of keys in each node is  	 than the number of its children | aa.	one less
+# The drawback of shadow paging technique are | dd.	All of these
+# Which normal form is considered adequate for normal relational database design? | dd.	3NF
+# Which of the following addressing modes permits relocation without any change over in the code? | bb.	Indexed addressing
+# In a multi-user database, if two users wish to update the same record at the same time, they are prevented from doing so by | dd.	record lock
+# The values of the attribute describes a particular | cc.	Entity instance
+# Which of the following relational algebraic operations is not from set theory? | dd.	Select
+# Which of the following ensures the atomicity of the transaction? | aa.	Transaction management component of DBMS
+# If  both the functional dependencies : X?Y and Y?X hold for two attributes X and Y then the relationship between X and Y is | cc.	1:1
+# What will be the number of columns and rows respectively obtained for the operation, A - B, if A B are Base union compatible and all the rows of a are common to B? Assume A has 4 columns and 10 rows; and B has 4 columns and 15 rows | aa.	4,0
+# For correct behaviour during recovery, undo and redo operation must be | cc.	idempotent
+# Which of the following is not a consequence of non-normalized database? | dd.	Lost update problem
+# Which of the following is true for relational calculus? | aa.	?x?P?x????????x???P?x?
+# The part of a database management system which ensures that the data remains in a consistent state is | cc.	transaction manager
+# Relationships among relationships can be represented in an-E-R model using | aa.	Aggregation
+# In tuple relational calculus P1 AND P2 is equivalent to | dd. ???P1OR ?P2?
+# If ??? holds then so does | aa.	????
+# Cascading rollback is avoided in all protocol except | dd.	validation based protocol
+# Wait-for graph is used for | dd.	deadlock detection
+#	The expression ??1?E1  ?2E2? is the same as | aa. E1  ?1^ ?2E2
+#	The clause alter table in SQL can be used to | dd.	all of the above
+#	The data models defined by ANSI/SPARC architecture are | dd.	Logical, physical and vieï¿½
+#	Whenever two independent one-to-many relationships are mixed in the same relation, a 	 arises | bb.	Multi-valued dependency
+#	A table can have only one | dd.	Primary key
+#	Dependency preservation is not guaranteed in | aa.	BCNF
+#	Which is the best file organization when data is frequently added or deleted from a file? | bb.	Direct	
+#	Which of the following constitutes a basic set of operations for manipulating relational data? | cc.	Relational algebra
+#	An advantage of views is | aa.	Data securitt
+#	Which of the following is not a recovery technique? | cc.	Two-phase commit
+#	Isolation of the transactions is ensured by | cc.	Concurrency control
+#	operator is used to compare a value to a list of literals values that have been specified | aa.	Like
+#	If a denormalization situation exists with a one-to-one binary relationship, which of the following is true? | Aa.	All fields are stored in one relation
+#  Selecting a data type involves which of the following? | Cc.	Improve data integrity
+#	What is the best data type definition for Oracle when a field is alphanumeric and has a length that can vary? | Aa.	VARCHAR2
+#	If a denormalization situation exists with a many-to-many or associative binary relationship, which of the following is true? | Bb.	All fields are stored in two relations
+#	Which of the following is an advantage of partitioning? | dd.	Security
+#	The blocking factor is: | Bb.	the number of physical records per page
+#	Which of the following improves a query's processing time? | dd.	Use compatible data types
+#	Which of the following are integrity controls that a DBMS may support? | dd.	All of the above
+#	Which of the following is not a factor to consider when switching from small to large block size? | Bb.	The number of columns
+#	What is the best data type definition for Oracle when a field is alphanumeric and has a fixed length? | Bb.	CHAR
+#	Two basic constructs to link one piece of data with another piece of data: sequential storage and pointers. | Truee
+# Denormalization and clustering can work well to minimize data access time for small records. | Bb.	True
+#	Hashing algorithm converts a primary key value into a record address. | Aa.	False
+#	The primary goal of physical database design is data processing efficiency. | Bb.	True
+#	A bitmap index is an index on columns from two or more tables that come from the same domain of values. | Aa.	False
+#	A secondary key is which of the following? | Aa.	Nonunique key
+#	The fastest read/write time and most efficient data storage of any disk array type is: | Aa.	RAID-0
+#	A rule of thumb for choosing indexes for a relational database includes which of the following? | Dd.	Be careful indexing attributes that have null values
+#	Sequential retrieval on a primary key for sequential file storage has which of the following features? | Aa.	Very fast
+#  A multidimensional database model is used most often in which of the following models? | Aa.	Data warehouse
+#	When storage space is scarce and physical records cannot span pages, creating multiple physical records from one logical relation will minimize wasted storage space. | Truee
+#	A field represents each component of a composite attribute. | Truee
+#	Some advantages of partitioning include: efficiency, security, and load balancing. | Truee
+#	A pointer is a detailed coding scheme recognized by system software for representing organizational data. | Falsee
+#	Distributing the columns of a table into several separate physical records is known as horizontal partitioning. | Falsee
+#	It is usually not very important to design the physical database to minimize the time required by users to interact with the information systems. | Falsee
+#	In general, larger block sizes are used for online transaction processing applications and smaller block sizes are used for databases with a decision support or data warehousing system. | Falsee
+#	Data-volume and frequency-of-use statistics are not critical inputs to the physical database design process | Falsee
+#	The three newest database architectures in use today are relational, multidimensional and hierarchical. | Falsee
+#	An extent is a contiguous section of disk storage space. | Truee
+#	Data scrubbing is which of the following? | Dd.	A process to upgrade the quality of data before it is moved into a data warehouse
+#	The @active data warehouse architecture includes which of the following? | Dd.	All of the above
+#	A goal of data mining includes which of the following? | Aa.	To explain some observed event or condition
+#	An operational system is which of the following? | Bb.	A system that is used to run the business in real time and is based on current data
+#	A data warehouse is which of the following? | Cc.	Organized around important subject areas
+#	A data mart is designed to optimize the performance for well-defined and predicable uses. | Truee
+#	Successful data warehousing requires that a formal program in total quality management (TQM) be implemented. | Truee
+#	Data in operational systems are typically fragmented and inconsistent. | Truee
+#	Most operational systems are based on the use of transient data. | Truee
+#	Independent data marts are often created because an organization focuses on a series of short-term business objectives. | Truee
+#	A snowflake schema is which of the following types of tables? | Dd.	All of the above
+#	The generic two-level data warehouse architecture includes which of the following? | Bb.	Data that can extracted from numerous internal and external source
+#	Fact tables are which of the following? | Cc.	Completely normalize
+#	Data transformation includes which of the following? | Aa.	A process to change data from a detailed level to a summary level
+#	Reconciled data is which of the following? | Bb.	Current data intended to be the single source for all decision support system
+#	Joining is the process of partitioning data according to predefined criteria. | Falsee
+#	The role of the ETL process is to identify erroneous data and to fix them. | Falsee
+#	Data in the data warehouse are loaded and refreshed from operational systems. | Truee
+#	Star schema is suited to online transaction processing, and therefore is generally used in operational systems, operational data stores, or an EDW. | Falsee
+#	Periodic data are data that are physically altered once added to the store | Falsee
+#  Both status data and event data can be stored in a database. | Truee
+#	Static extract is used for ongoing warehouse maintenance | Falsee
+#	Data scrubbing can help upgrade data quality; it is not a long-term solution to the data quality problem. | Truee
+#	Every key used to join the fact table with a dimensional table should be a surrogate key | Truee
+#	Every key used to join the fact table with a dimensional table should be a surrogate key | Falsee
+#	The load and index is which of the following? | Bb.	A process to load the data in the data warehouse and to create the necessary indexes
+#	The extract process is which of the following? | Bb.	Capturing a subset of the data contained in various operational system
+#	A star schema has what type of relationship between a dimension and fact table? | Cc.	One-to-many
+#	Transient data is which of the following? | Aa.	Data in which changes to existing records cause the previous version of the records to be eliminated
+#	A multifield transformation does which of the following? | Dd.	All of the above
+#	A distributed database has which of the following advantages over a centralized database? | Dd.	Modular growth
+#	An autonomous homogenous environment is which of the following? | Aa.	The same DBMS is at each node and each DBMS works independently
+#	A transaction manager is which of the following? | Dd.	All of the above
+#	Location transparency allows for which of the following? | Dd.	All of the above
+#	A heterogeneous distributed database is which of the following? | Dd.	A different DBMS is used at each location and data are distributed across all nodes
+#	Some of the columns of a relation are at different sites is which of the following? | Cc.	Vertical Partitioning
+#	Which of the following is true concerning a global transaction? | Bb.	The required data are located in at least one nonlocal site and the distributed DBMS routes requests as necessary
+#	A homogenous distributed database is which of the following? | Bb.	The same DBMS is used at each location and data are distributed across all nodes
+#	Replication should be used when which of the following exist? | Cc.	The application's data can be somewhat out-of-date
+#	Storing a separate copy of the database at multiple locations is which of the following? | Aa.	Data Replication
+#	With failure transparency, all of the actions of a transaction are committed or none of them are committed | Truee
+#	Each site (or node) in a distributed system is subject to the same types of failure as in a centralized system. | Truee
+#	Replication may use either synchronous or asynchronous distributed database technologies, although asynchronous technologies are more typical in a replicated environment. | Truee
+#	Synchronization for pull replication is less disruptive and occurs only when needed by each site, not when a central master site thinks it is best to update. | Truee
+#	With asynchronous technology, if any copy of a data item is updated anywhere on the network, the same update is immediately applied to all other copies or it is aborted. | Falsee
+#	Databases that are stored on computers at multiple locations and are not interconnected by a network are known as distributed databases. | Falsee
+#	An increasingly popular option for data distribution as well as for fault tolerance of any database is to store a separate copy of the database at each of two or more sites. | Truee
+#	Asynchronous technology can result in unsatisfactorily slow response time because the distributed DBMS is spending considerable time checking that an update is accurately and completely propagated across the network. | Falsee
+#	A distributed unit of work allows various statements within a unit of work to refer to multiple remote DBMS locations. | Truee
+#	The purpose of timestamping is to avoid the use of locks. | Truee
+#	Data replication is favored where most process requests are read-only and where the data are relatively static | Truee
+#	The cost to perform a snapshot refresh may depend on whether the snapshot is simple or complex | Truee
+#	The semijoin approach saves network traffic. | Truee
+#	In a semijoin, only the joining attribute is sent from one site to another, and then only the required rows are returned. | Truee
+#	The problem of concurrency control is more complex in a distributed database. | Truee
+#	A distributed database is which of the following? | Aa.	A single logical database that is spread to multiple locations and is interconnected by a network
+#	A semijoin is which of the following? | Cc.	Only the joining attributes are sent from one site to another and then only the required rows are returned
+# | Cc.	Each site must have the same storage capacity
+#	A distributed database can use which of the following strategies? | Dd.	All of the above
+#	Which of the following is not one of the stages in the evolution of distributed DBMS? | Aa.	Unit of work
+#	ODL supports which of the following types of association relationships? | Bb.	Unary and Binary
+#	An extent is which of the following? | Cc.	The set of all instances of a class within a database
+#	Identify the class name for the following code: ABC123 course(); | Aa.	ABC123
+#	Using ODL, you can define which of the following? | Dd.	All of the above
+#	The keyword "inverse" is used in which of the following? | Cc.	Relationship
+#	The object definition language (ODL) is which of the following? | Dd.	All of the above
+#	An atomic literal is which of the following? | Dd.	All of the above
+#	Which of the following is true concerning an ODBMS? | Aa.	They have the ability to store complex data types on the Web
+#	The reserved word enum is used for which of the following? | Aa.	To define a range for an attribute
+#	Which of the following is an unordered collection of elements that may contain duplicates? | Bb.	Bag
+#	Which of the following is true concerning the following statement: class Manager extends Employee | Bb.	Manager is a concrete class and a subclass
+#	Which of the following is an ordered collection of elements of the same type? | Cc.	List
+#	A relationship should be specified how in the ODL? | Dd.	Both direction
+#	Using OQL, you may do which of the following? | Dd.	All of the above
+#	The Object Query Language is which of the following"? | Aa.	Similar to SQL and uses a select-from-where structure
+#	ODL supports the abstract keyword for classes and operations. | Falsee
+#	The ODMG Object Model requires that a relationship be specified in both directions | Truee
+#	Before specifying a key for a class, you must specify its extent. | Truee
+#	The Object Model supports different literal types, but does not support atomic literals, collection literals, and structured literals. | Falsee
+#	The ODMG Object Model supports only unary and binary relationships | Truee
+#	Literals do not have identifiers, and, therefore, cannot be individually referenced like objects. | Truee
+#	An attribute's value is always literal | Truee
+#	An attribute's value is either a literal or an object identifier | Truee
+#	Database objects are almost always transient. | Falsee
+#	A collection of literals or object types is called a bag. | Falsee
+#	An ordered collection of elements of the same type are called sets. | Falsee
+#	You may specify an object identifier with only one unique tag name. | Falsee
+#	Specifying a key ensures that no two objects belonging to a class have the same value for the key attribute(s). | Truee
+#	If you know all the possible values that an attribute can have, you can enumerate those values in ODL. | Truee
+#	In ODL, you specify an operation using parentheses after its name | Truee
+#	The entity integrity rule states that: | Aa.	no primary key attribute may be null
+#	When mapping a many-to-many unary relationship into a relation which of the following is true? | Bb.	Two relations are created
+#	If no multivalued attributes exist and no partial dependencies exist in a relation, then the relation is in what normal form? | Bb.	First normal form
+#	A foreign key is which of the following? | Cc.	An attribute that serves as the primary key of another relation
+#	A transitive dependency is which of the following? | Bb.	A functional dependency between two or more nonkey attributes
+#	When mapping a multivalued attribute into a relation which of the following is true? | Bb.	Two relations are created
+#	If no multivalued attributes exist in a relation, then the relation is in what normal form? | Aa.	First normal form
+#	A primary key is which of the following? | Bb.	An attribute that uniquely identifies each roï¿½
+#	The relational model consists of: | Aa.	data in the form of tables
+#	When mapping a binary many-to-many relationship into a relation which of the following is true? | Cc.	Three relations are created
+#	A relation has which of the following properties? | Cc.	Each relation has a unique name
+#	When mapping a ternary relationship with an associative entity into a relation which of the following is true? | Dd.	Four relations are created
+#	When mapping a regular entity into a relation which of the following is true? | Cc.	Three relations are create
+#	When mapping a supertype/subtype relationship which of the following is true? | Aa.	The supertype primary key is assigned to each subtype
+#	Relations are: | Aa.	two-dimensional tables
+#	A composite attribute does not get mapped into a relation. | Truee
+#	A relation is a two-dimensional table | Truee
+#	An enterprise key is a primary key whose value is unique for a given relation. | Falsee
+#	Weak entities do not get mapped into a relation. | Falsee
+#	A primary key may be null. | Falsee
+#	Normalization is a formal process for deciding which attributes should be grouped together in a relation. | Truee
+#	In a 1:M relationship, the primary key on the one side migrates to the many side to become the foreign key on the many side. | Truee
+#	A synonym is two or more attributes that have different names but the same meaning | Truee
+#	A null value is assigned when no other value applies. | Truee
+#	The primary key in a relation does not need to be underlined. | Falsee
+#	The primary key of the new relation in a many-to-many relationship is a composite key comprised of the primary keys of each of the binary entities. | True
+#	A foreign key may be null and still adhere to the referential integrity constraint. | Truee
+#	A candidate key must uniquely identify each row. | Truee
+#	Well-structured relations encourage anomalies of data. | Falsee
+#	If a relation is in third normal form, it does not need to be in second normal form. | Falsee
+# A relation in this form is free of all modification anomalies | Dd.	Domain/key normal form
+# A relation is in this form if it is in BCNF and has no multivalued dependencies: | Cc.	Fourth normal form
+# When the values in one or more attributes being used as a foreign key must exist in another set of one or more attributes in another table, we have created a(n): | Cc.	Referential integrity constraint
+# If a denormalization situation exists with a one-to-one binary relationship, which of the following is true? | Aa.	All fields are stored in one relation
+# Which of the following is an advantage of partitioning? | Dd.	Security
+# Two basic constructs to link one piece of data with another piece of data: sequential storage and pointers. | Truee
+# A bitmap index is an index on columns from two or more tables that come from the same domain of values. | Falsee
+#	Which of the following are integrity controls that a DBMS may support? | Dd.	All of the above
+#	In a one-to-many relationship, the entity that is on the one side of the relationship is called a(n) ________ entity | Aa.	parent
+#	Which of the following indicates the minimum number of entities that must be involved in a relationship? | Aa.	Minimum cardinality
+#	Which type of entity is related to two or more associated entities that each contain specialized attributes that apply to some but not all of the instances of the entity? | Aa.	Supertype entity
+#	Which of the following is NOT a basic element of all versions of the E-R model? | Dd.	Primary key
+#	An ID-dependent entity is an entity whose identifier is a composite identifier where no portion of the composite identifier is an identifier of another entity. | Falsee
+#	All instances of an entity class have the same attributes. | Truee
+#	An entity is something that can be identified in the user's work environment; something that the users want to track. | Truee
+#	The SQL command to create a table is: | Dd.	CREATE TABLE
+#	SQL views can be used to hide: | Cc.	both of the above can be hidden by an SQL view
+#	To update an SQL view, the DBMS must be able to associate the column(s) to be updated with: | Cc.	a particular row in a particular underlying table
+#	A ________ is a program that performs some common action on database data and that is stored in the database. | Bb.	stored procedure
+#	What is an SQL virtual table that is constructed from other tables? | Bb.	A view
+#	What is not an advantage of stored procedures? | Dd.	Increased network traffic
+#	Standard SQL-92 views are constructed from SQL SELECT statements that do not contain the GROUP BY clause. | Falsee
+#	Common types of SQL CHECK constraints include range checks and limiting columns values. | Truee
+#	If any required (NOT NULL) columns are missing from the view, the view cannot be used for inserting new data. | Truee
+#	What type of failure occurs when Oracle fails due to an operating system or computer hardware failure? | Bb.	Instance Failure
+#	Which of the following is not true about indexes? | Dd.	Indexes are created with the ALTER TABLE command
+#	Which of the following is NOT an Oracle-supported trigger? | Bb.	DURING
+#	Of the three ways to create an Oracle database, which one is the easiest and most recommended? | Aa.	Using the Oracle Database Configuration Assistant
+#	Which SQL phrase is not supported by Oracle? | Bb.	ON UPDATE CASCAD
+# Money is defined in Oracle with the Currency data type | Falsee
+#	Oracle maintains a System Change Number (SCN) which is a database-wide value that is incremented by Oracle whenever database changes are made. | Truee
+#	A distributed database has which of the following advantages over a centralized database? | Dd.	Modular growth
+#	A homogenous distributed database is which of the following? | Bb.	The same DBMS is used at each location and data are distributed across all nodes
+#	Replication should be used when which of the following exist? | Cc.	The application's data can be somewhat out-of-date
+#	A distributed database is which of the following? | Aa.	A single logical database that is spread to multiple locations and is interconnected by a networ
+#	With failure transparency, all of the actions of a transaction are committed or none of them are committed | Truee
+#	Databases that are stored on computers at multiple locations and are not interconnected by a network are known as distributed databases. | Falsee
+#	The purpose of timestamping is to avoid the use of locks. | Truee
+#	A semijoin is which of the following? | Cc.	Only the joining attributes are sent from one site to another and then only the required rows are returned
+#	An autonomous homogenous environment is which of the following? | Aa.	The same DBMS is at each node and each DBMS works independently
+#	Which of the following SQL statements are helpful in database redesign? | Cc.	Both of the above are helpful 
+#	What SQL command can be used to delete columns from a table? | Cc.	ALTER TABLE TableName DROP COLUMN ColumnName
+#	Database redesign is not terribly difficult if the: | Cc.	database has no data
+#	Which SQL-92 standard SQL command can be used to change a table name? | Dd.	None of the above is correct.
+#	The process of reading a database schema and producing a data model from that schema is known as: | Cc.	reverse engineering
+#	Before any changes to database structure are attempted one should first: | Dd.	All of the above should be done
+#	Which of the following modifications may not succeed? | Aa.	Changing a column data type from char to dat
+#	How can you find rows that do not match some specified condition? | Bb.	Double use of NOT EXIST
+#	A regular subquery can be processed: | Bb.	from the bottom up
+#	What SQL command can be used to add columns to a table? | Dd.	ALTER TABLE TableName ADD ColumnNam
+#	The EXISTS keyword will be true if: | Aa.	any row in the subquery meets the condition only
+#	Changing cardinalities in a database is: | Aa.	a common database design task
+#	The NOT EXISTS keyword will be true if: | Bb.	all rows in the subquery fail the condition
+#	The data model that is produced from reverse engineering is: | Dd.	None of the above is correct
+#	To drop a column that is used as a foreign key, first: | Cc.	drop the foreign key constraint
+#	What SQL command will allow you to change the table STUDENT to add the constraint named GradeCheck that states that the values of the Grade column must be greater than 0? | Cc.	ALTER TABLE STUDENT ADD CONSTRAINT GradeCheck CHECK (Grade > 0)
+#	Which is not true of a correlated subquery? | Dd.	They are very similar to a regular subquery
+#	A tool that can help designers understand the dependencies of database structures is a: | Aa.	dependency graph
+#	How many copies of the database schema are typically used in the redesign process? | Cc.	Thre
+#	Because of the importance of making data model changes correctly, many professionals are ________ about using an automated process for database redesign. | Bb.	skeptica
+#	A correlated subquery is processed as a nested subquery. | True
+#	A regular subquery is processed from the bottom up. | True
+#	Correlated subqueries are similar to a regular subquery. | False
+#	Database redesign is especially difficult if the database has no data. | False
+#	Some organizations take the stand that no application should ever employ the true name of a table. | True
+#	The use of the double NOT EXISTS can be used to find rows that do not match some specified condition. | True
+#	Although creating test databases is a critical and necessary job, there are few career opportunities in this area. | False
+#	Because of the need for extensive knowledge of SQL, many database developers choose to automate the redesign process. | False
+#	The data model produced from the reverse engineering process does not include intersection table data. | False
+#	If a database is built correctly the first time, it will not have to be redesigned. | False
+#	The SQL-92 command to change a table name is RENAME TABLE. | False
+#	Reverse engineering is the process of reading a database schema and producing a data model from that schema. | True
+#	The data model produced from the reverse engineering process is a true logical model. | False
+#	It is not easy to build a database correctly the first time. | True
+#	Typically, there should be at least two different copies of the database schema used in the redesign process. | False
+#	Information systems and organizations do not just influence each other; they create each other. | Truee
+#	Adding null columns to a table is straightforward. | True
+#	The NOT EXISTS keyword will be true if any row in the subquery meets the condition. | False
+#	Dependency graphs are diagrams that consist of nodes and arcs that show the dependencies of a database. | True
+#	The EXISTS keyword will be true if any row in the subquery meets the condition. | True
+#	Which of the following data constraints would be used to specify that the value of cells in a column must be one of a specific set of possible values? | Aa.	A domain constrain
+#	In a 1:N relationship, the foreign key is placed in: | Cc.	the child table
+#	Which of the following column properties specifies whether or not cells in a column must contain a data value? | Aa.	Null statu
+#	A primary key should be defined as: | Bb.	NOT NULL
+#	Which of the following column properties would be used to specify that cells in a column must contain a monetary value? | Bb.	Data typ
+#	Which of the following situation requires the use of ID-dependent entities? | Dd.	All of the above use ID dependent entitie
+#	A foreign key is: | Aa.	a column containing the primary key of another table
+#	Which of the following columns is(are) are required in a table? | Cc.	A primary ke
+#	In a 1:1 relationship, the foreign key is placed in: | Aa.	either table without specifying parent and child tables
+#	Which of the following column properties would be used to specify that cells in a column must be immediately filled with a monetary value of $10,000? | Cc.	Default valu
+#	The identifier of an entity will become the ________ of the new table. | Cc.	primary ke
+#	Which of the following data constraints would be used to specify that the value of a cell in one column must be less than the value of a cell in another column in the same row of the same table? | Cc.	An intrarelation constrain
+#	A unique, DBMS-supplied identifier used as the primary key of a relation is called a(n): | Dd.	surrogate key
+#	Which is not true about surrogate keys? | Cc.	They have meaning to the user
+#	For every relationship, how many possible types of actions are there when enforcing minimum cardinalities? | Dd.	Si
+#	Which constraint requires that the binary relationship indicate all combinations that must appear in the ternary relationship? | Aa.	MUST COVE
+#	Each entity is represented as a(n): | Bb.	table
+#	For every relationship, how many possible sets of minimum cardinalities are there? | Cc.	Fou
+#	If a relationship has a cascade updates constraint, then if ________ in the parent table is changed, then the same change will automatically be made to any corresponding foreign key value. | Aa.	the primary ke
+#	Which of the following column properties would be used to specify that cells in a column must contain a monetary value that is less than another monetary value in the same row? | Dd.	Data constraint
+#	A foreign key is used to implement relationships between tables. | True
+#	The terms alternate key and candidate key mean the same thing. | True
+#	In 1:N relationships, which entity becomes the parent entity is arbitrary. | False
+#	When the parent entity is required, cascading updates and cascading deletions should be allowed or the associated actions on the parent should be prohibited. | True
+#	In a 1:1 relationship, the primary key placement is arbitrary. | True
+#	When the parent entity is required, a new child row can always be inserted. | False
+#	All primary keys are required. | True
+#	Intersection tables are ID-dependent on both their parent tables. | True
+#	For every relationship, there are six possible sets of minimum cardinalities. | False
+#	An intersection table is required to represent M:N relationships. | True
+#	The DBMS allows surrogate keys to be changed. | False
+#	Cascading updates refers to child rows being automatically deleted when a parent row is deleted. | False
+#	When transforming an entity-relationship model into a relational database design, each entity is represented as a table. | True
+#	Surrogate keys have much meaning for users. | False
+#	When the child entity is required, we are restricted from creating a new parent row without also creating a corresponding child row at the same time. | True
+#	(STREET ADDRESS, CITY, STATE, ZIP) is an ideal primary key. | False
+#	When the parent entity is required and the parent has a surrogate key, update actions can be ignored. | True
+#	When the parent entity is required, a new parent row can always be inserted. | True
+#	For every relationship, there are six possible referential integrity actions. | True
+#	An ideal primary key is short, numeric and seldom changing. | True
+#	You can add a row using SQL in a database with which of the following? | Cc.	INSERT
+#	The command to remove rows from a table 'CUSTOMER' is: | Cc.	DELETE FROM CUSTOMER WHERE ..
+#	The SQL WHERE clause: | Bb.	limits the row data are returned
+#	Which of the following is the original purpose of SQL? | Dd.	All of the above
+#	The wildcard in a WHERE clause is useful when? | Bb.	An exact match is not possible in a SELECT statement
+#	A view is which of the following? | Aa.	A virtual table that can be accessed via SQL command
+#	The command to eliminate a table from a database is: | Bb.	DROP TABLE CUSTOMER
+#	ON UPDATE CASCADE ensures which of the following? | Bb.	Data Integrity
+#	SQL data definition commands make up a(n) ________ . | Aa.	DDL
+#	Which of the following is valid SQL for an Index? | Aa.	CREATE INDEX ID;
+#	The SQL keyword(s) ________ is used with wildcards. | Aa.	LIKE only
+#	Which of the following is the correct order of keywords for SQL SELECT statements? | Aa.	SELECT, FROM, WHER
+#	A subquery in an SQL SELECT statement is enclosed in: | Cc.	parenthesis -- (...)
+#	The result of a SQL SELECT statement is a(n) ________ . | Dd.	table
+#	Which of the following are the five built-in functions provided by SQL? | Aa.	COUNT, SUM, AVG, MAX, MIN
+#	In an SQL SELECT statement querying a single table, according to the SQL-92 standard the asterisk (*) means that: | Aa.	all columns of the table are to be returned
+#	The HAVING clause does which of the following? | Aa.	Acts like a WHERE clause but is used for groups rather than rows
+#	The SQL -92 wildcards are ____ and ____ . | Bb.	percent sign (%); underscore (_
+#	To remove duplicate rows from the results of an SQL SELECT statement, the ________ qualifier specified must be included. | Cc.	DISTINCT
+#	The benefits of a standard relational language include which of the following? | Aa.	Reduced training cost
+#	Which of the following do you need to consider when you make a table in SQL? | Dd.	All of the above
+#	SQL query and modification commands make up a(n) ________ . | Bb.	DM
+#	When three or more AND and OR conditions are combined, it is easier to use the SQL keyword(s): | Dd.	Both IN and NOT IN
+#	The Microsoft Access wildcards are ____ and ____ . | Dd.	question mark (?); asterisk (*
+#	Find the SQL statement below that is equal to the following: SELECT NAME FROM CUSTOMER WHERE STATE = 'VA'; | Dd.	SELECT NAME FROM CUSTOMER WHERE STATE IN ('VA')
+#	Which one of the following sorts rows in SQL? | Cc.	ORDER B
+#	To sort the results of a query use: | Cc.	ORDER BY
+#	To define what columns should be displayed in an SQL SELECT statement: | Aa.	use FROM to name the source table(s) and list the columns to be shown after SELECT
+#	SQL can be used to: | Dd.	All of the above can be done by SQL
+#	The SQL statement that queries or reads data from a table is ________ . | Aa.	SELEC
+#	The SQL keyword BETWEEN is used: | Aa.	for ranges
+#	A subquery in an SQL SELECT statement: | Cc.	has a distinct form that cannot be duplicated by a join
+#	________ was adopted as a national standard by ANSI in 1992. | Bb.	SQ
+#	SQL is: | Cc.	a data sublanguage
+#	The DBMS acts as an interface between what two components of an enterprise-class database system? | Aa.
+#	Which of the following products was an early implementation of the relational model developed by E.F. Codd of IBM? | Bb.	DB
+#	The following are components of a database except ________ . | Cc.	report
 # Row is synonymous with the term: | Aa.	record
-#QN=5	The primary key is selected from the: | Cc.	candidate keys
-#QN=6	Which of the following is a group of one or more attributes that uniquely identifies a row? | Aa.	Key
-#QN=7	When the values in one or more attributes being used as a foreign key must exist in another set of one or more attributes in another table, we have created a(n): | Cc.	referential integrity constraint
-#QN=8	A relation is considered a: | Cc.	two-dimensional table
-#QN=9	In the relational model, relationships between relations or tables are created by using: | Dd.	foreign keys
-#QN=10	A functional dependency is a relationship between or among: | Dd.	attributes
-#QN=11	Table is synonymous with the term: | Dd.	attributes
-#QN=12	Which of the following is not a restriction for a table to be a relation? | Cc.	The columns must be ordered
-#QN=13	For some relations, changing the data can have undesirable consequences called: | Bb.	modification anomalies
-#QN=14	A key: | Cc.	identifies a row
-#QN=15	An attribute is a(n): | Aa.	column of a table
-#QN=16	A relation in this form is free of all modification anomalies. | Dd.	Domain/key normal for
-#QN=17	If attributes A and B determine attribute C, then it is also true that: | Cc.	(A,B) is a composite determinant
-#QN=18	A tuple is a(n): | Cc.	row of a table
-#QN=19	If attribute A determines both attributes B and C, then it is also true that: | Aa.	A ? B
-#QN=20	One solution to the multivalued dependency constraint problem is to: | Aa.	split the relation into two relations, each with a single theme
-#QN=21	Every time attribute A appears, it is matched with the same value of attribute B, but not the same value of attribute C. Therefore, it is true that: | Aa.	A ? B
-#QN=22 	The different classes of relations created by the technique for preventing modification anomalies are called: | Aa.	normal forms
-#QN=23	A relation is in this form if it is in BCNF and has no multivalued dependencies: | Cc.	fourth normal form
-#QN=24	An application where only one user accesses the database at a given time is an example of a(n) ________ . | Aa.	single-user database applicatio
-#QN=25	An on-line commercial site such as Amazon.com is an example of a(n) ________ . | Cc.	e-commerce database applicatio
-#QN=26	Which of the following products was the first to implement true relational algebra in a PC DBMS? | Dd.	R:bas
-#QN=27	SQL stands for ________ . | Aa.	Structured Query Languag
-#QN=28	Because it contains a description of its own structure, a database is considered to be ________ . | Cc.	self-describin
-#QN=29	The following are functions of a DBMS except ________ . | Aa.	creating and processing form
-#QN=30	Helping people keep track of things is the purpose of a(n) ________ . | Aa.	databas
-#QN=31	Which of the following products implemented the CODASYL DBTG model? | Aa.	IDM
-#QN=32	An Enterprise Resource Planning application is an example of a(n) ________ . | Bb.	multiuser database applicatio
-#QN=33	A DBMS that combines a DBMS and an application generator is ________ . | Bb.	Microsoft's Acces
+#	The primary key is selected from the: | Cc.	candidate keys
+#	Which of the following is a group of one or more attributes that uniquely identifies a row? | Aa.	Key
+#	When the values in one or more attributes being used as a foreign key must exist in another set of one or more attributes in another table, we have created a(n): | Cc.	referential integrity constraint
+#	A relation is considered a: | Cc.	two-dimensional table
+#	In the relational model, relationships between relations or tables are created by using: | Dd.	foreign keys
+#	A functional dependency is a relationship between or among: | Dd.	attributes
+#	Table is synonymous with the term: | Dd.	attributes
+#	Which of the following is not a restriction for a table to be a relation? | Cc.	The columns must be ordered
+#	For some relations, changing the data can have undesirable consequences called: | Bb.	modification anomalies
+#	A key: | Cc.	identifies a row
+#	An attribute is a(n): | Aa.	column of a table
+#	A relation in this form is free of all modification anomalies. | Dd.	Domain/key normal for
+#	If attributes A and B determine attribute C, then it is also true that: | Cc.	(A,B) is a composite determinant
+#	A tuple is a(n): | Cc.	row of a table
+#	If attribute A determines both attributes B and C, then it is also true that: | Aa.	A ? B
+#	One solution to the multivalued dependency constraint problem is to: | Aa.	split the relation into two relations, each with a single theme
+#	Every time attribute A appears, it is matched with the same value of attribute B, but not the same value of attribute C. Therefore, it is true that: | Aa.	A ? B
+# The different classes of relations created by the technique for preventing modification anomalies are called: | Aa.	normal forms
+#	A relation is in this form if it is in BCNF and has no multivalued dependencies: | Cc.	fourth normal form
+#	An application where only one user accesses the database at a given time is an example of a(n) ________ . | Aa.	single-user database applicatio
+#	An on-line commercial site such as Amazon.com is an example of a(n) ________ . | Cc.	e-commerce database applicatio
+#	Which of the following products was the first to implement true relational algebra in a PC DBMS? | Dd.	R:bas
+#	SQL stands for ________ . | Aa.	Structured Query Languag
+#	Because it contains a description of its own structure, a database is considered to be ________ . | Cc.	self-describin
+#	The following are functions of a DBMS except ________ . | Aa.	creating and processing form
+#	Helping people keep track of things is the purpose of a(n) ________ . | Aa.	databas
+#	Which of the following products implemented the CODASYL DBTG model? | Aa.	IDM
+#	An Enterprise Resource Planning application is an example of a(n) ________ . | Bb.	multiuser database applicatio
+#	A DBMS that combines a DBMS and an application generator is ________ . | Bb.	Microsoft's Acces
 # You have run an SQL statement that asked the DBMS to display data in a table named USER_TABLES. The results include columns of data labeled "TableName," "NumberOfColumns" and "PrimaryKey." You are looking at ________ . | Bb.	metadata
-#QN=35	Which of the following is not considered to be a basic element of an enterprise-class database system? | Dd.	COBOL program
-#QN=36	The DBMS that is most difficult to use is ________ . | Dd.	Oracle Corporation's Oracl
-#QN=37	Which of the following indicates the maximum number of entities that can be involved in a relationship? | Bb.	Maximum cardinalit
-#QN=38	Which type of entity cannot exist in the database unless another type of entity also exists in the database, but does not require that the identifier of that other entity be included as part of its own identifier? | Aa.	Weak entit
-#QN=39	In a one-to-many relationship, the entity that is on the one side of the relationship is called a(n) ________ entity. | Aa.	paren
-#QN=40	Which type of entity represents an actual occurrence of an associated generalized entity? | Dd.	Instance entit
-#QN=41	A recursive relationship is a relationship between an entity and ________ . | Aa.	itsel
-#QN=42	Which of the following indicates the minimum number of entities that must be involved in a relationship? | Aa.	Minimum cardinalit
-#QN=43	Which of the following refers to something that can be identified in the users' work environment, something that the users want to track? | Aa.	Entit
-#QN=44	In which of the following is a single-entity instance of one type related to many entity instances of another type? | Bb.	One-to-Many Relationshi
-#QN=45	Which of the following refers to an entity in which the identifier of one entity includes the identifier of another entity? | Cc.	ID-dependent entit
-#QN=46	Which type of entity is related to two or more associated entities that each contain specialized attributes that apply to some but not all of the instances of the entity? | Aa.	Supertype entit
-#QN=47	An attribute that names or identifies entity instances is a(n): | Cc.	identifier
-#QN=48	Properties that describe the characteristics of entities are called: | Bb.	attributes
-#QN=49	In which of the following can many entity instances of one type be related to many entity instances of another type? | Cc.	Many-to-Many Relationshi
-#QN=50	Entities of a given type are grouped into a(n): | Bb.	entity class
-#QN=51	Which of the following is NOT a basic element of all versions of the E-R model? | Dd.	Primary key
-#QN=52	In which of the following is a single-entity instance of one type of related to a single-entity instance of another type? | Aa.	One-to-One Relationshi
-#QN=53	Entities can be associated with one another in which of the following? | Dd.	Relationship
-#QN=54	Which type of entity has its relationship to another entity determined by an attribute in that other entity called a discriminator? | Bb.	Subtype entit
-#QN=55	Which type of entity represents a logical generalization whose actual occurrence is represented by a second, associated entity? | Cc.	Archetype entit
-#QN=56	The SQL command to create a table is: | Dd.	CREATE TABLE
-#QN=57	A ________ is a stored program that is attached to a table or a view. | Cc.	trigge
-#QN=58	The DROP TABLE statement: | Bb.	deletes the table structure along with the table data
-#QN=59	SQL views can be used to hide: | Cc.	both of the above can be hidden by an SQL view
-#QN=60	The SQL statement to create a view is: | Aa.	CREATE VIEW
-#QN=61	To update an SQL view, the DBMS must be able to associate the column(s) to be updated with: | Cc.	a particular row in a particular underlying table
-#QN=62	Which of the following is NOT a type of SQL constraint? | Cc.	ALTERNATE KE
-#QN=63	A ________ is a program that performs some common action on database data and that is stored in the database. | Bb.	stored procedur
-#QN=64	For what purposes are views used? | Dd.	All of the above are uses for SQL views
-#QN=65	What is an SQL virtual table that is constructed from other tables? | Bb.	A vie
-#QN=66	When using the SQL INSERT statement: | Dd.	rows can either be inserted into a table one at a time or in groups
-#QN=67	What is not an advantage of stored procedures? | Dd.	Increased network traffi
-#QN=68	A reason for using an SQL view to hide columns is: | Cc.	to accomplish both of the above
-#QN=69	Which of the following is an SQL trigger supported by Oracle? | Dd.	All of the above
-#QN=70	The SQL ALTER statement can be used to: | Aa.	change the table structure
-#QN=71	What SQL structure is used to limit column values of a table? | Bb.	The CHECK constrain
-#QN=72	Which is NOT one of the most common types of SQL CHECK constraints? | Aa.	System dat
-#QN=73	What is an advantage of placing computations in SQL views? | Cc.	To accomplish both of the above
-#QN=74	Views constructed from SQL SELECT statements that conform to the SQL-92 standard may not contain: | Cc.	ORDER BY
-#QN=75	Locks placed by command are called ________ . | Bb.	explicit lock
-#QN=76	Which of the following locks the item from change but not from read? | Dd.	Shared loc
-#QN=77	Which of the following occurs when a transaction rereads data and finds new rows that were inserted by a command transaction since the prior read? | Bb.	Phantom rea
-#QN=78	A transaction for which all committed changes are permanent is called: | Dd.	durable
-#QN=79	In this instance, dirty reads are disallowed, while nonrepeatable reads and phantom reads are allowed. | Aa.	Read committe
-#QN=80	Which of the following occurs when a transaction rereads data it has previously read and finds modification or deletions caused by a committed transaction? | Aa.	Nonrepeatable rea
-#QN=81	The advantage of optimistic locking is that: | Aa.	the lock is obtained only after the transaction has processed
-#QN=82	Which of the following refers to a cursor type that when the cursor is opened, a primary key value is saved for each row in the recordset; when the application accesses a row, the key is used to fetch the current values of the row? | Cc.	Keyse
-#QN=83	Which of the following refers to a cursor type where changes of any type and from any source are visible? | Dd.	Dynami
-#QN=84	Which of the following disallows both dirty reads and nonrepeatable reads, but allows phantom reads? | Cc.	Repeatable rea
-#QN=85	Dirty read, nonrepeatable, and phantom reads are not possible in this instance. | Dd.	Serializabl
-#QN=86	The clause alter table in SQL can be used to | Dd.	all of the abov
-#QN=87	A transaction in which either all of the database actions occur or none of them do is called: | Aa.	atomic
-#QN=88	A cursor type in which the application can only move forward through the recordset is called: | Aa.	forward only
-#QN=89	Which of the following occurs when one transaction reads a changed record that has not been committed to the database? | Cc.	Dirty rea
-#QN=90	Which of the following allows dirty reads, nonrepeatable reads and phantom reads to occur? | Bb.	Read uncommitte
-#QN=91	Which of the following locks the item from access of any type? | Cc.	Exclusive loc
-#QN=92	The size of a lock is called: | Cc.	lock granularity
-#QN=93	A cursor type in which the application sees the data as they were at the time the cursor was opened is called: | Bb.	static
-#QN=94	What is the overall responsibility of the DBA? | Dd.	Both the first and third answers above are correct
-#QN=95	Locks placed by the DBMS are called ________ . | Aa.	implicit lock
-#QN=96	With which type of SQL Server recovery model are all database changes logged except those that cause large log entries? | Dd.	Bulk-logged recover
-#QN=97	Using SQL Server 2000, which of the following symbols is used to indicate parameters in stored procedures? | Dd.
-#QN=98	What mode of authentication does SQL Server NOT provide? | Dd.	SQL Server only securit
-#QN=99	The strictest transaction isolation level provided by SQL Server is called: | Bb.	SERIALIZABLE
-#QN=100	SQL Server program code that is executed instead of an SQL command that needs to be processed is called a(n): | Aa.	INSTEAD OF trigger
-#QN=101	Which type of SQL Server cursor concurrency places an update lock on a row when the row is read? | Dd.	READCOMMITTE
-#QN=102	Which of the three possible types of triggers does SQL Server support? | Dd.	INSTEAD OF and AFTER onl
-#QN=103	Which of the following is a way to create and modify tables using SQL Server? | Cc.	Both of the two methods above will work
-#QN=104	With which type of SQL Server recovery model, is no logging done? | Dd.	Simple recover
-#QN=105	SQL Server 2000 stored procedures can: | Bb.	be kept within the database and invoked by application programs
-#Q1 Which statement is not correct about query processing? | Memory access tends to be dominant cost in query processing for centralized DBMS
-#Q2 Which one is not benefit of storing methods in database in an object-oriented database system | Easy to implement
-#Q3 What is main architecture of parallel DBMS | Shared nothing
-#Q4 Which one is advantage of ORDBMSs | Reuse and sharing
-#Q5 Choose the correct statement | ORDBMSs (Object Relational DBMSs) are RDBMSs with some OO features being added
-#Q6 Which one is not a type of fragmentation | Derived Vertical
-#Q7 Which of the following is not main operation of the data mining | Link segmentation
-#Q8 Which one is not a characteristic of the information extracting from database by using data mining tools | Expected
-#Q9 All of the followings are query processing phases, excepts | Normalization
-#Q10 Which DBMS does not exist in Stonebraker’s View | Distributed DBMS
-#Q11 Choose the incorrect statement about User-Defined Routines (UDRs) | Must be defined as part of a UDT
-#Q12 The advantage of the distributed DBMS is | Reflects organizational structure
-#Q13 Which one is not typical stage of the query decomposition phase when doing query processing | Query constructing
-#Q14 Which one is not a transformation rule for relation algebra operations to construct the query tree when doing query processing | Commutativity of projection and intersection
-#Q15 Which of the following is not a property of the data in a data warehouse | Non-summarized
-#Q16 Which one is not basic client-server architecture of an object-oriented database system | Class Server 
-#Q17 Choose the incorrect statement regards database replication | One site cannot be both master site for one replication group and slave site for different replication group
-#Q18 Choose the incorrect statement about homogeneous distributed DBMS | Requires the translations
-#Q19 Choose the correct statement about distributed database concept | A logically interrelated collection of shared data, physically distributed over a network
-#Q20 Which of the following is not a characteristic of the OLTP system compares to data warehouse system | .  Unpredictable reporting
-#Q21 Which statement is incorrect regards to database replication | Database vendor always provides either distributed DBMS or database replication
-#Q22 Which one is not a good heuristic rule that could be applied during query processing | Perform Selection operations as lately as possible
-#Q24 As OODBMS Manifesto which one of the followings is not be supported | Views
-#Q25 Which of the following is not a reason for creating a data mart | Provide data in a form that matches the whole view of the data by many business application areas
-#Q23 Which one is not an alternative strategy for developing an OODBMS | Extending a relational DBMS with object-oriented capabilities
+#	Which of the following is not considered to be a basic element of an enterprise-class database system? | Dd.	COBOL program
+#	The DBMS that is most difficult to use is ________ . | Dd.	Oracle Corporation's Oracl
+#	Which of the following indicates the maximum number of entities that can be involved in a relationship? | Bb.	Maximum cardinalit
+#	Which type of entity cannot exist in the database unless another type of entity also exists in the database, but does not require that the identifier of that other entity be included as part of its own identifier? | Aa.	Weak entit
+#	In a one-to-many relationship, the entity that is on the one side of the relationship is called a(n) ________ entity. | Aa.	paren
+#	Which type of entity represents an actual occurrence of an associated generalized entity? | Dd.	Instance entit
+#	A recursive relationship is a relationship between an entity and ________ . | Aa.	itsel
+#	Which of the following indicates the minimum number of entities that must be involved in a relationship? | Aa.	Minimum cardinalit
+#	Which of the following refers to something that can be identified in the users' work environment, something that the users want to track? | Aa.	Entit
+#	In which of the following is a single-entity instance of one type related to many entity instances of another type? | Bb.	One-to-Many Relationshi
+#	Which of the following refers to an entity in which the identifier of one entity includes the identifier of another entity? | Cc.	ID-dependent entit
+#	Which type of entity is related to two or more associated entities that each contain specialized attributes that apply to some but not all of the instances of the entity? | Aa.	Supertype entit
+#	An attribute that names or identifies entity instances is a(n): | Cc.	identifier
+#	Properties that describe the characteristics of entities are called: | Bb.	attributes
+#	In which of the following can many entity instances of one type be related to many entity instances of another type? | Cc.	Many-to-Many Relationshi
+#	Entities of a given type are grouped into a(n): | Bb.	entity class
+#	Which of the following is NOT a basic element of all versions of the E-R model? | Dd.	Primary key
+#	In which of the following is a single-entity instance of one type of related to a single-entity instance of another type? | Aa.	One-to-One Relationshi
+#	Entities can be associated with one another in which of the following? | Dd.	Relationship
+#	Which type of entity has its relationship to another entity determined by an attribute in that other entity called a discriminator? | Bb.	Subtype entit
+#	Which type of entity represents a logical generalization whose actual occurrence is represented by a second, associated entity? | Cc.	Archetype entit
+#	The SQL command to create a table is: | Dd.	CREATE TABLE
+#	A ________ is a stored program that is attached to a table or a view. | Cc.	trigge
+#	The DROP TABLE statement: | Bb.	deletes the table structure along with the table data
+#	SQL views can be used to hide: | Cc.	both of the above can be hidden by an SQL view
+#	The SQL statement to create a view is: | Aa.	CREATE VIEW
+#	To update an SQL view, the DBMS must be able to associate the column(s) to be updated with: | Cc.	a particular row in a particular underlying table
+#	Which of the following is NOT a type of SQL constraint? | Cc.	ALTERNATE KE
+#	A ________ is a program that performs some common action on database data and that is stored in the database. | Bb.	stored procedur
+#	For what purposes are views used? | Dd.	All of the above are uses for SQL views
+#	What is an SQL virtual table that is constructed from other tables? | Bb.	A vie
+#	When using the SQL INSERT statement: | Dd.	rows can either be inserted into a table one at a time or in groups
+#	What is not an advantage of stored procedures? | Dd.	Increased network traffi
+#	A reason for using an SQL view to hide columns is: | Cc.	to accomplish both of the above
+#	Which of the following is an SQL trigger supported by Oracle? | Dd.	All of the above
+#	The SQL ALTER statement can be used to: | Aa.	change the table structure
+#	What SQL structure is used to limit column values of a table? | Bb.	The CHECK constrain
+#	Which is NOT one of the most common types of SQL CHECK constraints? | Aa.	System dat
+#	What is an advantage of placing computations in SQL views? | Cc.	To accomplish both of the above
+#	Views constructed from SQL SELECT statements that conform to the SQL-92 standard may not contain: | Cc.	ORDER BY
+#	Locks placed by command are called ________ . | Bb.	explicit lock
+#	Which of the following locks the item from change but not from read? | Dd.	Shared loc
+#	Which of the following occurs when a transaction rereads data and finds new rows that were inserted by a command transaction since the prior read? | Bb.	Phantom rea
+#	A transaction for which all committed changes are permanent is called: | Dd.	durable
+#	In this instance, dirty reads are disallowed, while nonrepeatable reads and phantom reads are allowed. | Aa.	Read committe
+#	Which of the following occurs when a transaction rereads data it has previously read and finds modification or deletions caused by a committed transaction? | Aa.	Nonrepeatable rea
+#	The advantage of optimistic locking is that: | Aa.	the lock is obtained only after the transaction has processed
+#	Which of the following refers to a cursor type that when the cursor is opened, a primary key value is saved for each row in the recordset; when the application accesses a row, the key is used to fetch the current values of the row? | Cc.	Keyse
+#	Which of the following refers to a cursor type where changes of any type and from any source are visible? | Dd.	Dynami
+#	Which of the following disallows both dirty reads and nonrepeatable reads, but allows phantom reads? | Cc.	Repeatable rea
+#	Dirty read, nonrepeatable, and phantom reads are not possible in this instance. | Dd.	Serializabl
+#	The clause alter table in SQL can be used to | Dd.	all of the abov
+#	A transaction in which either all of the database actions occur or none of them do is called: | Aa.	atomic
+#	A cursor type in which the application can only move forward through the recordset is called: | Aa.	forward only
+#	Which of the following occurs when one transaction reads a changed record that has not been committed to the database? | Cc.	Dirty rea
+#	Which of the following allows dirty reads, nonrepeatable reads and phantom reads to occur? | Bb.	Read uncommitte
+#	Which of the following locks the item from access of any type? | Cc.	Exclusive loc
+#	The size of a lock is called: | Cc.	lock granularity
+#	A cursor type in which the application sees the data as they were at the time the cursor was opened is called: | Bb.	static
+#	What is the overall responsibility of the DBA? | Dd.	Both the first and third answers above are correct
+#	Locks placed by the DBMS are called ________ . | Aa.	implicit lock
+#	With which type of SQL Server recovery model are all database changes logged except those that cause large log entries? | Dd.	Bulk-logged recover
+#	Using SQL Server 2000, which of the following symbols is used to indicate parameters in stored procedures? | Dd.
+#	What mode of authentication does SQL Server NOT provide? | Dd.	SQL Server only securit
+#	The strictest transaction isolation level provided by SQL Server is called: | Bb.	SERIALIZABLE
+#	SQL Server program code that is executed instead of an SQL command that needs to be processed is called a(n): | Aa.	INSTEAD OF trigger
+#	Which type of SQL Server cursor concurrency places an update lock on a row when the row is read? | Dd.	READCOMMITTE
+#	Which of the three possible types of triggers does SQL Server support? | Dd.	INSTEAD OF and AFTER onl
+#	Which of the following is a way to create and modify tables using SQL Server? | Cc.	Both of the two methods above will work
+#	With which type of SQL Server recovery model, is no logging done? | Dd.	Simple recover
+#	SQL Server 2000 stored procedures can: | Bb.	be kept within the database and invoked by application programs
+# Which statement is not correct about query processing? | Memory access tends to be dominant cost in query processing for centralized DBMS
+# Which one is not benefit of storing methods in database in an object-oriented database system | Easy to implement
+# What is main architecture of parallel DBMS | Shared nothing
+# Which one is advantage of ORDBMSs | Reuse and sharing
+# Choose the correct statement | ORDBMSs (Object Relational DBMSs) are RDBMSs with some OO features being added
+# Which one is not a type of fragmentation | Derived Vertical
+# Which of the following is not main operation of the data mining | Link segmentation
+# Which one is not a characteristic of the information extracting from database by using data mining tools | Expected
+# All of the followings are query processing phases, excepts | Normalization
+# Which DBMS does not exist in Stonebrakerï¿½s View | Distributed DBMS
+# Choose the incorrect statement about User-Defined Routines (UDRs) | Must be defined as part of a UDT
+# The advantage of the distributed DBMS is | Reflects organizational structure
+# Which one is not typical stage of the query decomposition phase when doing query processing | Query constructing
+# Which one is not a transformation rule for relation algebra operations to construct the query tree when doing query processing | Commutativity of projection and intersection
+# Which of the following is not a property of the data in a data warehouse | Non-summarized
+# Which one is not basic client-server architecture of an object-oriented database system | Class Server 
+# Choose the incorrect statement regards database replication | One site cannot be both master site for one replication group and slave site for different replication group
+# Choose the incorrect statement about homogeneous distributed DBMS | Requires the translations
+# Choose the correct statement about distributed database concept | A logically interrelated collection of shared data, physically distributed over a network
+# Which of the following is not a characteristic of the OLTP system compares to data warehouse system | .  Unpredictable reporting
+# Which statement is incorrect regards to database replication | Database vendor always provides either distributed DBMS or database replication
+# Which one is not a good heuristic rule that could be applied during query processing | Perform Selection operations as lately as possible
+# As OODBMS Manifesto which one of the followings is not be supported | Views
+# Which of the following is not a reason for creating a data mart | Provide data in a form that matches the whole view of the data by many business application areas
+# Which one is not an alternative strategy for developing an OODBMS | Extending a relational DBMS with object-oriented capabilities
 # Which statement is correct regards to the ordering of read/writes in the serializability of the transactions? | If on transaction writes a data item and another reads or writes same data item, order of execution is important
 # Which one is not a step in conceptual database design phase  | Check model to add controlled redundancy 
 # Which one is a main databae design phase | Physical design 
@@ -956,9 +879,6 @@
 # Which is(are) the common transformation type(s) | D. All the others
 # ________ table contains the values we want to analyze | A. dimension
 # ETL stands for _________ | C. data extraction, transformation, and loading
-
-
-
 # Quality is: | The degree to which the project meets requirements 
 # All the following are examples of Perform Quality Control EXCEPT: |  Cost of quality
 # Pareto charts help the project manager: | Focus on the most critical issues to improve quality
@@ -1010,7 +930,7 @@
 # 4.	Who need strategic information in enterprise | managers
 # 5.	In table, there is only one | - index clustered 
 # 7.	The term metadata refers to  | data about data
-# 8.	The presence of ____ diagram in the requirement….between operation and DW system | information package
+# 8.	The presence of ____ diagram in the requirementï¿½.between operation and DW system | information package
 # 9.	__ indicator of high-quality data ensures that there are no missing values for given attribute in the system | completeness
 # __ right value for that occurrence of the data element  | accuracy
 # 11.	__ represents the level of detail in the factable  | data granularity
@@ -1088,7 +1008,7 @@
 # Who need strategic information in enterprise | managers
 # In table, there is only one___  | index clustered 
 # The term metadata refers to  | data about data
-# The presence of ____ diagram in the requirement….between operation and DW system  | information package
+# The presence of ____ diagram in the requirementï¿½.between operation and DW system  | information package
 # indicator of high-quality data ensures that there are no missing values for given attribute in the system  | completeness
 # right value for that occurrence of the data element  | accuracy
 # represents the level of detail in the factable  | data granularity
@@ -1101,7 +1021,7 @@
 # Metadata in DW is similar___ to the  | Data dictionary
 # many answer question on overall process | Business intelligence
 # on the system run day-to-day business of company  | Operation system 
-# The data warehouse is on information environment that:  | makes the enterprise’s current and historical information easily available for strategic decision making
+# The data warehouse is on information environment that:  | makes the enterpriseï¿½s current and historical information easily available for strategic decision making
 # ROLAP refers to | Relation OLAP
 # indicator of high-quality  | characteristic
 # Which not building block  | data schema
