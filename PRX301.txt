@@ -1023,7 +1023,6 @@ A parent element cannot contain another parent element | False
 An XML document must contain all elements declared in the DTD. | False
 PCDATA refers to | #PCDATA refers to
 An XML schema is used to define a complex type. | True
- |  | 
 A facet is a valid value that can be assigned to an attribute | True
 XML can only be transformed into HTML or XHTML. | False
 You can repeat lines of code within the XSL stylesheet by defining an applytemplate. | False
@@ -1735,7 +1734,6 @@ What does #REQUIRED attributes mean | The attribute value must be included in th
 Is the following attribute valid? <!ATTLIST Test4 an_attribute ID #FIXED "value"> | no
 Can you nest attribute groups inside other attribute groups | Y
 If the attribute minOccurs is specified but the attribute maxOccurs is not, what is the  default value of the latter ? | minOccurs
-Is the DOCTYPE declaration compulsory ? |  | no
 Which Statement about xml is true? | c. Elements may nest but not overlap
 How is an empty XML element defined? | c. All of the above.
 Which is not a correct name for an XML element? | c. <first name>
@@ -2142,11 +2140,7 @@ Consider the following XML document and the attached stylesheet. What is the res
 Which of the following XML Schema element definitions are equivalent to the element definition below ? <xsd:element name="myElement" type="xsd:anyType" /> | <xsd:element name="myElement" />
 Which of the following XPath function calls will return the value 10 when invoked ? | string-length("XML-Schema")
 Which of the following statements relating to cascading style sheets and formatting objects is FALSE ? | CSS is an XML syntax that can be used to describe the appearance of particular elements in an XML document, Cascading style sheets can only be applied to non XML documents.
-A program in which all statements are executed one after the other in the order in which they are written exhibit ________. | 
 When the TDC is bound to an element, the element's DATASRC attribute should be set to ________. | d) the name of the TDC object preceded by a The binding of TDC to a table requires setting the DATASRC property in the ________ |  a) table element 
-With XML Schemas, the senders can ________ the data in a way that the receiver will understand | 
-What organization presented the first version of Starndardized Generalized Markup Language (SGML) in 1980? | 
-Declarations are sorted by the order specified | 
 Which of the following statement correctly store an object associated with a name at a place where all the servlets/jsps of the same webapp participating in a session can access it? Assume that request, response, name, value etc. are references to objects of appropriate types.(Choose one) | request.getSession().setAttribute(name, value);
 Which of the following lines of code, in the doPost() method of a servlet, uses the URL rewriting approach to maintaining sessions? (Choose one) | a. out.println("<a href=' "+response.encodeURL("/servlet/XServlet")+" '>Click here</a>"));
 Which of the following statements is true? (Choose one) | a. Session data is shared across multiple webapps in the same webserver/servlet container.
@@ -2872,10 +2866,7 @@ The _______ of an identifier for a variable or function is the portion of the pr
 To refer to a particular location or element in the array, we specify the name of the array and the ________ of the particular element in the array. | c)	position number
 Which of the following is the proper method to dynamically allocate memory to an array of 100 elements? | d)	var c = new Array( 100 );
 What are the three JSP Servlet Methods | jspInit() jspDestroy() _jspService()
-What happens when you try to access a JSP | 
 In a xml document what is this called  <?xml version="1.0"> | xml declaration
-root element | 
-number, punctuation character | 
 raw XML | files can be viewed in all major browsers
 right click the page, View Source | to view raw XML on a webpage you must __________ and select __________invented |  XML tags are __________ by the author of the XML document
 XSLT can be used to transform XML into HTML, before it is __________ is an XML-related technology that is used to find elements, attributes, and other information in your XML document. | XPath
