@@ -182,7 +182,7 @@ QN=328 Về lợi nhuận (p) có thể: | Bằng hoặc cao hơn hoặc thấp 
 QN=388 Mục đích của xuất khẩu tư bản nhà nước: | Kinh tế - chính trị - quân sự
 QN=390 Về kinh tế, mục đích của xuất khẩu tư bản nhà nước là: | Tạo môi trường thuận lợi cho đầu tư, kinh doanh của tư bản tư nhân
 QN=271 Cơ sở chung của quan hệ trao đổi giữa các hàng hóa là gì? | Là hao phí lao động kết tinh trong hàng hóa
-QN=210 Chọn câu trả lời đúng theo quan niệm duy vật lịch sử: | Quy luật khách quan
+QN=210 Chọn câu trả lời đúng theo quan niệm duy vật lịch sử: Nhân tố quyết định xu hướng phát triển của các hình thái kinh tế - xã hội là | Quy luật khách quan
 QN=402 Trong toàn bộ nền kinh tế: | Tổng giá cả = tổng giá trị
 QN=399 Do có địa vị độc quyền, các tổ chức độc quyền áp đặt: | Giá cả độc quyền
 QN=40 Khái niệm trung tâm mà V.I. Lênin sử dụng để định nghĩa về vật chất là? | Thực tại khách quan
@@ -217,7 +217,6 @@ QN=161 Cái ngẫu nhiên là cái... | Biểu hiện của quy luật
 QN=389 Về kinh tế, xuất khẩu tư bản nhà nước thường hướng vào: | Ngành thuộc kết cấu hạ tầng
 QN=115 Khái niệm nào dùng để chỉ sự chuyển hóa về chất do sự biến đổi trước đó về lượng tới giới hạn điểm nút? | Bước nhảy
 QN=13 Hệ thống triết học nào coi cảm giác là hình ảnh chủ quan của thế giới khách quan? | Chủ nghĩa duy vật biện chứng
-QN=247 Chọn câu trả lời đúng: | Á châu, cổ đại, phong kiến, tư sản hiện đại
 QN=73 Cái ...là cái bộ phận, nhưng sâu sắc hơn cái... | Chung/Riêng
 QN=234 Chọn câu trả lời đúng nhất theo quan điểm duy vật lịch sử: | Tuân theo quy luật khách quan nhưng đồng thời chịu sự tác động của các nhân tố khác, trong đó có nhân tố thuộc về hoạt động của con người
 QN=194 Trả lời theo quan điểm duy vật lịch sử, ý kiến sau đây đúng hay sai? Vì sao? | "nhà nước là hiện tượng vĩnh viễn của lịch sử"
@@ -1054,9 +1053,18 @@ C.Mác và Ph.Ăngghen cho rằng: cái mà người ta quả quyết cho là...
 Bộ phận nào của tư liệu lao động được coi là tiêu chí phản ánh đặc trưng phát triển của một thời đại kinh tế | A.Công cụ lao động
 Ý thức xã hội có tính chất nào sau đây | A.Tính độc lập tương đối
 Trong thời kỳ phục hưng giai cấp tư sản có vị trí như thế nào đối với sự phát triển của xã hội | A.Là giai cấp tiến bộ, cách mạng
-QN=247 Chọn câu trả lời đúng: Theo  Mác, về đại thể quá trình phát triển tuần tự của xã hội loài người đã lần lượt trải qua các phương thức sản xuất: | Á châu, cổ đại, phong kiến, tư sản hiện đại
-QN=34 Mối liên hệ nhân quả có các tính chất cơ bản nào sau đây | Tính khách quan, tính phổ biến, tính tất yếu.
+Chọn câu trả lời đúng: Theo  Mác, về đại thể quá trình phát triển tuần tự của xã hội loài người đã lần lượt trải qua các phương thức sản xuất: | Á châu, cổ đại, phong kiến, tư sản hiện đại
+Mối liên hệ nhân quả có các tính chất cơ bản nào sau đây | Tính khách quan, tính phổ biến, tính tất yếu.
 Nguyên nhân là phạm trù triết học chỉ | Tác động qua lại giữa các mặt, các yếu tố bên trong sự vật hay giữa sự vật này với sự vật khia tạo ra những biến đổi nhất định
 Nền tảng quan hệ giữa các nhân và xã hội là | Đạo đức
 Trong định nghĩa về vật chất của mình, V.I.Lênin cho thuộc tính chung nhất của vật chất là | Tồn tại khách quan bên ngoài ý thức không lệ thuộc vào cảm giác
 Sự phát triển các hình thái giá trị bao gồm | Hình thái giá trị ngẫu nhiên; hình thái giá trị mở rộng (đầy đủ); hình thái giá trị chung; hình thái tiền tệ.
+Theo quan điểm của chủ nghĩa duy vật lịch sử, nguồn gốc, động lực cơ bản nhất của mọi quá trình phát triển xã hội là | Sự vận động của mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất
+Theo quan điểm của chủ nghĩa duy tâm khách quan, mối quan hệ giữa các sự vật do cái gì quyết đinh | Do bản chất của thế giới tự nhiên
+Tiền tệ ra đời sau | Quá trình phát triển lâu dài trong lưu thông hàng hóa
+Trong tác phẩm “biện chứng của tự nhiên”, Ph.Ăngghen viết: toàn bộ giới tự nhiên hữu cơ là bằng chứng liên tục nói lên rằng…là đồng nhất và không thể tách rời được. | Nội dung và hình thức
+Lợi nhuận là | Hình thức biến tướng của giá trị thặng dư
+Sản xuất hàng hóa tồn tại tính chất | Hai mặt
+Quy luật triết học mang tính | Tất yếu, khách quan
+Ý thức được gọi là hình ảnh chủ quan của… | Thế giới khách quan
+Khoa học tự nhiên bắt đầu có sự phát triển mạnh mẽ vào thời kỳ nào | Thời kỳ Phục Hưng
