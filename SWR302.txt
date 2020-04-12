@@ -242,9 +242,9 @@ What is last stage of managing conflicts process? | Evaluate resolution, select 
 What are the phrases of RE risk management? | Risk identification, Risk assessment, Risk control
 What is last phase of RE risk management? | Risk control
 Which of the following tactics belong to risk reduction tactics? | Avoid risk, Reduce consequence like hood, Reduce risk like hood, Mitigate risk consequence
-Which of the followings belong to Designation clash? | Same name for different concepts in different statements | e.g. “user” for “library user” vs. “library software user”
-Which of the followings belong to Structure clash? | Same concept structured differently in different statements | e.g. “latest return date” as time point (e.g. Fri 5pm) vs. time interval (e.g. Friday)
-Which of the followings belong to Terminology clash? | Same concept named differently in different statements | e.g. library management: “borrower” vs. “patron”
+Which of the followings belong to Designation clash? | Same name for different concepts in different statements |  e.g. “user” for “library user” vs. “library software user”
+Which of the followings belong to Structure clash? | Same concept structured differently in different statements |  e.g. “latest return date” as time point (e.g. Fri 5pm) vs. time interval (e.g. Friday)
+Which of the followings belong to Terminology clash? | Same concept named differently in different statements |  e.g. library management: “borrower” vs. “patron”
 A context diagram is a simple graph where nodes represent system components and edges represent connections through shared phenomena declared by the labels | TRUE
 Free documentation in unrestricted natural language has no limitation in term of expressive and communicability | TRUE
 Use case diagrams are used to complement such a view through interaction scenarios | FALSE
@@ -298,7 +298,7 @@ What are types of Agents? | (3 types) Software,Device,Human
 Which of the following statements about system agent are true? | We must restrict its behavior to meet its assigned goals, It must be able to monitor/control phenomena involved in assigned goals
 Which of the following statements belong to Higher-level goals? | Effective access to state of the art, 50% increase of transportation capacity
 Which of the following statements belong to Lower-level goals? | Reminder issued by end of loan period if no return, Acceleration command sent every 3 seconds
-Which of the following statements about behavioral goals are true? | (3)Cannot be... (yes or no),Prescribe intended...,Used for building...Which of the following statements about the distinction between goals & domain properties is not true? |  Only domain properties are required in requirements documentation
+Which of the following statements about behavioral goals are true? | (3)Cannot be... (yes or no),Prescribe intended...,Used for building...Which of the following statements about the distinction between goals & domain properties is not true? |   Only domain properties are required in requirements documentation
 AND-refinements should also be consistent and maximal | FALSE
 The view that covers the WHY dimension of RE is provided by a goal model? | TRUE
 A goal model shows contribution links and leaf goal assignments | TRUE
@@ -335,35 +335,35 @@ Conceptual object can be enumerated in only one system state | FALSE
 RE is concerned with the problem world only | TRUE
 Invariant seeming to constrain one object onlyAnswer | FALSE
 Set of instances of a system-specific concept cannot share similar features | FALSE
-Which of the following are good class diagrams | (2-4) diagrams (Initating and Scheduling |  On Guard
+Which of the following are good class diagrams | (2-4) diagrams (Initating and Scheduling |   On Guard
 Which of the followings is a good context diagram? | (Diagram1 Meeting date.range & Meeting.Date
-Which of the following statements about the diagram below are true? (Train [is On] 	----On---- [Holdtrain]Block) | (2)At any given time, a block may hold at most one | At any given time, a train is on at least one and at most two
-What are types of conceptual object? | Event | Agent | Entity | Association
-What are benefits of generalization-based structuring? | (3)Common features... | Increased mo... | Generalized objects & their ...
-Which of the following statements about object models are true? | Represented by UML class diagram | Roughly, shows how relevant system concepts are structured and interrelated | Structural view of the system being modeled (as-is or to-be)
+Which of the following statements about the diagram below are true? (Train [is On] 	----On---- [Holdtrain]Block) | (2)At any given time, a block may hold at most one |  At any given time, a train is on at least one and at most two
+What are types of conceptual object? | Event |  Agent  |  Entity  |  Association
+What are benefits of generalization-based structuring? | (3)Common features... |  Increased mo...  |  Generalized objects & their ...
+Which of the following statements about object models are true? | Represented by UML class diagram |  Roughly, shows how relevant system concepts are structured and interrelated  |  Structural view of the system being modeled (as-is or to-be)
 Which of the following statement about Object instantiation are true | An instance may migrate........A set of object ...Every conceptual object has a built-in semantic relation telling which instances are currently members of the object
 Class diagrams at conceptual level should include | Attributes only
 What is an Attribute Multiplicity? | Min/max number of values the attribute may take
-What is a state of an instance of conceptual object? | Tuple of functional pairs xi | --> vi
+What is a state of an instance of conceptual object? | Tuple of functional pairs xi |  --> vi
 Abstract agents can be refined? | TRUE
 Agent’s instances cannot control behavior of other objects | TRUE
 Responsibility assignments should not take agent capabilities into account | FALSE
-Which of the followings are good heuristics for responsibility assignment? | (4)Identify finer-...Select ass... | Favor human...Make ass...
-Which are true statements about agent capabilities? | (2) | They are defined... | When an individual...
-Which of the following statements about Agents are true? | They are assigned to the leaf goals | They can run concurrently with others
+Which of the followings are good heuristics for responsibility assignment? | (4)Identify finer-...Select ass... |  Favor human...Make ass...
+Which are true statements about agent capabilities? | (2) |  They are defined...  |  When an individual...
+Which of the following statements about Agents are true? | They are assigned to the leaf goals |  They can run concurrently with others
 Which of the following statement about the Meeting Scheduling system are true? | Meetings should be scheduled after the scheduler gets all participants constrain
 A goal turns to be unrealizable by an agent if and only if one of the following criteria holds? | The agent is unable to monitor a variable in the goal specification that needs to be evaluated for goal satisfaction
-Which of the following diagrams can be used to represent Agent Model? | Dependency diagram | Agent diagram | Context diagram
+Which of the following diagrams can be used to represent Agent Model? | Dependency diagram |  Agent diagram  |  Context diagram
 We can use only Use case diagram to show operational view of the system | FALSE
 Goal refinement followed by operationalization is preferable to operation refinement, as it preserves goal traceability and supports simpler satisfaction arguments | TRUE
-Which of the followings about Context diagrams are true? | (2)The nodes in Context.... | We can use a variant of these ...
+Which of the followings about Context diagrams are true? | (2)The nodes in Context.... |  We can use a variant of these ...
 Which of the following statements about Agent model are true? | (3)It is used to show the di...It shows who....It shows the Resp...
 Which of the following heuristics can be used to identify operations from interaction scenarios? | (2)For each interaction event in a scenario...For each interaction event in a scenario...
-Which of the following statements about domain conditions are true? | (2)The domain post-condition of an operation.... | The domain pre-condition of an operation characterizes the class of input sates when the operation is applied, regardless of any restriction required for goal satisfaction
+Which of the following statements about domain conditions are true? | (2)The domain post-condition of an operation.... |  The domain pre-condition of an operation characterizes the class of input sates when the operation is applied, regardless of any restriction required for goal satisfaction
 Which of the following statements is true | A leaf goal is generally operationalized by multiple operations
 Which of the following statements about UML use case diagrams is true? | (2)Generation of use cases from...A use case should operation...
 Which are true statements about Agent non-determinism? | (2)eager: agent instance applies....lazy: agent instance ...
-Which of the following statements about use cases are true? | A use case outlines the operations an agent... | A use case should operationalize the leaf goals underlying the operations in it
+Which of the following statements about use cases are true? | A use case outlines the operations an agent... |  A use case should operationalize the leaf goals underlying the operations in it
 Which of the following statements about basic features of operations are true? | Any system operation has a unique name
 Which of the following statements belong to Extra consistency rules between operation and agent models? | (2)The agent responsible for G must perform...If these operations operationalize...
 State machines provide visual abstractions of explicit behaviors of any agent instance on a class. | TRUE
@@ -372,10 +372,10 @@ Which of the following statements about Modeling instance behaviors is not true?
 Two concepts Function and non-function requirement are | Full separate
 Two concepts User requirement and System requirement are | Other
 Which of the following statements about Modeling instance behaviors are true? | (3)The scenario...The interacting ...In the case of ...
-Which of the following statements is true? | A guard captures a nec...A global system behavior is obtained...Which of the following statements about UML sequence diagrams are true? |  (3)Timelines are represe...The interaction is synchronously....The basic UML syntax for ...
-Which of the following statements about Actions of State machines are true? | (2)It is applied when the transition fires | Auxiliary means that ...
+Which of the following statements is true? | A guard captures a nec...A global system behavior is obtained...Which of the following statements about UML sequence diagrams are true? |   (3)Timelines are represe...The interaction is synchronously....The basic UML syntax for ...
+Which of the following statements about Actions of State machines are true? | (2)It is applied when the transition fires |  Auxiliary means that ...
 State machines complement the fragmentary information provided by scenarios in multiple ways: | (3)They capture...They make...They are aimed...
-List the appropriate ways to refine scenario? | Introduce Episodes | Agent decomposition
+List the appropriate ways to refine scenario? | Introduce Episodes |  Agent decomposition
 Which of the following statements about State machines are NOT true? | (None 3)
 To support Structural consistency of the goal and object models, for every object in the object model, there must be at least one goal in goal model concerning it | TRUE
 To support Structural consistency of the goal and agent models, every goal under the responsibility of an agent in the agent model must appear as a leaf goal in the goal model | TRUE
@@ -386,7 +386,7 @@ Which of the followings belong to Structural consistency of the goal and operati
 Which of the followings belong to Structural consistency of the goal, agent and operation models? | (2)If an agent performs...If an agent is responsible for a goal, it must perform all operations operational zing that goal.
 Which of the followings belong to Structural consistency of the goal, agent and behavior models? | Every parallel state machine capturing the behavior of an agent in the behavior model must show a set of paths prescribed by goals from the goal model that are assigned to this agent in the agent model.
 Which of the followings belong to Structural consistency of the goal, object and agent models? | If an object is referred to by a goal under the responsibility of an agent, one or more attributes of it must be monitored or controlled by this agent.
-Which of the followings belong to Structural consistency of the object and agent models? | (3) An attribute or object....Every variable... | Every agent in the agent ...
+Which of the followings belong to Structural consistency of the object and agent models? | (3) An attribute or object....Every variable... |  Every agent in the agent ...
 Domain requirement may include | Both above
 System requirement may include | All about
 User requirement may include | All about
@@ -462,7 +462,7 @@ Some examples of different types of failure are introduced. How many classes sho
 Which perspective don’t we base on to present system in different models? | Layering
 Structural perspective will show ….? | The system or data architecture
 Which model type will show how entities have common characteristics? | Classification model
-Data processing model will show ….? | How the data is processed at different stagesWhat is NOT true with context model? |  Context models show what lies inside the system boundaries
+Data processing model will show ….? | How the data is processed at different stagesWhat is NOT true with context model? |   Context models show what lies inside the system boundaries
 The data flow model will show …? | The processes and the flow of information from one process to another
 What is NOT a type of behavioural model? | Data flow diagram
 What is NOT the purpose of data flow diagrams? | Show data structure of the system
@@ -508,7 +508,7 @@ List the statements that belong to Structural consistency of the goal and object
 List the statements that belong to Structural consistency of the goal, agent and behavior models | Every parallel state machine capturing the behavior of an agent in the behavior model must show a set of paths prescribed by goals from the goal model that are assigned to this
 Goals AND-refinements should be_____ | Minimal, Consistent
 Which of the following statements are true? | Agent is an active system component that is responsible for goal satis faction, Goal satisfaction requires agent cooperation
-What is state of an instance of conceptual object? | Tuple of functional pairs xi | ->vi
+What is state of an instance of conceptual object? | Tuple of functional pairs xi |  ->vi
 What are phases of risk management in requirement engineering? | Risk identification, Risk assessment, Risk control
 What of the following statements about goal model are true? | All of the others
 What are the phases of change control process? | Change initiation, change evaluation and prioritization, change consolidation
@@ -623,13 +623,13 @@ A goal model makes it possible to capture _______ alternative options | Two kind
 We can build refinements and abstraction paths in a goal diagram by recursively asking ___and___ questions about available goals, respectively | HOW / WHY
 An AND-refinement of a goal G into sub-goas G1,G2… ,Gn should be | Complete, consistent and minimal
 An AND-refinement states that the parent goal can be sastified by sastifying ___sub-goals in the refinement. | All
-The goals G1, G2, …, Gn are divergent in a domain Dom if we can find a feasible boundary condition B under which the goals cannot satisfied the arguments | {G1,G2..,Gn,Dom} | = false
+The goals G1, G2, …, Gn are divergent in a domain Dom if we can find a feasible boundary condition B under which the goals cannot satisfied the arguments | {G1,G2..,Gn,Dom} |  = false
 Which one of the following statements about the leaf nodes in goals refinements trees is false? | They can not be domain properties or hypotheses.
 In obstacle diagram, leaf obstacles are connected to countermeasure goals through __________. | Resolution links
 Like in any risk management process, obstacle analysis is an iteration of _______ cycles. | Identify - Assess - Control
 Goals and obstacles are dual notions. Therefore, we can derive obstacle categories from _____. | Goal categories
 Obstacle analysis is a ______ of risk analysis aimed at identifying, assessing and resolving the possibilities of breaking assertions in the system’s goal mod | goal-based form
-Which one is the “domain completeness” condition for OR-refinement of obstacle O into alternative sub-obstacles Oi: | {not O1, not O2, ..., not On, Dom} | = not O
+Which one is the “domain completeness” condition for OR-refinement of obstacle O into alternative sub-obstacles Oi: | {not O1, not O2, ..., not On, Dom} |  = not O
 An obstacle is a pre-condition for ______ of some goal, hypothesis or questionable domain property used in the goal model. | non-satisfaction
 Goal obstruction propagates _______ along goal AND-refinement trees | bottom-up
 not (if A then B) amounts to: | A and not B
@@ -811,8 +811,8 @@ Peter is responsible for goals discovery in RE. He uses some words like "in orde
 An AND-refinement of obstacle O into sub-obstacles O1, O2,…, On should meet the following conditions: | 1 & 2
 (A) / (B) should be. | ReverseThrustEnabled And Not WheelsTurning / WheelsTurning And Not ReverseThrustEnabled
 Obstacles completeness can show about ______ and_______ (Choose two) | what we know about  , obstacle analysis may
-Which conditions does a statement about an obstacle to an assertion need to meet? | (sai) {O, Dom } | =  not G     
-OR-refinement of obstacle O should be … | (sai) {subO1,..., subOj-1, subOj+1 , ..., subOn, Dom } | = O
+Which conditions does a statement about an obstacle to an assertion need to meet? | (sai) {O, Dom } |  =  not G     
+OR-refinement of obstacle O should be … | (sai) {subO1,..., subOj-1, subOj+1 , ..., subOn, Dom } |  = O
 A specialization link may be introduced in a model between an object SubOb and an object SuperOb if every current instance of _____ is a current instance of _____ as well. | SubOb / SuperOb
 An______ link may be introduced between an object Ob and objects PartOb1,… PartObn if every current instance of Ob is a tuple of current instances of PartOb1, …., PartObn. | aggregation
 _______ is a particular case of aggregation whether the composite object Ob and its parts PartObi appear and disappear together in the system. | composition
@@ -1111,7 +1111,7 @@ the outputs of "requirements validation & verification" stage of re process are 
 the following statement is true or false "goals provide natural way of structuring the requirements document and anchor for risk analysis" | true
 in the questionnaires technique for re, stakeholders will be easier to answer questions.. except | a multi-choice question merely requires selecting one..
 all of the following are heuristic rules for eliciting preliminary goals, except | refinement by case
-a goal g is correctly operationalized in to op1, ...,opn if and only if the specification spec(op1),.. sufficient for ensure g; that are the following, except | {spec(op1),..., Spec(opn)} | =false
+a goal g is correctly operationalized in to op1, ...,opn if and only if the specification spec(op1),.. sufficient for ensure g; that are the following, except | {spec(op1),..., Spec(opn)} |  =false
 an.. is a statement to be satisfied by the environment and formulated in terms of environmental phenomena | assumption
 all of the following are correct inputs of the specification and documentation phase except | system-to-be design documents
 which of the following statements about agent capabilities is wrong | an agent monitors an association if its instances can change this association holds between object instances
@@ -1163,13 +1163,13 @@ Data processing model will show ….? | b. How the data is processed at differen
 Dependency is the most general type of traceability link that can be specialized into _____ and _____ links within a single version. | Use / Derivation;
 diagram can be further detailed by indicating explicitly which component controls a shared phenomena, which component constitutes the machine needs to be built, and which components are affected by which requirements. | Problem;
 document assumption and requirement changes, we may assign qualitative levels of ________ to the statements, or levels of ________ in the case of multiple variants. | Stability / Commonality;
-domain consistency | {oi,dom} | # false;
+domain consistency | {oi,dom} |  # false;
 Domain pre- and post-conditions are prescriptive. | false;
 Domain requirement may include: | C. Both above
-domain-completeness | {not O1,not o2,...,not on, dom} | =o;
+domain-completeness | {not O1,not o2,...,not on, dom} |  =o;
 Domain-specific checklists specialize the defect-based ones to the specific constructs of the structured, semi-format or formal specification language used in the requirement document. | FALSE;
 Each linked object in an association plays specific _____ in the association | role;
-entailment | {oi, dom} | =o;
+entailment | {oi, dom} |  =o;
 Entity-relationship models have been widely used in database design. How many relation types between entities in this model? | A. 3
 ER diagram is made from three core constructs: entities, __________ and relationships. | Attributes;
 External events: the agent associated with the State Machine does not controls. | true;
@@ -1238,12 +1238,12 @@ Normally, how many kinds of information should be included when a standard form 
 not (if A then B) amounts to | A and not B;
 not differences of problem diagram comparing with context diagram? | shared phenomena are controlled/monitored by components;
 Obstacle analysis is a ______ of risk analysis aimed at identifying, assessing and resolving the possibilities of breaking assertions in the system’s goal mod | goal-based form;
-obstacle disjointness | {oi,oj,dom} | =false;
+obstacle disjointness | {oi,oj,dom} |  =false;
 Obstacles completeness can show about ______ and_______ (Choose two) | what we know about the domain and how adequate our knowledge is + obstacle analysis may help elicit and validate relevant domain properties;
 On security specification section had recommend many types of security requirement. How many types of security requirements are introduced? | C. 10
 On steps of requirements validation process need: Some checking needs to carry out on the requirements in the requirement document. How many types of check are introduced? | D. 5
 Operations on an abstract data type usually fall into how many classes? | B. 2
-OR-refinement of obstacle O should be … | {subOi, Dom } | = O+{subOi, subOj, Dom }  | = false+{not subO1,..., not subOn, Dom }  | = not O+{subOi, Dom }  | ?  false;
+OR-refinement of obstacle O should be … | {subOi, Dom } |  = O+{subOi, subOj, Dom }   |  = false+{not subO1,..., not subOn, Dom }   |  = not O+{subOi, Dom }   |  ?  false;
 Peter is responsible for goals discovery in RE. He uses some words like "in order to, so as to, so that,.. etc." to search goals in documents. Which of the followings is a Heuristic rules that Peter is using? | Search for goal-related keywords;
 Please choose an incorrect statement related to the Use of FS (Formal Specification) | FS involves investing more effort in the validating stage of software development;
 Please choose the correct explanation for the reliability metric "Probability of failure on demand" | a. The likelihood that the system will fail when a service request is made
@@ -1287,7 +1287,7 @@ The following sample statement is a ________ statement.The staff's viewpoint in 
 The following statement is an example of statement:- The same book copy can not be borrowed by two different people at the same time. | Descriptive;
 The following statement is an example of ____ statement: - The same book copy can not be borrowed by two different people at the same time. | Descriptive;
 The goal model captures ______ and_______ | responsibility links+ reference links;
-The goals G1, G2, …, Gn are divergent in a domain Dom if we can find a feasible boundary condition B under which the goals cannot satisfied the arguments | {G1, G2, …, Gn, B, Dom} | = false;
+The goals G1, G2, …, Gn are divergent in a domain Dom if we can find a feasible boundary condition B under which the goals cannot satisfied the arguments | {G1, G2, …, Gn, B, Dom} |  = false;
 The goals of risk assessment is to assess likelihood of risks, ________, likelihood of consequences, to control high-priority risks | risk severity;
 The goals of _______ is to reduce high-exposure risks through countermeasures | Risk control;
 The initial states of the instance correspond to the states where it disappears from the system. | false;
@@ -1349,7 +1349,7 @@ What item below is including on iterative process of risk analysis? | B. Risk de
 What's the key factor of Requirement Elicitation? | A. Stakeholder involve
 When doing goals refinement, we refine goals until | the sub-goals assignable to single agents;
 Which are outputs of the requirement engineering process? | b. Agreed requirements
-Which conditions does a statement about an obstacle to an assertion need to meet? | {O, Dom } | =  not G +{O, Dom }  | ? false + O can be satisfied by some system behavior;
+Which conditions does a statement about an obstacle to an assertion need to meet? | {O, Dom } |  =  not G +{O, Dom }   |  ? false + O can be satisfied by some system behavior;
 Which features does Multi-view modeling framework enforce the system views satisfied? | Consistency, completeness and complementary
 Which is a functional safety requirement? | a. Definitions of the safety functions of the protection system.
 Which is correct definition of requirements consistency? | d. There should be no contradictions in the descriptions of the system facilities
@@ -1414,7 +1414,7 @@ Which of the followings are not strengths of goal model? | expressive+ acceptanc
 Which of the followings are strengths of state machines model? | visual abstraction of explicit behaviors of any agent instance in a class+ code generation;
 which of the followings captures the activities and data in the system (system-to-be or system-as-is), these diagrams allow these activities and data to be documented in a graphical way | SADT diagrams;
 Which one in the following techniques is not belong to Stakeholder-driven techniques: | Repertory grids
-Which one is the "domain completeness" condition for OR-refinement of obstacle O into alternative sub-obstacles Oi: | {not O1, not O2, …, not On, Dom} | = not O;
+Which one is the "domain completeness" condition for OR-refinement of obstacle O into alternative sub-obstacles Oi: | {not O1, not O2, …, not On, Dom} |  = not O;
 Which one of the following activities should be done in "Change evaluation & prioritization" phase of "Change Control" process? | The review board is responsible to assess the merits;
 Which one of the following activities should not be done in the phase "Defect evaluation at review meetings" of "Requirements inspection & review process": | Each inspector reads the RD or part of it individually to look for defects.;
 which of the following is not a main activity of "defect evaluation at review meetings" | requirements documents distributed among inspectors
@@ -1489,7 +1489,7 @@ Which of the following techniques should be used to arrange some of the concepts
 All of the following describe the central role of goals in the requirements engineering process, EXCEPT ? | Goal refinement captures..
 Which of the following refers to"The goals G1,G2...are divergent | {G1;G2...Gn,B,Dom}=false
 Which of the following is NOT a techniques to identify risk in risk management process? | Group sessions
-Which of the following is a correct satisfaction arguments form? | {SoftREQ,DOM,ASM} | =SysREQ
+Which of the following is a correct satisfaction arguments form? | {SoftREQ,DOM,ASM} |  =SysREQ
 In the Train Control system, Train object is an | Entity
 Each linked object in an association plays specific | Role
 An_____ link may be introduced between an object Ob and objec PartOb1,... PartIbn if every current instance of Ob os a tuple of current instances of PartOb1,...,PartObn | Aggregation
@@ -1623,8 +1623,8 @@ A state machine is represented in UML by a variant of a .... called a state diag
 all of the following are correct inputs of the specification and documentation phase EXCEPT | system-to-be deign documents
 which of the following statements about agent capabilities is wrong | An agent monitors an association if its instances can change this association holds between object instances
 Which one of the follwing statements is the definition of "capability instance declaration" | capability instance declaration annotating a monitoring or control link makes precise which agent instance is monitoring or controlling
-OR-refinement of obstacle O should be … | {subOi, Dom } | = O+{subOi, subOj, Dom }  | = false+{not subO1,..., not subOn, Dom }  | = not O+{subOi, Dom }  | ≠  false;
-Which conditions does a statement about an obstacle to an assertion need to meet? | {O, Dom } | =  not G +{O, Dom }  | ≠ false + O can be satisfied by some system behavior;
+OR-refinement of obstacle O should be … | {subOi, Dom } |  = O+{subOi, subOj, Dom }   |  = false+{not subO1,..., not subOn, Dom }   |  = not O+{subOi, Dom }   |  ≠  false;
+Which conditions does a statement about an obstacle to an assertion need to meet? | {O, Dom } |  =  not G +{O, Dom }   |  ≠ false + O can be satisfied by some system behavior;
 Which of the following diagrams can be used to represent Agent Model? | Context diagram, Dependency diagram, Agent diagram
 Which of the followings belong to Structural consistency of the goal and object models? | ko chon every goal
 Which of the following figures about requirement engineering process is true? | Figure2

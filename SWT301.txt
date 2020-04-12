@@ -703,7 +703,7 @@ Which type of test design techniques does the following statement best describe 
 For which of the following would a static analysis tool be MOST useful? | Enforcement of coding standards.
 Which test approaches or strategies are characterized by the descriptions below? | S3, T4, U2, V1
 What principle is BEST described when test designs are written by a third party? | Independent testing
-Which of the following is a benefit of test independence? | It avoids author bias in defining effective tests. The above diagram represents the following paths through the code. |  A
+Which of the following is a benefit of test independence? | It avoids author bias in defining effective tests. The above diagram represents the following paths through the code. |   A
 Which of the following is MOST characteristic of specification based (black-box) techniques? | Test cases are derived systematically from models of the system .
 Which of the following combinations correctly describes a valid approach to component testing: | I, ii and iii
 Which of the following is a KEY test control task? | Initiating corrective actions
@@ -757,7 +757,7 @@ Testing where in we subject the target of the test , to varying workloads to mea
 Which of the following is the task of a Tester? | ii,iii,iv is true
 What can static analysis NOT find? | Memory leaks
 White Box Techniques are also called as: | Structural Testing
-Reviewing the test Basis is a part of which phase | Test Analysis and Design Component Testing is also called as |  i,ii,iii are
+Reviewing the test Basis is a part of which phase | Test Analysis and Design Component Testing is also called as |   i,ii,iii are
 Based on the IEEE Standard for Software Test Documentation | a: 2; b: 6; c: 3, 4 and 5; d: 1
 Which of the following is true about Formal Review or Inspection | i,iii,iv are true
 The Phases of formal review process is mentioned below arrange them in the correct order. | i,v,iv,ii,iii,vi
@@ -776,8 +776,8 @@ The Test Cases Derived from use cases | Are most useful in uncovering defects in
 One of the fields on a form contains a text box which accepts alpha | Boo01k
 Which of the following are potential benefits of using test support tools? | Reducing repetitive work and gaining
 Which statements correctly describe certain phases of a formal review? | Fixing defects found happens during rework phase
-A Project risk includes which of the following | Organizational Factors Which of the following is a Key Characteristics of Walk Through |  Scenario , Dry Run , Peer Group
-Which of the following techniques is NOT a White box technique? | Boundary value analysis Reporting Discrepancies as incidents is a part of which phase |  Test Implementation and execution
+A Project risk includes which of the following | Organizational Factors Which of the following is a Key Characteristics of Walk Through |   Scenario , Dry Run , Peer Group
+Which of the following techniques is NOT a White box technique? | Boundary value analysis Reporting Discrepancies as incidents is a part of which phase |   Test Implementation and execution
 In a risk-based approach the risks | ii & iii are True;
 Incidents would not be raised against: | Improvements suggested by users
 The Planning phase of a formal review includes the following | Selecting the personnel, allocating roles.
@@ -787,7 +787,7 @@ Exhaustive Testing is | Is impractical and impossible
 Which tool needs to interface with other office automation | Test management tools
 Which one is not comes under international standard | All of the above
 In which phase static tests are used | All of the above
-What's the disadvantage of Black Box Testing | All above What is the process of analyzing and removing causes of |  Debugging
+What's the disadvantage of Black Box Testing | All above What is the process of analyzing and removing causes of |   Debugging
 Majority of system errors occur in the | Requirements Phase.
 Which of the following is a MAJOR task when evaluating the exit | Writing a test summary report for stakeholders
 How much percentage of the life cycle costs of a software are spent on | 70%

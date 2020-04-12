@@ -1145,7 +1145,7 @@ Select the most correct definition of the data warehouse concept. | Take all the
 What is NOT a Beneﬁt of Improved Data Quality? | None of these.
 One says that: ER modeling will have logical and physical model but Dimensional modeling will have only Physical model. ER Modeling is used for normalizing the OLTP database design whereas Dimensional Modeling is used for de-normalizing the ROLAP and MOLAP design. | YES
 In SQL (Structured Query Language), | 1 and 3
-Which statement is TRUE? | Which value(s) is(are) typically Low-cardinality column values? |  status flags, Boolean values, or major classifications such as gender
+Which statement is TRUE? | Which value(s) is(are) typically Low-cardinality column values? |   status flags, Boolean values, or major classifications such as gender
 ............................. are designed to overcome any limitations placed on the warehouse by the nature of the relational data model. | Data repository
 The biggest drawback of the level indicator in the classic star schema is that is limits ............ | flexibility
 What are the benefits of partitioning? | Both of A and B
@@ -1617,7 +1617,7 @@ Which of the following is NOT an Oracle-supported trigger? | DURING
 Which of the following is not considered to be a basic element of an enterprise-class database system? | COBOL program
 Which of the following is not one of the stages in the evolution of distributed DBMS? | Unit of work
 Which of the following is not true about indexes? | Indexes are created with the ALTER TABLE command
-Which of the following is one phase in Cross Industry Standard Process for Data Mining (CRISP-DM) Model | Evaluation |   
+Which of the following is one phase in Cross Industry Standard Process for Data Mining (CRISP-DM) Model | Evaluation |    
 Which of the following is the correct order of keywords for SQL SELECT statements? | SELECT, FROM, WHER
 Which of the following is the original purpose of SQL? | All of the above
 Which of the following is true concerning a global transaction? | The required data are located in at least one nonlocal site and the distributed DBMS routes requests as necessary
@@ -1646,7 +1646,7 @@ Which of the following SQL statements are helpful in database redesign? | Both o
 Which of the following statement on the view concept in SQL is invalid? | The definition of a view should not have GROUP BY clause in it
 Which of the three possible types of triggers does SQL Server support? | INSTEAD OF and AFTER onl
 Which one is correct statement? Logical data independence provides following without changing application programs: (i) Changes in access methods. (ii) Adding new entities in database (iii) Splitting an existing record into two or more records (iv) Changing storage medium | (ii) and (iii)
-Which one is not an additional sementic modeling concept in Enhanced Entity-Relationship (EER) model | application |   
+Which one is not an additional sementic modeling concept in Enhanced Entity-Relationship (EER) model | application |    
 Which one is true statement? | With finer degree of granularity of locking a high degree of concurrency is possible
 Which one of the following sorts rows in SQL? | ORDER B
 Which SQL phrase is not supported by Oracle? | ON UPDATE CASCAD
@@ -1695,7 +1695,7 @@ What do we need when design table for slowly dimension change? | E. All of other
 Which is the challenge of ETL? | Source systems are usually in one platform.
 Which are the optimization strategies in data warehouse system? (choose ONE answer only) | All the other choices
 Regarding to data warehouse. Which statement is true? | All indexes are always specified at the design time.
-ACCESSIBLE characteristic of strategic information means: | DATA INTEGRITY characteristic of strategic information means: |  Which statement is the most correct definition of data warehouse system?  |  DATA INTEGRITY characteristic of strategic information means:  |  Information must be accurate and must conform to business rules.
+ACCESSIBLE characteristic of strategic information means: | DATA INTEGRITY characteristic of strategic information means: |   Which statement is the most correct definition of data warehouse system?   |   DATA INTEGRITY characteristic of strategic information means:   |   Information must be accurate and must conform to business rules.
 Which are NOT the desired characteristics of strategic information? | f. None
 What exactly do we mean by strategic information? | Strategic information is important for the continued health and survival of the corporation.
 Which is/are the actions that should be done when developing a data warehouse? | f. All the others

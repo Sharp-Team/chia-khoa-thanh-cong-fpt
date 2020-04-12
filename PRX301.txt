@@ -234,7 +234,7 @@ What organization presented the first version of Starndardized Generalized Marku
 You can use XSL Transformation (XSLT) to convert database files described by XML to Structured Query Language (SQL) statements, which creates the tables, indexes and views that the XML data describes. | True
 ________ is a markup language for describing how content is rendered and _______ is a markup language for describing structured data—content is separated from presentation. | HTML, XML.
 Which of the following is not an extension of XML? | SGML.
-Which of the following XML attribute names is invalid? | I am not valid |  
+Which of the following XML attribute names is invalid? | I am not valid |   
 Which of the following things is unspecified in the following line of code?<!DOCTYPE letter SYSTEM "letter.dtd"> | The type of browser you are using.
 Which of the following are tags is used to define rules for an element? | <!ELEMENT ... (#PCDATA)>
 The question mark (?) operator indicates | either zero or one occurrence.
@@ -299,7 +299,7 @@ What would the browser display if it executed the following script? <SCRIPT LANG
 What would the browser display if it executed the following script? <SCRIPT LANGUAGE = "JavaScript"> for ( var count = 0; count < 10; ++count ) { if ( count == 5 ) continue; } document.writeln( count );</SCRIPT> | 10
 What would the browser display if it executed the following script? <SCRIPT LANGUAGE = "JavaScript"> var total = 0; stop: { // labeled compound statement for ( var i = 0; i < 5; ++i ) { for ( var j = 0; j < 2 ; ++j ) { if ( i == 2 ) break stop; total++; } total++; } total++; } total++; document.writeln( total ); </SCRIPT> | 7
 What would the browser display if it executed the following script?<SCRIPT LANGUAGE = "JavaScript"> var total = 0; nextLoop: for ( var i = 0; i < 5; ++i ) { for ( var j = 0; j < 2 ; ++j ) { if ( i < 2 ) continue nextLoop; total++; } total++; } total++; document.writeln( total ); </SCRIPT> | 10
-Which of the following will not evaluate to true? | false |    |   false
+Which of the following will not evaluate to true? | false |      |    false
 Which of the following will evaluate to false? | false && false
 Which of the following is false? | In any flowchart, control structure (sequence, if, if/else, switch, while, do/while or for) can be replaced by 2 rectangle (actions) in sequence.
 According to Bohm and Jacopini, which of the following does not follow structured programming? | Nested building blocks
@@ -434,7 +434,7 @@ ________ makes it now possible for data manipulation to be shared by the server 
 Which of the following is false? | The TDC outputs an interface like Microsoft Excel.
 Which of the following is true? | Text qualifiers encapsulate the data in a field.
 The @ character is referred to as a________. | text qualifier
-The | character is referred to as a________. |  field delimiter
+The | character is referred to as a________. |   field delimiter
 Which of the following is not a valid PARAM setting for TDC controls? | <PARAM NAME =CLASSID: CLSID:333C7BC4-460F-11D0-BC04-0080C7055A83>
 What does the following statement do? <SPAN ID = "colorName" STYLE = "font-family: monospace" DATASRC = "#Colors" DATAFLD = "ColorName"></SPAN><BR> | It assigns the TDC control named Colors to a span element for display purposes.
 What will value contain after the following code is executed assuming that Colors is a valid TDC control? value = Colors.recordset; | It will contain the current indexed item of the datasource.
@@ -548,10 +548,10 @@ Which statement is used to describe about multi-pipeline? | . XML is mapped to B
 Consider the following HTML document. <HTML> <HEAD> <TITLE>Frames collection</TITLE> </HEAD> <FRAMESET ROWS = "100, *"> <FRAME SRC = "top.html" NAME = "first"> <FRAME SRC = "" NAME = "second"> </FRAMESET> </HTML> Which of the following is the proper way to access the frame "second" from the script of an outside document? | document.frames( "second")
 Given the XML code fragment <?xml version="1.0" encoding="UTF-8"?> <library xmlns=http://www.fpt.edu.vn xmlns:article=http://www.article.fpt.edu.vn xmlns:person="http://www.biolography.com.vn"> <book article:id="B0001" id="IB8976"> <article:title>The Firm</article:title> <person:author>John Grisham</person:author> <article:price>99</article:price> </book> </library> | The XML code fragment is not validated because no DTD document is referenced
 <?xml version=”1.0” encoding=”UTF-8”?> <aaa> <bbb>ccc</bBb> </aaa> | The document is not well-formed
-Given the dtd file: <?xml version="1.0" encoding="UTF-8"?> <!ELEMENT FINALs (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1 count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2 count CDATA #REQUIRED> |  . The dtd file is valid
+Given the dtd file: <?xml version="1.0" encoding="UTF-8"?> <!ELEMENT FINALs (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1 count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2 count CDATA #REQUIRED> |   . The dtd file is valid
 What are difference between XML-Enabled and XML –Native? | XML-Native are supported the query with XQuery and XPath but the XML-Enabled are supported the query with SQL embedding XPath or XQuery
 Which of the following statements regarding filters and transitions is false? | . They are applied on a client computer at run time by the server.
-<?xml version="1.0" encoding="UTF-8"?> <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"targetNamespace=http://xml.netbeans.org/schema/mail xmlns=http://xml.netbeans.org/schema/mail elementFormDefault="qualified"> <xsd:element name="mail"> <xsd:sequence> <xsd:element name="to" type="xsd:language" /> <xsd:element name="from" type="xsd:token"/> <xsd:element name="header" type="xsd:string"/> <xsd:element name="body" type="xsd:normalizedString"/> </xsd:sequence> </xsd:element> </xsd:schema> | The XML Schema is not valid because the xsd:element must include simpleType or complexType <SCRIPT LANGUAGE = " "> var total = 0; stop: { // labeled compound statement for ( var i = 0; i < 5; ++i ) { for ( var j = 0; j < 2 ; ++j ) { if ( i == 2 ) break stop; total++; } total++; } total++; } total++; document.writeln( total ); </SCRIPT> What would the browser display if it executed the following script? |  7
+<?xml version="1.0" encoding="UTF-8"?> <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"targetNamespace=http://xml.netbeans.org/schema/mail xmlns=http://xml.netbeans.org/schema/mail elementFormDefault="qualified"> <xsd:element name="mail"> <xsd:sequence> <xsd:element name="to" type="xsd:language" /> <xsd:element name="from" type="xsd:token"/> <xsd:element name="header" type="xsd:string"/> <xsd:element name="body" type="xsd:normalizedString"/> </xsd:sequence> </xsd:element> </xsd:schema> | The XML Schema is not valid because the xsd:element must include simpleType or complexType <SCRIPT LANGUAGE = " "> var total = 0; stop: { // labeled compound statement for ( var i = 0; i < 5; ++i ) { for ( var j = 0; j < 2 ; ++j ) { if ( i == 2 ) break stop; total++; } total++; } total++; } total++; document.writeln( total ); </SCRIPT> What would the browser display if it executed the following script? |   7
 Xml fragment document <aaa><bbb/></aaa> XSL fragment <xsl:import href="aaa.xsl"/> <xsl:import href="bbb.xsl"/> The aaa.xsl fragment <xsl:template match="bbb">testA</xsl:template> The bbb.xsl fragment <xsl:template match="bbb">testB</xsl:template> | testB
 Consider: 1. XSL processor starts the root node and performs pattern matching in the style sheet 2. The style rules of the template are applied to the content to generate a result tree 3. XSL processor analyzes the templates and patterns associated with them to process different parts of the document tree Rearranged above steps for corrected processing of XSL | 1, 3, 2
 Which purpose is the schema declaration used to in XML file? | Determine instance namespace applying to XML document
@@ -753,7 +753,7 @@ What would the browser display if it executed the following script? <SCRIPT LANG
 What would the browser display if it executed the following script? <SCRIPT LANGUAGE = "JavaScript"> for ( var count = 0; count < 10; ++count ) {  if ( count == 5 ) continue;  }  document.writeln( count );  </SCRIPT> | 10
 What would the browser display if it executed the following script? <SCRIPT LANGUAGE = "JavaScript"> var total = 0;  stop: { // labeled compound statement for ( var i = 0; i < 5; ++i ) { for ( var j = 0; j < 2 ; ++j ) { if ( i == 2 ) break stop;  total++;  } total++;  }  total++;  }  total++;  document.writeln( total );  </SCRIPT> | 7
 What would the browser display if it executed the following script? <SCRIPT LANGUAGE = "JavaScript"> var total = 0;   nextLoop: for ( var i = 0; i < 5; ++i ) { for ( var j = 0; j < 2 ; ++j ) { if ( i < 2 ) continue nextLoop;  total++; } total++;  }  total++;  document.writeln( total );  </SCRIPT> | 10
-Which of the following will not evaluate to true? | false |    |   false 
+Which of the following will not evaluate to true? | false |      |    false 
 Which of the following will evaluate to false | false && false
 Which of the following is false? | In any flowchart, control structure (sequence, if, if/else, switch, while, do/while or for) can be replaced by 2 rectangle (actions) in sequence
 Functions are invoked by writing the name of the function, followed by the function's ________ in closed parenthesis | arguments
@@ -841,7 +841,7 @@ Which of the following is true? | The dropShadow filter does not have a directio
 Which of the following is the proper method to apply a transition effect | element.filters( "blendTrans" ).apply();
 Which of the following is true? | Text qualifiers encapsulate the data in a field
 The @ character is referred to as a______ | text qualifier
-The | character is referred to as a________. |    field delimiter 
+The | character is referred to as a________. |     field delimiter 
 Which of the following is not a valid PARAM setting for TDC controls? | <PARAM NAME =  CLASSID: CLSID:333C7BC4-460F-11D0-BC04-0080C7055A83>
 What does the following statement do?  <SPAN ID = "colorName" STYLE = "font-family: monospace"  DATASRC = "#Colors" DATAFLD = "ColorName"></SPAN><BR> | It assigns the TDC control named Colors to a span element for display purposes
 What will value contain after the following code is executed assuming that Colors is a valid TDC control?  value = Colors.recordset; | It will contain the current indexed item of the datasource
@@ -1011,7 +1011,7 @@ Consider the following statements:  Statement A: A namespace is a method of prev
 What does method characters()  of ContentHandler interface receive events for? | Character data
 You want to create an attribute named “baseprice” with a default value of 200 for the “product” element. The attribute should accept integer values. Which of the following statements will you use to declare the attribute | <xsd:attribute name="baseprice"  default= “200” type="xsd:integer"/>
 Which of the following is NOT a valid CSS selector? | HEAD selectors
-Which is the correct way to use the union operator | <xsl:apply-templates select=’/CD/Artist |   /Tape/Artist’ />
+Which is the correct way to use the union operator | <xsl:apply-templates select=’/CD/Artist |    /Tape/Artist’ />
 Which of the following strings are a correct XML name? | xslNewElement
 XML tags are case sensitive | True
 By default the white space in elements is not truncated. | True
@@ -1268,7 +1268,7 @@ Which statement is used to describe about multi-pipeline? | XML is mapped to Bea
 Consider the following HTML document. <HTML> <HEAD><TITLE>Frames collection</TITLE> </HEAD> <FRAMESET ROWS = "100, *"> <FRAME SRC = "top.html" NAME = "first"> <FRAME SRC = "" NAME = "second"> </FRAMESET> </HTML> Which of the following is the proper way to access the frame "second" from the script of an outside document? | document.frames( "second")
 Given the XML code fragment <?xml version="1.0" encoding="UTF-8"?> <library xmlns="http://www.fpt.edu.vn" xmlns:article="http://www.article.fpt.edu.vn" xmlns:person="http://www.biolography.com.vn"> <book article:id="B0001" id="IB8976"> <article:title>The Firm</article:title> <person:author>John Grisham</person:author> <article:price>99</article:price> </book> </library> Choose the correct statement | The XML code fragment is not validated because no DTD document is referenced
 <?xml version=”1.0” encoding=”UTF-8”?> <aaa> <bbb>ccc</bBb> </aaa> Choose the correct answer | The document is not well-formed
-Given the dtd file: <?xml version="1.0" encoding="UTF-8"?> <!ELEMENT FINALs (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1 count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2 count CDATA #REQUIRED> Choose the correct statement |   The dtd file is valid
+Given the dtd file: <?xml version="1.0" encoding="UTF-8"?> <!ELEMENT FINALs (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1 count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2 count CDATA #REQUIRED> Choose the correct statement |    The dtd file is valid
 Which of the following contradicts the notion of structured programming | goto
 Given <?xml version="1.0" encoding="UTF-8"?> <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://xml.netbeans.org/schema/mail" xmlns="http://xml.netbeans.org/schema/mail" elementFormDefault="qualified"> <xsd:element name="mail"> <xsd:sequence> <xsd:element name="to" type="xsd:language" /><xsd:element name="from" type="xsd:token"/> <xsd:element name="header" type="xsd:string"/> <xsd:element name="body" type="xsd:normalizedString"/> </xsd:sequence> </xsd:element> </xsd:schema> Select the correct statement | The XML Schema is not valid because the xsd:element must include simpleType or complexType
 Given: <SCRIPT LANGUAGE = " "> var total = 0; stop: { // labeled compound statement for ( var i = 0; i < 5; ++i ) { for ( var j = 0; j < 2 ; ++j ) { if ( i == 2 ) break stop; total++; } total++; } total++; } total++; document.writeln( total ); </SCRIPT> What would the browser display if it executed the following script? | 7
@@ -1369,7 +1369,7 @@ URL includes URI and URN. | False
 Internal DTD and XML code are stored in a document with the file extension | xml
 Verify the snippet given below: <?xml version="1.0" ?> <img src=bullet_d.gif></img | False
 <!ELEMENT element-name (child-name )> Identify the sign to be placed in the syntax above so that it declares that the child name can occur zero or one time inside the element. | ?
-Consider a DTD example: <!ATTLIST study type (theory | practical) theory> Is the following statement syntactically correct? |   No
+Consider a DTD example: <!ATTLIST study type (theory | practical) theory> Is the following statement syntactically correct? |    No
 The use of namespace in a document can be recognized using a ______ in the tag name. | colon
 For elements in the XSL namespace, XSL uses the prefix | 'xsl:'
 Identify the correct statements | None of the above.
@@ -1384,14 +1384,14 @@ Syntax for element declaration is | <!ELEMENT element-name (element-content type
 Identify the correct statements | #PCDATA means that the element contains data that is to be parsed by a parser. + #CDATA means that the element contains character data that is not to be parsed by a parser.
 Identify the correct syntax | <!ELEMENT element-name (child-element-name,child-element-name,....>
 For declaring a child element 'message' to occur zero or more times inside the 'note' element, identify the correct syntax | <!ELEMENT element-name (child-name*)>
-<!ELEMENT A((B,C) | D |  E)> Identify what the statement indicates    |   Element A consists D or E or B followed by C.
+<!ELEMENT A((B,C) | D |   E)> Identify what the statement indicates     |    Element A consists D or E or B followed by C.
 Identify the correct syntax: (One or more options are true) | 3 dap an con lai ko co #required
 In the attribute-type the value which is pre-defined is indicated by: | xml;
 Namespaces ensure that there is no conflict within element names and also determines how to process them. | False
-<?xml version="1.0" ?> <!DOCTYPE APTECH [ <!ELEMENT APTECH (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1   count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2   count CDATA #REQUIRED> ]> <TRIAL>ELECTRONIC GOODS   <CLASS1 count="8">10students</CLASS1>   <CLASS2 count="10">20students</CLASS2> </TRIAL> The following code will execute without displaying any errors? |   t 
+<?xml version="1.0" ?> <!DOCTYPE APTECH [ <!ELEMENT APTECH (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1   count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2   count CDATA #REQUIRED> ]> <TRIAL>ELECTRONIC GOODS   <CLASS1 count="8">10students</CLASS1>   <CLASS2 count="10">20students</CLASS2> </TRIAL> The following code will execute without displaying any errors? |    t 
 <!ELEMENT trial (targets+, source,title+,message*,#PCDATA)>   The above example declares that the element trial must contain: | at least one 'target', exactly one 'source', at least one 'title', zero or one 'message', and some other parsed character data.
 <?xml version="1.0"?> <script> <![CDATA [function matchwo(a,b) { if (a < b && a < 0) then   {    return 1    } } ]]> </script> The above code: | Executes without any error
-(eval | eval |  ___) the following value indicates that   |   None of the above.
+(eval | eval |   ___) the following value indicates that    |    None of the above.
 <!ELEMENT Circle EMPTY>   <!ATTLIST Circle radius CDATA "20">   The following code indicates that the circle is defined as an empty element,with the radius attribute having a default value of 20 and type CDATA. | True
 Prefix is: | An alias selected by a document author
 Identify the correct statements: | Tags from multiple namespaces can be mixed. + XSL uses the prefix ‘xsl:’ for elements in the XSL namespace
@@ -1457,7 +1457,7 @@ XSL in Internet Explorer 5.0 is 100% compatible with the latest released W3C XSL
 Identify the correct tag for indicating that a document is a style sheet file and provides a location for declaring the XSL namespace | <xsl:stylesheet xmlns:xsl="url">
 Identify the operator used to search across any number of levels of the hierarchy from the current context. | .//
 Identify the operator used to search across any number of levels of the hierarchy from the root of the document. | //
-Identify the tag required to match the entire document. | <xsl:template match= "/ |  ">
+Identify the tag required to match the entire document. | <xsl:template match= "/ |   ">
 Identify the correct statements related to XSLT | It is a template-based language.+It lets one map a pattern in the source document with the output in XML.
 XSLT and CSS are compatible standards. | True
 Identify the statements which hold true for CSS: | none
@@ -1540,7 +1540,7 @@ When the mouse moves over an element which of the following is triggered | ONMOU
 11 The ONFOCUS event fires when ________. | an element is clicked.
 The ONBLUR event is associated with ________ | an element losing focus.
 Event bubbling is _______. | the process of child elements passing events to their parent elements
-The | character is referred to as a________. |   field delimiter
+The | character is referred to as a________. |    field delimiter
 What does the following statement do? <SPAN ID = "colorName" STYLE = "font-family: monospace" DATASRC = "#Colors" DATAFLD = "ColorName"></SPAN><BR> | It assigns the TDC control named Colors to a span element for display purposes
 What will value contain after the following code is executed assuming that Colors is a valid TDC control? value = Colors.recordset; | It will contain the current indexed item of the datasource
 Microsoft's Internet Explorer Web browser contains a ________ that executes VBScript code | interpreter
@@ -1580,7 +1580,7 @@ Property documentElement of DOMDocument object return | an object representing t
 Consider the following statements: Statement A: A namespace is a method of preventing conflicts between elements having the same names. Statement B: A namespace URI is the same as a Web URI. Which of the following is correct about the above statements? | Both, Statement A and Statement B, are True.
 What does method characters() of ContentHandler interface receive events for? | Character data
 You want to create an attribute named "baseprice" with a default value of 200 for the "product" element. The attribute should accept integer values. Which of the following statements will you use to declare the attribute | <xsd:attribute name="baseprice" default= "200" type="xsd:integer"/>
-Which is the correct way to use the union operator | <xsl:apply-templates select='/CD/Artist |   /Tape/Artist' />
+Which is the correct way to use the union operator | <xsl:apply-templates select='/CD/Artist |    /Tape/Artist' />
 Is the following attribute valid? <!ATTLIST Test4 an_attribute ID #FIXED "value"> | No
 If you "import" a stylesheet, the templates in it have lower precedence than those in the current stylesheet. | True
 Considering the following XML document, what is the result of count(//*): <?xml version="1.0" encoding="UTF-8"?> <root> <employee id="45"> <name>John</name> <salary>$100,000</salary> </employee> </root> | 4
@@ -1675,12 +1675,12 @@ Opera supports XML, XSLT, and XPath from version _____. | 9
 Apple Safari supports XML and XSLT from version _____. | 3
 What is XML | Extensible Markup Language: an application- and platform-independent way to represent data
 What makes XML Unique | It is a standard that lets users create their own tags to structure and store data
-Who created it, when? | Also a creation of W3C - first developed in 2001. |   Current version: XML 1.0 and XML 1.1
-What are characteristics of XML documents | The documents are self-describing |   The documents are a hierarchy of nested objects
+Who created it, when? | Also a creation of W3C - first developed in 2001. |    Current version: XML 1.0 and XML 1.1
+What are characteristics of XML documents | The documents are self-describing |    The documents are a hierarchy of nested objects
 what is the purpose of HTML | HTML - designed to display data, with focus on how data looks
 what is the purpose of XML | XML - designed to transport and store data, with focus on what data is
 What are characteristics of HTML tags | HTML tags are predefined with a set meaning
-What are characteristics of XML tags | lets the developers create |   -XML needs to be well formed and validated
+What are characteristics of XML tags | lets the developers create |    -XML needs to be well formed and validated
 What are some features of XSD | Written in XML , Support data-types
 What are 2 styling options for XML? | CSS and XSLT (Extensible Stylesheet Language Transformation)
 What are some CSS limitations when used with XML | Adding functionality , Reordering and sorting , Generation of text
@@ -1702,7 +1702,7 @@ With reference to the snippet of code given below, choose the correct syntax to 
 What would the browser display if this script was executed? <SCRIPT LANGUAGE = "JavaScript"> var c = new Array(8); for( var i = 0; i < 10; i++ ) c[i] = i; document.write(c[9]) </SCRIPT> | 9
 With the ________, scripts can respond to a user moving the mouse, scrolling up or down the screen or entering keystrokes | event model.
 What would the browser display if the following code is executed in a script? var grade = 59 if ( grade >= 60 ) document.writeln( "Passed." ); else document.write( "Failed. " ); document.writeln( "You must take this course again." ); | Failed
-The value a in the following statement is called the ________ and the value b is called the ________. face = Math.floor( a + Math.random() * b ); | shifting value, scaling factor |   See More
+The value a in the following statement is called the ________ and the value b is called the ________. face = Math.floor( a + Math.random() * b ); | shifting value, scaling factor |    See More
 Which of these is a valid comment in XML? | <!- -This data should be hidden <FIRSTNAME>Joe</FIRSTNAME> <LASTNAME>Johnson</LASTNAME> - ->
 What does the keyword SYSTEM indicate in the following code? <?xml version ="1.0"?> <!DOCTYPE Book SYSTEM "book.dtd"> | Book.dtd is an external DTD
 Which of the following is not a keyword used for default settings in an! ATTLIST element? | DEFINE
@@ -1712,7 +1712,7 @@ To compose a schema with the same target namespace you can use | <include schema
 What does the keyword SYSTEM indicate in the following code? <!DOCTYPE Book SYSTEM "book.dtd"> | Book.dtd is an internal DTD
 What is the significance of the '+' sign in the code given below? <!ELEMENT BOOK (AUTHOR+)> | Indicates that AUTHOR tag must occur at least once inside the BOOK element
 What would the browser display if this script was executed? <SCRIPT LANGUAGE = "JavaScript"> var c = new Array(8); for( var i = 0; i < 8; i++ ) c[i] = i; document.write(c[8]); </SCRIPT> | undefined
-Which of the following XML code snippets is/are correct? | <BOOK> <AUTHOR> abc...</AUTHOR> </BOOK># Which statements are true? |   The DTD specifies ... + The DTD contains the list of tags allowed within the XML document, and their types and attributes.
+Which of the following XML code snippets is/are correct? | <BOOK> <AUTHOR> abc...</AUTHOR> </BOOK># Which statements are true? |    The DTD specifies ... + The DTD contains the list of tags allowed within the XML document, and their types and attributes.
 An Entity bean must be capable of forming ____ | relationships
 ___ types of relationships can exist between entity beans | Seven
 What are the 4 types of cardinality | 1..1 , 1.. , ..1 and ..
@@ -1780,7 +1780,7 @@ What is the major difference between Servlet 2.5 and Servlet 3.0 | web.xml
 What are the three JSP Servlet Methods | jspInit()
 What happens when you try to access a JSP | - Browser sends HTTP request to web server
 - JSP engine loads the JSP page from disk and converts it into a servlet content. | - JSP engine compiles the servlet
-JSP1.2 vs. JSP2.0 | Version 2.0 incorporated the expression language, which makes your life a lot easier. Otherwise you |   have to go through the get property and set property
+JSP1.2 vs. JSP2.0 | Version 2.0 incorporated the expression language, which makes your life a lot easier. Otherwise you |    have to go through the get property and set property
 What does DDL stand for | Data Definition Language
 The method used most often for executing SQL statements is ____ | executeQuery
 What are the two main purposes of Transaction Support | Recovery, Concurrency
@@ -1904,7 +1904,7 @@ Consider the following XML document and the attached stylesheet. What is the res
 Which of the following XML Schema element definitions are equivalent to the element definition below ? <xsd:element name="myElement" type="xsd:anyType" /> | <xsd:element name="myElement" />
 Which of the following XPath function calls will return the value 10 when invoked ? | string-length("XML-Schema")
 Which of the following statements relating to cascading style sheets and formatting objects is FALSE ? | CSS is an XML syntax that can be used to describe the appearance of particular elements in an XML document, Cascading style sheets can only be applied to non XML documents.
-When the TDC is bound to an element, the element's DATASRC attribute should be set to ________. | the name of the TDC object preceded by a The binding of TDC to a table requires setting the DATASRC property in the ________ |   table element 
+When the TDC is bound to an element, the element's DATASRC attribute should be set to ________. | the name of the TDC object preceded by a The binding of TDC to a table requires setting the DATASRC property in the ________ |    table element 
 Which of the following statement correctly store an object associated with a name at a place where all the servlets/jsps of the same webapp participating in a session can access it? Assume that request, response, name, value etc. are references to objects of appropriate types.(Choose one) | request.getSession().setAttribute(name, value);
 Which of the following lines of code, in the doPost() method of a servlet, uses the URL rewriting approach to maintaining sessions? (Choose one) | out.println("<a href=' "+response.encodeURL("/servlet/XServlet")+" '>Click here</a>"));
 Which of the following statements is true? (Choose one) | Session data is shared across multiple webapps in the same webserver/servlet container.
@@ -2277,7 +2277,7 @@ The statement on line 1 ________ the array while the statement on line 2 _______
 In the following statement, the range of the variable element is ________.  for ( var element in theArray )  total2 += theArray[ element ]; | g)	0 to the array length - 1
 MC: How many comparisons will a linear search function makes before finding a match if the search key has a value of 3 and the array x has the values:  x[ 0 ] = 0 x[ 1 ] = 2 x[ 2 ] = 1 x[ 3 ] = 4 x[ 4 ] = 3 x[ 5 ] = 3 | 5
 What is the effect of the following line of code?  window.event.returnValue = true; | It returns a true value to signal the browser to continue its default event-handling action.
-The | character is referred to as a________. |   field delimiter 
+The | character is referred to as a________. |    field delimiter 
 What is wrong with the following VBScript code?  1	If (s = t) Then  2	u = s + t  3	ElseIf (s > t) Then  4	u = r  5	Else  6	u = n 7 End If | Nothing
 What is wrong with the following VBScript code?  1	Select Case x  2	Case 1  3	Call MsgBox("1")  4	Case 2  5	Call MsgBox("2")  6	Case Else  7	Call MsgBox("?") 8 End Select | Nothing
 See the snipset below and choose one answer:  <xsl:template match=”BOOK*position()!=2+”>     	<xsl:value-of select=”.”/>  </xsl:template> | Select all BOOK elements that are not the second child of their parents
@@ -2285,7 +2285,7 @@ Identify if the following XML document code is valid. <?xml version="1.0"?> 	<no
 Identify if the following XML document code is valid.		<?xml version="1.0"?> 	<to>Joe</to> 	<from>John</from> 	<heading>Reminder</heading> 	<body>Dont forget me this weekend!</body> | Invalid
 Identify the line/s containing an error 	1)<?xml version="1.0"?> 	2)<note date=12/11/99> 	3)<to>Ravi</to> 	4)<from>Amit</from> 	5)<heading>Reminder</heading> 	6)<body>Make good food please</body> 	7)</note> | Line 2
 Match the correct entity names with the respective characters 	a) &amp;			1) < 	b) &gt;				2) ' 	c) &quot;			3) > 	d) &lt;				4) " 	e) &apos;			5) & | a-5 ,b-3 ,c-4 ,d-1 ,e-2
-<?xml version="1.0" ?> <!DOCTYPE APTECH [ <!ELEMENT APTECH (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1  	count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2 	count CDATA #REQUIRED> ]> <TRIAL>ELECTRONIC GOODS 	<CLASS1 count="8">10students</CLASS1> 	<CLASS2 count="10">20students</CLASS2> </TRIAL> The following code will execute without displaying any errors? |   t 
+<?xml version="1.0" ?> <!DOCTYPE APTECH [ <!ELEMENT APTECH (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1  	count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2 	count CDATA #REQUIRED> ]> <TRIAL>ELECTRONIC GOODS 	<CLASS1 count="8">10students</CLASS1> 	<CLASS2 count="10">20students</CLASS2> </TRIAL> The following code will execute without displaying any errors? |    t 
 Consider and xml document <?xml version="1.0"?> <?xml-stylesheet type="text/css" href=xsampdoc.css ?> <xsampdoc>	<greeting>All The Best!</greeting> </xsampdoc>  The code for the style sheet xsampdoc is given as:  greeting { 	display:block; 	font-family:Arial,Helvetica, sans-serif;font-size:32pt; 	width:30em; 	color:red; }							 What will be the output of the above code? | The xml document will be displayed in the tree format
 Match the following Absolute units & Relative units with their respective values 	a)Ex				1)Inches 	b)In				2)Pixel  	c)Px				3)Pica 	d)Em				4)Fonts height 	e)Pc				5)Height of the letter 'x' | a-5,b-1,c-2,d-4,e-3
 S{margin-right:-3cm;} 	Is the above statement valid? | No
@@ -2296,7 +2296,7 @@ Namespaces ensure that there is no conflict within element names and also determ
 What are the three JSP Servlet Methods | jspInit() jspDestroy() _jspService()
 In a xml document what is this called  <?xml version="1.0"> | xml declaration
 raw XML | files can be viewed in all major browsers
-right click the page, View Source | to view raw XML on a webpage you must __________ and select __________invented |   XML tags are __________ by the author of the XML document
+right click the page, View Source | to view raw XML on a webpage you must __________ and select __________invented |    XML tags are __________ by the author of the XML document
 XSLT can be used to transform XML into HTML, before it is __________ is an XML-related technology that is used to find elements, attributes, and other information in your XML document. | XPath
 Which of the following are well formed XML fragments? | < myElement myAttribute="someValue"/>
 Which of the following is not a XML storage option? | Small object storage
@@ -2785,7 +2785,7 @@ ________ makes it now possible for data manipulation to be shared by the server 
 Which of the following is false? | c) The TDC outputs an interface like Microsoft Excel.
 Which of the following is true? | d) Text qualifiers encapsulate the data in a field
 The @ character is referred to as a______ | b) text qualifier
-The | character is referred to as a________. |   c) field delimiter
+The | character is referred to as a________. |    c) field delimiter
 Which of the following is not a valid PARAM setting for TDC controls? | a) <PARAM NAME = CLASSID: CLSID:333C7BC4-460F-11D0-BC04-0080C7055A83>
 What does the following statement do? <SPAN ID = "colorName" STYLE = "font-family: monospace" DATASRC = "#Colors" DATAFLD = "ColorName"></SPAN><BR> | c) It assigns the TDC control named Colors to a span element for display purposes
 What will value contain after the following code is executed assuming that Colors is a valid TDC control? value = Colors.recordset; | a) It will contain the current indexed item of the datasource
@@ -2838,8 +2838,8 @@ Identify if the following XML document code is valid. <?xml version="1.0"?> <to>
 Identify if the following code is correct? <b><i>This text is bold and italic</b></i> | Incorrect
 Identify the line/s containing an error 1)<?xml version="1.0"?> 2)<note date=12/11/99> 3)<to>Ravi</to> 4)<from>Amit</from> 5)<heading>Reminder</heading> 6)<body>Make good food please</body> 7)</note> | Line 2
 Match the correct entity names with the respective characters a) &amp; 1) < b) &gt; 2) ' c) &quot; 3) > d) &lt; 4) " e) &apos; 5) & | a-5 ,b-3 ,c-4 ,d-1 ,e-2
-<!ELEMENT A((B,C) | D |  E)> Identify what the statement indicates   |   Element A consists D or E or B followed by C.
-<?xml version="1.0" ?> <!DOCTYPE APTECH [ <!ELEMENT APTECH (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1 count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2 count CDATA #REQUIRED> ]> <TRIAL>ELECTRONIC GOODS <CLASS1 count="8">10students</CLASS1> <CLASS2 count="10">20students</CLASS2> </TRIAL> The following code will execute without displaying any errors? |   t
+<!ELEMENT A((B,C) | D |   E)> Identify what the statement indicates    |    Element A consists D or E or B followed by C.
+<?xml version="1.0" ?> <!DOCTYPE APTECH [ <!ELEMENT APTECH (CLASS1 | CLASS2)+> <!ELEMENT CLASS1 (#PCDATA)> <!ATTLIST CLASS1 count CDATA #REQUIRED> <!ELEMENT CLASS2 (#PCDATA)> <!ATTLIST CLASS2 count CDATA #REQUIRED> ]> <TRIAL>ELECTRONIC GOODS <CLASS1 count="8">10students</CLASS1> <CLASS2 count="10">20students</CLASS2> </TRIAL> The following code will execute without displaying any errors? |    t
 <?xml version="1.0"?> <script> <![CDATA [function matchwo(a,b) { if (a < b && a < 0) then { return 1 } } ]]> </script> The above code: | Executes without any error
 Consider and xml document <?xml version="1.0"?> <?xml-stylesheet type="text/css" href=xsampdoc.css ?> <xsampdoc> <greeting>All The Best!</greeting> </xsampdoc> The code for the style sheet xsampdoc is given as: greeting { display:block; font-family:Arial,Helvetica, sans-serif;font-size:32pt; width:30em; color:red; } What will be the output of the above code? | The xml document will be displayed in the tree format
 Match the following Absolute units & Relative units with their respective values a)Ex 1)Inches b)In 2)Pixel c)Px 3)Pica d)Em 4)Fonts height e)Pc 5)Height of the letter 'x' | a-5,b-1,c-2,d-4,e-3
@@ -2861,7 +2861,7 @@ The _______ of an identifier for a variable or function is the portion of the pr
 To refer to a particular location or element in the array, we specify the name of the array and the ________ of the particular element in the array. | c) position number
 Which of the following is the proper method to dynamically allocate memory to an array of 100 elements? | d) var c = new Array( 100 );
 It is a markup language that lets information systems share structured data | xxx
-When the TDC is bound to an element, the element's DATASRC attribute should be set to ________. | d) the name of the TDC object preceded by a The binding of TDC to a table requires setting the DATASRC property in the ________ |   a) table element
+When the TDC is bound to an element, the element's DATASRC attribute should be set to ________. | d) the name of the TDC object preceded by a The binding of TDC to a table requires setting the DATASRC property in the ________ |    a) table element
 Which of the following are valid iteration mechanisms in jsp? | <% int i = 0; for(;i<5; i++) { %> "Hello World"; <% i++; } %>
 Which of the following is true statement about the JavaServer Page life cycle?(Choose one) | The _jspService() method is called from the generated servlet's service() method
 Which is the CORRECT statement? | Entity beans represent persistent state objects (things that don't go away when the user goes away)

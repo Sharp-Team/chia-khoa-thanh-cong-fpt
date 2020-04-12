@@ -19,7 +19,7 @@ Select correct statements. With respect to ASCII | 3. character A is 0100 0001, 
 Select correct conversion specifiers for an int variable in C lanaguge | 3. d, o, u
 In C language, the selection constructs use | 3. switch, if else, hoi va hai cham
 Suppose that the following codes are executed. What is the output, while i nho bang 10, if i cong | 40
-Flags is a technique that supports using goto, continue statements| F
+Flags is a technique that supports using goto, continue statements | F
 To improve readability, programmers are recommended | 3. using whitespace, removing continue, using break
 The rule in C is that an else statement always belongs to the innermost if available | Only 1st statement is true
 Program should be written | 2. as a well program, with a consistent
@@ -54,7 +54,7 @@ What are the names of search algorithm applied to an array | 2. Linear search, B
 When the above code executes, what is the value of the variable pos | 6
 Suppose that all needed libraries are included | 2, 3, 4, 4, 5
 The output of the program is | None of the others
-5, 1, 2,4, 3 | 5, 4, 3, 2, 1 
+5, 1, 2,4, 3 | 5, 4, 3, 2, 1
 With respect to the binary search algorithm on an array | The values contained
 Which of these statements about the  conversion specifier used in scanf function are true | 2. It is usually used, It will read
 ABCDEFGEH | ABCD
@@ -85,13 +85,3 @@ Study the following steps in software development process | 1, 2, 3, 4, 5
 The output of a program is incorrect. It may be caused by | 2. the algorithm is wrong, a semantic error
 Restricting our use of the language to the standard subset of a language will create the | portability
 Analysis and maintenance are | first and last
-
-
-
-
-
-
-
-
-
-   

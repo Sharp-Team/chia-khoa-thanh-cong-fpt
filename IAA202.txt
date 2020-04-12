@@ -1,158 +1,88 @@
-Which of the following is the intangible value?  | Customer influence
+Which of the following is the intangible value? | Customer influence
 Both profitability and survivability must be considered when considering risks. You will want to consider which of the following items? | Client/stakeholder confidence
 At the suggestion of NIST SP 80030, if a threat exploits the vulnerability, the medium impact is | Result in human injury.
-What is the first step of the risk identification?  | Identify threats
-Although these threats are unintentional, you can address them with a risk management plan. Which of the following is a method do that?  | Managing environmental threats
+What is the first step of the risk identification? | Identify threats
+Although these threats are unintentional, you can address them with a risk management plan. Which of the following is a method do that? | Managing environmental threats
 Which of the following is the most serious attacker? | Disgruntled employees
-What is the separation of duties?  | The principle ensures that any single person does not control all the functions of a critical process.
+What is the separation of duties? | The principle ensures that any single person does not control all the functions of a critical process.
 
-Companies that practice "separation of duties" force two or more employees to carry out which of the following in order to carry out fraud?  | Collusion
-Which of the following has an incorrect definition assigned to the term?  | Baseline = a description of what the environment will look like, a standard of measure, after security is implemented
-
-The Control Objectives for Information and related Technology (COBIT) is a framework and set of best practices. Which of the following provides an incorrect characteristic of COBIT?  | COBIT is broken down into five domains
-
-Which of the following is the de facto standard of best practices for IT service management. It was created because of the increased dependence on information technology to meet business needs.  | ITIL
-
+Companies that practice "separation of duties" force two or more employees to carry out which of the following in order to carry out fraud? | Collusion
+Which of the following has an incorrect definition assigned to the term? | Baseline = a description of what the environment will look like, a standard of measure, after security is implemented
+The Control Objectives for Information and related Technology (COBIT) is a framework and set of best practices. Which of the following provides an incorrect characteristic of COBIT? | COBIT is broken down into five domains
+Which of the following is the de facto standard of best practices for IT service management. It was created because of the increased dependence on information technology to meet business needs. | ITIL
 The Kennedy-Kassebaum Act is also known as? | HIPAA
-
-The risk management plan specifies responsibilities. You can assign responsibilities to all except:  | Staffs and customers
-
-What is the responsible of risk management PM?  | Tracking and managing all project issues.
-
-The IT department is responsible for providing which of the following?  | Costs for each of the recommended solutions
-There are the major categories of reporting requirements except:  | BIA report
-
-What would be an appropriate difference between a qualitative and a quantitative risk analysis?  | Qualitative is a subjective observation, while a quantitative approach defines statistical costs associated with a threat.
-
-To calculate the annualized loss expectancy (ALE), which formula is used to calculate the potential loss to an organization for a specific threat?  | SLE x ARO
-
+The risk management plan specifies responsibilities. You can assign responsibilities to all except: | Staffs and customers
+What is the responsible of risk management PM? | Tracking and managing all project issues.
+The IT department is responsible for providing which of the following? | Costs for each of the recommended solutions
+There are the major categories of reporting requirements except: | BIA report
+What would be an appropriate difference between a qualitative and a quantitative risk analysis? | Qualitative is a subjective observation, while a quantitative approach defines statistical costs associated with a threat.
+To calculate the annualized loss expectancy (ALE), which formula is used to calculate the potential loss to an organization for a specific threat? | SLE x ARO
 A company issues laptop computers to employees. The value of each laptop is $1,500. About 100 laptops are being used at any time. In the past two years, the company has lost an average of one laptop per quarter. The company provides hardware locks for the laptops in bulk at a cost of $10 each, the ARO will decrease to 1. What is savings with control? | $4,500
-
 What is an ARO? | A number that represents the estimated frequency of an occurrence of an expected threat
-
 Before progressing with the RA, you need to complete which of the following actions? | Define the assessment.
-
-When review the previous findings, the items especially worth investigating are all except:  | Obsolete proposals
-
-
+When review the previous findings, the items especially worth investigating are all except: | Obsolete proposals
 What is the warm site? | It may include all the hardware but the data may not be up to date.
-
-Which of the following information is not provided by threat model?  | Threat controls
-
-What is the category of intellectual property?  | Industrial property
-
-Which of the following is not the characteristic of data warehousing?  | Decision makers are able to view the data from different perspectives.
-
+Which of the following information is not provided by threat model? | Threat controls
+What is the category of intellectual property? | Industrial property
+Which of the following is not the characteristic of data warehousing? | Decision makers are able to view the data from different perspectives.
 What does ELT stand for? | Extract, Load and Transform
-
 In Workstation Domain, you can use automated asset management systems to keep systems up to date. What is the first step of the automated system? | monitoring new updates
-
 Which of the following is an best example of internal threat? | Unintentional access
-
-Which of the following tests verifies user rights and permissions?  | Access controls testing
-
+Which of the following tests verifies user rights and permissions? | Access controls testing
 Which correct describes the audit? | It will check to see if an organization is following the policies that are in place.
-
-Which correct describes the audit trail?  | It is a series of events recorded in one or more logs.
-
-Which of the following is an example of operational control? Personal Security (PS)
-
+Which correct describes the audit trail? | It is a series of events recorded in one or more logs.
 Which of the following is an example of policy? | AUP
-
 What is a certification authority (CA)? | It issues and manages certificates.
-
 Which of the following is an example of class C in fire suppression systems? | Electrical fires
-
-When identify assets, your asset inventory could have resulted in the high priority with:  | Network infrastructure
-
-Which is the most valuable technique when determining if a specific security control should be implemented?  | Cost/benefits analysis
-
+When identify assets, your asset inventory could have resulted in the high priority with: | Network infrastructure
+Which is the most valuable technique when determining if a specific security control should be implemented? | Cost/benefits analysis
 What is defense in depth? | security practice that adds multiple layers of protection.
-
 What does TPM stand for? | Technology Protection Measure
 Which of the following elements is commonly included in any CBA report for a countermeasure? | Risk to be mitigated
 When implementing a risk mitigation plan, you should which of the following goals? | Stay within budget
 Which of the following is not consideration when developing the mitigation plan? | Time to approve the countermeasures
-
 What are the costs to implement? | Facility costs
 Business processes can survive without the business functions for one or more days. What is this impact value level? | Level 3
-
-
 What is the second step of a BIA process? | Identify stakeholders.
 Which of the following is not the best practice for performing a BIA for your organization? | Look for the quick solution
-
 Which of the following is a CBF? | Sales from the Web site
-
-Which of the following is not a key objectives that directly support the BCP?  | Identify critical threats
-
+Which of the following is not a key objectives that directly support the BCP? | Identify critical threats
 What is the most crucial piece of developing a disaster recovery plan? | Management support
-
 Business continuity plans address all of the following except: | Critical servers used on the company's LAN
-
 Which of the following things occurs when reconstitution phase begin? | The damage at the original location is repaired
-
 DRP mean essentially the same thing all but which of the following? | Business continuity plan
-
 What is the RTO? | The time when a system or function must be recovered.
-
 Which of the following is not purpose of the DRP? | Identify business impact
-
 Which of the following is critical success factor of the DRP? | Knowledge and authority for DRP developers
-
 Some malware can execute on a user's system alter the user accesses a Web site. The malware executes from within the Web browser. What type of malware Is this? | Mobile code
-
 After an incident has been verified, you need to ensure that it doesn't spread to other systems. What Is this called? | Containment
-
 What is the greatest risk loan organization when peer-to-peer software is installed on a user's system? | Data leakage
 What is the second step of the incident response life cycle? | detection and analysis
-
 Several types of malicious code exist. What is malware that appears to be one thing but is actually something else? | Trojan horse
-
 Attackers attempt a DoS attack on servers in your organisation. The CIRT responds and mitigates the attack. What should be the last step that the CIRT will complete in response to this incident? | Document the Incident.
-
-
 An administrator has discovered that a Web server is responding very slowly investigation shows that the processor, memory and network resources are being consumed by outside attackers. What type of this attack? | DoS or DDoS
-
 A user has installed P2P software on a system. The organization's policy specifically states this is unauthorized. An administrator discovered the software on the user's system. Is this a computer security incident? If so, what type? | This is a form of inappropriate usage.
-
 A company decides to reduce losses of a threat by purchasing insurance. The way it is kind of risk management techniques of the following? | Transfer
-
 A business impact analysis (BIA) includes a maximum allowable outage (MAO). The MAO is used to determine the amount of time in which a system must be recovered. What term is used in the DRP instead of the MAO? | RTO
-
 Which of the following is NOT the risk management technique? | Prevent
-
-
 Which of the following best describes separation of duties and job rotation? | Separation of duties ensures that one person cannot perform a high-risk task alone, and job rotation can uncover fraud and ensure that more than one person knows the tasks of a position.
-
 You are considering an alternate location for a DRP. You want to ensure the alternate location can be brought online as quickly as possible. What type of site would you choose? | Hot site
-
 You have applied controls to minimize risk in the environment. What is the remaining risk called? | Residual risk
-
-
-You are considering using a hot site as an alternate location. You want to consider different technologies to keep the data updated and decrease the time it will take for the hot site to become operational. What are some technologies that may help?| All of these
-
-
+You are considering using a hot site as an alternate location. You want to consider different technologies to keep the data updated and decrease the time it will take for the hot site to become operational. What are some technologies that may help? | All of these
 If the benefits outweigh the cost, a control is implemented. Costs and benefits are identified by completing one which of the following work? | Cost/benefit analysis
-
-
 A DMZ, or demilitarized zone, is used in a networking context for what primary purpose? | To allow systems in the DMZ to be easily accessed by Internet users
-
-
-A major disruption has forced you to move operations to an alternate location. The disruption is over and you need to begin normalizing operations. You have rebuilt several servers at the primary location. What should you do?| Run the servers concurrently with the alternate location for three to five days.
-
+A major disruption has forced you to move operations to an alternate location. The disruption is over and you need to begin normalizing operations. You have rebuilt several servers at the primary location. What should you do? | Run the servers concurrently with the alternate location for three to five days.
 Why should employers make sure employees take their vacations? | It is a way for fraud to be uncovered
-
-What can you do to show that the BCP will work as planned?| BCP testing
-
+What can you do to show that the BCP will work as planned? | BCP testing
 If a programmer is restricted from updating and modifying production code, what is this an example of? | Separation of duties
 After a BCP has been activated, who will assess the damages? | DAT
 What are the three phases of a BCP? | Activation/notification, recovery, reconstitution
 Laura and her team are diligently working on a company-wide risk assessment initiative. At the conclusion of her team's work, all of the following goals could be met, except: | Countermeasures have been put into place and communicated to the appropriate personnel.
 Larry is in charge of presenting risk assessment calculations to his boss by the end of the week. He concludes that a server with heavy traffic has an annualized loss expectancy (ALE) of $15,000 with an annualized rate of occurrence (ARO) of 5. What is the server's single loss expectancy (SLE) value? | $3,000
-The BIA is a part of  | BCP
+The BIA is a part of | BCP
 What type of approach does a BIA use? | Bottom-up approach where servers or services are examined first
 What could a password policy include? | Length of password
-In the CMMI, which of the following level indicates the highest level of maturity?| Level 5
+In the CMMI, which of the following level indicates the highest level of maturity? | Level 5
 What will the scope of a risk management plan define? | Boundaries
 You have identified the MAO for a system. You now want to specify the time required for a system to be recovered. What is this? | Recovery time objectives
 Of the following, what is NOT included in a cost-benefit analysis report? | POAM
@@ -208,15 +138,10 @@ A program that receives too much data so that it cannot execute instructions pro
 13. Which U.S. government agency regularly publishes alerts and bulletins related to security threats? | C. US-CERT
 14. The CVE list is maintained by | a. MITRE Corporation.
 15. What is the standard used to create Information Security Vulnerability names? | A. CVE
-1. | 
 FISMA requires federal agencies to protect IT systems and data. How often should compliance be audited by an external organization? | C. Annually
-2. | 
 What law applies to organizations handling health care information? | D. HIPAA
-3. | 
 CEOs and CFOs can go to jail if financial statements are inaccurate. What law is this from? | A. SOX
-4. | 
 What law requires schools and libraries to limit offensive content on their computers? | C. CIPA
-5. | 
 Employees in some companies are often required to take an annual vacation of at least five days. The purpose is to reduce fraud and embezzlement. What is this called? | B. Mandatory vacation
 6. Fiduciary refers to a relationship of trust. | A. True
 7. Merchants that handle credit cards are expected to implement data security. What standard should they follow? | D. PCI DSS
@@ -394,37 +319,27 @@ What can you use to help quantify risks? | E. All of the above
 14. Attackers attempt a DoS attack on servers in your organization. The CIRT responds and mitigates the attack. What should be the last step that the CIRT will complete in response to this incident? | C. Document the incident.
 15. Several types of malicious code exist. Malware that appears to be one thing but is actually something else is | a Trojan horse.
 Which of the following is an example of operational control? | Audit and Accountability
-Which of the following tests verifies user rights and permissions? | Access controls testing
 Which of the following information is not provided threat model? | Threat controls
-Which of the following is a CBF? | Sales from the Web site
 What is the responsible of risk management PM? | Tracking and managing project issues
 What is the RTO? | The time when a system or function must be recovered
 At the suggestion of NIST SP 800... | Noticeably affect
 Which of the following is not consideration when developing the mitigation plan? | Time to approve the
 Business continuity plans address all of the following except. | The protection...
 When identify assets, your asset inventory could have resulted in the high priority with | network in...
-What is the second step of the incident response life cycle? | detection and analysis
 The risk management plan specifies responsibilities. You can assigh res.... | Staffs and cus...
 Which correct describes the audit trail? | It is series of events recor...
-Which of the following is an best example of internal threat? | Unintentional access
 What is the greatest risk loan organization when peer to peer.... | Data leakage
 After an incident has been verified, you need to ensure that it doesn't spread to other system | Containment
 Which of the following elements is commonly included in any CBA report | Risk to be migigated
 Which of the following has an incorrect definition assigned to the term? | Baseline = a description...
-DRP mean essentially the same thing all but which of the following? | Business continuity plan
-Which of the following is not a key objectives that directly support the BCP? | Identify critical threats
-Which of the following is not purpose of the DRP? | Identify business impact
 What does ELT stand for? | Extract, load and Transform
 What would be an appropriate difference between a qualitative and a quantitative risk analysis? | Qualitative is a......
 There are the major categories of reporting requirements except | BIA report
 Although these threats are unintentional, you can address them with a risk management plan. Which of the following is a method do that? | managing environmental threats
 What is the second step of a BIA process? | Identify stakeholders
 What is a certification authority (CA)? | It issues and manages cer
-Which of the following is the intangible value? | Customer influence
 Which is the most valuable technique when determining if a specific security control should be implemented? | Cost benefits analysis
 Which of the following is critical success factor of the DRP? | Knowledge and authority
-What does TPM stand for? | Technology Protection Measure
-What is the category of intellectual property? | Industrial property
 Business processes can survive whithout he business functions for one or more days. What is this impact value level? | Level 3
 When review the previous findings, the items especially worth investigating are all except | Obsolete propsals
 A company issues laptop computers to employess... | 4500
@@ -472,8 +387,8 @@ Individual responsibility could be assigned for all of the following activities 
 HIPAA applies only to the health care industry. | False.
 Automation and input validation are common methods used to reduce human errors | True
 What is out-of-pocket cost? | An additional fee
-Threat × Vulnerability | Which one of the following properly defines risk?
-Threat × Vulnerability × Asset Value | Which one of the following properly defines total risk?
+Threat ï¿½ Vulnerability | Which one of the following properly defines risk?
+Threat ï¿½ Vulnerability ï¿½ Asset Value | Which one of the following properly defines total risk?
 False | You can completely eliminate risk in an IT environment.
 A External and internal, Computer and user | Which of the following are accurate pairings of threat categories?
 Intangible value | A loss of client confidence or public trust is an example of a loss of ________.
@@ -624,7 +539,7 @@ Loss Before Control Loss After Control | Which of the following is a valid formu
 True | A CBA can be used to justify the purchase of a control.
 In-place | A(n) ________ countermeasure has been approved and has a date for implementation.
 True | A single risk can be mitigated by more than one countermeasure.
-Threat × Vulnerability | The formula for risk is Risk ________.
+Threat ï¿½ Vulnerability | The formula for risk is Risk ________.
 Details on how to create accounts, Details on when accounts should be disabled, Password policy | What would an account management policy include?
 Length of password | What could a password policy include?
 Mitigation | The ________ plan will include details on how and when to implement approved countermeasures.
@@ -755,7 +670,6 @@ All of the below | Of the following, what should be included in a cost-benefit a
 All of the below | What would an account management policy include ?
 Critical business functions | What can be used to help identify mission-critical systems ?
 All of them | When identifying hardware assets in your organization, what information should you include ?
-False | A BCP and DRP are the same thing.
 Risk Assessment are not relevant to Risk Management program | Which statement is incorrect about Risk Assessment ?
 In-Place and Planned controls | Which controls is not belong to Control Categories when identifying and evaluating the countermeasures ?
 These are controls that have a specified implementation date. | Which definition is true about Planned controls ?
@@ -772,9 +686,7 @@ CCTV | Which of the following is a physical control ?
 More realistic than either tabletop or functional exercises | What is a full-scale exercise ?
 Activated | What their actual responsibilities are when the BCP is ?
 All of the below | NIST SP 800-53 identifies controls in three primary classes. What are they ?
-True | A PTZ camera is used within a CCTV system. It can pan, tilt, and zoom.
 In-place | A(n) __________ countermeasure has been approved and has a date for implementation.
-False | MAO is the minimal acceptable outage that a system or service can have before affecting the mission.
 SLA | Your organization wants to have an agreement with a vendor for an expected level of performance for a service. You want to ensure that monetary penalties are assessed if the minimum uptime requirements are not met. What should you use ?
 ACLs | Routers have __________ to control what traffic is allowed through them.
 $25,000 | How much can an organization be fined in a year for mistakes that result in noncompliance ?
@@ -800,14 +712,11 @@ HIPAA applies only to the health care industry | F
 Individual responsibility could be assigned for all of the following activities EXCEPT | Risk analysis
 __________ and __________ attacks are common attacks for Internet-facing Web servers | Buffer overflow and SQL Injection
 Which site takes the longest time to set up | Cold site
-Which type of data requires highest level of protection? | Proprietary
-Which of the following is NOT a vulnerability assessment tool? | FileZilla
 Which of the following is a management control | System and Services Acquisition
 Which of the following asset inventory is medium priority | E-mail Server
 Overlapping countermeasures make security controls more effective and do not cause any problem | False
 Common recommended lengths are at least ____ characters for regular users and at least ____ characters for administrator | 8 - 15
 The BIA is largely a _________ process | Data-gathering
-Which impact value level whose maximum acceptable outage and impact is 3 days? | 3
 Provide training is _____ step of a BCP | 5th
 When the BCP is completed and activated, the BCP coordinator is responsible for declaring the emergency and developing the BCP | False (and activating BCP)
 If the MAO is 120 minutes, the RTO needs to be written to be _________ 120 minutes | Less than/equal to
@@ -960,31 +869,24 @@ What can you use to ensure that unauthorized changes are not made to systems? | 
 What are two types of intrusion detection systems? | Host-based and network-based
 A DMZ, or demilitarized zone, is used in a networking context for what primary purpose? | to provide a high level of security for the private network
 Why should employers make sure employees take their vacations? | It is a way that fraud can be uncovered.
-Which of the following best describes separation of duties and job rotation? | Separation of duties ensures that one person cannot perform a high-risk task alone, and job rotation can uncover fraud and ensure that more than one person knows the tasks of a position.
-If a programmer is restricted from updating and modifying production code, what is this an example of? | Separation of duties
 What is a stakeholder? | An individual or group that has an interest in the project
 What three elements should be included in the findings of the risk management report? | Causes, Criteria, and effects
 What is a primary tool used to identify the financial significance of a mitigation tool? | CBA
 What is a POAM? | Plan of action and milestones
 A POAM is used to track the progress of a project. What type of chart is commonly used to assist with tracking? | GANTT chart
 A risk management plan project manager oversees the entire plan. What is the project manager responsible for? | Ensuring costs are controlled -Ensuring the project stays on
-What will the scope of a risk management plan define? | Boundaries
 What are valid contents of a risk management plan? | Objectives, Scope, Recommendations, POAM
 What should be included in the objectives of a risk management plan | A list of threats, vulnerabilities, Costs associated with risks, cba
-What problem can occur if the scope of a risk management plan is not defined? | Scope creep
 Which of the following is a major component of a risk management plan? | A risk Assessment
 What elements are included in a qualitative analysis? | Probability and Impact
 One of the challenges facing risk assessments is getting accurate data. What can be included in the risk assessment report to give an indication of the reliability of the data? | Uncertainty level
 You are working on a qualitative risk assessment for your company. You are thinking about the final report. What should you consider when providing the results and recommendations? | Resource Allocation -Risk Acceptance
 Of the following, what would be considered a best practice when performing risk assessments? | ALL OF THE BELOW
-What must you define when performing a qualitative risk assessment? | Scales used to define probability and impact
 What is an ARO? | Annualized Rate of Occurrence
 Which choice MOST closely depicts the difference between qualitative and quantitative risk analysis? | Aquantitative RAuses less guesswork than a qualitative RA.
 A company needs to determine its security budget for the next year. It interviews users, administrators, and managers in the information technology division, who render opinions and recommendations based upon their perceptions of security risk. This is an example of what kind of approach to risk analysis? | Qualitative
 When reviewing historical data, you can look some events. They are | Attack, Accident, Natural Event, Equipment failures
 Laura and her team are diligently working on a company-wide risk assessment initiative. At the conclusion of her team's work, all of the following goals could be met, except: | Countermeasures have been put into place and communicated to the appropriate personnel
-Risk assessment is not always met with open arms by management for all of the following reasons except: | Due care and due diligence
-Larry is in charge of presenting risk assessment calculations to his boss by the end of the week. He concludes that a server with heavy traffic has an annualized loss expectancy (ALE) of $15,000 with an annualized rate of occurrence (ARO) of 5. What is the server's single loss expectancy (SLE) value? | $3,000
 What does a qualitative RA use to prioritize a risk? | Probability and impact
 Shirley is in charge of asset identification and classification as part of a risk assessment initiative. In going through an inventory list, she must decide if an asset is tangible or intangible. Which of the following should she mark as intangible? | Reputation
 What is a single point of failure? | Any single part of a system that can cause the entire system to fail, if it fails
@@ -993,7 +895,6 @@ A number of factors should be considered when assigning values to assets. Which 
 Corruption/modification is one of the biggest threats to an operations environment. Which of the following is the typical culprit in this type of threat? | Employees
 Which of the following is an internal threat? | User accidentally deletes new product designs.
 Which of the following is NOT a result of a penetration test? | Modify access control permissions
-A program that receives too much data so that it cannot execute instructions properly has been exploited by which of the following attacks? | Buffer overflow
 Mary is creating malicious code that will steal a user's cookies by modifying the original client-side Java script. What type of cross-site scripting vulnerability is she exploiting? | DOM-based
 What is the first step in an exploit assessment? | Get permission first
 When performing exploit assessments, best practice is: | Get permission first, identify as many as exploits, Use a gap analysis
@@ -1004,22 +905,15 @@ What should you use to ensure that users understand what they can and cannot do 
 Which of the following is used to identify the impact on an organization if a risk occurs? | Business Impact Analysis (BIA)
 Which of the following is a valid formula used to identify the projected benefits of a control? | Loss before control - loss after control
 What determines if an organization is governed by FERPA? | If it is a federal agency
-Which of the strategies below can help to reduce security gaps even if a security control fails? | Defense in depth
 What can be used to remind users of the contents of the AUP? | Logon banners -Posters -E-mails
 Which of the following is accurate pairing of threat categories? | External and internal, intentional and accidental
 Which of the following is an industryrecognized standard list of common vulnerabilities ? | CVE
 Which of the following statement is correct when referring to qualitative risk assessment | All statement are correct
-A company needs to determine its security budget for the next year. It interviews users, administrators, and managers in the information technology division, who render opinions and recommendations based upon their perceptions of security risk. This is an example of what kind of approach to risk analysis? | Qualitative
 What is the recovery value? | This is the cost to get the asset operational after a failure
 When reviewing historical data, you can look some events. Which of the follwing is not one of them? | Attacks,natural events,accidents,equipment failure
 Which of the following is an example of the administrative security control? | Policies and procedures, Security plans, Insurance, Personnel checks, Awareness and training, Rules of behavior
 Which of the following is an example of the technical security control? | Login identifier, Session timeout, System log, Audit trails, Input validation, Firewalls, Encryption
 Awareness and training is an example of | Administrative Control
-Laura and her team are diligently working on a company-wide risk assessment initiative. At the conclusion of her team's work, all of the following goals could be met, except: | Countermeasures have been put into place and communicated to the appropriate personnel.
-Risk assessment is not always met with open arms by management for all of the following reasons except: | Due care and due diligence
-Larry is in charge of presenting risk assessment calculations to his boss by the end of the week. He concludes that a server with heavy traffic has an annualized loss expectancy (ALE) of $15,000 with an annualized rate of occurrence (ARO) of 5. What is the server's single loss expectancy (SLE) value? | $3,000
-What does a qualitative RA use to prioritize a risk? | Probability and impact
-Shirley is in charge of asset identification and classification as part of a risk assessment initiative. In going through an inventory list, she must decide if an asset is tangible or intangible. Which of the following should she mark as intangible? | Reputation
 Which of the following is NOT a type of assets? | installed components, hardware peripherals, installed software, update versions, and more
 What is the information you need to know hardware assets? | Hardware assets are any assets that you can physically touch. This includes computers such as laptops, workstations, and servers. It also includes network devices such as routers, switches, and firewalls
 What is "five nine"? | 99.999 percent up time, is sometimes needed for certain services
@@ -1027,34 +921,28 @@ What is a single point of failure? | A single point of failure is any part of a 
 Intellectual Property is a example of | Data and information assets
 What is the risk of the assets in Workstation Domain? | Theft,Update
 A number of factors should be considered when assigning values to assets. Which of the following is not used to determine the value of an asset? | Replacement value - This is the cost to purchase a new asset in its place, Recovery value - This is the cost to get the asset operational after a failure.
-Corruption/modification is one of the biggest threats to an operations environment. Which of the following is the typical culprit in this type of threat? | Employees
 Which of the following is an internal threat? | Employees not following security policy
 Which of the following is NOT a result of a penetration test? | System testing, Exploit assessments
-A program that receives too much data so that it cannot execute instructions properly has been exploited by which of the following attacks? | Buffer overflow
-Mary is creating malicious code that will steal a user's cookies by modifying the original client-side Java script. What type of cross-site scripting vulnerability is she exploiting? | DOM-based
 What is the first step in an exploit assessment? | The first step in an exploit assessment is to perform a vulnerability test.
 In best practices for exploit assessments, what is a solution for legal compliance? | Use a gap analysis
-You want to identify if any of the discovered vulnerabilities can be exploited. What should you perform? | Exploit assessment
-You want to know if users are granted the rights and permissions needed to do their job only, and no more. You should perform which of the following tests? | Access controls
 Contingency Planning(CP) is an example of | NIST SP 800-53 Operational Controls
 Which best describes System and Services Acquisition (SA) control? | The SA family includes many controls related to the purchase of products and services. It also includes controls related to software usage and user installed software
 Which best describes Technical controlsl? | Technical controls are software tools that automate protection. A technical control is enforced using technology
 What is a proximity card? | A proximity card is a small credit-card sized device. It includes electronics that will activate when it is close to a proximity reader. The card sends a signal to the reader identifying it. If the card is authorized, the door will open
-What is an AUP? | Acceptable use policy (AUP)—An AUP defines acceptable use of systems. It identifies what a user can and cannot do on a system. It is sometimes referred to as Rules of Behavior
+What is an AUP? | Acceptable use policy (AUP)ï¿½An AUP defines acceptable use of systems. It identifies what a user can and cannot do on a system. It is sometimes referred to as Rules of Behavior
 Which of the following is used to identify the impact on an organization if a risk occurs? | BIA
 What is the MAO? | Maximum acceptable outage (MAO)
-The MAO identifies the maximum acceptable downtime for a system. | 
 Which of the following is a valid formula used to identify the projected benefits of a control? | Loss before control - Loss after control = Projected benefits
 What is the scope of risk management for System/Application Domain? | System/Application Domain - A primary requirement to keep these systems secure is to ensure administrators have adequate training and knowledge. Additionally, configuration and change management practices are helpful. Configuration management ensures the systems are configured using sound security practices.
-What is the impact of legal and compliance implications on the LAN-to-WAN Domain? | LAN-to-WAN Domain—A firewall is used to protect a network here. PCI DSS specifically requires a firewall. A library may use a proxy server as a TPM to comply with CIPA. A proxy server has access to the Internet and the intranet. It would need additional security to protect it from external attacks.
+What is the impact of legal and compliance implications on the LAN-to-WAN Domain? | LAN-to-WAN Domainï¿½A firewall is used to protect a network here. PCI DSS specifically requires a firewall. A library may use a proxy server as a TPM to comply with CIPA. A proxy server has access to the Internet and the intranet. It would need additional security to protect it from external attacks.
 What determines if an organization is governed by FERPA? | FERPA mandates access to educational records by students or parents. If the school has a large volume of these requests, it could affect regular operations. The school could choose to limit when access to records is granted.
 If your organization is governed by FISMA. What is one of the important issues to understand first? | The Federal Information Security Management Act (FISMA) was passed in 2002. Its purpose is to ensure that federal agencies protect their data. It assigns specific responsibilities for federal agencies.
 What can be used to remind users of the contents of the AUP? | Companies also sometimes use banners and logon screens to remind personnel of the policy
 What is the ROI? | the return on investment
 Which of the following is NOT valid contents of a risk management plan? | Objectives, Scope, Recommendations, POAM
 Which of the following is NOT included in the objectives of a risk management plan? | A list of threats, vulnerabilities, Costs associated with risks, cba
-Which one of the following properly defines risk? | Threat × Vulnerability
-Which one of the following properly defines total risk? | Threat × Vulnerability × Asset Value
+Which one of the following properly defines risk? | Threat ï¿½ Vulnerability
+Which one of the following properly defines total risk? | Threat ï¿½ Vulnerability ï¿½ Asset Value
 You can completely eliminate risk in an IT environment. | False
 Which of the following are accurate pairings of threat categories? (Select two.) | Computer and user,A External and internal
 A loss of client confidence or public trust is an example of a loss of ________. | Intangible value
@@ -1065,14 +953,8 @@ Which of the following is a goal of risk management? | To identify the correct c
 If the benefits outweigh the cost, a control is implemented. Costs and benefits are identified by completing a ________. | CBA or cost-benefit analysis
 A company decides to reduce losses of a threat by purchasing insurance. This is known as risk ________. | Transfer
 What can you do to manage risk? (Select three.) | Accept,Transfer,Avoid
-You have applied controls to minimize risk in the environment. What is the remaining risk called? | Residual risk
 Who is ultimately responsible for losses resulting from residual risk? | Senior management
-What is a security policy? | A document created by senior management that identifies the role of security in the organization
 You want to ensure that users are granted only the rights to perform actions required for their jobs. What should you use? | Principle of least privilege
-You want to ensure that users are granted only the permissions needed to access data required to perform their jobs. What should you use? | Principle of need to know
-Which of the following security principles divides job responsibilities to reduce fraud? | Separation of duties
-What can you use to ensure that unauthorized changes are not made to systems? | Configuration management
-What are two types of intrusion detection systems? | Host-based and network-based
 A technical control prevents unauthorized personnel from having physical access to a secure area or secure system. | False
 What allows an attacker to gain additional privileges on a system by sending unexpected code to the system? | Buffer overflow
 What is hardening a server? | Securing it from the default configuration
@@ -1099,18 +981,13 @@ In the CMMI, level ______ indicates the highest level of maturity. | 5
 The DIACAP is a risk management process applied to IT systems. What happens after a system is accredited? | It receives authority to operate.
 What are valid contents of a risk management plan? | All of the above
 What should be included in the objectives of a risk management plan? | All of the above
-What will the scope of a risk management plan define? | Boundaries
-What problem can occur if the scope of a risk management plan is not defined? | Scope creep
-What is a stakeholder? | An individual or group that has an interest in the project
 A key stakeholder should have authority to make decisions about a project. This includes authority to provide additional resources. | True
 A risk management plan project manager oversees the entire plan. What is the project manager responsible for? (Select two.) | Ensuring costs are controlled,Ensuring the project stays on schedule
 A risk management plan includes steps to mitigate risks. Who is responsible for choosing what steps to implement? | Management
 A risk management plan includes a list of findings in a report. The findings identify threats and vulnerabilities. What type of diagram can document some of the findings? | Cause and effect diagram
 What three elements should be included in the findings of the risk management report? | Causes, criteria, and effects
-What is a primary tool used to identify the financial significance of a mitigation tool? | CBA
 A fishbone diagram can link causes with effects. | True
 You present management with recommendations from a risk management plan. What can management choose to do? | Accept, defer, or modify the recommendations
-What is a POAM? | Plan of action and milestones
 A POAM is used to track the progress of a project. What type of chart is commonly used to assist with tracking? | Gantt chart
 What can you use to help quantify risks? | All of the above
 A risk ________ is a major component of a risk management plan. | Assessment
@@ -1121,10 +998,8 @@ What elements are included in a quantitative analysis? | SLE, ALE, ARO
 Qualitative analysis is more time consuming than quantitative analysis. | False
 You are trying to decide what type of risk assessment methodology to use. A primary benefit of a ________ risk assessment is that it can be completed more quickly than other methods. | Qualitative
 You are trying to decide what type of risk assessment methodology to use. A primary benefit of a ________ risk assessment is that it includes details for a cost-benefit analysis. | Quantitative
-What must you define when performing a qualitative risk assessment? | Scales used to define probability and impact
 A ________ risk assessment is objective. It uses data that can be verified. | Quantitative
 A ________ risk assessment is subjective. It relies on the opinions of experts. | Qualitative
-One of the challenges facing risk assessments is getting accurate data. What can be included in the risk assessment report to give an indication of the reliability of the data? | Uncertainty level
 You are working on a qualitative risk assessment for your company. You are thinking about the final report. What should you consider when providing the results and recommendations? (Select two.) | Resource allocation,Risk acceptance
 Of the following, what would be considered a best practice when performing risk assessments? | All of the above
 You are beginning an RA for a system. You should define both the operational characteristics and the mission of the system in the early stages of the RA. | True
@@ -1137,13 +1012,11 @@ An acceptable use policy is an example of a(n) ________ control. | Administrativ
 Your organization requires users to log on with smart cards. This is an example of a(n) ________ control. | Technical
 You use video cameras to monitor the entrance of secure areas of your building. This is an example of a(n) ________ control. | Physical
 Which of the following should you match with a control to mitigate a relevant risk? | Threat/vulnerability pair
-What does a qualitative RA use to prioritize a risk? | Probability and impact
 What does a quantitative RA use to prioritize a risk? | SLE, ARO, and ALE
 Your organization purchased a control and installed it on several servers. This control is consuming too many server resources, and the servers can no longer function. What was not evaluated before the control was purchased? | The operational impact of the control
 What is included in an RA that helps justify the cost of a control? | CBA
 What is created with a risk assessment to track the implementation of the controls? | POAM
 It is possible to ensure a service is operational 99.999 percent of the time even if a server needs to be regularly rebooted. | True
-What is a single point of failure? | Any single part of a system that can cause the entire system to fail, if it fails
 When identifying the assets you have in your organization, what would you include? | A, B, and C
 When identifying hardware assets in your organization, what information should you include? | Model and manufacturer,Serial number,Location
 An organization may use a ________ rotation policy to help discover dangerous shortcuts or fraudulent activity. | Job
@@ -1151,12 +1024,10 @@ What type of data should be included when identifying an organization's data or 
 What is a data warehouse? | A database created by combining multiple databases into a central database
 What is data mining? | The process of retrieving relevant data from a data warehouse
 You are reviewing your organization's asset management data. You want to ensure that all elements of the organization are included. What can you compare the asset management system against to ensure the entire organization is covered? | The seven domains of a typical IT infrastructure
-You are tasked with updating your organization's business continuity plans. When completing this process, you should only include ________ systems. Mission-critical | 
 What can you use to share or transfer risk associated with potential disasters? | Insurance
 An organization wants to determine what the impact will be if a specific IT server fails. What should it use? | BIA
 An organization wants to ensure it can continue mission-critical operations in the event of a disaster. What should it use? | BCP
 An organization wants to ensure it can recover a system in the event of a disaster. What should it use? | DRP
-A BCP and DRP are the same thing. | False
 The two major categories of threats are human and ________. | Natural
 A threat is any activity that represents a possible danger, with the potential to affect confidentiality, integrity, or availability. | True
 Which of the following methods can be used to identify threats? | Both A and B
@@ -1168,7 +1039,6 @@ What is the name of a common tool used to perform an automated vulnerability ass
 What is a common drawback or weakness of a vulnerability scanner? | A high false-positive error rate
 Your organization wants to check compliance with internal rules and guidelines. The organization wants to ensure that existing policies are being followed. What should be performed? | An audit
 You want to know if users are granted the rights and permissions needed to do their job only, and no more. You should perform a(n) ________ test. | Access controls
-You want to identify if any of the discovered vulnerabilities can be exploited. What should you perform? | Exploit assessment
 Your organization is governed by HIPAA. You suspect that your organization is not in compliance. What would document the differences between what is required and what is currently implemented? | Gap analysis
 What management program can be implemented to ensure that the configuration of systems is not modified without a formal approval? | Change management
 Once you have deployed countermeasures, it's not necessary to retest to ensure that the exploit has been mitigated. | False
@@ -1177,17 +1047,14 @@ Controls can be identified based on their function. The functions are preventive
 What are the primary objectives of a control? | Prevent, recover, and detect
 What type of control is an intrusion detection system (IDS)? | Detective
 Controls are often categorized based on how they are implemented. What are the three common methods of implementing controls? | Procedural, technical, and physical
-A(n) ________ control is used to ensure that users have the rights and permissions they need to perform their jobs, and no more. | AccessLogon identifiers help ensure that users cannot deny taking a specific action such as deleting a file. What is this called? | Nonrepudiation
-What should you use to ensure that users understand what they can and cannot do on systems within the network? | Rules of behavior
+A(n) ________ control is used to ensure that users have the rights and permissions they need to perform their jobs, and no more. | AccessLogon identifiers help ensure that users cannot deny taking a specific action such as deleting a file. What is this called? |  Nonrepudiation
 What can be used to ensure confidentiality of sensitive data? | Encryption
 What should be logged in an audit log? | Who, what, when, and where details of an event
 Your organization wants to issue certificates for internal systems such as an internal Web server. You'll need to install a ________ to issue and manage certificates. | Certification authority (CA)
 Which of the following is a procedural control? | DRP
 Which of the following is a technical control? | PKI
 Which of the following is a physical control? | CCTV
-A PTZ camera is used within a CCTV system. It can pan, tilt, and zoom. | True
 A ________ is used to identify the impact on an organization if a risk occurs. | Business impact analysis (BIA)
-MAO is the minimal acceptable outage that a system or service can have before affecting the mission. | False
 Your organization wants to have an agreement with a vendor for an expected level of performance for a service. You want to ensure that monetary penalties are assessed if the minimum uptime requirements are not met. What should you use? | SLA
 What would you use to identify mission-critical systems? | Critical business functions
 What can an organization use to remind users of AUP contents? | All of the above
@@ -1203,9 +1070,8 @@ Which of the following is a valid formula used to identify the projected benefit
 A CBA can be used to justify the purchase of a control. | True
 A(n) ________ countermeasure has been approved and has a date for implementation. | In-place
 A single risk can be mitigated by more than one countermeasure. | True
-The formula for risk is Risk ________. | Threat × Vulnerability
+The formula for risk is Risk ________. | Threat ï¿½ Vulnerability
 What would an account management policy include? | A, B, and C
-What could a password policy include? | Length of password
 The ________ plan will include details on how and when to implement approved countermeasures. | Mitigation
 You are reviewing a countermeasure to add to the mitigation plan. What costs should be considered? | All of the above
 Which of the following are considered facility costs for the implementation of a countermeasure? | Power and air conditioning
@@ -1238,12 +1104,9 @@ What is the purpose of a BCP? | To ensure mission-critical elements of an organi
 What does a BCP help to protect during and after a disruption or disaster? | Confidentiality, integrity, and availability
 The ________ is responsible for declaring an emergency and activating the BCP. | BCP coordinator
 After a BCP has been activated, who has overall authority for the recovery of systems? | EMT
-After a BCP has been activated, who will assess the damages? | DAT
 After a BCP has been activated, who will recover and restore critical IT services? | TRT
 What are the three phases of a BCP? | Notification/activation, recovery, reconstitution
 A major disruption has forced you to move operations to an alternate location. The disruption is over and you need to begin normalizing operations. What operations should you move back to the original location first? | Least critical business functions
-A major disruption has forced you to move operations to an alternate location. The disruption is over and you need to begin normalizing operations. You have rebuilt several servers at the primary location. What should you do? | Run the servers concurrently with the alternate location for three to five days.
-What can you do to show that the BCP will work as planned? | BCP testing
 What types of exercises can demonstrate a BCP in action? (Select three.) | Tabletop exercises,Functional exercises,Full-scale exercises
 Once a BCP has been developed, it should be reviewed and updated on a regular basis, such as annually. | True
 A(n) ________ is a plan used to restore critical business functions to operation after a disruption or disaster. | Disaster recovery plan (DRP)
@@ -1254,7 +1117,6 @@ A business impact analysis (BIA) includes a maximum acceptable outage (MAO). The
 A certain DRP covers a system that hosts a large database. You want to ensure that the data is copied to an off-site location. What could you use? | All of the above
 A copy of backups should be stored ________ to ensure the organization can survive a catastrophic disaster to the primary location. | Off-site
 You are considering an alternate location for a DRP. You want to minimize costs for the site. What type of site would you choose? | Cold site
-You are considering an alternate location for a DRP. You want to ensure the alternate location can be brought online as quickly as possible. What type of site would you choose? | Hot site
 You are considering an alternate location for a DRP. You want to use a business location that is already running noncritical business functions as the alternate location. This location has most of the equipment needed. What type of site is this? | Warm site
 Which of the following elements are commonly included in a DRP? | Purpose, scope, communications, recovery procedures
 You are considering using a hot site as an alternate location. You want to consider different technologies to keep the data updated and decrease the time it will take for the hot site to become operational. What are some technologies that may help? | All of the above
@@ -1264,8 +1126,6 @@ Once a DRP has been created, it's not necessary to update it. | False
 A(n) ________ is a violation of a security policy or security practice. | Computer incident or computer security incident
 All events on a system or network are considered computer security incidents. | True
 An administrator has discovered that a Web server is responding very slowly. Investigation shows that the processor, memory, and network resources are being consumed by outside attackers. This is a ________________attack. | Denial of service (DoS) or distributed DoS (DDoS)
-A user has installed P2P software on a system. The organization's policy specifically states this is unauthorized. An administrator discovered the software on the user's system. Is this a computer security incident? If so, what type? | This is a form of inappropriate usage.
-Some malware can execute on a user's system after the user accesses a Web site. The malware executes from within the Web browser. | 
 What type of malware is this? | Mobile code
 A malicious virus is replicating and causing damage to computers. How do security professionals refer to the virus? | In the wild
 What is the greatest risk to an organization when peer-to-peer software is installed on a user's system? | Data leakage
@@ -1280,41 +1140,21 @@ Several types of malicious code exist. Malware that appears to be one thing but 
 Which of following is the most serious attacker? | Disgrunted employess
 Although there threats are unintentional, you can address them with a risk management plan. Which of following is a method do that? | Managing environmental threats
 A company issues laptop computer to employees. The value of each laptop is $1500.About 100 laptops are being used at anytime. In the past two years, the company has lost an average of one laptop per quarter. The company provides hardware locks for the laptops in bulk at a cost of $10 each, the ARO will decrease to 1. What is saving with control? | $4,500
-Which of the following elements is commonly included in any CBA report for a countermeasure? | Risk to be mitigated
 Which of the following is not purpose of the DRP? | Identity business impact
-What does ELT stand for? | Extract, Load and Transform
-Which of the following is not a key objectives that directly support the BCP? | Identify critical threats
-Which of the following is an best example of internal threat? | Unintentional access
-Which of the following tests verifies user rights and permissions? | Access controls testing
-There are the major categories of reporting requirements except: | BIA report
-Which correct describes the audit trail? | It is a series of events recorded in one or more logs.
 Business processed can survive without the business functions for one or more days. What is this impact value level? | Level2
 Which of the following has an incorrect definition assigned to term? | Baseline = a description of what the environtment will look like, a standard of measure, after security in implemented
 Some malware can execute on a user's system alter the user accessed a web site. The malware executes from within the Web browser. What type of malware is this? | Mobile code
 Companies that pratice "separation of duties" force two or more employees to carry out which of the following in order to carry out fraud? | Collusion
-What is the category of intellectual property? | Industrial property
-Which of the following is the intangible value? | Customer influence
 After an incident has been verified, you need to ensure that it doesn't spread other systems. What is this called? | Incident response
-Which of the following is not consideration when developing the mitigation plan? | Time to approve the countermeasures
 Bussiness continuity plans address all of the following except: | The protection of cold sites at a remote location
 What dost TPM stand for? | Technology Protection Measure
 What is the responsible of risk management PM? | Tracking and managing all project issues
-When identify assets, your asset inventory could have resulted in the high priority with: | Network infrastructure
-The risk management plan specifies responsibilities. You can assign responsibilities to all except: | Staffs and customers
-Before progressing with the RA, you need to complete which of the following actions? | Define the assessment
-Which of the following is critical success factor of the DRP? | Knowledge and authority for DRP developers
 What is the RTO? | The time when a system or function must be recoverd.
-Which of the following information is not provided by threat model? | Threat controls
 What is the second step of the incident response life cycle? | Detection and analysis
-What is the greatest risk loan organization when peer-to-peer software is installed on a user's system? | Data leakage
 Which of the following is the de facto standart of best practices for IT service management. It was created because of the increased dependence on the information technology to meet business needs. | COBIT
 Which of the following is an example of operational control? | Personal Security (PS)
 At the suggestion of NIST SP 800-30, if a threat exploits the vulnerability the medium impact is: | Result in human injury
-Which is the most valuable technique when determining if a specific security control should be implemented? | Cost/benefits analysis
-What is the second step of a BIA process? | Identify stakeholders.
 DRP mean essentially the same thing all but which of following? | Business continuity plan
-When review the previous findings, the items especially worth investigating are all except: | Obsolete proposals
-Which of the following is a CBF? | Sales from the Web site
 What would be an appropriate difference between a qualitative and a quantitative risk analysis? | Quantitative approach indicates the total cost of security implemented for protection, while qualitative identifies the expected acceptance of the security policy from the organization.
 What is a certification authority (CA)? | It issues and manages certificates
 Both profitability and survivability must be considered when considering risks. | True
@@ -1337,467 +1177,3 @@ How many cost to consider when preparing for disasters? | 5
 Several communications elements are important to the success of the DRP are: Recall, Users, Customers, Communication plan. | True
 The CIRT plan at any organization may spell out the previously listed responsibilities. | True
 DRPs often include _________ for potential communication problems. | Solutions
-Which one is the order of steps of the Risk Identification Techniques ? | Identify Asset Value, Identify threats, Identify vulnerabilities, Identify consequences
-Total Risk = ? | Threat Vulnerability Asset Value
-What is the kind of Intrusion detection system ? | NIDS and HIDS
-The SQL injection attacks is a technique that allows an attacker to insert SQL code into data sent to the server and is implemented on the database server. | True
-What is US-based Laws ? | Federal Information Security Management Act (FISMA) 2002
-If your company is involved with the sale or trade of securities, what laws do you should be aware of ? | All of them
-A milestone plan chart is a simple graphical representation of major milestones. It shows the major milestones laid out in a graphical format. | True
-What is stakeholder ? | Is an individual or group that has a stake, or interest, in the success of a project
-A risk assessment (RA) is ? | All of them
-Which one is Critical Components of Risk Assessment ? | Identify scope, Identify critical areas, Identify team
-What is the Asset valuation ? | Is the process of determining the fair market value of an asset
-Threat modeling allows you to prioritize attacks based on their probability of occurring and the potential harm. | True
-The system testing include ? | Both of them
-What is Functionality Testing ? | Is primarily used with software development. It helps ensure that a product meets the functional requirements or specifications defined for the product
-Technical controls protect the physical environment. They include basics such as locks to protect access to secure areas. They also include environmental controls. | False
-A router can filter traffic based on ? | All of above
-HIPAA is ? | Requires the protection of any health-related data
-What Is the Scope of Risk Management for Your Organization ? | All of above
-How many categories of Data and information assets ? | 4
-Which of following NOT true about Risk Management Techniques ? | Performance
-Training help ? | Employees understand that security is everyone's responsibility
-GLBA on US-based Laws is ? | Gramm-Leach-Bliley Act 1999
-What does a quantitative RA use to prioritize a risk ? | SLE, ARO, and ALE
-Of the following choices, what would be considered an asset ? | All of the below
-Quantitative risk assessment is objective. It uses data that can be verified. | true
-What is created with a risk assessment to track the implementation of the controls ? | POAM
-How many Technical Controls in the NIST SP 800-53 ? | 4
-What are properties of IA ? | All of them
-Two primary assessments to identify and evaluate vulnerabilities | All of them
-Techniques for Identifying Threats ? | Review Historical Data
-How many Legal Requirements, Compliance Laws, Regulations, and Mandates ? | 6
-The primary purpose of countermeasures, safeguards, or controls is to mitigate risk ? | Reducing the impact of threats and a vulnerability to an acceptable level
-How many preliminary actions that need to complete before progressing with the RA ? | 2
-How many elements to consider when Identifying Assets and Activities Within Risk Assessment Boundaries ? | 6
-A vulnerability assessment may have multiple goals, such as ? | All of them
-Which of the following methods is methods to Identify Assets and Activities to Be Protected ? | Manual
-What is 3rd step of Business impact analysis planning ? | Identify mission-critical business functions and processes
-A __________ assessment is used to identify vulnerabilities within an organization | Vulnerability
-Who should perform vulnerability assessments ? | Either internal or external security professionals, or both
-What is the name of a common tool used to perform an automated vulnerability assessment scan ? | Nessus
-What is a common drawback or weakness of a vulnerability scanner ? | A high false-positive error rate
-Your organization wants to check compliance with internal rules and guidelines. They want to ensure that existing policies are being followed. What should be performed ? | An audit trail
-What management program can be implemented to ensure that the configuration of systems is not modified without a formal approval ? | Change management
-Configuration management ensures that changes are not made to a system without formal approval. | False
-Controls can be identified based on their function. The functions are preventative, detective, and corrective. | True
-What are the primary objectives of a control ? | Prevent, recover, detect
-Logon identifiers help ensure that users cannot deny taking a specific action such as deleting a file. What is this called ? | Non-repudation
-What should you use to ensure that users understand what they can and cannot do on systems within the network ? | Rules of behavior
-What can be used to ensure confidentiality of sensitive data ? | Encryption
-What should be logged in an audit log ? | Who, what, when, and where details of an event
-Which of the following should you match with a control to mitigate a relevant risk ? | Threat/vulnerability pair
-What does a qualitative RA use to prioritize a risk ? | Probability and impact
-An organization wants to ensure they can continue mission-critical operations in the event of a disaster. What should they use ? | BCP
-An organization wants to ensure they can recover a system in the event of a disaster. What should they use ? | DRP
-Of the following, what should be included in a cost-benefit analysis report ? | All of the below
-What would an account management policy include ? | All of the below
-What can be used to help identify mission-critical systems ? | Critical business functions
-When identifying hardware assets in your organization, what information should you include ? | All of them
-A BCP and DRP are the same thing. | False
-Which statement is incorrect about Risk Assessment ? | Risk Assessment are not relevant to Risk Management program
-Which controls is not belong to Control Categories when identifying and evaluating the countermeasures ? | In-Place and Planned controls
-Which definition is true about Planned controls ? | These are controls that have a specified implementation date.
-Which stateemnt is true about Physical security controls ? | Physical security controls includes controls such as locks and guards to restrict physical access
-Which statement is true about ARO ? | The number of times an incident is expected to occur in a year
-When evaluating this type of automated method, there are several other things to consider, such as the following ? | Value to the customers
-According to Maylor, what are traditionally the core three risk categories ? | Cost, schedule, and quality
-What are the three stages of cyclical risk management ? | Identification, analysis, and monitoring and control (Missed)
-What is one way that you can help to reduce safety risks for your organization's activities and events ? | Properly plan by thoroughly thinking through events and activities
-How many element in system access and availability ? | 4
-Which of following is NOT a type of risk management techniques ? | Against
-What is included in an RA that helps justify the cost of a control ? | CBA
-Which of the following is a physical control ? | CCTV
-What is a full-scale exercise ? | More realistic than either tabletop or functional exercises
-What their actual responsibilities are when the BCP is ? | Activated
-NIST SP 800-53 identifies controls in three primary classes. What are they ? | All of the below
-A PTZ camera is used within a CCTV system. It can pan, tilt, and zoom. | True
-A(n) __________ countermeasure has been approved and has a date for implementation. | In-place
-MAO is the minimal acceptable outage that a system or service can have before affecting the mission. | False
-Your organization wants to have an agreement with a vendor for an expected level of performance for a service. You want to ensure that monetary penalties are assessed if the minimum uptime requirements are not met. What should you use ? | SLA
-Routers have __________ to control what traffic is allowed through them. | ACLs
-How much can an organization be fined in a year for mistakes that result in noncompliance ? | $25,000
-The formula for risk is Risk ? | Threat * Vulnerability
-What is not risk identification techniques ? | Identify cost of Risk
-What is not risk management techniques ? | Prevent
-What is the best for Managing Threats within Your IT infrastructure ? | Use accesses control
-The Federal Information Security Management Act (FISMA) assigns specific agencies are resoponsible for ? | Protecting system and data
-Risk assessments are a continuous process. | True
-You are evaluating two possible countermeasures to mitigate the risk. Management only wants to purchase one. What can you use to determine which countermeasure provides the best cost benefits ? | CBA
-An acceptable use policy is an example of an __________ security control. | Administrative
-Which one of the following properly defines risk? | Threat X Vulnerability
-Which of the following are accurate pairing of threat categories? | External and internal, Intentional and accidental
-A loss of client confidence or public trust is an example of a loss of the following category? | Intangible Value
-What is the primary goal of an information security program? | Reduce losses related to loss of confidentiality, integrity, and availability
-Which of the following is an industry recognized standard list of common vulnerabilities? | CVE
-Which of the following is a goal of a risk management? | Identify the correct cost balance between risk and controls
-If the benefits outweigh the cost, a control is implemented. Costs and benefits are identified by completing one which of the following work? | CBA Costs Business Analysis
-You have applied controls to minimize risk in the environment. What is the remaining risk called? | Transfer
-Which of the following is NOT the risk management technique? | Migrate
-A company decides to reduce losses of a threat by purchasing insurance. The way it is kind of risk management techniques of the following? | Risk Transfer
-What is a security policy? | A document created by senior management that identifies the role of security in the organization
-You want to ensure that users are granted only the rights to perform actions required for their jobs. What should you use? | Principle of least privileg
-You want to ensure that users are granted only the permissions needed to access data required to perform their jobs. What should you use? | Principle of need to know
-Which of the following security principles divides job responsibilities to reduce fraud? | Separation of duties
-What can you use to ensure that unauthorized changes are not made to systems? | Configuration management
-What are two types of intrusion detection systems? | Host-based and network-based
-A DMZ, or demilitarized zone, is used in a networking context for what primary purpose? | to provide a high level of security for the private network
-Why should employers make sure employees take their vacations? | It is a way that fraud can be uncovered.
-Which of the following best describes separation of duties and job rotation? | Separation of duties ensures that one person cannot perform a high-risk task alone, and job rotation can uncover fraud and ensure that more than one person knows the tasks of a position.
-If a programmer is restricted from updating and modifying production code, what is this an example of? | Separation of duties
-What is a stakeholder? | An individual or group that has an interest in the project
-What three elements should be included in the findings of the risk management report? | Causes, Criteria, and effects
-What is a primary tool used to identify the financial significance of a mitigation tool? | CBA
-What is a POAM? | Plan of action and milestones
-A POAM is used to track the progress of a project. What type of chart is commonly used to assist with tracking? | GANTT chart
-A risk management plan project manager oversees the entire plan. What is the project manager responsible for? | Ensuring costs are controlled -Ensuring the project stays on
-What will the scope of a risk management plan define? | Boundaries
-What are valid contents of a risk management plan? | Objectives, Scope, Recommendations, POAM
-What should be included in the objectives of a risk management plan | A list of threats, vulnerabilities, Costs associated with risks, cba
-What problem can occur if the scope of a risk management plan is not defined? | Scope creep
-Which of the following is a major component of a risk management plan? | A risk Assessment
-What elements are included in a qualitative analysis? | Probability and Impact
-One of the challenges facing risk assessments is getting accurate data. What can be included in the risk assessment report to give an indication of the reliability of the data? | Uncertainty level
-You are working on a qualitative risk assessment for your company. You are thinking about the final report. What should you consider when providing the results and recommendations? | Resource Allocation -Risk Acceptance
-Of the following, what would be considered a best practice when performing risk assessments? | ALL OF THE BELOW
-What must you define when performing a qualitative risk assessment? | Scales used to define probability and impact
-What is an ARO? | Annualized Rate of Occurrence
-Which choice MOST closely depicts the difference between qualitative and quantitative risk analysis? | Aquantitative RAuses less guesswork than a qualitative RA.
-A company needs to determine its security budget for the next year. It interviews users, administrators, and managers in the information technology division, who render opinions and recommendations based upon their perceptions of security risk. This is an example of what kind of approach to risk analysis? | Qualitative
-When reviewing historical data, you can look some events. They are | Attack, Accident, Natural Event, Equipment failures
-Laura and her team are diligently working on a company-wide risk assessment initiative. At the conclusion of her team's work, all of the following goals could be met, except: | Countermeasures have been put into place and communicated to the appropriate personnel
-Risk assessment is not always met with open arms by management for all of the following reasons except: | Due care and due diligence
-Larry is in charge of presenting risk assessment calculations to his boss by the end of the week. He concludes that a server with heavy traffic has an annualized loss expectancy (ALE) of $15,000 with an annualized rate of occurrence (ARO) of 5. What is the server's single loss expectancy (SLE) value? | $3,000
-What does a qualitative RA use to prioritize a risk? | Probability and impact
-Shirley is in charge of asset identification and classification as part of a risk assessment initiative. In going through an inventory list, she must decide if an asset is tangible or intangible. Which of the following should she mark as intangible? | Reputation
-What is a single point of failure? | Any single part of a system that can cause the entire system to fail, if it fails
-Intellectual Property is a example of | organization's data or information assets
-A number of factors should be considered when assigning values to assets. Which of the following is not used to determine the value of an asset? | The level of insurance required to cover the asset
-Corruption/modification is one of the biggest threats to an operations environment. Which of the following is the typical culprit in this type of threat? | Employees
-Which of the following is an internal threat? | User accidentally deletes new product designs.
-Which of the following is NOT a result of a penetration test? | Modify access control permissions
-A program that receives too much data so that it cannot execute instructions properly has been exploited by which of the following attacks? | Buffer overflow
-Mary is creating malicious code that will steal a user's cookies by modifying the original client-side Java script. What type of cross-site scripting vulnerability is she exploiting? | DOM-based
-What is the first step in an exploit assessment? | Get permission first
-When performing exploit assessments, best practice is: | Get permission first, identify as many as exploits, Use a gap analysis
-You want to identify if any of the discovered vulnerabilities can be exploited. What should you perform? | Exploit assessment
-You want to know if users are granted the rights and permissions needed to do their job only, and no more. You should perform which of the following tests? | Access controls
-Which of the following is NOT a domain of the COBIT categories? | Support and Monitor
-What should you use to ensure that users understand what they can and cannot do on systems within the network? | Rules of behavior
-Which of the following is used to identify the impact on an organization if a risk occurs? | Business Impact Analysis (BIA)
-Which of the following is a valid formula used to identify the projected benefits of a control? | Loss before control - loss after control
-What determines if an organization is governed by FERPA? | If it is a federal agency
-Which of the strategies below can help to reduce security gaps even if a security control fails? | Defense in depth
-What can be used to remind users of the contents of the AUP? | Logon banners -Posters -E-mails
-Which of the following is accurate pairing of threat categories? | External and internal, intentional and accidental
-Which of the following is an industryrecognized standard list of common vulnerabilities ? | CVE
-Which of the following statement is correct when referring to qualitative risk assessment | All statement are correct
-A company needs to determine its security budget for the next year. It interviews users, administrators, and managers in the information technology division, who render opinions and recommendations based upon their perceptions of security risk. This is an example of what kind of approach to risk analysis? | Qualitative
-What is the recovery value? | This is the cost to get the asset operational after a failure
-When reviewing historical data, you can look some events. Which of the follwing is not one of them? | Attacks,natural events,accidents,equipment failure
-Which of the following is an example of the administrative security control? | Policies and procedures, Security plans, Insurance, Personnel checks, Awareness and training, Rules of behavior
-Which of the following is an example of the technical security control? | Login identifier, Session timeout, System log, Audit trails, Input validation, Firewalls, Encryption
-Awareness and training is an example of | Administrative Control
-Laura and her team are diligently working on a company-wide risk assessment initiative. At the conclusion of her team's work, all of the following goals could be met, except: | Countermeasures have been put into place and communicated to the appropriate personnel.
-Risk assessment is not always met with open arms by management for all of the following reasons except: | Due care and due diligence
-Larry is in charge of presenting risk assessment calculations to his boss by the end of the week. He concludes that a server with heavy traffic has an annualized loss expectancy (ALE) of $15,000 with an annualized rate of occurrence (ARO) of 5. What is the server's single loss expectancy (SLE) value? | $3,000
-What does a qualitative RA use to prioritize a risk? | Probability and impact
-Shirley is in charge of asset identification and classification as part of a risk assessment initiative. In going through an inventory list, she must decide if an asset is tangible or intangible. Which of the following should she mark as intangible? | Reputation
-Which of the following is NOT a type of assets? | installed components, hardware peripherals, installed software, update versions, and more
-What is the information you need to know hardware assets? | Hardware assets are any assets that you can physically touch. This includes computers such as laptops, workstations, and servers. It also includes network devices such as routers, switches, and firewalls
-What is "five nine"? | 99.999 percent up time, is sometimes needed for certain services
-What is a single point of failure? | A single point of failure is any part of a system that can cause an entire system to fail, if it fails
-Intellectual Property is a example of | Data and information assets
-What is the risk of the assets in Workstation Domain? | Theft,Update
-A number of factors should be considered when assigning values to assets. Which of the following is not used to determine the value of an asset? | Replacement value - This is the cost to purchase a new asset in its place, Recovery value - This is the cost to get the asset operational after a failure.
-Corruption/modification is one of the biggest threats to an operations environment. Which of the following is the typical culprit in this type of threat? | Employees
-Which of the following is an internal threat? | Employees not following security policy
-Which of the following is NOT a result of a penetration test? | System testing, Exploit assessments
-A program that receives too much data so that it cannot execute instructions properly has been exploited by which of the following attacks? | Buffer overflow
-Mary is creating malicious code that will steal a user's cookies by modifying the original client-side Java script. What type of cross-site scripting vulnerability is she exploiting? | DOM-based
-What is the first step in an exploit assessment? | The first step in an exploit assessment is to perform a vulnerability test.
-In best practices for exploit assessments, what is a solution for legal compliance? | Use a gap analysis
-You want to identify if any of the discovered vulnerabilities can be exploited. What should you perform? | Exploit assessment
-You want to know if users are granted the rights and permissions needed to do their job only, and no more. You should perform which of the following tests? | Access controls
-Contingency Planning(CP) is an example of | NIST SP 800-53 Operational Controls
-Which best describes System and Services Acquisition (SA) control? | The SA family includes many controls related to the purchase of products and services. It also includes controls related to software usage and user installed software
-Which best describes Technical controlsl? | Technical controls are software tools that automate protection. A technical control is enforced using technology
-What is a proximity card? | A proximity card is a small credit-card sized device. It includes electronics that will activate when it is close to a proximity reader. The card sends a signal to the reader identifying it. If the card is authorized, the door will open
-What is an AUP? | Acceptable use policy (AUP)—An AUP defines acceptable use of systems. It identifies what a user can and cannot do on a system. It is sometimes referred to as Rules of Behavior
-Which of the following is used to identify the impact on an organization if a risk occurs? | BIA
-What is the MAO? | Maximum acceptable outage (MAO)
-The MAO identifies the maximum acceptable downtime for a system. | 
-Which of the following is a valid formula used to identify the projected benefits of a control? | Loss before control - Loss after control = Projected benefits
-What is the scope of risk management for System/Application Domain? | System/Application Domain - A primary requirement to keep these systems secure is to ensure administrators have adequate training and knowledge. Additionally, configuration and change management practices are helpful. Configuration management ensures the systems are configured using sound security practices.
-What is the impact of legal and compliance implications on the LAN-to-WAN Domain? | LAN-to-WAN Domain—A firewall is used to protect a network here. PCI DSS specifically requires a firewall. A library may use a proxy server as a TPM to comply with CIPA. A proxy server has access to the Internet and the intranet. It would need additional security to protect it from external attacks.
-What determines if an organization is governed by FERPA? | FERPA mandates access to educational records by students or parents. If the school has a large volume of these requests, it could affect regular operations. The school could choose to limit when access to records is granted.
-If your organization is governed by FISMA. What is one of the important issues to understand first? | The Federal Information Security Management Act (FISMA) was passed in 2002. Its purpose is to ensure that federal agencies protect their data. It assigns specific responsibilities for federal agencies.
-What can be used to remind users of the contents of the AUP? | Companies also sometimes use banners and logon screens to remind personnel of the policy
-What is the ROI? | the return on investment
-Which of the following is NOT valid contents of a risk management plan? | Objectives, Scope, Recommendations, POAM
-Which of the following is NOT included in the objectives of a risk management plan? | A list of threats, vulnerabilities, Costs associated with risks, cba
-Which one of the following properly defines risk? | Threat × Vulnerability
-Which one of the following properly defines total risk? | Threat × Vulnerability × Asset Value
-You can completely eliminate risk in an IT environment. | False
-Which of the following are accurate pairings of threat categories? (Select two.) | Computer and user,A External and internal
-A loss of client confidence or public trust is an example of a loss of ________. | Intangible value
-As long as a company is profitable, it does not need to consider survivability. | fasle
-What is the primary goal of an information security program? | To reduce losses related to loss of confidentiality, integrity, and availability
-The ________ is an industry-recognized standard list of common vulnerabilities. | CVE
-Which of the following is a goal of risk management? | To identify the correct cost balance between risk and controls
-If the benefits outweigh the cost, a control is implemented. Costs and benefits are identified by completing a ________. | CBA or cost-benefit analysis
-A company decides to reduce losses of a threat by purchasing insurance. This is known as risk ________. | Transfer
-What can you do to manage risk? (Select three.) | Accept,Transfer,Avoid
-You have applied controls to minimize risk in the environment. What is the remaining risk called? | Residual risk
-Who is ultimately responsible for losses resulting from residual risk? | Senior management
-What is a security policy? | A document created by senior management that identifies the role of security in the organization
-You want to ensure that users are granted only the rights to perform actions required for their jobs. What should you use? | Principle of least privilege
-You want to ensure that users are granted only the permissions needed to access data required to perform their jobs. What should you use? | Principle of need to know
-Which of the following security principles divides job responsibilities to reduce fraud? | Separation of duties
-What can you use to ensure that unauthorized changes are not made to systems? | Configuration management
-What are two types of intrusion detection systems? | Host-based and network-based
-A technical control prevents unauthorized personnel from having physical access to a secure area or secure system. | False
-What allows an attacker to gain additional privileges on a system by sending unexpected code to the system? | Buffer overflow
-What is hardening a server? | Securing it from the default configuration
-Which of the following steps could be taken to harden a server? | All of the above
-Which government agency includes the Information Technology Laboratory and publishes SP 800-30? | NIST
-ITL and ITIL are different names for the same thing. | False
-Which U.S. government agency regularly publishes alerts and bulletins related to security threats? | US-CERT
-The CVE list is maintained by ________. | The MITRE Corporation
-What is the standard used to create Information Security Vulnerability names? | CVE
-FISMA requires federal agencies to protect IT systems and data. How often should compliance be audited by an external organization? | Annually
-What law applies to organizations handling health care information? | HIPAA
-CEOs and CFOs can go to jail if financial statements are inaccurate. What law is this from? | SOX
-What law requires schools and libraries to limit offensive content on their computers? | CIPA
-Employees in some companies are often required to take an annual vacation of at least five consecutive days. The purpose is to reduce fraud and embezzlement. What is this called? | Job rotation
-Fiduciary refers to a relationship of trust. | True
-Merchants that handle credit cards are expected to implement data security. What standard should they follow? | PCI DSS
-The National Institute of Standards and Technology published Special Publication 800-30. What does this cover? | Risk assessments
-The COBIT framework refers to IT governance. Of the following choices, what best describes IT governance? | Processes to manage IT resources
-This standard is focused on maintaining a balance between benefits, risk, and asset use. It is based on five principles and seven enablers. What is this standard? | COBIT
-Which of the following ISO standards can be used to verify that an organization meets certain requirements? Part I identifies objectives and controls. Part II is used for certification. | ISO 27002 Information Technology Security Techniques
-Which of the following ISO documents provides generic guidance on risk management? | ISO 31000 Risk Management Principles and Guidelines
-ITIL is a group of five books developed by the United Kingdom's Office of Government Commerce. | True
-In the CMMI, level ______ indicates the highest level of maturity. | 5
-The DIACAP is a risk management process applied to IT systems. What happens after a system is accredited? | It receives authority to operate.
-What are valid contents of a risk management plan? | All of the above
-What should be included in the objectives of a risk management plan? | All of the above
-What will the scope of a risk management plan define? | Boundaries
-What problem can occur if the scope of a risk management plan is not defined? | Scope creep
-What is a stakeholder? | An individual or group that has an interest in the project
-A key stakeholder should have authority to make decisions about a project. This includes authority to provide additional resources. | True
-A risk management plan project manager oversees the entire plan. What is the project manager responsible for? (Select two.) | Ensuring costs are controlled,Ensuring the project stays on schedule
-A risk management plan includes steps to mitigate risks. Who is responsible for choosing what steps to implement? | Management
-A risk management plan includes a list of findings in a report. The findings identify threats and vulnerabilities. What type of diagram can document some of the findings? | Cause and effect diagram
-What three elements should be included in the findings of the risk management report? | Causes, criteria, and effects
-What is a primary tool used to identify the financial significance of a mitigation tool? | CBA
-A fishbone diagram can link causes with effects. | True
-You present management with recommendations from a risk management plan. What can management choose to do? | Accept, defer, or modify the recommendations
-What is a POAM? | Plan of action and milestones
-A POAM is used to track the progress of a project. What type of chart is commonly used to assist with tracking? | Gantt chart
-What can you use to help quantify risks? | All of the above
-A risk ________ is a major component of a risk management plan. | Assessment
-Risk assessments are a continuous process. | False
-A ________ risk assessment uses SLE. | Quantitative
-What elements are included in a qualitative analysis? | Probability and impact
-What elements are included in a quantitative analysis? | SLE, ALE, ARO
-Qualitative analysis is more time consuming than quantitative analysis. | False
-You are trying to decide what type of risk assessment methodology to use. A primary benefit of a ________ risk assessment is that it can be completed more quickly than other methods. | Qualitative
-You are trying to decide what type of risk assessment methodology to use. A primary benefit of a ________ risk assessment is that it includes details for a cost-benefit analysis. | Quantitative
-What must you define when performing a qualitative risk assessment? | Scales used to define probability and impact
-A ________ risk assessment is objective. It uses data that can be verified. | Quantitative
-A ________ risk assessment is subjective. It relies on the opinions of experts. | Qualitative
-One of the challenges facing risk assessments is getting accurate data. What can be included in the risk assessment report to give an indication of the reliability of the data? | Uncertainty level
-You are working on a qualitative risk assessment for your company. You are thinking about the final report. What should you consider when providing the results and recommendations? (Select two.) | Resource allocation,Risk acceptance
-Of the following, what would be considered a best practice when performing risk assessments? | All of the above
-You are beginning an RA for a system. You should define both the operational characteristics and the mission of the system in the early stages of the RA. | True
-Which of the following should you identify during a risk assessment? | All of the above
-Of the following choices, what would be considered an asset? | All of the above
-When defining the system for the risk assessment, what should you ensure is included? | The current configuration of the system
-What can you use to identify relevant vulnerabilities? | A and B only
-Which type of assessment can you perform to identify weaknesses in a system without exploiting the weaknesses? | Vulnerability assessment
-An acceptable use policy is an example of a(n) ________ control. | Administrative
-Your organization requires users to log on with smart cards. This is an example of a(n) ________ control. | Technical
-You use video cameras to monitor the entrance of secure areas of your building. This is an example of a(n) ________ control. | Physical
-Which of the following should you match with a control to mitigate a relevant risk? | Threat/vulnerability pair
-What does a qualitative RA use to prioritize a risk? | Probability and impact
-What does a quantitative RA use to prioritize a risk? | SLE, ARO, and ALE
-Your organization purchased a control and installed it on several servers. This control is consuming too many server resources, and the servers can no longer function. What was not evaluated before the control was purchased? | The operational impact of the control
-What is included in an RA that helps justify the cost of a control? | CBA
-What is created with a risk assessment to track the implementation of the controls? | POAM
-It is possible to ensure a service is operational 99.999 percent of the time even if a server needs to be regularly rebooted. | True
-What is a single point of failure? | Any single part of a system that can cause the entire system to fail, if it fails
-When identifying the assets you have in your organization, what would you include? | A, B, and C
-When identifying hardware assets in your organization, what information should you include? | Model and manufacturer,Serial number,Location
-An organization may use a ________ rotation policy to help discover dangerous shortcuts or fraudulent activity. | Job
-What type of data should be included when identifying an organization's data or information assets? | Organizational data,Customer data,Intellectual property
-What is a data warehouse? | A database created by combining multiple databases into a central database
-What is data mining? | The process of retrieving relevant data from a data warehouse
-You are reviewing your organization's asset management data. You want to ensure that all elements of the organization are included. What can you compare the asset management system against to ensure the entire organization is covered? | The seven domains of a typical IT infrastructure
-You are tasked with updating your organization's business continuity plans. When completing this process, you should only include ________ systems. Mission-critical | 
-What can you use to share or transfer risk associated with potential disasters? | Insurance
-An organization wants to determine what the impact will be if a specific IT server fails. What should it use? | BIA
-An organization wants to ensure it can continue mission-critical operations in the event of a disaster. What should it use? | BCP
-An organization wants to ensure it can recover a system in the event of a disaster. What should it use? | DRP
-A BCP and DRP are the same thing. | False
-The two major categories of threats are human and ________. | Natural
-A threat is any activity that represents a possible danger, with the potential to affect confidentiality, integrity, or availability. | True
-Which of the following methods can be used to identify threats? | Both A and B
-What are some sources of internal threats? (Select all that apply.) | Disgruntled employee ,Equipment failure,Software failure,Data loss
-Which of the following choices is not considered a best practice when identifying threats? | Assume the systems have not changed since the last threat assessment.
-A ________ assessment is used to identify vulnerabilities within an organization. | Vulnerability
-Who should perform vulnerability assessments? | Either internal or external security professionals, or both
-What is the name of a common tool used to perform an automated vulnerability assessment scan? | Nessus
-What is a common drawback or weakness of a vulnerability scanner? | A high false-positive error rate
-Your organization wants to check compliance with internal rules and guidelines. The organization wants to ensure that existing policies are being followed. What should be performed? | An audit
-You want to know if users are granted the rights and permissions needed to do their job only, and no more. You should perform a(n) ________ test. | Access controls
-You want to identify if any of the discovered vulnerabilities can be exploited. What should you perform? | Exploit assessment
-Your organization is governed by HIPAA. You suspect that your organization is not in compliance. What would document the differences between what is required and what is currently implemented? | Gap analysis
-What management program can be implemented to ensure that the configuration of systems is not modified without a formal approval? | Change management
-Once you have deployed countermeasures, it's not necessary to retest to ensure that the exploit has been mitigated. | False
-A ________ will reduce or eliminate a threat or vulnerability. | Control or countermeasure
-Controls can be identified based on their function. The functions are preventive, detective, and corrective. | True
-What are the primary objectives of a control? | Prevent, recover, and detect
-What type of control is an intrusion detection system (IDS)? | Detective
-Controls are often categorized based on how they are implemented. What are the three common methods of implementing controls? | Procedural, technical, and physical
-A(n) ________ control is used to ensure that users have the rights and permissions they need to perform their jobs, and no more. | AccessLogon identifiers help ensure that users cannot deny taking a specific action such as deleting a file. What is this called? | Nonrepudiation
-What should you use to ensure that users understand what they can and cannot do on systems within the network? | Rules of behavior
-What can be used to ensure confidentiality of sensitive data? | Encryption
-What should be logged in an audit log? | Who, what, when, and where details of an event
-Your organization wants to issue certificates for internal systems such as an internal Web server. You'll need to install a ________ to issue and manage certificates. | Certification authority (CA)
-Which of the following is a procedural control? | DRP
-Which of the following is a technical control? | PKI
-Which of the following is a physical control? | CCTV
-A PTZ camera is used within a CCTV system. It can pan, tilt, and zoom. | True
-A ________ is used to identify the impact on an organization if a risk occurs. | Business impact analysis (BIA)
-MAO is the minimal acceptable outage that a system or service can have before affecting the mission. | False
-Your organization wants to have an agreement with a vendor for an expected level of performance for a service. You want to ensure that monetary penalties are assessed if the minimum uptime requirements are not met. What should you use? | SLA
-What would you use to identify mission-critical systems? | Critical business functions
-What can an organization use to remind users of AUP contents? | All of the above
-Routers have ________ to control what traffic is allowed through them. | Access control lists (ACLs)
-Which of the following strategies helps reduce security gaps even if a security control fails? | Defense in depth
-How much can an organization be fined in a year for HIPAA-related mistakes? | $25,000
-What determines if an organization is governed by FISMA? | If it is a federal agency
-What determines if an organization is governed by HIPAA? | If employees handle health-related information
-What determines if an organization is governed by SOX? | If it is registered with the Securities and Exchange commission
-What determines if an organization is governed by CIPA? | If it receives E-Rate funding
-You've performed a CBA on a prospective control. The CBA indicates the cost of the control is about the same as the projected benefits. What should you do? | Purchase the control.
-Which of the following is a valid formula used to identify the projected benefits of a control? | Loss Before Control Loss After Control
-A CBA can be used to justify the purchase of a control. | True
-A(n) ________ countermeasure has been approved and has a date for implementation. | In-place
-A single risk can be mitigated by more than one countermeasure. | True
-The formula for risk is Risk ________. | Threat × Vulnerability
-What would an account management policy include? | A, B, and C
-What could a password policy include? | Length of password
-The ________ plan will include details on how and when to implement approved countermeasures. | Mitigation
-You are reviewing a countermeasure to add to the mitigation plan. What costs should be considered? | All of the above
-Which of the following are considered facility costs for the implementation of a countermeasure? | Power and air conditioning
-An account management policy needs to be created as a mitigation countermeasure. You will write the policy. What's a reasonable amount of time for the written policy to be completed and approved? | One month
-What can you use to determine the priority of countermeasures? | Threat/likelihood-impact matrix
-A risk assessment was completed three months ago. It has recently been approved, and you're tasked with implementing a mitigation plan. What should you do first? | Verify risk elements.
-You are evaluating two possible countermeasures to mitigate a risk. Management only wants to purchase one. What can you use to determine which countermeasure provides the best cost benefits? | CBA
-You are performing a cost-benefit analysis. You want to determine if a countermeasure should be used. Which of the following formulas should you apply? | Projected Benefits Cost of Countermeasure
-Of the following, what should be included in a cost-benefit analysis report? | A, B, C, and D
-A POAM can be used to follow up on a risk mitigation plan. | True
-The ________ identifies the maximum acceptable downtime for a system. | Maximum acceptable outage (MAO)
-Stakeholders can determine what functions are considered critical business functions. | True
-The BIA is a part of the ________. | Business continuity plan (BCP)
-What defines the boundaries of a business impact analysis? | Scope
-What are two objectives of a BIA? (Select two.) | Identify critical resources.Identify critical business functions.
-You are working on a BIA. You are calculating costs to determine the impact of an outage for a specific system. When calculating the costs, you should calculate the direct and ________ costs. | Indirect
-You are working on a BIA. You want to identify the maximum amount of data loss an organization can accept. What is this called? | Recovery point objectives
-You have identified the MAO for a system. You now want to specify the time required for a system to be recovered. What is this called? | Recovery time objectives
-Which of the following statements is true? | The RTO applies to any systems or functions. However, the RPO only refers to data housed in databases.
-You are working on a BIA. You are calculating costs to determine the impact of an outage for a specific system. Which one of the following is a direct cost? | Loss of sales
-What type of approach does a BIA use? | Top-down approach where CBFs are examined first
-Mission-critical business functions are considered vital to an organization. What are they derived from? | Critical success factors
-You are performing a BIA for an organization. What should you map the critical business functions to? | IT systems
-Of the following choices, what are considered best practices related to a BIA? | Use different data collection methods.
-A cost-benefit analysis is an important part of a BIA. | False
-A(n) ________ is a plan that helps an organization continue to operate during and after a disruption or disaster. | BCP or business continuity plan
-Business continuity and disaster recovery are the same thing. | False
-You want to ensure that a BCP includes specific locations, systems, employees, and vendors. You should identify these requirements in the ________ statement. | Scope
-What is the purpose of a BCP? | To ensure mission-critical elements of an organization continue to operate after a disruption
-What does a BCP help to protect during and after a disruption or disaster? | Confidentiality, integrity, and availability
-The ________ is responsible for declaring an emergency and activating the BCP. | BCP coordinator
-After a BCP has been activated, who has overall authority for the recovery of systems? | EMT
-After a BCP has been activated, who will assess the damages? | DAT
-After a BCP has been activated, who will recover and restore critical IT services? | TRT
-What are the three phases of a BCP? | Notification/activation, recovery, reconstitution
-A major disruption has forced you to move operations to an alternate location. The disruption is over and you need to begin normalizing operations. What operations should you move back to the original location first? | Least critical business functions
-A major disruption has forced you to move operations to an alternate location. The disruption is over and you need to begin normalizing operations. You have rebuilt several servers at the primary location. What should you do? | Run the servers concurrently with the alternate location for three to five days.
-What can you do to show that the BCP will work as planned? | BCP testing
-What types of exercises can demonstrate a BCP in action? (Select three.) | Tabletop exercises,Functional exercises,Full-scale exercises
-Once a BCP has been developed, it should be reviewed and updated on a regular basis, such as annually. | True
-A(n) ________ is a plan used to restore critical business functions to operation after a disruption or disaster. | Disaster recovery plan (DRP)
-A DRP has multiple purposes. This includes saving lives, ensuring business continuity, and recovering after a disaster. | True
-Disaster recovery and fault tolerance are the same thing. | False
-A ________ is an element necessary for success. For example, the success of a DRP depends on elements such as management support and a disaster recovery budget. | Critical success factor (CSF)
-A business impact analysis (BIA) includes a maximum acceptable outage (MAO). The MAO is used to determine the amount of time in which a system must be recovered. What term is used in the DRP instead of the MAO? | Recovery time objective (RTO)
-A certain DRP covers a system that hosts a large database. You want to ensure that the data is copied to an off-site location. What could you use? | All of the above
-A copy of backups should be stored ________ to ensure the organization can survive a catastrophic disaster to the primary location. | Off-site
-You are considering an alternate location for a DRP. You want to minimize costs for the site. What type of site would you choose? | Cold site
-You are considering an alternate location for a DRP. You want to ensure the alternate location can be brought online as quickly as possible. What type of site would you choose? | Hot site
-You are considering an alternate location for a DRP. You want to use a business location that is already running noncritical business functions as the alternate location. This location has most of the equipment needed. What type of site is this? | Warm site
-Which of the following elements are commonly included in a DRP? | Purpose, scope, communications, recovery procedures
-You are considering using a hot site as an alternate location. You want to consider different technologies to keep the data updated and decrease the time it will take for the hot site to become operational. What are some technologies that may help? | All of the above
-Of the following, what is critical for any DRP? | Budget
-Your organization has created a DRP but it hasn't been tested. Which of the following methods can you use to test it? | All of the above
-Once a DRP has been created, it's not necessary to update it. | False
-A(n) ________ is a violation of a security policy or security practice. | Computer incident or computer security incident
-All events on a system or network are considered computer security incidents. | True
-An administrator has discovered that a Web server is responding very slowly. Investigation shows that the processor, memory, and network resources are being consumed by outside attackers. This is a ________________attack. | Denial of service (DoS) or distributed DoS (DDoS)
-A user has installed P2P software on a system. The organization's policy specifically states this is unauthorized. An administrator discovered the software on the user's system. Is this a computer security incident? If so, what type? | This is a form of inappropriate usage.
-Some malware can execute on a user's system after the user accesses a Web site. The malware executes from within the Web browser. | 
-What type of malware is this? | Mobile code
-A malicious virus is replicating and causing damage to computers. How do security professionals refer to the virus? | In the wild
-What is the greatest risk to an organization when peer-to-peer software is installed on a user's system? | Data leakage
-Only police or other law enforcement personnel are allowed to do computer forensics investigations. | False
-A log has shown that a user has copied proprietary data to his computer. The organization wants to take legal action against the user. You are tasked with seizing the computer as evidence. What should you establish as soon as you seize the computer? | All of the above
-Many steps are taken before, during, and after an incident. Of the following choices, what accurately identifies the incident response life cycle? | Preparation, detection and analysis, containment, eradication and recovery, and post-incident recovery
-In general, it's acceptable for members of a CIRT to take actions to attack attackers. This is one of the normal responsibilities of a CIRT. | False
-After an incident has been verified, you need to ensure that it doesn't spread to other systems. What is this called? | Containment
-Which of the following may be included in a CIRT plan? | All of the above
-Attackers attempt a DoS attack on servers in your organization. The CIRT responds and mitigates the attack. What should be the last step that the CIRT will complete in response to this incident? | Document the incident.
-Several types of malicious code exist. Malware that appears to be one thing but is actually something else is ________. | A Trojan horse
-Which of following is the most serious attacker? | Disgrunted employess
-Although there threats are unintentional, you can address them with a risk management plan. Which of following is a method do that? | Managing environmental threats
-A company issues laptop computer to employees. The value of each laptop is $1500.About 100 laptops are being used at anytime. In the past two years, the company has lost an average of one laptop per quarter. The company provides hardware locks for the laptops in bulk at a cost of $10 each, the ARO will decrease to 1. What is saving with control? | $4,500
-Which of the following elements is commonly included in any CBA report for a countermeasure? | Risk to be mitigated
-Which of the following is not purpose of the DRP? | Identity business impact
-What does ELT stand for? | Extract, Load and Transform
-Which of the following is not a key objectives that directly support the BCP? | Identify critical threats
-Which of the following is an best example of internal threat? | Unintentional access
-Which of the following tests verifies user rights and permissions? | Access controls testing
-There are the major categories of reporting requirements except: | BIA report
-Which correct describes the audit trail? | It is a series of events recorded in one or more logs.
-Business processed can survive without the business functions for one or more days. What is this impact value level? | Level2
-Which of the following has an incorrect definition assigned to term? | Baseline = a description of what the environtment will look like, a standard of measure, after security in implemented
-Some malware can execute on a user's system alter the user accessed a web site. The malware executes from within the Web browser. What type of malware is this? | Mobile code
-Companies that pratice "separation of duties" force two or more employees to carry out which of the following in order to carry out fraud? | Collusion
-What is the category of intellectual property? | Industrial property
-Which of the following is the intangible value? | Customer influence
-After an incident has been verified, you need to ensure that it doesn't spread other systems. What is this called? | Incident response
-Which of the following is not consideration when developing the mitigation plan? | Time to approve the countermeasures
-Bussiness continuity plans address all of the following except: | The protection of cold sites at a remote location
-What dost TPM stand for? | Technology Protection Measure
-What is the responsible of risk management PM? | Tracking and managing all project issues
-When identify assets, your asset inventory could have resulted in the high priority with: | Network infrastructure
-The risk management plan specifies responsibilities. You can assign responsibilities to all except: | Staffs and customers
-Before progressing with the RA, you need to complete which of the following actions? | Define the assessment
-Which of the following is critical success factor of the DRP? | Knowledge and authority for DRP developers
-What is the RTO? | The time when a system or function must be recoverd.
-Which of the following information is not provided by threat model? | Threat controls
-What is the second step of the incident response life cycle? | Detection and analysis
-What is the greatest risk loan organization when peer-to-peer software is installed on a user's system? | Data leakage
-Which of the following is the de facto standart of best practices for IT service management. It was created because of the increased dependence on the information technology to meet business needs. | COBIT
-Which of the following is an example of operational control? | Personal Security (PS)
-At the suggestion of NIST SP 800-30, if a threat exploits the vulnerability the medium impact is: | Result in human injury
-Which is the most valuable technique when determining if a specific security control should be implemented? | Cost/benefits analysis
-What is the second step of a BIA process? | Identify stakeholders.
-DRP mean essentially the same thing all but which of following? | Business continuity plan
-When review the previous findings, the items especially worth investigating are all except: | Obsolete proposals
-Which of the following is a CBF? | Sales from the Web site
-What would be an appropriate difference between a qualitative and a quantitative risk analysis? | Quantitative approach indicates the total cost of security implemented for protection, while qualitative identifies the expected acceptance of the security policy from the organization.
-What is a certification authority (CA)? | It issues and manages certificates

@@ -1,378 +1,376 @@
-____ virus uses an executable file as a host.|File
-What is a Trojan Horse?|A program designed to take down the computer system while performing an inoffensive...
-Rootkits are:|a set of software tools that enable an unauthorized user to gain control of a computer
-Covert channels work over ____ |known channels
-Which of the following is most likely to make your computer stop working?|Virus
-REMnux is ____ |All of the other choices
-____ generally does not limit the impact of worms.|Rebooting your system
-____ is antivirus that has predefined rulesets that is used to detect the malicious software or malware|ClamAV
-____ is a characteristic of adware.|Displaying popup
-____ is a self-contained program that does not integrate itself with other programs to spread.|Worm
-Trojans can be used to open backdoors on a system.|True
-Wireshark is|a network packet analyzer
-Which of the following refers to software designed to harm your computer or computer security, engage in criminal activity, or compromise resources on some way?|malware
-We can customize clamAV signature by using ____ |All of the mentioned
-Which of the following is best describing botnets?|A botnet consists of a network of compromised computers that attackers user to lauch attacks and spread malware
-VirusTotal is ____ |Static analysis
-Which of the following type of malware secretly gathers and transmits system information, often for advertising purposes?|Spyware
-____ is used to intercept user information|Spyware
-Backdoors are an example of covert channels.|True
-What is an antivirus?|Computer software is used to prevent, detect and remove malicious software
-The registry composed of binary data files is also called ____ |Hive
-Why does alternate data streams (ADS) cause risk to our computer?|It allows malware to hide files from anyone who doesn't have special tool to view them
-Assembly language programs are written using|Mnenonics
-____ can extract a dll from a process memory space and dump it to disk for analysis.|dlldump
-Which the following tools are developed to memory forensics|All of them
-____ GUI tool for Windows that you can use to detect packers|None of all
-How many types of SRE?|Code, Data and information Reverse Engineering
-rip.pl -r /mnt/forensics/Documents\ and\ Settings/Mr.\Evi/NTUSER.DAT -p typedurls|In order to determ suspect's web-browsing history
-win64dd -d /f c:\memory.dmp|Create a memory dump file in C
-perl rip.pl -r /mnt/forensics/WINDOWS/system32/config/software -p userinit|to determine the value of the "userinit" registry key
-In order to view hidden ADS file on window OS, we type the comand:|dir /R
-Can print list of loaded DLLs for each process|dlllist
-Which of the following answers are true about use of Reverse Engineering?|All of the other choises
-____ is forensic analysis of a computer's memory dump|Memory forensics
-____ are debugers|All of the other choises
-Can extract all memory resident pages in a process into an individual file|memdump
-regripper/rip -r G:\Windows\System32\config\SYSTEM -f info|we are recovering data from the SYSTEM registry hive located on drive G
-____ can dump a process's executable|procdump
-rip.pl -r /mnt/forensics/WINDOW/system32/config/software -p uninstall|Determining all installed applications
-Which is the following tool that allows us to detect ADS in a file|streams.exe
-____ can be considered a self-extracting archive, where compressed data is packaged along with the relevant decompression code in an executable file|runtime packer
-Which of the following is not a stand-alone program?|virus
-Which of the following is most likely to send spam emails from your computer?|worm
-Which of the following is least likely to be detected with standard antivirus software?|adware
-Which of the following is most likely to come with other malware?|Trojan
-Which of the following is bundled with the peer-to-peer file-sharing software, Kazaa?|adware
-Which of the following is most likely to install a "backdoor" internet connection?|worm
-Which of the following is most likely to be involved in a denial-of-service attack?|worm
-Which of the following is the only malware publicly documented as having been employed by the FBI to bring a suspect to trial?|Trojan
-____ is piece of software that takes the original malware file and compresses it, thus making all the original code and data unreadable|packers
-Which of the following answers are Select one or more|Both of them
-can list the processes of a system|pslist
-____ is a tool to extract and analyze data from the registry|RegRipper
-Computer program performed the reverse operation by converting it into Assembly language is known as|Disassemble
-perl rip.pl -r /mnt/forensics/WINDOWS/system32/config/software -p product|To get information about all programs installed on this computer
-____ are pieces of info hidden as metadata on files on NTFS drives|ADS
-Which type of packers is used to pack crackme.exe?|No packer is used
-Why does malware writer attempt to pack his malware|to make it harder to detect and to analyze
-are usually the tool of choice for dynamic analysis|Debugger
-____ is a highly reliable technique thats used to hide file contents, and sometimes the entire file itself if using a packer program|Obfuscation
-Obfuscating is a technique in order to ____ |Anti-SRE technique
-____ are debuggers|All of them
-The registry has two basic elements|Keys and values
-Security in the main registry contains the|users and system security settings
-____ can dump hibernation file information|hibinfo
-Compilers translate high-level programs to machine code as follows:|Either directly,Indirectly via an assembler
-can extract a DLL from a process's memory space and dump it to disk for analysis|dlldump
-C:\> more < somefile.txt:secretfiIe.txt|The command allows us to create hidden ADS file
-____ can acquire physical memory (RAM) from a Windows hibernation file|hibr2bin
-x86 is ____ architecture|CISC
-ARM is ____ architecture|RISC
-Obfuscating is a technique in order to|Decompile a program
-Why does maiware writer attempt to pack his maiware|to make it harder to detect and to analyze
-are debuggers|All of them
-rip.pl -r /mnt/forensics/WINDOWS/system32/config/software -p networkcards|In order to determine the network cards used
-can converts a physical memory sample to a windbg crash dump|raw2dmp
-rip.pl -r /mnt/forensics/Documents\ and\ Settings/Mr.\ Evil/NTUSER.DAT -p typedurls|In order to determine suspects web-browsing history
-can print list of loaded dlls for each process|dIllist
-Which tool is used to search for hidden data|mmls
-____ is piece of software that takes the original malware file and compresses it, thus making all the original code and data unreadable|packers
-The registry is a composed of binary data files also called|Hive
-can view the process listing in tree form|pstree
-The SAM hive contains the|users settings and hashed passwords
-An affiliate program is|an arrangement made between two e-commerce sites that directs viewers from one site to the other site
-Which of the following is a count of the number of people who visit one site, click on an ad, and are then taken to the site of the advertiser?|Click-through
-Which type of business environment supports computer-to-computer transfer of transaction information contained in standard business documents, such as invoices and purchase orders, in a standard format.|Electronic data interchange (EDI)
-Which scrambling technique provides you with two keys: one key that everyone in an organization can have to scramble the contents of a file and another key for the intended recipient to unscramble the file?|Public key encryption (PKE)
-Which of the following best defines an infrastructure which allocates the information and processing power of IT systems to a location where it can most efficiently be done.?|Distributed infrastructure
-Which of the following is a typical component of a client/server infrastructure?|Web browser
-Which of the following is true of cloud computing?|It gives immediate access to a broad range of application software.
-Which of the following types of technology scrambles the contents of files sent via the Internet?|Encryption
-What type of Web technology creates a secure and private connection between two computers?|Secure socket layers
-____ can be defined as the principles and standards that guide our behavior toward other people. It is also about the reasons we give for thinking we ought to live one way rather than another, make one decision rather than another, or opt for one policy over another.|Ethics
-The ____ says that you may use copyrighted material in certain situations, for example, in the creation of new work or, within certain limits, for teaching purposes.|Fair Use Doctrine
-Which of the following is a program that, when installed on a computer, records every keystroke and mouse click?|Key logger
-A ____ floods a server or network with so many requests for service that it slows down or crashes|denial-of-service attack
-____ refers to the use of physiological characteristics such as fingerprints, the blood vessels in the iris of the eye, and the sound of one's voice to provide identification|Biometrics
-____ is a way of protecting messages and files by scrambling the contents of a file so that one cannot read it without having the right key.|Encryption
-While making an ethical decision, ____ refers to an ethical consideration which asks how much harm or benefit will come out of the decision.|consequences
-While making an ethical decision, "relatedness" is an ethical consideration which:|refers to the degree to which one identifies with the person or people who will be benefitted or harmed.
-In an educational setting, instructors have access to and use a whole host of copyrighted materials. Which of the following allows these individuals to make use of copyrighted materials for teaching purposes?|Fair Use Doctrine
-Which tracking program, when installed on a computer, records all e-mail, instant messages, chat room exchanges, Web sites visited, applications run, and passwords typed in on that computer?|Key logger
-Jeniffer Gibbs works in the human resources department of Genersits Inc., and is able to access information on the billing address and age of Sandra Cooke, an employee of the firm. Jennifer then creates a fraudulent e-mail id which closely resembles her official e-mail id and sends an email to Sandra asking for further personal information. What form of fraud is this?|Spear phishing
-What is it called when you are rerouted from your requested internet site to another, undesired site?|Pharming
-Adware, software to generate ads that installs itself on your computer when you download some other program, is a type of ____ .|Trojan horse software
-What type of software secretly collects information about you and your computer and reports it to someone without your permission?|Spyware
-Which of the following records information about you during a Web surfing session such as what Web sites you visited, how long you were there, what ads you looked at, and what you bought?|A clickstream
-Which of the following refers to software designed to harm your computer or computer security, engage in criminal activity, or compromise resources in some way?|Malware
-Which of the following is a computer virus that replicates and spreads itself, not only from file to file, but from computer to computer via e-mail and other Internet traffic?|A worm
-A botnet is:|a collection of computers that have been infected with blocks of code that can run automatically by themselves.
-Which of the following is a type of virus that hides inside other software, usually an attachment or download?|A Trojan horse
-Which of the following refers to the forging of the return address on an e-mail so that the e-mail message appears to come from someone other than the actual sender?|Spoofing
-Which of the following is software that allows you to gain administrative rights to someone's computer?|A rootkit
-What is a computer called when it is infected with a malware bot?|A zombie
-Hackers who legitimately, with the knowledge of the owners of the IT system, try to break in to find and fix vulnerable areas of the system are called ____ .|Counter hackers
-In a hard disk, ____ is the set of clusters that have been marked as available to store information, but have not yet received a file or files.|unallocated space
-Which of the following refers to blacking out portions of the document, usually to protect confidential information, so that it cannot be recovered later?|Redacting
-Which of the following types of Internet technology environment sends information to you without your requesting for that information?|Push
-Which of the following allows you to use your Internet connection to make phone calls?|VoIP
-What type of technology allows you to use your finger, eye, or voice print to secure your information resources?|Biometrics
-Which of the following is a technology chip that can perform a variety of physiological functions when inserted into the human body?|Biochip
-Which of the following is a standard for transmitting information in the form of short-range radio waves over distances of up to 30 feet?|Bluetooth
-Which of the following represents a downside to the growth of smart phone technology?|Smartphones are extremely susceptible to viruses and hackers.
-Harmful programs used to disrupt computer operation, gather sensitive information, or gain access to private computer systems are commonly referred to as: (Select best answer)|Malware
-Which of the following answers refer to the characteristic features of an advertising-supported software? (Select 2 answers)|Advertisements embedded in a computer application, Commonly referred to as adware
-A computer program containing malicious segment that attaches itself to an application program or other executable component is called:|Virus
-In computer security, the part of malware code responsible for performing malicious action is referred to as:|Payload
-Malicious software collecting information about users without their knowledge/consent is known as:|Spyware
-The term "companion virus" refers to an older type of computer virus which doesn't alter files and works by creating infected companion file with the exact same name as the legitimate program, but with different file extension. The virus takes advantage of the fact that in the old MS-DOS command-line interface executables can be run by providing only the file name which facilitates the execution of infected code by an unaware user.|True
-Malicious software performing unwanted and harmful actions in disguise of a legitimate and useful program is known as:|Trojan Horse
-Which type of files pose the greatest risk related to the distribution of malware?|.exe
-In computer security, an automatic download performed without the user's consent (and often without any notice) aimed at installing malware or potentially unwanted programs is known as a drive-by download.|True
-A collection of zombies is known as:|Botnet
-Which of the following answers lists an example of spyware?|Keylogger
-Which of the following tags allows loading malicious code (often in the form of JavaScript applet) onto an otherwise trusted page?|<iframe>
-A computer virus that actively attacks an antivirus program in an effort to prevent detection is called:|Retrovirus
-A collection of software tools used by a hacker in order to mask intrusion and obtain administrator-level access to a computer or computer network is known as:|Rootkit
-Which of the following answers refers to an undocumented (and often legitimate) way of gaining access to a program, online service or an entire computer system?|Backdoor
-The process of isolation of files and applications suspected of containing malware in order to prevent further execution and potential harm to the user's system is known as:|Quarantine
-In its more intrusive form, adware can track browsing habits in order to serve better targeted ads based on user interests.|True
-Computer code or command that takes advantage of a design flaw in software is commonly referred to as:|Exploit
-Which of the following answers refer to the ways of delivering online advertising content utilized by adware? (Select 2 answers)|Pop-up, pop-under
-A computer that has been compromised by a virus or Trojan horse that puts it under the remote control of an online hijacker is called:|Zombie
-Which of the computer virus types listed below deletes or corrupts contents of the target host file instead of attaching itself to the file?|Phage virus
-Web browser extensions (a.k.a. plugins, or add-ons) are downloadable components that extend the browser's functionality by enabling interactive features of web pages. Downloading and installing browser extensions can be risky, because some of them may contain malicious code and in disguise of a legitimate program introduce malware to the system.|True
-Which of the following terms describes a method employed by many computer antivirus programs designed to detect previously unknown types of malware?|Heuristics
-A group of computers running malicious software under control of a hacker is known as:|Botnet
-Which of the following answers refers to a mobile software that while running in disguise of a legitimate program tries to harm user devices or personal data?|Malicious app
-An antivirus software identifying non-malicious file as a virus due to faulty virus signature file is an example of:|False positive error
-Which of the application types listed below fall(s) into the category of anti-malware solutions? (Select all that apply)|Anti-spyware, Anti-virus, Anti-spam
-Which of the following components pose a risk of unintended downloading and execution of malware on a PC? (Select 2 answers)|Browser plugins, ActiveX controls
-A type of rogue application that exploits dialup connections by making unauthorized telephone calls is known as|Dialer
-Which of the following answers refers to an anti-antivirus exploit?|Retrovirus
-A malware-infected networked host under remote control of a hacker is commonly referred to as:|Bot
-Which of the following answers refers to a technique used by certain types of malware to cause an error in a program and make it easier to run malicious code?|Buffer overflow
-A software that automatically plays, displays, or downloads advertisements to a computer is known as:|Adware
-A type of virus that takes advantage of various mechanisms specifically designed to make tracing, disassembling and reverse engineering its code more difficult is known as:|Armored virus
-Which of the following acronyms refers to a network security solution combining the functionality of a firewall with additional safeguards such as URL filtering, content inspection, or malware inspection?|UTM
-Data files containing detection and/or remediation code that antivirus or antispyware products use to identify malicious code are known as:|Signature files
-Malicious code activated by a specific event is known as:|Logic bomb
-Which of the following answers refers to the process by which a computer virus makes copies of itself to carry out subsequent infections?|Replication
-A standalone malicious computer program that replicates itself over a computer network is known as:|Worm
-A type of Trojan designed to transfer other malware onto a PC via Internet connection is known as|Downloader
-A type of Trojan designed to transfer other malware onto a PC via without Internet connection is known as|Dropper
-Which security measure is in place when a client is denied access to the network due to outdated antivirus software?|NAC
-A type of Trojan designed to install other malware files onto a PC without the need for an active Internet connection is known as:|Dropper
-Malware that restricts access to a computer system by encrypting files or locking the entire system down until the user performs requested action is known as:|Ransomeware
-Entry fields of web forms lacking input validation are vulnerable to what kind of attacks?|SQL injection
-Which type of computer virus takes advantage of the capability for creating and embedding simple scripts in popular office applications?|Macro virus
-The process by which malicious software changes its underlying code in order to avoid detection is known as:|Polymorphism
-An antivirus software can be kept up to date through: (Select all that apply)|Engine updates, Virus signature updates
-What is the function of Windows Defender software?|Protection against viruses, spyware and other potentially unwanted software
-Which of the following terms refers to unwanted applications or files that are not classified as malware, but can worsen the performance of computers and pose security risk?|Grayware
-Which of the following terms refers to a computer security vulnerability allowing attackers to insert malicious code into a trusted website?|Cross-site scripting
-Viruses do not require a host program.|False
-Worms are designed to replicate repeatedly.|True
-____ is designed to intimidate users.|Scareware
-____ is known to disable protective mechanisms on a system such as antivirus software, anti-spyware software, and firewalls, and to report on a user's activities.|Spyware
-Prevention of viruses and malware includes ____ |Antivirus
-____ is a powerful preventive measure for stopping viruses.|Education
-Which of the following can limit the impact of worms?|Anti-virus software, Firewalls, Patches
-____ attach(es) to files.|Viruses
-Multipartite viruses come in encrypted form.|False
-Trojans are a type of malware.|True
-Covert channels work over|Known Channels
-Which of the following is one of the goals of Trojans?|Giving remote access
-____ are methods for transferring data in an unmonitored manner.|Covert Channels
-Backdoors on a system can be used to bypass firewalls and other protective measures.|True
-Trojans are designed to be small and stealthy in order to:|Bypass detection
-____ record(s) a user's typing|Spyware
-____ are configured to go off at a certain date, time, or when a specific even occurs.|Logic Bomb
-Scareware is harmless.|False
-Are usually the tool of choice for dynamic analysis|Debugger
-____ are the method of choice for static analysis|Static Analysis
-SSL|This two-level scheme for authenticating network users functions as part of the Web's Hypertext Transfer Protocol
-Biometric|This type of authentication device consists of a reader/scanner and software that encrypts and converts the scanned information into digital form so it can be compared with previous records
-Kerberos|This secure method for authenticating a request for a service in a computer network was developed through the Athena Project at the Massachusetts Institute of Technology
-Smart card|This electronic credit card establishes a users credentials when doing business in the Web and is issued by a certification authority
-TACACS|This is an older authentication protocol common to UNIX networks that allows a remote access server to forward a users logon password to an authentication server to determine whether access can be allowed to a given system
-Cybercrime|The use of the Internet, computers, and related technologies in the commission of a crime
-Hacking|Unauthorized intrusion into computers
-Malware|Malicious software that causes damage to a computer or invades a computer to steal information from it
-Types of Malware|Viruses, worm, Trojan horse, Spyware, Botnets
-Cyberterrorism|The politically, religiously, or ideologically motivated use of computers by an individual, group of state targeting critical infrastructure with the intention of harming persons and/or damaging property in order to influence the population or cause a government to change its policies
-True|Scalability has to do with the public-key encryption, multiple users can send encrypted message to Alice using her public key and these messages can be decrypted only by Alice; thus, a linear number of public-private key pairs need to be established, distributed and protected to allow pairwise confidential communication between any two users; instead, symmetric encryption requires a quadratic number of secret keys.
-Trojan Horse|Suppose the author of an online banking software system has programmed in a secret feature so that program emails him the account information for any account whose balance has just gone over
-False|Efficiency deals with the ability for security consultants to make extra money
-Using a proprietary encryption algorithm|Select an example of the false sense of security that can come from using the "security by obscurity" approach
-Suppose you could use all 128 characters in the ASCII character set in a password. What is the number of 8-character passwords that could be constructed from such a character set? How long, on average, would it take an attacker to guess such a password if he could test a password every nanosecond?|9,223,372,037 seconds
-In what order are the bytes of IP addresses sent over networks?|Big-endian
-What file type has a header specifying sections like .text, .data, and .rsrc?|PE
-What type of file is shared by many different programs?|DLL
-What type of language is Assembly Language?|Low-level languages
-What type of language is bash shell script?|Interpreted languages
-What type of language is C?|High-level languages
-When starting a server, which of these functions will be called first?|Socket
-Which API uses commands that are very similar to those in Linux?|WinSock
-Which coding has a special problem with zero bytes?|XOR
-Which coding turns 3 bytes into 4 characters?|Base64
-Which network type is not possible with virtual machines?|Airgap
-Which network type is the most hazardous?|Bridged
-Which network type lets VMs see one another and the Internet but places a virtual router between them and other machines on the LAN?|NAT
-Which network type lets VMs see one another but not the Internet?|Host-only
-Which of these contains the stack?|RAM
-Which of these indicates that "Function" has been revised?|FunctionEx
-Which technique finds the readable text in a file?|Strings
-Which technique is most common for normal executable files?|Static linking
-Which technique is so weak it's not even considered encryption at all?|Base64
-Which technique makes an executable large?|Static linking
-Which technique mathematically calculates a number that uniquely identifies a malicious file?|Hashes
-Which technique may alert attackers that you have detected an intrusion?|VirusTotal
-Which technique requires deliberately infecting a computer?|Dynamic analysis
-Which tool can listen on any port?|Ncat
-Which tool pretends to be the whole Internet?|INetSim
-Which type of code cannot be disassembled by IDA Pro Free? Select one:|x64
-Which type of file can run directly?|Exe
-Which type of malware conceals other code?|Rootkit
-Which type of malware spreads to other systems?|Worm
-Which window shows every sequence of ASCII codes five or more bytes long?|Strings
-This two-level scheme for authenticating network users functions as part of the Web's Hypertext Transfer Protocol|SSL
-This type of authentication device consists of a reader/scanner and software that encrypts and converts the scanned information into digital form so it can be compared with previous records|Biometric
-This secure method for authenticating a request for a service in a computer network was developed through the Athena Project at the Massachusetts Institute of Technology|Kerberos
-This electronic credit card establishes a users credentials when doing business in the Web and is issued by a certification authority|Smart card
-This is an older authentication protocol common to UNIX networks that allows a remote access server to forward a users logon password to an authentication server to determine whether access can be allowed to a given system|TACACS
-The use of the Internet, computers, and related technologies in the commission of a crime|Cybercrime
-Unauthorized intrusion into computers|Hacking
-Malicious software that causes damage to a computer or invades a computer to steal information from it|Malware
-Viruses, worm, Trojan horse, spyware, botnets|Types of Malware
-The politically, religiously, or ideologically motivated use of computers by an individual, group of state targeting critical infrastructure with the intention of harming persons and/or damaging property in order to influence the population or cause a government to change its policies|Cyberterrorism
-Scalability has to do with the public-key encryption, multiple users can send encrypted message to Alice using her public key and these messages can be decrypted only by Alice; thus, a linear number of public-private key pairs need to be established, distributed and protected to allow pairwise confidential communication between any two users; instead, symmetric encryption requires a quadratic number of secret keys.|True
-Suppose the author of an online banking software system has programmed in a secret feature so that program emails him the account information for any account whose balance has just gone over|10,000. What kind of attack is this and what are some of its risks?
-Efficiency deals with the ability for security consultants to make extra money|False
-Select an example of the false sense of security that can come from using the "security by obscurity" approach|Using a proprietary encryption algorithm
-Suppose you could use all 128 characters in the ASCII character set in a password. What is the number of 8-character passwords that could be constructed from such a character set? How long, on average, would it take an attacker to guess such a password if he could test a password every nanosecond?|9,223,372,037 seconds
-A physical security mechanism consisting of a small area with two doors used to hold an individual until his identity can be authorized is called|Holding area
-Different organizations have different physical security protection requirements, thus they require different types of controls and countermeasures. Which is NOT a legitimate justification for using security guards at a facility?|They are cheaper than most automated detection systems
-Which of the following physical security mechanisms is used because it can provide "discriminating judgment"?|Security guards
-Smoke detector placement is important to ensure that all types of fires in different parts of the building can be quickly identified. Which of the following locations is not necessarily a good place for a smoke detector?|Exterior rear doorway
-Which security control doesn't belong to the group of the other 3.|Host-based intrusion-detection system
-Doors configured in a fail-safe mode assume what position in the event of a power failure?|Closed and locked
-It is advisable to leave server doors open when employees get ready for work|False
-Backup tapes should be stored off site|True
-Security guards should be hired according to their physical appearance|False
-It is wise to have periodic audits on physical security|True
-Which of the following forms of malware do not require human intervention to propagate?|Worm
-According to most definitions, a virus must have which of the following traits?|Be able to replicate itself
-Which type of malware pretends to be a useful or benign program but contains malicious code?|Trojan horse
-Which type of malware is self-contained, self-replicating, and requires no user intervention to active?|Worm
-What types of malware secretly gathers and transmits system information, often for advertising purposes?|Spyware
-What type of malware is designed to provide elevated system privileges or hide malicious files through stealth techniques?|Rootkit
-What term is commonly used to describe the method or mechanism by which a piece of malware infects a system?|Attack Vector
-What term is commonly used to BEST describe the harmful code often contained within a piece of malware?|Payload
-What are the possible signs of a malware infection?|Slow System performance
-Malware has an ultimate positive effect on technology.|False
-Media access control address- is a 48-bit identifier assigned to a network interface by its manufacturer and is represented by a sequence of 6 pairs of hexadecimal digits|MAC address
-Internet protocol-is the network level protocol that performs a best effort to route a data packet from a source nose to a destination node in the Internet. It is given a unique numerical address which is a 32-bit number under version 4 (IPv4) and a 128-bit number under version 6 (IPv6)|IP address
-The property that information has not been altered in an unauthorized way|Integrity
-The periodic archiving of data|Backups(Tools for integrity)
-Depends on the entire content of a full and is designed in a way that even a small change to the input file is highly likely to result in a different output value|Checksums(Tools for integrity)
-Method for storing data in such a way that small changes can be easily detected and automatically corrected|Data Correcting Codes(tools for integrity)
-The property that information is accessible and modifiable in a timely fashion by those authorized to do so|Availability
-Infrastructure meant to keep information available even in the event of physical challenges|Physical protection (Tools for availability)
-Computers and storage devices that serve as fallbacks in the case of failures|Computational redundancies(Tools for availability)
-The determination if a person or system is allowed to access resources, based on an access control policy|Authorization
-The establishment of physical barriers to limit access to protected computational resources ex: locks on cabinets and doors|Physical security(Tools for authorization)
-Rooms with walls incorporating copper meshes to block electromagnetic waves from entering and exiting the enclosure|Faraday cages
-The avoidance of the unauthorized disclosure of information. Involves the protection of data, providing access for those who are allowed to see it while disallowing other from learning anything about its content.|Confidentiality
-Public key does not need to be secure and can be shared with anyone|Advantages of public key cryptography
-Similar to virus but it capable of replicating itself thousands of times. Does not need human interaction to infect your system|Worm
-Contains harmful code. When it is executed, the code may steal data, harm your system, slow your computer or even crash your computer|Trojan Horse
-Faster than a public key cryptography, easier to implement, and requires less processing power|Advantages of symmetric key cryptography
-Worm, trojan horse, spyware, virus, botnets|Types of malware
-uses the same key for both decryption and encryption|Symmetric key cryptography
-An unknown exploit in the wild that exposes a vulnerability in software or hardware and can create complicated problems well before anyone realizes something is wrong. Leaves no opportunity for detection. There are zero days between the time the vulnerability is discovered and the first attack|Zero day attack
-a hidden feature or command in a program that allows a user to prompt actions he or she would not normally be allowed to do|Backdoor
-Attaches itself to a file or program and starts to infect one file after another. They generally infect your computer after opening an executable file or email attachments|Virus
-Encryption and decryption is slower than symmetric and requires a key length that is larger that symmetric|Public key encryption disadvantage
-Sender uses the public key of the recipient to encrypt and the recipient uses its private key to decrypt|Public key cryptography
-form of privacy-invasive software that displays advertisements on a users screen against their consent|Adware
-privacy invasive software that is installed on users computer without his consent and which gather information about the use, his computer and his computer usage without consent.|Spyware
-A software program that delivers advertising content in a manner that is unexpected and unwanted by the user.|Adware
-program that gives someone remote, unauthorized control of a system or imitates an unauthorized task|BackDoor
-A group of bots under the remote control of a botmaster, used to distribute spam and denial-of-service attacks.|BotNet
-malicious software that changes setting in the user's browser|Browser Hijacker
-A malicious program designed to spread rapidly to a large number of computers by sending copies of itself to other computers|Computer Worm
-attacks bombard servers and Web sites with traffic that shuts down Web sites|DoS (Denial of Service)
-For security, data is translated into a secret code according to a set of rules in a special 'key'. To convert the data back into plain text, the receiver must also have the key|Encryption
-End User License Agreement|EULA
-someone who accesses a computer or network illegally|Hacker
-(n.) an act intended to trick or deceive, a fraud; (v.) to trick, deceive|Hoax
-A hardware device or a program that monitors and records a user's every keystroke, usually without the user's knowledge. (16)|Keystroke Logger
-software designed to infiltrate or damage a computer system without the user's informed consent|Malware
-a commonly used technique where a user gets "locked" in a website. While surfing the Internet it is possible to click a website and have multiple undesirable websites open. When this happens, you often cannot close or back out of the sites and must close your Web browser completely.|Mouse Trapping
-An attack that sends an email or displays a Web announcement that falsely claims to be from a legitimate enterprise in an attempt to trick the user into surrendering private information|Phishing
-An attempt to defraud Internet surfers by hijacking a website's domain name, or URL, and redirecting users to an imposter website where fraudulent requests for information are made.|Pharming
-(n) a small window, usually containing an advertisement, that appears on your computer screen|Pop-Up
-unwanted e-mail (usually of a commercial nature sent out in bulk)|Spam
-software that enables a user to obtain covert information about another's computer activities by transmitting data covertly from their hard drive.|Spyware
-____ is when an attacker tricks users into giving out information or performing a compromising action.|Social Engineering
-A piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data|Virus
-A compromised computer whose owner is unaware the computer is being controlled remotely by an outsider.|Zombie
-Suppose the author of an online banking software system has programmed in a secret feature so that program emails him the account information for any account whose balance has just gone over $10,000. What kind of attack is this and what are some of its risks?|Trojan Horse
-The computation of a function that maps the contents of a file to a numerical value.|Checksums(Tools for integrity)
-What is designed to intimidate users?|Scareware
-Which is used to intercept user inforamtion?|Spyware
-Which of the following is known to disable protective mechanisms on a system such as antivirus software and the firewall, and prevent updates from the system vendor?|Scareware
-Which of the following helps to prevent viruses and malware?|Antivirus software
-____ is a powerful preventative measure aimed at system owners for stopping viruses.|Education
-Which of the following generally does not limit the impact of worms?|Rebooting your system
-Which of the following spreads from system to system by attaching itself to other files?|Viruses
-All multipartite viruses are encrypted.|False
-What often records a user's keystrokes?|Spyware
-____ are configured to go off at a certain date and/or time, or when a specific event occurs.|Logic bombs
-What do covert channels work over?|Known channels
-Which of the following is a goal of a Trojan?|All of the above
-A keylogger and a covert channel are the same thing.|False
-A ____ is a mechanism for transferring data in an unmonitored manner, in a way not designed for the purpose.|Covert channel
-Trojans can be used to open backdoors.|True
-Trojans are designed to be small and stealthy in order to avoid which of the following?|Detection
-The establishment of physical barriers to limit access to protected computational resources|Physical security(Tools for authorization)
-Which of the following answers are|Both of them
-Can view the process listing in tree form|pstree
-Which of the following is true regarding a passive RFID chip?|It has no power source itself and sits idle until passed near a reader that emits radio waves.
-Which of the following is most likely to steal your identity?|Spyware
-Rootkits are|a set of software tools that enable an unauthorized user to gain control of a computer
-Which of the following tools allows us to detect ADS in a file?|streams.exe
-____ can print the memory map|memmap
-____involve generating cryptographic hash values for the suspect binary based on its file content|File fingerprinting
-What's Email Spoofing?|The creation of email message with a forged sender address
-InetSim is|is a software suite for simulating common internet service in a lab environment
-Hackers who legitimately, with the knowledge of the owners of the IT system, try to break in to find and fix vulnerable areas of the system are called?|Counter hacker
-In the right setting a thief will steal your information by simply watching what you type|Shoulder Surfing
-A hacker contacts you my phone or email and attempts to acquire your password.|Phishing
-A hacker that changes or forges information in an electronic resource, is engaging in|Data diddling
-Hackers often gain entry to a network be pretending to be at a legitimate computer|IP Spoofing
-Unwanted ads and solicitations via email fall into the category of|Spam
-Which type of attack involves intercepting and modifying packets of data on a network?|Man in the Middle
-What can an attacker can determine which network services are enabled on a target system?|Running a port scan against the target system.
-Deep freeze is|A tool to protect the core operating systemand configuration or server by restoring a computer back to the saved configuration, each time the computer is restarted
-What is Trackware?|A software that tracks system activity, gathers information, and tracks users habits to send to a third party
-____ is a type of software testing environment that enables the isolated execution of software or program for independent evaluation, monitoring or testing|Inetsim/Sandbox
-What is a computer worm?|A malware computer program that replicates itself in order to spread to other computers
-The method which examines malware without running it is|Statis analysis
-____ is also useful for finding evidence of hooking as it operates by comparing the difference between two snapshots of open file handles|Handlediff
-Which form of analysis involves going through lines of code but never running the file in question?|Static analysis
-____ is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples|Yara
-Which of the following refer to the forging of the return address on an e-mail so that the e-mail message appears to come from someone other than the actual sender?|Spoofing
-____ is free tool from Microsoft that display file system, registry, process, as well as for malware forensic and analysis task|Process monitor
-Which of the following are possible signs of a malware infection?|All of above
-Name of a type of malware|Lion
-Which of the following terms is used to describe a bot that is dormant while it awaits instruction|Zombie
-Which type of malware typically spreads by using social engineering?|Trojan horse
-____ is a dynamic malware analysis tool that allows to identify any changes to the registry that the malware made| RegShot
-____ is hierarchical database that store the configuration setting of the OS, apps, users|Windows Registry
-Backdoor are example of covert channels|True
-____ virus has ability to change its appearance, and does so as often as possible|Polymorphic
-Choose the method of choice for static analysis|Disassembly
-What are Registry files called?|Hive
+____ virus uses an executable file as a host. | File
+What is a Trojan Horse? | A program designed to take down the computer system while performing an inoffensive...
+Rootkits are: | a set of software tools that enable an unauthorized user to gain control of a computer
+Covert channels work over ____ | known channels
+Which of the following is most likely to make your computer stop working? | Virus
+REMnux is ____ | All of the other choices
+____ generally does not limit the impact of worms. | Rebooting your system
+____ is antivirus that has predefined rulesets that is used to detect the malicious software or malware | ClamAV
+____ is a characteristic of adware. | Displaying popup
+____ is a self-contained program that does not integrate itself with other programs to spread. | Worm
+Trojans can be used to open backdoors on a system. | True
+Wireshark is | a network packet analyzer
+Which of the following refers to software designed to harm your computer or computer security, engage in criminal activity, or compromise resources on some way? | malware
+We can customize clamAV signature by using ____ | All of the mentioned
+Which of the following is best describing botnets? | A botnet consists of a network of compromised computers that attackers user to lauch attacks and spread malware
+VirusTotal is ____ | Static analysis
+Which of the following type of malware secretly gathers and transmits system information, often for advertising purposes? | Spyware
+____ is used to intercept user information | Spyware
+Backdoors are an example of covert channels. | True
+What is an antivirus? | Computer software is used to prevent, detect and remove malicious software
+The registry composed of binary data files is also called ____ | Hive
+Why does alternate data streams (ADS) cause risk to our computer? | It allows malware to hide files from anyone who doesn't have special tool to view them
+Assembly language programs are written using | Mnenonics
+____ can extract a dll from a process memory space and dump it to disk for analysis. | dlldump
+Which the following tools are developed to memory forensics | All of them
+____ GUI tool for Windows that you can use to detect packers | None of all
+How many types of SRE? | Code, Data and information Reverse Engineering
+rip.pl -r /mnt/forensics/Documents\ and\ Settings/Mr.\Evi/NTUSER.DAT -p typedurls | In order to determ suspect's web-browsing history
+win64dd -d /f c:\memory.dmp | Create a memory dump file in C
+perl rip.pl -r /mnt/forensics/WINDOWS/system32/config/software -p userinit | to determine the value of the "userinit" registry key
+In order to view hidden ADS file on window OS, we type the comand: | dir /R
+Can print list of loaded DLLs for each process | dlllist
+Which of the following answers are true about use of Reverse Engineering? | All of the other choises
+____ is forensic analysis of a computer's memory dump | Memory forensics
+____ are debugers | All of the other choises
+Can extract all memory resident pages in a process into an individual file | memdump
+regripper/rip -r G:\Windows\System32\config\SYSTEM -f info | we are recovering data from the SYSTEM registry hive located on drive G
+____ can dump a process's executable | procdump
+rip.pl -r /mnt/forensics/WINDOW/system32/config/software -p uninstall | Determining all installed applications
+Which is the following tool that allows us to detect ADS in a file | streams.exe
+____ can be considered a self-extracting archive, where compressed data is packaged along with the relevant decompression code in an executable file | runtime packer
+Which of the following is not a stand-alone program? | virus
+Which of the following is most likely to send spam emails from your computer? | worm
+Which of the following is least likely to be detected with standard antivirus software? | adware
+Which of the following is most likely to come with other malware? | Trojan
+Which of the following is bundled with the peer-to-peer file-sharing software, Kazaa? | adware
+Which of the following is most likely to install a "backdoor" internet connection? | worm
+Which of the following is most likely to be involved in a denial-of-service attack? | worm
+Which of the following is the only malware publicly documented as having been employed by the FBI to bring a suspect to trial? | Trojan
+____ is piece of software that takes the original malware file and compresses it, thus making all the original code and data unreadable | packers
+Which of the following answers are Select one or more | Both of them
+can list the processes of a system | pslist
+____ is a tool to extract and analyze data from the registry | RegRipper
+Computer program performed the reverse operation by converting it into Assembly language is known as | Disassemble
+perl rip.pl -r /mnt/forensics/WINDOWS/system32/config/software -p product | To get information about all programs installed on this computer
+____ are pieces of info hidden as metadata on files on NTFS drives | ADS
+Which type of packers is used to pack crackme.exe? | No packer is used
+Why does malware writer attempt to pack his malware | to make it harder to detect and to analyze
+are usually the tool of choice for dynamic analysis | Debugger
+____ is a highly reliable technique thats used to hide file contents, and sometimes the entire file itself if using a packer program | Obfuscation
+Obfuscating is a technique in order to ____ | Anti-SRE technique
+____ are debuggers | All of them
+The registry has two basic elements | Keys and values
+Security in the main registry contains the | users and system security settings
+____ can dump hibernation file information | hibinfo
+Compilers translate high-level programs to machine code as follows: | Either directly,Indirectly via an assembler
+can extract a DLL from a process's memory space and dump it to disk for analysis | dlldump
+C:\> more < somefile.txt:secretfiIe.txt | The command allows us to create hidden ADS file
+____ can acquire physical memory (RAM) from a Windows hibernation file | hibr2bin
+x86 is ____ architecture | CISC
+ARM is ____ architecture | RISC
+Obfuscating is a technique in order to | Decompile a program
+Why does maiware writer attempt to pack his maiware | to make it harder to detect and to analyze
+are debuggers | All of them
+rip.pl -r /mnt/forensics/WINDOWS/system32/config/software -p networkcards | In order to determine the network cards used
+can converts a physical memory sample to a windbg crash dump | raw2dmp
+rip.pl -r /mnt/forensics/Documents\ and\ Settings/Mr.\ Evil/NTUSER.DAT -p typedurls | In order to determine suspects web-browsing history
+can print list of loaded dlls for each process | dIllist
+Which tool is used to search for hidden data | mmls
+The registry is a composed of binary data files also called | Hive
+can view the process listing in tree form | pstree
+The SAM hive contains the | users settings and hashed passwords
+An affiliate program is | an arrangement made between two e-commerce sites that directs viewers from one site to the other site
+Which of the following is a count of the number of people who visit one site, click on an ad, and are then taken to the site of the advertiser? | Click-through
+Which type of business environment supports computer-to-computer transfer of transaction information contained in standard business documents, such as invoices and purchase orders, in a standard format. | Electronic data interchange (EDI)
+Which scrambling technique provides you with two keys: one key that everyone in an organization can have to scramble the contents of a file and another key for the intended recipient to unscramble the file? | Public key encryption (PKE)
+Which of the following best defines an infrastructure which allocates the information and processing power of IT systems to a location where it can most efficiently be done.? | Distributed infrastructure
+Which of the following is a typical component of a client/server infrastructure? | Web browser
+Which of the following is true of cloud computing? | It gives immediate access to a broad range of application software.
+Which of the following types of technology scrambles the contents of files sent via the Internet? | Encryption
+What type of Web technology creates a secure and private connection between two computers? | Secure socket layers
+____ can be defined as the principles and standards that guide our behavior toward other people. It is also about the reasons we give for thinking we ought to live one way rather than another, make one decision rather than another, or opt for one policy over another. | Ethics
+The ____ says that you may use copyrighted material in certain situations, for example, in the creation of new work or, within certain limits, for teaching purposes. | Fair Use Doctrine
+Which of the following is a program that, when installed on a computer, records every keystroke and mouse click? | Key logger
+A ____ floods a server or network with so many requests for service that it slows down or crashes | denial-of-service attack
+____ refers to the use of physiological characteristics such as fingerprints, the blood vessels in the iris of the eye, and the sound of one's voice to provide identification | Biometrics
+____ is a way of protecting messages and files by scrambling the contents of a file so that one cannot read it without having the right key. | Encryption
+While making an ethical decision, ____ refers to an ethical consideration which asks how much harm or benefit will come out of the decision. | consequences
+While making an ethical decision, "relatedness" is an ethical consideration which: | refers to the degree to which one identifies with the person or people who will be benefitted or harmed.
+In an educational setting, instructors have access to and use a whole host of copyrighted materials. Which of the following allows these individuals to make use of copyrighted materials for teaching purposes? | Fair Use Doctrine
+Which tracking program, when installed on a computer, records all e-mail, instant messages, chat room exchanges, Web sites visited, applications run, and passwords typed in on that computer? | Key logger
+Jeniffer Gibbs works in the human resources department of Genersits Inc., and is able to access information on the billing address and age of Sandra Cooke, an employee of the firm. Jennifer then creates a fraudulent e-mail id which closely resembles her official e-mail id and sends an email to Sandra asking for further personal information. What form of fraud is this? | Spear phishing
+What is it called when you are rerouted from your requested internet site to another, undesired site? | Pharming
+Adware, software to generate ads that installs itself on your computer when you download some other program, is a type of ____ . | Trojan horse software
+What type of software secretly collects information about you and your computer and reports it to someone without your permission? | Spyware
+Which of the following records information about you during a Web surfing session such as what Web sites you visited, how long you were there, what ads you looked at, and what you bought? | A clickstream
+Which of the following refers to software designed to harm your computer or computer security, engage in criminal activity, or compromise resources in some way? | Malware
+Which of the following is a computer virus that replicates and spreads itself, not only from file to file, but from computer to computer via e-mail and other Internet traffic? | A worm
+A botnet is: | a collection of computers that have been infected with blocks of code that can run automatically by themselves.
+Which of the following is a type of virus that hides inside other software, usually an attachment or download? | A Trojan horse
+Which of the following refers to the forging of the return address on an e-mail so that the e-mail message appears to come from someone other than the actual sender? | Spoofing
+Which of the following is software that allows you to gain administrative rights to someone's computer? | A rootkit
+What is a computer called when it is infected with a malware bot? | A zombie
+Hackers who legitimately, with the knowledge of the owners of the IT system, try to break in to find and fix vulnerable areas of the system are called ____ . | Counter hackers
+In a hard disk, ____ is the set of clusters that have been marked as available to store information, but have not yet received a file or files. | unallocated space
+Which of the following refers to blacking out portions of the document, usually to protect confidential information, so that it cannot be recovered later? | Redacting
+Which of the following types of Internet technology environment sends information to you without your requesting for that information? | Push
+Which of the following allows you to use your Internet connection to make phone calls? | VoIP
+What type of technology allows you to use your finger, eye, or voice print to secure your information resources? | Biometrics
+Which of the following is a technology chip that can perform a variety of physiological functions when inserted into the human body? | Biochip
+Which of the following is a standard for transmitting information in the form of short-range radio waves over distances of up to 30 feet? | Bluetooth
+Which of the following represents a downside to the growth of smart phone technology? | Smartphones are extremely susceptible to viruses and hackers.
+Harmful programs used to disrupt computer operation, gather sensitive information, or gain access to private computer systems are commonly referred to as: (Select best answer) | Malware
+Which of the following answers refer to the characteristic features of an advertising-supported software? (Select 2 answers) | Advertisements embedded in a computer application, Commonly referred to as adware
+A computer program containing malicious segment that attaches itself to an application program or other executable component is called: | Virus
+In computer security, the part of malware code responsible for performing malicious action is referred to as: | Payload
+Malicious software collecting information about users without their knowledge/consent is known as: | Spyware
+The term "companion virus" refers to an older type of computer virus which doesn't alter files and works by creating infected companion file with the exact same name as the legitimate program, but with different file extension. The virus takes advantage of the fact that in the old MS-DOS command-line interface executables can be run by providing only the file name which facilitates the execution of infected code by an unaware user. | True
+Malicious software performing unwanted and harmful actions in disguise of a legitimate and useful program is known as: | Trojan Horse
+Which type of files pose the greatest risk related to the distribution of malware? | .exe
+In computer security, an automatic download performed without the user's consent (and often without any notice) aimed at installing malware or potentially unwanted programs is known as a drive-by download. | True
+A collection of zombies is known as: | Botnet
+Which of the following answers lists an example of spyware? | Keylogger
+Which of the following tags allows loading malicious code (often in the form of JavaScript applet) onto an otherwise trusted page? | <iframe>
+A computer virus that actively attacks an antivirus program in an effort to prevent detection is called: | Retrovirus
+A collection of software tools used by a hacker in order to mask intrusion and obtain administrator-level access to a computer or computer network is known as: | Rootkit
+Which of the following answers refers to an undocumented (and often legitimate) way of gaining access to a program, online service or an entire computer system? | Backdoor
+The process of isolation of files and applications suspected of containing malware in order to prevent further execution and potential harm to the user's system is known as: | Quarantine
+In its more intrusive form, adware can track browsing habits in order to serve better targeted ads based on user interests. | True
+Computer code or command that takes advantage of a design flaw in software is commonly referred to as: | Exploit
+Which of the following answers refer to the ways of delivering online advertising content utilized by adware? (Select 2 answers) | Pop-up, pop-under
+A computer that has been compromised by a virus or Trojan horse that puts it under the remote control of an online hijacker is called: | Zombie
+Which of the computer virus types listed below deletes or corrupts contents of the target host file instead of attaching itself to the file? | Phage virus
+Web browser extensions (a.k.a. plugins, or add-ons) are downloadable components that extend the browser's functionality by enabling interactive features of web pages. Downloading and installing browser extensions can be risky, because some of them may contain malicious code and in disguise of a legitimate program introduce malware to the system. | True
+Which of the following terms describes a method employed by many computer antivirus programs designed to detect previously unknown types of malware? | Heuristics
+A group of computers running malicious software under control of a hacker is known as: | Botnet
+Which of the following answers refers to a mobile software that while running in disguise of a legitimate program tries to harm user devices or personal data? | Malicious app
+An antivirus software identifying non-malicious file as a virus due to faulty virus signature file is an example of: | False positive error
+Which of the application types listed below fall(s) into the category of anti-malware solutions? (Select all that apply) | Anti-spyware, Anti-virus, Anti-spam
+Which of the following components pose a risk of unintended downloading and execution of malware on a PC? (Select 2 answers) | Browser plugins, ActiveX controls
+A type of rogue application that exploits dialup connections by making unauthorized telephone calls is known as | Dialer
+Which of the following answers refers to an anti-antivirus exploit? | Retrovirus
+A malware-infected networked host under remote control of a hacker is commonly referred to as: | Bot
+Which of the following answers refers to a technique used by certain types of malware to cause an error in a program and make it easier to run malicious code? | Buffer overflow
+A software that automatically plays, displays, or downloads advertisements to a computer is known as: | Adware
+A type of virus that takes advantage of various mechanisms specifically designed to make tracing, disassembling and reverse engineering its code more difficult is known as: | Armored virus
+Which of the following acronyms refers to a network security solution combining the functionality of a firewall with additional safeguards such as URL filtering, content inspection, or malware inspection? | UTM
+Data files containing detection and/or remediation code that antivirus or antispyware products use to identify malicious code are known as: | Signature files
+Malicious code activated by a specific event is known as: | Logic bomb
+Which of the following answers refers to the process by which a computer virus makes copies of itself to carry out subsequent infections? | Replication
+A standalone malicious computer program that replicates itself over a computer network is known as: | Worm
+A type of Trojan designed to transfer other malware onto a PC via Internet connection is known as | Downloader
+A type of Trojan designed to transfer other malware onto a PC via without Internet connection is known as | Dropper
+Which security measure is in place when a client is denied access to the network due to outdated antivirus software? | NAC
+A type of Trojan designed to install other malware files onto a PC without the need for an active Internet connection is known as: | Dropper
+Malware that restricts access to a computer system by encrypting files or locking the entire system down until the user performs requested action is known as: | Ransomeware
+Entry fields of web forms lacking input validation are vulnerable to what kind of attacks? | SQL injection
+Which type of computer virus takes advantage of the capability for creating and embedding simple scripts in popular office applications? | Macro virus
+The process by which malicious software changes its underlying code in order to avoid detection is known as: | Polymorphism
+An antivirus software can be kept up to date through: (Select all that apply) | Engine updates, Virus signature updates
+What is the function of Windows Defender software? | Protection against viruses, spyware and other potentially unwanted software
+Which of the following terms refers to unwanted applications or files that are not classified as malware, but can worsen the performance of computers and pose security risk? | Grayware
+Which of the following terms refers to a computer security vulnerability allowing attackers to insert malicious code into a trusted website? | Cross-site scripting
+Viruses do not require a host program. | False
+Worms are designed to replicate repeatedly. | True
+____ is designed to intimidate users. | Scareware
+____ is known to disable protective mechanisms on a system such as antivirus software, anti-spyware software, and firewalls, and to report on a user's activities. | Spyware
+Prevention of viruses and malware includes ____ | Antivirus
+____ is a powerful preventive measure for stopping viruses. | Education
+Which of the following can limit the impact of worms? | Anti-virus software, Firewalls, Patches
+____ attach(es) to files. | Viruses
+Multipartite viruses come in encrypted form. | False
+Trojans are a type of malware. | True
+Covert channels work over | Known Channels
+Which of the following is one of the goals of Trojans? | Giving remote access
+____ are methods for transferring data in an unmonitored manner. | Covert Channels
+Backdoors on a system can be used to bypass firewalls and other protective measures. | True
+Trojans are designed to be small and stealthy in order to: | Bypass detection
+____ record(s) a user's typing | Spyware
+____ are configured to go off at a certain date, time, or when a specific even occurs. | Logic Bomb
+Scareware is harmless. | False
+Are usually the tool of choice for dynamic analysis | Debugger
+____ are the method of choice for static analysis | Static Analysis
+SSL | This two-level scheme for authenticating network users functions as part of the Web's Hypertext Transfer Protocol
+Biometric | This type of authentication device consists of a reader/scanner and software that encrypts and converts the scanned information into digital form so it can be compared with previous records
+Kerberos | This secure method for authenticating a request for a service in a computer network was developed through the Athena Project at the Massachusetts Institute of Technology
+Smart card | This electronic credit card establishes a users credentials when doing business in the Web and is issued by a certification authority
+TACACS | This is an older authentication protocol common to UNIX networks that allows a remote access server to forward a users logon password to an authentication server to determine whether access can be allowed to a given system
+Cybercrime | The use of the Internet, computers, and related technologies in the commission of a crime
+Hacking | Unauthorized intrusion into computers
+Malware | Malicious software that causes damage to a computer or invades a computer to steal information from it
+Types of Malware | Viruses, worm, Trojan horse, Spyware, Botnets
+Cyberterrorism | The politically, religiously, or ideologically motivated use of computers by an individual, group of state targeting critical infrastructure with the intention of harming persons and/or damaging property in order to influence the population or cause a government to change its policies
+True | Scalability has to do with the public-key encryption, multiple users can send encrypted message to Alice using her public key and these messages can be decrypted only by Alice; thus, a linear number of public-private key pairs need to be established, distributed and protected to allow pairwise confidential communication between any two users; instead, symmetric encryption requires a quadratic number of secret keys.
+Trojan Horse | Suppose the author of an online banking software system has programmed in a secret feature so that program emails him the account information for any account whose balance has just gone over
+False | Efficiency deals with the ability for security consultants to make extra money
+Using a proprietary encryption algorithm | Select an example of the false sense of security that can come from using the "security by obscurity" approach
+Suppose you could use all 128 characters in the ASCII character set in a password. What is the number of 8-character passwords that could be constructed from such a character set? How long, on average, would it take an attacker to guess such a password if he could test a password every nanosecond? | 9,223,372,037 seconds
+In what order are the bytes of IP addresses sent over networks? | Big-endian
+What file type has a header specifying sections like .text, .data, and .rsrc? | PE
+What type of file is shared by many different programs? | DLL
+What type of language is Assembly Language? | Low-level languages
+What type of language is bash shell script? | Interpreted languages
+What type of language is C? | High-level languages
+When starting a server, which of these functions will be called first? | Socket
+Which API uses commands that are very similar to those in Linux? | WinSock
+Which coding has a special problem with zero bytes? | XOR
+Which coding turns 3 bytes into 4 characters? | Base64
+Which network type is not possible with virtual machines? | Airgap
+Which network type is the most hazardous? | Bridged
+Which network type lets VMs see one another and the Internet but places a virtual router between them and other machines on the LAN? | NAT
+Which network type lets VMs see one another but not the Internet? | Host-only
+Which of these contains the stack? | RAM
+Which of these indicates that "Function" has been revised? | FunctionEx
+Which technique finds the readable text in a file? | Strings
+Which technique is most common for normal executable files? | Static linking
+Which technique is so weak it's not even considered encryption at all? | Base64
+Which technique makes an executable large? | Static linking
+Which technique mathematically calculates a number that uniquely identifies a malicious file? | Hashes
+Which technique may alert attackers that you have detected an intrusion? | VirusTotal
+Which technique requires deliberately infecting a computer? | Dynamic analysis
+Which tool can listen on any port? | Ncat
+Which tool pretends to be the whole Internet? | INetSim
+Which type of code cannot be disassembled by IDA Pro Free? Select one: | x64
+Which type of file can run directly? | Exe
+Which type of malware conceals other code? | Rootkit
+Which type of malware spreads to other systems? | Worm
+Which window shows every sequence of ASCII codes five or more bytes long? | Strings
+This two-level scheme for authenticating network users functions as part of the Web's Hypertext Transfer Protocol | SSL
+This type of authentication device consists of a reader/scanner and software that encrypts and converts the scanned information into digital form so it can be compared with previous records | Biometric
+This secure method for authenticating a request for a service in a computer network was developed through the Athena Project at the Massachusetts Institute of Technology | Kerberos
+This electronic credit card establishes a users credentials when doing business in the Web and is issued by a certification authority | Smart card
+This is an older authentication protocol common to UNIX networks that allows a remote access server to forward a users logon password to an authentication server to determine whether access can be allowed to a given system | TACACS
+The use of the Internet, computers, and related technologies in the commission of a crime | Cybercrime
+Unauthorized intrusion into computers | Hacking
+Malicious software that causes damage to a computer or invades a computer to steal information from it | Malware
+Viruses, worm, Trojan horse, spyware, botnets | Types of Malware
+The politically, religiously, or ideologically motivated use of computers by an individual, group of state targeting critical infrastructure with the intention of harming persons and/or damaging property in order to influence the population or cause a government to change its policies | Cyberterrorism
+Scalability has to do with the public-key encryption, multiple users can send encrypted message to Alice using her public key and these messages can be decrypted only by Alice; thus, a linear number of public-private key pairs need to be established, distributed and protected to allow pairwise confidential communication between any two users; instead, symmetric encryption requires a quadratic number of secret keys. | True
+Suppose the author of an online banking software system has programmed in a secret feature so that program emails him the account information for any account whose balance has just gone over | 10,000. What kind of attack is this and what are some of its risks?
+Efficiency deals with the ability for security consultants to make extra money | False
+Select an example of the false sense of security that can come from using the "security by obscurity" approach | Using a proprietary encryption algorithm
+A physical security mechanism consisting of a small area with two doors used to hold an individual until his identity can be authorized is called | Holding area
+Different organizations have different physical security protection requirements, thus they require different types of controls and countermeasures. Which is NOT a legitimate justification for using security guards at a facility? | They are cheaper than most automated detection systems
+Which of the following physical security mechanisms is used because it can provide "discriminating judgment"? | Security guards
+Smoke detector placement is important to ensure that all types of fires in different parts of the building can be quickly identified. Which of the following locations is not necessarily a good place for a smoke detector? | Exterior rear doorway
+Which security control doesn't belong to the group of the other 3. | Host-based intrusion-detection system
+Doors configured in a fail-safe mode assume what position in the event of a power failure? | Closed and locked
+It is advisable to leave server doors open when employees get ready for work | False
+Backup tapes should be stored off site | True
+Security guards should be hired according to their physical appearance | False
+It is wise to have periodic audits on physical security | True
+Which of the following forms of malware do not require human intervention to propagate? | Worm
+According to most definitions, a virus must have which of the following traits? | Be able to replicate itself
+Which type of malware pretends to be a useful or benign program but contains malicious code? | Trojan horse
+Which type of malware is self-contained, self-replicating, and requires no user intervention to active? | Worm
+What types of malware secretly gathers and transmits system information, often for advertising purposes? | Spyware
+What type of malware is designed to provide elevated system privileges or hide malicious files through stealth techniques? | Rootkit
+What term is commonly used to describe the method or mechanism by which a piece of malware infects a system? | Attack Vector
+What term is commonly used to BEST describe the harmful code often contained within a piece of malware? | Payload
+What are the possible signs of a malware infection? | Slow System performance
+Malware has an ultimate positive effect on technology. | False
+Media access control address- is a 48-bit identifier assigned to a network interface by its manufacturer and is represented by a sequence of 6 pairs of hexadecimal digits | MAC address
+Internet protocol-is the network level protocol that performs a best effort to route a data packet from a source nose to a destination node in the Internet. It is given a unique numerical address which is a 32-bit number under version 4 (IPv4) and a 128-bit number under version 6 (IPv6) | IP address
+The property that information has not been altered in an unauthorized way | Integrity
+The periodic archiving of data | Backups(Tools for integrity)
+Depends on the entire content of a full and is designed in a way that even a small change to the input file is highly likely to result in a different output value | Checksums(Tools for integrity)
+Method for storing data in such a way that small changes can be easily detected and automatically corrected | Data Correcting Codes(tools for integrity)
+The property that information is accessible and modifiable in a timely fashion by those authorized to do so | Availability
+Infrastructure meant to keep information available even in the event of physical challenges | Physical protection (Tools for availability)
+Computers and storage devices that serve as fallbacks in the case of failures | Computational redundancies(Tools for availability)
+The determination if a person or system is allowed to access resources, based on an access control policy | Authorization
+The establishment of physical barriers to limit access to protected computational resources ex: locks on cabinets and doors | Physical security(Tools for authorization)
+Rooms with walls incorporating copper meshes to block electromagnetic waves from entering and exiting the enclosure | Faraday cages
+The avoidance of the unauthorized disclosure of information. Involves the protection of data, providing access for those who are allowed to see it while disallowing other from learning anything about its content. | Confidentiality
+Public key does not need to be secure and can be shared with anyone | Advantages of public key cryptography
+Similar to virus but it capable of replicating itself thousands of times. Does not need human interaction to infect your system | Worm
+Contains harmful code. When it is executed, the code may steal data, harm your system, slow your computer or even crash your computer | Trojan Horse
+Faster than a public key cryptography, easier to implement, and requires less processing power | Advantages of symmetric key cryptography
+Worm, trojan horse, spyware, virus, botnets | Types of malware
+uses the same key for both decryption and encryption | Symmetric key cryptography
+An unknown exploit in the wild that exposes a vulnerability in software or hardware and can create complicated problems well before anyone realizes something is wrong. Leaves no opportunity for detection. There are zero days between the time the vulnerability is discovered and the first attack | Zero day attack
+a hidden feature or command in a program that allows a user to prompt actions he or she would not normally be allowed to do | Backdoor
+Attaches itself to a file or program and starts to infect one file after another. They generally infect your computer after opening an executable file or email attachments | Virus
+Encryption and decryption is slower than symmetric and requires a key length that is larger that symmetric | Public key encryption disadvantage
+Sender uses the public key of the recipient to encrypt and the recipient uses its private key to decrypt | Public key cryptography
+form of privacy-invasive software that displays advertisements on a users screen against their consent | Adware
+privacy invasive software that is installed on users computer without his consent and which gather information about the use, his computer and his computer usage without consent. | Spyware
+A software program that delivers advertising content in a manner that is unexpected and unwanted by the user. | Adware
+program that gives someone remote, unauthorized control of a system or imitates an unauthorized task | BackDoor
+A group of bots under the remote control of a botmaster, used to distribute spam and denial-of-service attacks. | BotNet
+malicious software that changes setting in the user's browser | Browser Hijacker
+A malicious program designed to spread rapidly to a large number of computers by sending copies of itself to other computers | Computer Worm
+attacks bombard servers and Web sites with traffic that shuts down Web sites | DoS (Denial of Service)
+For security, data is translated into a secret code according to a set of rules in a special 'key'. To convert the data back into plain text, the receiver must also have the key | Encryption
+End User License Agreement | EULA
+someone who accesses a computer or network illegally | Hacker
+(n.) an act intended to trick or deceive, a fraud; (v.) to trick, deceive | Hoax
+A hardware device or a program that monitors and records a user's every keystroke, usually without the user's knowledge. (16) | Keystroke Logger
+software designed to infiltrate or damage a computer system without the user's informed consent | Malware
+a commonly used technique where a user gets "locked" in a website. While surfing the Internet it is possible to click a website and have multiple undesirable websites open. When this happens, you often cannot close or back out of the sites and must close your Web browser completely. | Mouse Trapping
+An attack that sends an email or displays a Web announcement that falsely claims to be from a legitimate enterprise in an attempt to trick the user into surrendering private information | Phishing
+An attempt to defraud Internet surfers by hijacking a website's domain name, or URL, and redirecting users to an imposter website where fraudulent requests for information are made. | Pharming
+(n) a small window, usually containing an advertisement, that appears on your computer screen | Pop-Up
+unwanted e-mail (usually of a commercial nature sent out in bulk) | Spam
+software that enables a user to obtain covert information about another's computer activities by transmitting data covertly from their hard drive. | Spyware
+____ is when an attacker tricks users into giving out information or performing a compromising action. | Social Engineering
+A piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data | Virus
+A compromised computer whose owner is unaware the computer is being controlled remotely by an outsider. | Zombie
+Suppose the author of an online banking software system has programmed in a secret feature so that program emails him the account information for any account whose balance has just gone over $10,000. What kind of attack is this and what are some of its risks? | Trojan Horse
+The computation of a function that maps the contents of a file to a numerical value. | Checksums(Tools for integrity)
+What is designed to intimidate users? | Scareware
+Which is used to intercept user inforamtion? | Spyware
+Which of the following is known to disable protective mechanisms on a system such as antivirus software and the firewall, and prevent updates from the system vendor? | Scareware
+Which of the following helps to prevent viruses and malware? | Antivirus software
+____ is a powerful preventative measure aimed at system owners for stopping viruses. | Education
+Which of the following generally does not limit the impact of worms? | Rebooting your system
+Which of the following spreads from system to system by attaching itself to other files? | Viruses
+All multipartite viruses are encrypted. | False
+What often records a user's keystrokes? | Spyware
+____ are configured to go off at a certain date and/or time, or when a specific event occurs. | Logic bombs
+What do covert channels work over? | Known channels
+Which of the following is a goal of a Trojan? | All of the above
+A keylogger and a covert channel are the same thing. | False
+A ____ is a mechanism for transferring data in an unmonitored manner, in a way not designed for the purpose. | Covert channel
+Trojans can be used to open backdoors. | True
+Trojans are designed to be small and stealthy in order to avoid which of the following? | Detection
+The establishment of physical barriers to limit access to protected computational resources | Physical security(Tools for authorization)
+Which of the following answers are | Both of them
+Can view the process listing in tree form | pstree
+Which of the following is true regarding a passive RFID chip? | It has no power source itself and sits idle until passed near a reader that emits radio waves.
+Which of the following is most likely to steal your identity? | Spyware
+Rootkits are | a set of software tools that enable an unauthorized user to gain control of a computer
+Which of the following tools allows us to detect ADS in a file? | streams.exe
+____ can print the memory map | memmap
+____involve generating cryptographic hash values for the suspect binary based on its file content | File fingerprinting
+What's Email Spoofing? | The creation of email message with a forged sender address
+InetSim is | is a software suite for simulating common internet service in a lab environment
+Hackers who legitimately, with the knowledge of the owners of the IT system, try to break in to find and fix vulnerable areas of the system are called? | Counter hacker
+In the right setting a thief will steal your information by simply watching what you type | Shoulder Surfing
+A hacker contacts you my phone or email and attempts to acquire your password. | Phishing
+A hacker that changes or forges information in an electronic resource, is engaging in | Data diddling
+Hackers often gain entry to a network be pretending to be at a legitimate computer | IP Spoofing
+Unwanted ads and solicitations via email fall into the category of | Spam
+Which type of attack involves intercepting and modifying packets of data on a network? | Man in the Middle
+What can an attacker can determine which network services are enabled on a target system? | Running a port scan against the target system.
+Deep freeze is | A tool to protect the core operating systemand configuration or server by restoring a computer back to the saved configuration, each time the computer is restarted
+What is Trackware? | A software that tracks system activity, gathers information, and tracks users habits to send to a third party
+____ is a type of software testing environment that enables the isolated execution of software or program for independent evaluation, monitoring or testing | Inetsim/Sandbox
+What is a computer worm? | A malware computer program that replicates itself in order to spread to other computers
+The method which examines malware without running it is | Statis analysis
+____ is also useful for finding evidence of hooking as it operates by comparing the difference between two snapshots of open file handles | Handlediff
+Which form of analysis involves going through lines of code but never running the file in question? | Static analysis
+____ is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples | Yara
+Which of the following refer to the forging of the return address on an e-mail so that the e-mail message appears to come from someone other than the actual sender? | Spoofing
+____ is free tool from Microsoft that display file system, registry, process, as well as for malware forensic and analysis task | Process monitor
+Which of the following are possible signs of a malware infection? | All of above
+Name of a type of malware | Lion
+Which of the following terms is used to describe a bot that is dormant while it awaits instruction | Zombie
+Which type of malware typically spreads by using social engineering? | Trojan horse
+____ is a dynamic malware analysis tool that allows to identify any changes to the registry that the malware made | RegShot
+____ is hierarchical database that store the configuration setting of the OS, apps, users | Windows Registry
+Backdoor are example of covert channels | True
+____ virus has ability to change its appearance, and does so as often as possible | Polymorphic
+Choose the method of choice for static analysis | Disassembly
+What are Registry files called? | Hive

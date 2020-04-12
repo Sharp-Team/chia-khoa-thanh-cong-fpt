@@ -68,9 +68,8 @@ Which of the following is best describes a Trojan? | It infects other systems on
 Which of the following is a type of malware that provides the spam or virus originator with a venue to propagate? | Botnet
 Which of the following is a threat target in the System/Application Domain? | ERP applications and systems
 What is the residual risk? | Security risk remaining after implementing controls
-Security features that control how users and systems communicate and interact with other systems and resources
+
 How are smart cards and memory cards functionally different? | Memory cards store but do not process information while smart cards can process information.
-Memory cards store but do not process information while smart cards can process information.
 How is Kerberos a single sign-on technology? | The user enters his credentials one time and obtains a TGT. The user uses the TGT each time he needs to communicate to a network resource.
 Each of the following should serve on a security policy development team except: | Representative from an antivirus vendor
 Each of the following is a guideline for developing a security policy except: | Require all users to approve the policy before it is implemented
@@ -91,150 +90,64 @@ What is IEC? | A preeminent organization for developing and publishing internati
 What is IETF? | An organization develops and promotes Internet standards.
 The IETF produces documents called | RFCs
 Which of the following threats will most likely produce a Risk that affects Confidentiality, Integrity and Availability? | a. Physical theft
-QN=2
 Subject of phishing attacks is managed by which of the following domain? | a. User Domain
-QN=3
-
 What is the weakest link in an IT infrastructure? | a. User Domain
-QN=4
-
 Which of the following terms describes the process of scrambling data so only the intended recipient can read it? | a. Data confidentiality
-QN=5
-
 Which of the following is NOT a U.S. compliance law or act? | a. PCI DSS
-QN=6
-
 Which of the following ensures that only authorized parties can view the information? | a. Confidentiality
-QN=7
 Which of the following is not true regarding firewalls? | a. They are able to block viruses.
-QN=8
-
 Which of the following is NOT a property of a Packet Filtering Firewall? | a. Operates at the Application Layer
-QN=28
-
 Which of the following is NOT a common vulnerability in the User Domain? | a. Transmitting private data unencrypted
-QN=23
 Design and use seperate VLANs for voice and data is a best practice of? | a. Network infrastructure security
-QN=24
 Which of the following is risk, threat or vulnerability of VoIP system? | a. Brute-force password attacks
-QN=25
-
 What UC application is NOT supported by SIP? | a. Audio fast transmission
-QN=26
-
 What feature is NOT provided by UC application? | a. Reliable data transfer
-QN=27
-
 Which of the following generation is of Internet Broadband Era? | a. Fiber-Based DWDM Optical Backbones
-QN=12
-
 Which of the following is a type of malware associated with collecting personal information without appropriately obtaining prior consent? | a. Spyware
-QN=13
-
 Which of the following is the most common result of a buffer overflow? | a. Privilege escalation
-QN=14
-
 Which of the following best describes spyware? | a. Software used for the collection of personal data
-QN=15
 Which of the following best describes a rootkit? | a. Software hidden on a computer for the purpose of compromising the system
-QN=29
-
 Which of the following is a threat target in the Remote Access Domain? | a. SSL-VPN tunnels
-QN=30
-
 Which of the following is a common vulnerability in the System/Application Domain? | a. Weaknesses in server operating system or application software
-QN=31
-
 Which of the following is NOT a common vulnerability in the Workstation Domain? | a. Accidental acceptable use policy violation
-QN=32
 What is the backdoor? | a. A hidden access method in programs or systems
-QN=33
 Which of the following is NOT a threat target in the Workstation Domain? | a. PDAs
-QN=17
-
 Which of the following best describes a virus? | a. A program designed to attach itself to other code and replicate
-QN=34
-
 Which of the following is an underlying activity of risk management? | a. Uncertainty analysis
-QN=39
-
 You are trying to implement a strong authentication system. Which one of the following would be the appropriate system to implement? | a. Knowledge
-QN=40
-
 Which of the following best describes the architecture of a Kerberos authentication system? | a. An architecture with a central server that issues tickets to allow one principal (for instance, a user) to authenticate themselves to another (such as a server).
-QN=42
-
 Which of the following is not a form of identification? | a. Token device
-QN=43
-
 What is access control? | a. Security features that control how users and systems communicate and interact with other systems and resources
-QN=44
 What component of Kerberos helps mitigate replay attacks? | a. Authenticator
 What is the baselines of a security policy? | a. Define basic configurations for specific types of computers or devices
 What is a collection of suggestions that should be implemented | a. Guideline
 What is the second step of change control procedures? | a. Impact Assessment
 Each of the following is what a security policy must do except: | a. State reasons why the policy is necessary
-QN=49
-
 When you are attempting to install a new security mechanism for which there is not a detailed step-by-step guide on how to implement that specific product, which element of the security policy should you turn to? | a. Guidelines
-QN=41
 Which of the following is NOT the type of authentication? | a. Physical devices
-QN=35
-
 Risk should be handled in any of the following ways except: | a. Reject risk
-QN=36
-
 A company needs to determine its security budget for the next year. It interviews users, administrators, and managers in the information technology division, who render opinions and recommendations based upon their perceptions of security risk. This is an example of what kind of approach to risk analysis? | a. Qualitative
-QN=37
 The calculation for ALE is: | a. Single loss expectancy x Annualized rate of occurrence
-QN=38
-
 Alice is responsible for an asset valued at $25,000. It is determined that her asset has an exposure factor of 10 percent. What is the single loss expectancy (SLE)? | a. $2,500
-QN=50
 What procedures should take place to restore a system and its data files after system failure? | a. Implement recovery procedures
-QN=51
-
 Which of the following is the first step in a business impact analysis? | a. Select individuals to interview for data gathering.
-QN=52
 Which of the following best describes the continuity planning policy statement? | a. Scope of the BCP project, the team member roles, and the goals of the project.
-QN=53
 A business impact analysis includes any of the following except: | a. Selecting team members
-QN=54
 A critical company asset would most likely have which of the following MTD values? | a. Minutes to hours
-QN=55
 What is used to create a digital signature? | a. The sender's private key
-QN=56
 Asymmetric cryptography has all of the following strengths, except: | a. It is extremely fast
-QN=57
-
 A symmetric algorithm must have certain characteristics to be considered strong. Which of the following is correct pertaining to these types of characteristics? | a. Confusion is carried out through substitution, and diffusion is carried out through transposition.
-QN=58
-
 Which of the following security services are provided if a sender encrypts data with her private key? | a. Authentication
-QN=59
-
 Which of the following is a true difference between an asymmetric and symmetric algorithm? | a. Symmetric algorithms are faster because they use substitution and transposition
-QN=60
-
 Which of the following best describes a digital signature? | a. A method to let the receiver of the message prove the source and integrity of a message
-QN=10
 An ARP cache would provide what type of information? | a. IP and MAC addressing
-QN=11
 Which is NOT a layer in the OSI architecture model? | a. Internet
-QN=9
-
 Which of the following is NOT a true statement about Network Address Translation (NAT)? | a. Private addresses can easily be globally routable.
-QN=16
 A disgruntled employee creates a utility for purging old emails from the server. Inside the utility is code that will erase the server's hard drive contents on January 1, 2012. This is an example of which of the following attacks? | a. Logic bomb
-QN=18
 Which of the following is the most well-known ISO standard? | a. OSI reference model
-QN=19
 The ISO/IEC 27002 is an update for which of the following standards? | a. ISO/IEC 17799
-QN=20
 Which standards organization publishes standards such as XML? | a. W3C
-QN=21
 What is the ISO/IEC 27002 standard? | a. The update version of ISO/IEC 17799
-QN=22
 Which standards organization publishes the 802.11a standard? | a. IEEE
 1.___________ is the process of transforming data from cleartext into ciphertext | Encryption
 2. The ____________ represents the fourth layer of defense for a typical IT infrastructure | Lan-to-wan
@@ -279,7 +192,7 @@ Which standards organization publishes the 802.11a standard? | a. IEEE
 41. When you accept a __________, you take no further steps to resolve. | negative risk
 42. A mechanism that limits access to computer systems and network resources is ________, | logical access control
 43. How is decentralized access control defined? | A system that puts access control into the hands of people such as department managers who are closest to system users; there is no one centralized entity to process access requests in this system.
-44. This device uses public key infrastructure (PKI) technology—for example, a certificate signed by a trusted certification authority—and doesn't provide one-time passwords. | USBtoken
+44. This device uses public key infrastructure (PKI) technologyï¿½for example, a certificate signed by a trusted certification authorityï¿½and doesn't provide one-time passwords. | USBtoken
 45. Two-factor __________ should be the minimum requirement for valuable resources as it provides a higher level of security than using only one. | authentication
 46. What name is given to an access control method that bases access control approvals on the jobs the user is assigned? | Role-based access control (RBAC)
 47. When you apply an account-lockout policy, set the __________ to a high enough number that authorized users aren't locked out due to mis-typed passwords. | threshold
@@ -290,7 +203,6 @@ Which standards organization publishes the 802.11a standard? | a. IEEE
 52. LAN to WAN connectivity is ____. | access server
 53. A(n) ____ is a network of computers and other devices that is confined to a relatively small space, such as one building or even one office. | LAN
 54. A personal computer which may or may not be connected to a network is a(n) ____. | workstation
- | 
 A ____ enables resource sharing by other computers on the same network. | host
 ____ refer to the capability of a server to share data files, applications (such as word-processing or spreadsheet programs), and disk storage space. | File services
 A ____ is usually composed of a group of nodes that use the same communications channel for all their traffic. | segment
@@ -333,7 +245,6 @@ ___ addresses contain two parts: a Block ID and a Device ID. | MAC
 The Application layer separates data into ____ or discrete amounts of data. | protocol data units
 The primary function of protocols at the session layer is to translate network addresses into their physical counterparts and decide how to route data from the sender to the receiver. | FALSE
 The ____ is a trade organization composed of representatives from electronics manufacturing firms across the United States. | EIA (Electronic Industries Alliance)
-The top, or seventh, layer of the OSI Model is the ____ layer application | 
 The process of gauging the appropriate rate of transmission based on how fast the recipient can accept data is known as _____. | flow control
 TRUE or FALSE: Addressing is a system for assigning unique identification numbers to devices on a network. | TRUE
 An anonymous login may be used with _______ . | FTP
@@ -474,22 +385,12 @@ Risk Vulnerability | The likelihood that something bad will happen.
 Risk Methodology | A description of how you will manage risks. Includes the approach, required information, and the techniques to address each risk.
 Security Gap | The difference between the security controls in place and the control you need in order to address all vulnerabilities.
 Steps of the System Life Cycle | 1. Project initiation and planning
-2. Functional requirements and definition | 
-3. System-design specification | 
-4. Build (develop) and document | 
-5. Acceptance testing | 
-6. Implementation | 
 In the change management process, what are the configuration control and change control? | Configuration control is the management of the baseline settings for a system device. The baseline settings meet security requirements. They require that you implement them carefully and only with prior approval.
-Change control is the management of changes to the configuration. Unmanaged changes introduce risk, because they might affect security operations or controls. An improper change could even disable the system or equipment. Change control ensures that any changes to a production system are tested, documented, and approved. The change itself must follow a change control process that ensures you make the changes correctly and report it to management. | 
 Principles of least privilege | The principles of least privilege, means giving a user account only those privileges which are essential to that user's work.
 When developing, implementing and designing and organization you often must comply with the rules on what level? | Regulatory Compliance
 Brewer and Nash Integrity Model | based on the mathematical theory published in 1989 to ensure fair competition. It is used to apply dynamically changing access permissions.
 What are the formal models of access control? | Discretionary access control (DAC) - the owner of the resource decides who gets in. The owner can give that job to others.
-Mandatory access control (MAC) - permission to enter a system is kept by the owner and cannot be given to someone else. | 
-Non-discretionary access control - access controls are closely monitored by the security administrator. | 
-Rule-based access control - a list of rules, maintained by the data owner, determines which users have access to objects. | 
 What are the types of Access Control? | Physical access controls - Control entry into buildings, parking lots and protected areas.
-Logical - Control access to a computer system or network. | 
 How does identification and authorization work together in the access control process? | Identification is the method a subject uses to request access to a system or resource. Authorization is the process of deciding who has access to which computer and network resources.
 What does a bushiness impact analysis determine? | ...
 What are the components of a business continuity plan? | BCP &DRP
@@ -537,7 +438,6 @@ Risk Avoidance | Deciding not to take the risk by discontinuing use because the 
 What are the controls that monitor activity? | IDS, IPS andFirewalls
 IDS | Intrusion detection system. A detective control used to detect attacks after they occur. A signature-based IDS (also called definition-based) uses a database of predefined traffic patterns.
 IPS | a device that can take immediate action during an attack to block traffic, blacklist an IP address, or segment an infected host
-Firewall | A software program or hardware device designed to prevent unauthorized access to computers or networks.
 What are monitoring issues for logging? | Logging produces too much information and takes up disk space.
 Penetration Testing | Method of evaluating the security of a computer system or network, by simulating a malicious attack instead of just scanning for vulnerabilities
 What is a baseline and how does it pertain to security monitoring? | In order to recognize something as abnormal, you first must know what normal looks like. The baseline is the normal state of the system.
@@ -606,7 +506,6 @@ Physical Layer | The lowest, or first, layer of the OSI model. Protocols in the 
 4.4 plan for a structured response to any events that result in an interruption to critical business. | BCP
 5.1 These control entry into buildings, parking lots, and protected areas. | Physic access control
 5.2 Access to a computer system or network. Requires that you enter a unique username and password to log to your company | Logical access controls
-5.3 Authrization, indentification, authentication, accountability | 
 5.4 Create a policy to define authorization rules. Process of deciding access to which computer. | Authorization
 5.5 group(s) you are in. | group membership policy
 5.6 higher degree of authority to access certain resources. | Authority-level policy
@@ -615,7 +514,6 @@ Physical Layer | The lowest, or first, layer of the OSI model. Protocols in the 
 5.9 determined by the sensitivity of the resource and the security level of the subject. | Mandatory AC
 5.10 closely monitored by the security adminitrator, an not the system administrator. | Non-Discretion AC
 5.11 A list of rules, maintained by the data owner. | Rule-based AC
-5.12 bases access control approvals on the jobs the user assigned - RBAC | 
 5.13 access control are policies or procedure used to control access to certain items. | True
 5.14 which are the best describes the authorization | approvad for
 5.15 which are the best describes the identification component of access control? | to an system
@@ -954,7 +852,7 @@ qualitative risk analysis | What name is given to a risk-analysis method that us
 negative risk | When you accept a __________, you take no further steps to resolve.
 logical access control | A mechanism that limits access to computer systems and network resources is ________,
 A system that puts access control into the hands of people such as department managers who are closest to system users; there is no one centralized entity to process access requests in this system. | How is decentralized access control defined?
-USBtoken | This device uses public key infrastructure (PKI) technology—for example, a certificate signed by a trusted certification authority—and doesn't provide one-time passwords.
+USBtoken | This device uses public key infrastructure (PKI) technologyï¿½for example, a certificate signed by a trusted certification authorityï¿½and doesn't provide one-time passwords.
 authentication | Two-factor __________ should be the minimum requirement for valuable resources as it provides a higher level of security than using only one.
 role-based access control (RBAC) | What name is given to an access control method that bases access control approvals on the jobs the user is assigned?
 threshold | When you apply an account-lockout policy, set the __________ to a high enough number that authorized users aren't locked out due to mis-typed passwords.
@@ -1249,9 +1147,7 @@ Assigns permissions to particular roles in the organization and then users are a
 Dynamically assigns roles to subjects based on a set of rules defined by a custodian; Used for managing user access to one or more systems | Rule Based Access Control (RBAC)
 _____, or _____ _____ _____ _____ _____ _____, was developed in 1992 and quickly became the industry standard with widespread support across nearly all vendors of networking equipment. _____ was originally designed for remote dial-in access to a corporate network. | RADIUS, Remote Authentication Dial In User Service
 A wireless device, called the _____, sends a request to an AP requesting permission to join the WLAN. The AP prompts the user for the user ID and password. Name the step. | supplicant
-Step 1 | 
 The AP, serving as the _____ that will accept or reject the wireless device, creates a data packet from this information called the _____ _____. This packet includes information such as identification of the specific AP that is sending the authentication request and the user name and password. Name the step. | authenticator, authentication request
-Step 2 | 
 When an authentication request is received, the RADIUS server validates that the request is from an approved AP and then decrypts the data packet to access the user name and password information. Name the step. | Step 3
 If the user name and password are correct, the RADIUS server sends an authentication acknowledgment that includes information on the user's network system and service requirements. Name the step. | Step 4
 If accounting is also supported by the RADIUS server, an entry is started in the accounting database. Name the step. | Step 5
@@ -1391,14 +1287,13 @@ This is the address the connection is attempting to reach. These addresses can b
 The TCP/IP port number being used to send packets of data through. Options for setting the _____ _____ often include a specific port number, a range of numbers, or Any. | Source port
 This setting gives the port on the remote computer or device that the packets will use. | Destination port
 If VLAN members on one switch need to communicate with members connected to another switch, a special _____ protocol must be used, either a proprietary protocol or the vendor-neutral IEEE 802.1Q | tagging
-Each operation in a computing environment starts with a _____ _____ . This is an instruction that interrupts | 
 Physical layer | (Layer 1) This layer converts data into transmitted bits over the physical network medium.
 Data link layer | (Layer 2) This layer manages physical addressing (MAC addresses) and supports the network topology, such as Ethernet.
 Network layer | (Layer 3) This layer handles logical addressing (IP addresses)
 Transport layer | (Layer 4) This layer formats and handles data transportation. This transportation is independent of and transparent to the application.
 Session layer | (Layer 5)This layer manages the communication channel, known as a session, between the endpoints of the network communication. A single transport layer connection between two systems can support multiple, simultaneous sessions.
 Presentation layer | (Layer 6) This layer translates the data received from the host software into a format acceptable to the network. This layer also performs this task in reverse for data going from the network to the host software.
-Application layer | (Layer 7) This layer enables communications with the host software, including the operating system. The application layer is the interface between host software and the network protocol stack. The sub-protocols of this layer support specific applications or types of data. the program being executed and requests a service from the OS. HIDS can monitor _____ _____ based on the process, mode, and action being requested.|System call
+Application layer | (Layer 7) This layer enables communications with the host software, including the operating system. The application layer is the interface between host software and the network protocol stack. The sub-protocols of this layer support specific applications or types of data. the program being executed and requests a service from the OS. HIDS can monitor _____ _____ based on the process, mode, and action being requested. | System call
 packet-filtering firewall | A firewall that examines each packet it receives and compares the packet to a list of rules configured by the network administrator is the definition of ________.
 network access control (NAC) | A method to restrict access to a network based on identity or other rules is the definition of ________.
 firewall | A ___________ controls the flow of traffic by preventing unauthorized network traffic from entering or leaving a particular portion of the network.
@@ -1442,13 +1337,13 @@ True | Employers do use certifications to help assess prospects, but the best as
 Certified Authorization Professional | The best fits for (ISC)2's_____________ are personnel responsible for developing and implementing processes used to assess risk and for establishing security requirements.
 Systems Security Certified Practitioner | (ISC)2 offers the ________ credential, which is ideal for those who are working toward or already hold positions as senior network security engineers, senior security systems analysts, or senior security administrators. It covers the seven domains of best practices for information security.
 Certified Secure Software Lifecycle Professional | (ISC)2 offers the ________________ credential, which is one of the few credentials that address developing secure software. It evaluates professionals for the knowledge and skills necessary to develop and deploy secure applications.
-CISSP-ISSMP® | The ____________ concentration from (ISC)2 contains deeper managerial elements such as project management, risk management, setting up and delivering a security awareness program, and managing a business continuity planning program.
-CISSP-ISSEP® | The ____________ concentration from (ISC)2 is the road map for incorporating security into projects, applications, business processes, and all information systems.
+CISSP-ISSMPï¿½ | The ____________ concentration from (ISC)2 contains deeper managerial elements such as project management, risk management, setting up and delivering a security awareness program, and managing a business continuity planning program.
+CISSP-ISSEPï¿½ | The ____________ concentration from (ISC)2 is the road map for incorporating security into projects, applications, business processes, and all information systems.
 Architect | Which is Cisco's highest level of certification?
 True | The purpose of DoD Directive 8570.01 is to reduce the possibility that unqualified personnel can gain access to secure information.
 entry-level information security certification of choice for IT professionals | Comp TIA's Security+ certification provides ________.
 True | The Info tech Security Certified Program (SCP) certification programs apply mainly to network security topics and are most appropriate for professionals involved in securing network components within the IT infrastructure.
- Which of the following ensures that onlu authorized parties can view the information | Confidentiality
+Which of the following ensures that onlu authorized parties can view the information | Confidentiality
 1. What is residual risk ? | ?B
 2. Which of the following ensures that onlu authorized parties can view the information? | C
 3. Which of the following is NOT a U.S. compliance law or act? | PCI DSS
@@ -1508,11 +1403,11 @@ True | The Info tech Security Certified Program (SCP) certification programs app
 121. What is the baselines of a security policy? | Define basic configurations for specific types of computers or devices
 122. Which of the following is true of a qualitative risk analysis approach? | A
 122. Which of the following is true of a qualitative risk analysis approach? | Identifies major areas of risk
-You can use quantitative risk analysis for all risks on the risk register; however, the amount of effort required may be overkill for _____________ risks |  both A and B
+You can use quantitative risk analysis for all risks on the risk register; however, the amount of effort required may be overkill for _____________ risks | both A and B
 What name is given to a method of developing software that is based on small project iterations, or sprints, instead of long project schedules | agile development
 During the late 1980s into the early 1990s, service providers converted the core switches at their central offices from ______________ to digital central office (CO) switches | analog
 Prior to VoIP, attackers would use wardialers to | all - identify analog modem..., gain access to PBX phone ..., identify the operating system running on a computer
 Audits are necessary because of | potential liability, negligence, and mandatory regulatory compliance
-gives you the opportunity to review your risk-management program and to confirm that the program has correctly identified and reduced (or otherwise addressed) the risks to your organization |  An audit
+gives you the opportunity to review your risk-management program and to confirm that the program has correctly identified and reduced (or otherwise addressed) the risks to your organization | An audit
 will help identify not only which functions are critical, but also how quickly essential business functions must return to full operation following a major interruption | business impact analysis (BIA)
 Malware developers often use _____________ to write boot record infectors | assembly language
