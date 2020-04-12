@@ -1,0 +1,517 @@
+Which of the following is NOT a potential security issue with respect to the Linux GUI? | Linux GUI applications can be assessed over an SSH connection.
+What are the advantages of virtualization in a Linux infrastructure? | Cost savings by purchasing less hardware - Security advantages with more bastion hosts
+Kernels released for different architectures vary because different platforms have different | CPU's
+Which of the following Samba directives specify permissions of files created on a shared network directory  | creat_mask
+Which of the following commands is associated with the Linux unified key setup disk encryption specification | cryptsetup
+You type the following command: $ runlevel 5 3 What can you tell about your runlevel status? | The current runlevel is 3. The previous runlevel is 5.
+which of the following is an advantage of compiling a customized kernel rather than using a vendor-supplied kernel | A custom kernel is easier to update and maintai
+Which of the following kernel types is most likely to work with the smallest amount of RAM |  Virtual machine 
+Which of the following is a positive effect of virtualization on security? | Additional virtual machines make it possible to configure more bastion hosts
+Which of the following statements best describes the structure of the Linux kernel? | A monolithic core with modular components
+Which of the following hardware components is NOT used to boot a Linux system? | An Ethernet port
+From the following options, name the component that is NOT part of a Linux User Domain.| Computer users
+The read, write and execute permissions of a file would be an example of a?| Discretionary access control
+LUKS is a specification for _____ ?| disk encryption
+Red Hat and Ubuntu are examples of | distributions
+What part of a network is best for bastion servers | A DMZ
+Which of the following security certifications is associated with open source software? | OSPA
+Under normal circumstances, what happens when a system can't be booted with a newly installed Linux kernel? | The old kernel is still available through the boot loader
+Which of the following roots of trust is associated with the BIOS/UEFI? | The Root Trust for Networking
+Which service script in the /etc/init.d/ directory is not related to SELinux | dund
+Which of the following is an example of discretionary access controls? | User-defined read, write, and execute permissions
+You configured quotas on a Linux system. Which command do you use to edit the quota of a specific user  | edquota
+Which of the following commands starts a console-based Web browser  | elinks
+How do you exit Vi's insert mode in order to type command-mode commands? | Esc key
+which directory does the FHS recommend for locating the configuration files? | /etc/
+Which file is used to configure the various mounting options of a file system upon boot? | /etc/fstab
+Which of the following file is used to configure ACLs for a filesystem | /etc/fstab
+Script in which of the following directories can be used to deactive a currently running services | /etc/init.d/
+Which of the following directories contains scripts that control servies | /etc/init.d/
+From which of the following files do iptables read ports of well-known services? |  /etc/services
+Which of the following files is not normally readable by all users | /etc/shadow
+Which of the following files contains information about time limits on a password | /etc/shadow
+Which of the following files Is not a part of the shadow password suite? | /etc/sudoers
+Tuning the kernel parameters, such as the networking functionality can be accomplished by editing the ____ file? | /etc/sysctl.conf
+The file to configure the various logging subsystem facilities for sysklogd package is | /etc/syslog.conf
+Enter the full path to the main configuration file associated with the extended internet super server: | /etc/xinetd.conf
+Which of the following client can connect to a Microsoft Exchange server |  Evolution
+Which of the following PolicyKit concepts is associated with configuring access rules to special desktop tools by user |  Explicit authorizations
+Which of the following filesystem formats is best suited for a smailler filesystem | ext2
+The ___ command searches for all files owned by the group named audio. Assume you're logged into the root administrative account | find / -group audio
+the iptables command is used to configure |  The Firewall
+What is the first most important step in responding to a compromised system? | Follow what is outlined in the incident response plan.
+What is a common use for Linux in the LAN-to-WAN Domain | Gateway
+The open source license associated with the GNU project is __________. | General Public License (GPL)
+The command that lists the current ACL rules on the local file named test1 is ______. Assume your user account is the owner of file test1 | getfacl test1
+A user only needs access to execute networking-related commands. What type of access should be granted using the principle of least privilege? | given sudo access to all of root's commands/to Networking
+Which of the following laws ensures that all U.S-based financial institutions protect personal financial information of their clients? | GLBA
+Which of the following directories contain GPG private and public key | .gnupg
+Which of the following is a difference between security vulnerabilities associated with open source software and proprietary software?	| Typically, open source software vulnerabilities are immediately made public
+What will be the impact of changing the GRUB option timeout=5 to timeout=0 on the Linux OS? |The boot loader will immediately boot the operating system into the default kernel.
+Which of the following user account information can be found in the /etc/passwd file?| The user's basic information, such as the default login shell
+Configuring a user account policy with minimum password length, maximum days for using a password, and various user logins can be performed by editing the _____ file?	| login.defs
+which of the following control flags used in PAM approves user access assuming that there are no previous failures?| sufficient
+If a share on a MS windows host needs to mount on the Linux filesystem, which network service would typically be used? |SAMBA
+Which mounting option enables user quotas on a filesystem? |usrquota
+Running a network service in a chroot environment is considered a layer of security because: |The service runs in isolation in its own virtual-like environment
+In addition to username/passwords, SSH can authenticate a user based upon |A passphrase using a public and private key
+A "vanilla" kernel has _____? |	a stock built from the mainline kernel
+which of the following is the correct method to apply a new kernel built on a Linux system |Install it as a new kernel leaving the original kernel in place
+Which is the native package manager for Ubuntu and other Debian-based distributions? |APT
+Why is it important to install anti-virus software for Samba file servers in a MS windows environment?|Because shared files on the Samba server can contain viruses that can infect Windows clients.
+AIDE can be described as |	A host-based intrusion detection software. 
+which command helps to better understand the networking subsystem |	netstat
+The command that list currently loaded GPG key is ____ | Gpg --list-key
+Which command is used to install GRUB Legacy into the MBR of your first SATA hard drive? | grub-install /dev/sda
+The string root (hd1,5) appears in your /boot/grub/menu.lst file. What does this mean? | GRUB Legacy looks for files on the sixth partition of the second disk.
+The command that can be used to set up an encrypted password for a traditional GRUB configuration file is __________. | grub-md5-crypt
+A developer who just wants to create better software in the open source world is known as a __________. |  Hackers
+Which of the following directories is appropriate for quotas | /home/
+Which of the following directories are suitable for separate files systems (Select two) | /home/ and /var/
+AIDE can be described as | A host-based intrusion detection software.
+The Web site associated with the Linux Kernel Organization is __________. | http://kernel.org
+What line in /etc/inittab would indicate that your default runlevel is 5? | id:5:initdefault:
+How would you remove two lines of text from a file using Vi? | In command mode, position the cursor on the first line, and type 2dd.
+What is the first program that the Linux kernel runs once it's booted in a normal boot process? | init
+How might you identify an initial RAM disk file in GRUB 2? | initrd /boot/initrd-3.4.2
+which of the following is the correct method to apply a new kernel built on a Linux system | Install it as a new kernel leaving the original kernel in place
+What does runlevel 4 do? | Its purpose isn't standardized, so it can be used for anything you like. 
+What is included in a typical Linux distribution | Kernel, tools, libraries and application
+You want to boot a Linux system into single-user mode. What option might you add to a Linux kernel's options list at a boot loader to accomplish this task | I
+Which of the following is the best choice for network authentication | LDAP
+Enter the _____ directory for PAM modules | /lib/security/
+Which of the following is a valid reason to use a Live CD on a suspected compromised system? | The live CD can be used for forensic analysis.
+Members of which of the following groups are frequently set up as printer administratos | lpadmin & sys
+Which of the following options is a development tool that compiles source code | make
+Which of the following is one of the best descriptions for OSSTMM? | A  methodology used by open source security professionals to measure compliance
+Which command formats all Linux system, Microsoft VFAT..... | mkfs
+Which of the following directories contain the standard chroot jail location for Red Hat BIND server | ncsd
+Which service script in the /etc/init.d/ directory is not related to NFS | ncsd
+Which of the following tools would be most appropriate to periodically scan all Linux servers for vulnerabilities? | Nessus
+which command helps to better understand the networking subsystem | netstat
+Which of the following is a fake shell you can use for nonstandard users | nologin
+ClamAV can be described as: | An open source antivirus solution mainly used on Linux e-mail gateways.
+Which of the following directories typically includes files associated with third-party | /opt/
+In addition to username/passwords, SSH can authenticate a user based upon | A passphrase using a public and private key
+A system administrator types the following command: # shutdown -c What is the effect of this command? | A previously scheduled shutdown is cancelled.
+Which of the following statements is true with the user private group scheme | The primary UID for the user is the same as the primary GID for the user
+What is Canonical? |The private company behind Ubuntu
+In a suspected compromised system, which of the following files will have the current data stored in RAM? |  /proc/kcore
+In Vi's command mode, you type :q!. What is the effect? | The program terminates without saving your work
+Know the Linux command for listing all running processes. | ps aux or just ps
+An enterprise running RHEL that wishes to control its own repository locally for package updates may consider using | Red Hat Satellite Server
+Which of the following options for script in the /etc/init.d/ directory does not kick off users who are currently connected to a servic | reload
+Which of the following commands list quota useage by user | repquota
+Which entry in the standard /etc/sudoers file gives the root administrative user | root ALL=(ALL) ALL
+Which of the following command can help identify network ports used by NIS through the portmapper | rpcinfo -p
+Which of the following commands list currently installed packages on Linux  |  rpm -qa
+Which of the following commands is used to transfer data over an SSH connection in encrypted format?  | rsync -e ssh
+Using Linux as a desktop typically involves the added security risk of: |  Running GUI applications
+from a security perspective, what is the advantage of SAMBA over NFS when installed with the standard configuration? | Samba has username and passowrd authentication as part of its built-in functionality
+Running a network service in a chroot environment is considered a layer of security because: | The service runs in isolation in its own virtual-like environment
+Which runlevels are reserved by init for reboot,shutdown, and single-user mode purposes | 0,1,6
+The init process always gets a PID of|1
+If your system has 1 GB of RAM, how big should your swap partition be?|2 GB (2x system memory)
+LILO is a __________ bootloader|2 stage
+under OSSTMM, security audits are divided into how many channels | 3
+What is the best course of action if you want to take control of those packages that are updated on your distribution? | Create your own update repository
+Which of the following directives in a LILO configuration file specifies the time before the default operating system is booted? | delay
+which of the following is NOT an OSSTMM audit phase? | Licensing
+Which of the following is not a SELinux Mode | Allow
+All of the below (Optical media [CD/DVD with an ISO], Network installation, Installation from a live CD/DVD)|the following is an installation method for linux
+To access files on a USB pen drive, you type mount /dev/sdc1 /media/pen as root. Which types of filesystems will this command mount?|Ext2fs, FAT, HFS
+/etc/skel |Under the bash shell which is the most appropriate place to set environment variables that apply to all users?
+Which is the native package manager for Ubuntu and other Debian-based distributions? | APT
+Which of the following methods can be used to recover from an unbootable situation in Linux, minimizing any risk of lost data? (select 2) | recovery mode, live cd
+In a TrustedGRUB configuration file, which of the following directives refers to the first partition on the second hard drive? | root (hd1,2)
+Which of the following services should NOT be disabled on a bastion host users as an FTP server? Assume that the host is administered remotely, over an encrypted connection. | SSH
+Packages associated with SSH include a client for which of the following protocols? | FTP
+The efforts of the open source community|From the following options, select a security advantage of open source software.
+From the following commands, which one updates the GRUB 2.0 configuration file read by the boot loader? | grub-mkconfig
+Which of the following is a security risk associated with the LILO boot loader? | It supports password-free access to the administrative account
+Which of the following options can be subtituted for a partition device in the /etc/fstab configuration file? (select 2) | Label and UUID
+Which of following packages implements TPM support on Linux? (select 2)|tpm-tools, trousers
+____ are the on/off settings in SELinux that will allow or deny access for a service to interact with an object  | Booleans
+The grub configuration file is generally located in the ___ directory | /boot/ 
+Which of the following directories is most well suited as a read-only filesystem |  /boot/ 
+Which filesystem is good candidate for mounting in read-only mode | /boot/
+Which of the following is the GRUB 2 boot loader configuration file? | /boot/grub/grub.cfg
+Name the Linux service associated with virtual application support. | Wine
+To apply administrative privileges for one instance of the su command, which switch do you use | -c
+Which of the following concepts is NOT part of the CIA triad? | Authenticity
+The configuration files for BASH are|.bashrc/.profile
+Which of the following concepts is NOT one of the five OSSTMM process controls? | Authenticity
+Which of the following is NOT a standard open source option for SMTP e-mail services? | Dovecot
+Which of the following is an open source license? | GNU GPL
+Which of the following commands can be used to revise expiration information on a user password | chage
+Which of the following PolicyKit commands can be used to identify user logins by session? (select 2) | ck-history and ck-list-sessions
+From the following answers, what is NOT addressed by TPM chip? | KVM virtual machines
+From the following list, which is a system management tool for Linux? | Landscape
+Which of the following statements is NOT true about a live CD distribution? Assume your system can boot from appropriate locations. | It automatically installs that Linux distribution on your system.
+What is an entry-level security certification offered by ISC | CISSP
+which command changes file ownership in Linux | chown
+Which of the following command sets the SUID bit on the file named filename | chmod 4555 filename
+Which of the following commands prohibits access from all users except the user owner and member of the group that owns the file named filename | chmod 770 filename 
+Enter the command on Red Hat distributions that includes the defaults status of services with /etc/init.d/ scripts at each run level: | chkconfig --list
+If you try to change files remotely on a shared NFS directory as the root administrative user, what happens | The chang fails, because the root user on one system is the nobody user on another system
+Which of the following components make up the core of the Linux operating system? | The kernel 
+Which of the following OSSTMM channels is associated with wireless security? | SPECSEC
+The GRUB 2.0 menu is hidden during the boot process. Which of the following keys, when pressed at the appropriate time, reveals the menu? | Shift
+Which of the following kernel types is most likely to address the most RAM? | Server 
+Which of the following options is NOT used to block access form certain IP address? | SELinux 
+Your Lan is on the 192.168.0.0/24 network. Which of the following virtual machine network options give local virtual machines addresses on that network | Bridged 
+Which of the following authentication tools work locally? | PAM
+The root directory in Linux is | \
+Which of the following terms is associated with malicious users in the open source community? | Crackers
+Which of the following options in a log configuration file collects information on login attempts and failures? | auth
+Which of following packages implements TPM support on Linux? (select 2) | tpm-tools and trousers
+Which of the following statements best describes the role of mandatory access controls? | They protect other services after a security breach in an account.
+From the following options, select a security advantage of open source software | The efforts of the open source community
+Which of the following PAM modules is least related to login information? | session
+Which of the following special permissions is ascociated with a shared directory? That directory is not accessible to others who are not members of the group owner of that directory | SGID
+the linux open source license allows anyone to use, modify, and improve the ____ | source code
+The theory of configuring a bastion host is one in which the server has: | A specific function and minimal services installed to provide its designated services
+which method is preferable for securing access in the Remote Access Domain? | SSH
+A "vanilla" kernel has _____? | a stock built from the mainline kernel
+Which of the following commands only requires the password of a configured standard user | sudo
+which of the following control flags used in PAM approves user access assuming that there are no previous failures? | sufficient 
+A file with the ___ bit allows other users to run that command | SUID
+Which of the following commands may not be used instead of shutdown in certain circumstances (with appropriate options added to one or the other command) | takedown 
+You want to change to single-user mode on a running system. What command might you use to do this? | telinit 1 
+What is the purpose for which the following iptables is used: iptables -I INPUT -m state --state -m tcp -p tcp --dport 22 -j ACCEPT | to allow allincoming connectiosn to port 22 by inserting the rules at the top of the chain
+From Vi's command mode, you want to enter insert mode. How might you do this? |  Type R. Type i. Type a.
+Which of the following is a difference between security vulnerabilities associated with open source software and proprietary software ? | Typically, open source software vulnerabilities are immediately made public
+which of the following commands can automatically detect dependencies during software install? | YUM
+Which of the following is a protocol that supports remote login access to a GUI system | XDMCP
+which of the following commands is used to edit the /etc/sudoers file? | visudo
+Enter the ____ command to open and edit the /etc/sudoers file in a command-line console | visudo
+What is an advantage of Vi over Emacs? | Vi is smaller and so can fit on compact emergency systems and embedded devices.
+Which mounting option will enable user quotas on a filesystem | usrquota
+The WINE application is an example of a process that runs in? | User Space
+what user account information can be found in the /etc/passwd file | The user's basic information, such as the default login shell.
+You type a command into bash and pass a long filename to it, but after you enter the command, you receive a File not found error message because of a typo in the filename. How might you proceed?  | Retype the command, and be sure you type the filename correctly, letter by letter; Retype the command, but press the Tab key after typing a few letters of the long filename to ensure that the filename is entered correctly; or Press the Up arrow key, and use bash's editing features to correct the typo.
+Which of the following commands is implemented as an internal command in bash? Cat, echo, tee, or sed?  | Echo
+You type echo $PROC, and the computer replies Go away. What does this mean?  | You, one of your configuration files, or a program you've run has set the $PROC environment variable to Go away.
+In an xterm window launched from your window manager, you type exec gedit. What will happen when you exit from the gedit program?  | The xterm window will close.
+What is the surest way to run a program (say, myprog) that's located in the current working directory?  | Type ./ followed by the program name: ./myprog.
+How does man display information by default on most Linux systems?  | Using the less pager
+You want to store the standard output of the ifconfig command in a text file (file.txt) for future reference, and you want to wipe out any existing data in the file. How can you do so?  | ifconfig > file.txt
+What is the effect of the following command?<br>$ myprog &> input.txt  | Standard output and standard error from myprog are written to input.txt.
+How many commands can you pipe together at once?  | An arbitrary number
+A text-mode program, verbose, prints a lot of spurious "error" messages to standard error. How might you get rid of those messages while still interacting with the program?  | verbose 2> /dev/null
+How do the > and >> redirection operators differ?  | The > operator creates a new file or overwrites an existing one; the >> operator creates a new file or appends to an existing one.
+Which of the following commands will number the lines in aleph.txt?| nl aleph.txt ,c. cat -b aleph.txt ,cat -n aleph.txt
+You've received an ASCII text file (longlines.txt) that uses no carriage returns within paragraphs but two carriage returns between paragraphs. The result is that your preferred text editor displays each paragraph as a very long line. How can you reformat this file so that you can more easily edit it (or a copy)?  | fmt longlines.txt > longlines2.txt
+Which of the following commands will print lines from the file world.txt that contain matches to changes and changed?  | grep change[ds] world.txt 
+Which of the following is not an advantage of a source package over a binary package?< | Source packages can be installed more quickly than binary packages can
+Which is true of using both RPM and Debian package management systems on one computer?  | It's generally inadvisable because the two systems don't share installed-file database information.
+Which of the following statements is true about binary RPM packages that are built for a particular distribution?  | They can often be used on another RPM-based distribution for the same CPU architecture, but this isn't guaranteed.
+Which of the following commands will extract the contents of the myfonts.rpm file into the current directory? | rpm2cpio myfonts.rpm/cpio -i -make-directories
+To use dpkg to remove a package called theprogram, including its configuration files, which of the following commands would you issue? | dpkg -P theprogram
+Which of the following describes a difference between apt-get and dpkg? | apt-get can automatically retrieve and update programs from Internet sites; dpkg can't.
+What command would you type to obtain a list of all installed packages on a Debian system? | apt-cache pkgnames
+As root, you type apt-get update on a Debian system. What should be the effect of this command?  | The APT utilities retrieve information about the latest packages available so that you may install them with subsequent apt-get commands.
+How should you configure a system that uses Yum to access an additional Yum software repository?  | Download a package from the repository site and install it with RPM, or place a configuration file from the repository site in the /etc/yum.repos.d directory.
+What is the preferred method of adding a directory to the library path for all users?  | Add the directory to the /etc/ld.so.conf file, and then type ldconfig.
+what programs might you use to learn what your system's load average is? (Select all that apply.) | uptime and top
+Which of the following commands creates a display of processes, showing the parent/child relationships through links between their names? | ps -forest 
+You use top to examine the CPU time being consumed by various processes on your system. You discover that one process, dfcomp, is consuming more than 90 percent of your system's CPU time. What can you conclude?  | Very little; dfcomp could be legitimately consuming that much CPU time or it could be an unauthorized or malfunctioning program.
+You type jobs at a bash command prompt and receive a new command prompt with no intervening output. What can you conclude?  | No background processes are running that were launched from the shell you're using.
+Which of the following are restrictions on ordinary users' abilities to run renice? (Select all that apply.) | Users may not modify the priorities of other users' processes and own processes.
+What tool would you use to disable a motherboard's sound hardware if you don't want to use it?  | The BIOS
+Consider the following entry in /etc/passwd:ksanders:x:1001:100:Kimberly Sanders:/home/ksanders:/bin/bash. What is the primary group for this user|100
+You've just installed Linux on a new computer with a single SATA hard disk. What device identifier will refer to the disk?  | /dev/sda or /dev/hda
+Which of the following directories is most likely to be placed on its own hard disk partition?  | /home
+You discover that an MBR hard disk has partitions with type codes of 0×0f, 0×82, and 0×83. Assuming these type codes are accurate, what can you conclude about the disk?  | The disk holds a partial or complete Linux system.
+What does the following command accomplish?<br># mkfs -t ext2 /dev/sda4  | It creates a new ext2 filesystem on /dev/sda4, overwriting any existing filesystem and data.
+Which of the following best summarizes the differences between DOS's FDISK and Linux's fdisk? | The two are completely independent programs that accomplish similar goals, although Linux's fdisk is more flexible
+What mount point should you associate with swap partitions?  | None. Swap partitions aren't mounted in the way filesystems are, so they have no associated mount points.
+Which of the following options is used with fsck to force it to use a particular filesystem type?  | -t
+What is an advantage of a journaling filesystem over a conventional (non-journaling) filesystem?  | Journaling filesystems require shorter disk checks after a power failure or system crash.
+Which of the following /etc/fstab entries will mount /dev/sdb2 as the /home directory at boot time?<br>| B. /dev/sdb2 /home reiserfs defaults 0 0
+What filesystem options might you specify in /etc/fstab to make a removable disk (USB pen drive, Zip disk, floppy disk, and so on) user-mountable?| user , users, owner 
+What is the minimum safe procedure for removing a USB flash drive, mounted from /dev/sdb1 at /media/usb, from a Linux computer?  | Type umount /media/usb, wait for the command to return and disk activity lights to stop, and then unplug the drive.
+You want to use /media/cdrom to access your CD-ROM drive, so you insert a CD-ROM into the drive and type mount /media/cdrom /dev/cdrom as root. You receive the error message /media/cdrom is not a block device. Why did this happen?  | The command reverses the order of the CD-ROM device file and the mount point; it should be mount /dev/cdrom /media/cdrom.
+What is wrong with the following /etc/fstab file entry? (Select all that apply.)<br>/dev/hda8 nfs default 0 0| the entry is missing a mount point specification.  and /dev/hda8 is a disk partition, but nfs indicates a network filesystem. 
+You want to discover the sizes of several dot files in a directory. Which of the following commands might you use to do this?  | ls -la
+You want to move a file from your hard disk to a USB pen drive. Which of the following is true?  | The mv command will delete the file on the hard disk after copying it to the pen drive
+You've received a tarball called data79.tar from a colleague, but you want to check the names of the files it contains before extracting them. Which of the following commands would you use to do this? | tar tvf data79.tar 
+You want to create a link from your home directory on your hard disk to a directory on a CD-ROM drive. Which of the following types of links might you use? | Only a symbolic link
+What command would you type (as root) to change the ownership of somefile.txt from ralph to tony?  | chown tony somefile.txt
+Typing ls -ld wonderjaye reveals a symbolic file mode of drwxr-xr-x. Which of the following are true? (Select all that apply.) | C. wonderjaye is a directory , wonderjaye may be read by all users of the system
+When should programs be configured SUID root?  | Only when they require root privileges to do their job.
+Which of the following commands would you type to enable world read across access to the file myfile.txt? (Assume that you're the owner of myfile.txt.)  | D. chmod o+r myfile.txt
+Which of the following umask values will result in files with rw-r----- permissions?|640
+You see the usrquota and grpquota options in the /etc/fstab entry for a filesystem. What is the consequence of these entries?  | Quota support will be available if it's compiled into your kernel, but you must activate it with the quotaon command.
+You've installed a commercial spreadsheet program called WonderCalc on a workstation. In which of the following directories are you most likely to find the program executable file?<br>/usr/sbin <br>/etc/X11 <br>/bin <br>/opt/wcalc/bin  | The /opt directory tree exists to hold programs that aren't a standard part of a Linux distribution, such as commercial programs. These programs should install in their own directories under /opt; these directories usually have bin subdirectories of their own, although this isn't required. The /usr/sbin directory holds programs that are normally run only by the system administrator, and /bin holds critical basic binary files. The /etc/X11 directory holds X-related configuration files. None of these directories is an appropriate place for a spreadsheet program.
+Which of the following file-location commands is likely to take the most time to find a file that may be located anywhere on the computer (assuming the operation succeeds)? | the find command.e where is command
+What can the type command do that whereis can't do?  | Identify a command as an alias, internal command, or external command
+You want to track down all the files in /home that are owned by karen. Which of the following commands will do the job? | find /home -user karen
+What can you conclude from the following interaction?<br>$ which man<br>/usr/bin/man  | The first instance of the man program, in path search order, is in /usr/bin.
+Where might the BIOS find a boot loader?  | MBR
+You want to boot a Linux system into single-user mode. What might you type at a LILO boot: prompt to accomplish this task?  | linux 1
+Which of the following is the LILO boot loader configuration file? | /etc/lilo.conf
+What should be the first line of a LILO configuration file stanza intended to boot a Linux kernel stored as /boot/bzImage-2.6.26?  | image=/boot/bzImage-2.6.26
+Which command is used to install GRUB into the MBR of your first ATA hard drive?  | grub-install /dev/hda
+Which runlevels are reserved by init for reboot, shutdown, and single-user mode purposes?  |  0 ,1, 6
+You type the following command:<br>$ runlevel<br>5 3<br>What can you tell about your runlevel status? (Select all that apply.) | The current runlevel is 3 ,5
+A system administrator types the following command:<br># shutdown -c<br>What is the effect of this command? | A previously scheduled shutdown is cancelled 
+A. In Vi's command mode, you type :q!. What is the effect?  | The program terminates without saving your work.
+What is a difference between security vulnerabilities associated with open source software and proprietary software? |Typically, open source software vulnerabilities are immediately made public
+Which of the following laws ensure that all U.S.-based financial institutions protect personal financial information of their clients? | GLBA
+Which file holds configuration settings for the extended internet super server? | /etc/xinetd.conf
+What is the purpose of the following iptables command? iptables -I INPUT -m state -- state -m tcp -p tcp --dport 22 -j ACCEPT | To allow all incoming connections to port 22 by inserting the rule at the top of the chain
+Which of the following statements is true about using a mandatory access control system on Linux? |Properly setting up a mandatory access control system requires discipline and configuration knowledge
+The well-known TCP/IP port numbers range from 0 to | 1023
+From which of the following files does the iptables command read ports of well-known services? | /etc/services
+LAMP stands for Linux/Apache/MySQL/P, where the “P” can stand for | All perl, python,php
+Which Apache directive specifies an alternative port for Web pages? | listen
+Which of the following is an insecure method of remote access? | SSH
+ In addition to usernames/passwords, SSH can authenticate a user based upon | A passphrase using a public and a private key
+Which Linux filesystem format does not include any type of journaling? | ext2
+Which filesystem is a good candidate for mounting in read-only mode? | /boot/
+An executable file with the _________ bit allows other users to run that command, with the permissions assigned to that user owner. | SUID
+Which Linux directive hides or obscures boot messages? | hide
+The default mandatory access control system used for Red Hat distributions is |  AppArmor/selinux
+A discretionary access control for a file is a control mechanism that can be set by |the root user/ the user owner of the file
+Which file lists standard ports for many services? | etc/service
+What is the purpose of the following iptables command? iptables -I INPUT -m state -- state -m tcp -p tcp --dport 22 -j ACCEPT | To allow all incoming connections to port 22 by inserting the rule at the top of the chain
+Which of the following can you configure as a separate filesystem? | all
+Which file permission is not an example of discretionary access control? | boolean
+The open source package trousers is associated most closely with  | Trusted Platform Module (TPM)
+Which directive do you add or enable in the Samba configuration file to prohibit access to the [homes] share by anyone other than the owner? | valid users = %S
+which of the following laws ensure that all U.S.-based financial institutions protect personal financial information of their clients|GLBA
+which linux directive hides or obscures boot messages|hide
+which file lists standard ports for many services|/etc/services
+an executable file with the ______bit allows other users to run that command, with the permissions assigned to that user owner|SUID
+which of the following can you configure as a separate filesystem|all /boot/,/var/rtp/,/home/user/
+what is the purpose of the following iptables command? iptables -I input -m state -- state -m tcp -p tcp --dport 22 -j accept|to allow all incoming connections to port 22 by inserting the rule at the top of the chain
+You type a command into bash and pass a long filename to it, but after you enter the command, you receive a File not found error message because of a typo in the filename. How might you proceed?|Retype the command, and be sure you type the filename correctly, letter by letter; Retype the command, but press the Tab key after typing a few letters of the long filename to ensure that the filename is entered correctly; or Press the Up arrow key, and use bash's editing features to correct the typo.
+Which of the following commands is implemented as an internal command in bash?| Cat, echo, tee, or sed? Echo
+What does the pwd command accomplish? |It prints the name of the working directory.
+What is the surest way to run a program (say, myprog) that's located in the current working directory?| Type ./ followed by the program name: ./myprog.
+How does man display information by default on most Linux systems?| Using the less pager
+You want to run an interactive script, gabby, which produces a lot of output in response to the user's inputs. To facilitate future study of this script, you want to copy its output to a file. How might you do this?| gabby tee gabby-out.txt
+A text-mode program, verbose, prints a lot of spurious "error" messages to standard error. How might you get rid of those messages while still interacting with the program?| verbose 2> /dev/null
+What program would you use to display the end of a configuration file? |tail
+What is the effect of the following command?<br>$ pr report.txt lpr |The file report.txt is formatted for printing and sent to the lpr program.
+Which of the following commands will change all occurrences of dog in the file animals.txt to mutt in the screen display?|sed 's/dog/mutt/g' animals.txt 
+You've received an ASCII text file (longlines.txt) that uses no carriage returns within paragraphs but two carriage returns between paragraphs. The result is that your preferred text editor displays each paragraph as a very long line. How can you reformat this file so that you can more easily edit it| fmt longlines.txt > longlines2.txt
+Which of the following commands will print lines from the file world.txt that contain matches to changes and changed?| grep change[ds] world.txt
+Which of the following regular expressions will match the strings dig and dug but not dog?|d[iu]g
+Which of the following is not an advantage of a source package over a binary package?|Source packages can be installed more quickly than binary packages can
+Which is true of using both RPM and Debian package management systems on one computer?| It's generally inadvisable because the two systems don't share installed-file database information.
+Which of the following statements is true about binary RPM packages that are built for a particular distribution?| They can often be used on another RPM-based distribution for the same CPU architecture, but this isn't guaranteed.
+An administrator types the following command on an RPM-based Linux distribution:<br># rpm -ivh megaprog.rpm<br> What is the effect of this command? |The megaprog.rpm package, if it exists, is valid, and isn't already installed, is installed on the system.
+To use dpkg to remove a package called theprogram, including its configuration files, which of the following commands would you issue?| dpkg -P theprogram
+from a shell prompt you type sudo apt-get update on a debian system. what is the expected effect of this command|The APT utilities retrieve information about the latest packages available so that you may install them with subsequent apt-get commands.
+Which of the following commands would you type to update the unzip program on a Fedora system to the latest version? |yum update unzip, yum upgrade unzip 
+What is the preferred method of adding a directory to the library path for all users?| Add the directory to the /etc/ld.so.conf file, and then type ldconfig.
+You prefer the look of GTK+ widgets to Qt widgets, so you want to substitute the GTK+ libraries for the Qt libraries on your system. How would you do this? |You can't easily do this; libraries can't be arbitrarily exchanged for one another. You would need to rewrite all the Qt-using programs to use GTK+.
+A user types kill -9 11287 at a bash prompt. What is the probable intent, assuming the user typed the correct command? |To terminate a misbehaving or hung program with process ID 11287
+Which of the following commands creates a display of processes, showing the parent/child relationships through links between their names?|ps -forest
+You use top to examine the CPU time being consumed by various processes on your system. You discover that one process, dfcomp, is consuming more than 90 percent of your system's CPU time. What can you conclude?| Very little; dfcomp could be legitimately consuming that much CPU time or it could be an unauthorized or malfunctioning program.
+You type jobs at a bash command prompt and receive a new command prompt with no intervening output. What can you conclude? |No background processes are running that were launched from the shell you're using.
+Which two of the following commands are equivalent to one another| nice -10 crunch, nice crunch
+What are common IRQs for serial ports?|3,4
+What is the purpose of udev? |To manage the /dev directory tree
+You've just installed Linux on a new computer with a single SATA hard disk. What device identifier will refer to the disk? |/dev/sda or /dev/hda
+Which files contain essential system information such as IRQs, DMA channels, and I/O addresses? |/proc/ioports,/proc/dma,/proc/interrupts 
+Typing fdisk -l /dev/hda on a Linux computer produces a listing of four partitions: /dev/hda1, /dev/hda2, /dev/hda5, and /dev/hda6. Which of the following is true?|Either /dev/hda1 or /dev/hda2 is an extended partition.
+A new Linux administrator plans to create a system with separate /home, /usr/local, and /etc partitions. Which of the following best describes this configuration?| The system won't boot because /etc contains configuration files necessary to mount non-root partitions.
+Which of the following directories is most likely to be placed on its own hard disk partition?|/home
+You discover that an MBR hard disk has partitions with type codes of 0×0f, 0×82, and 0×83. Assuming these type codes are accurate, what can you conclude about the disk? |The disk holds a partial or complete Linux system.
+You run Linux's fdisk and modify your partition layout. Before exiting the program, you realize that you've been working on the wrong disk. What can you do to correct this problem? |Type q to exit fdisk without saving changes to disk.
+What does the following command accomplish?|# mkfs -t ext2 /dev/sda4 It creates a new ext2 filesystem on /dev/sda4, overwriting any existing filesystem and data.
+Which of the following options is used with fsck to force it to use a particular filesystem type?|-t 
+Which of the following pieces of information can df not report?|How long the filesystem has been mounted
+Which of the following /etc/fstab entries will mount /dev/sdb2 as the /home directory at boot time?|/dev/sdb2 /home reiserfs defaults 0 0 
+What is the minimum safe procedure for removing a USB flash drive, mounted from /dev/sdb1 at /media/usb, from a Linux computer? |Type umount /media/usb, wait for the command to return and disk activity lights to stop, and then unplug the drive.
+You want to use /media/cdrom to access your CD-ROM drive, so you insert a CD-ROM into the drive and type mount /media/cdrom /dev/cdrom as root. You receive the error message /media/cdrom is not a block device. Why did this happen?| The command reverses the order of the CD-ROM device file and the mount point; it should be mount /dev/cdrom /media/cdrom.
+What is wrong with the following /etc/fstab file entry? <br>/dev/hda8 nfs default 0 0|The entry is missing a mount point specification, /dev/hda8 is a disk partition, but nfs indicates a network filesystem
+You want to move a file from your hard disk to a USB pen drive. Which of the following is true?| The mv command will delete the file on the hard disk after copying it to the pen drive.
+You type mkdir one/two/three and receive an error message that reads, in part, No such file or directory. What can you do to overcome this problem? | Add the --parents parameter to the mkdir command. Issue three separate mkdir commands: mkdir one, then mkdir one/two, and then mkdir one/two/three.
+Which of the following commands are commonly used to create archive files?|tar, cpio
+You've received a tarball called data79.tar from a colleague, but you want to check the names of the files it contains before extracting them. Which of the following commands would you use to do this?|tar tvf data79.tar
+What command would you type (as root) to change the ownership of somefile.txt from ralph to tony? |chown tony somefile.txt
+Typing ls -ld wonderjaye reveals a symbolic file mode of drwxr-xr-x. Which of the following are true? |wonderjaye is a directory, wonderjaye may be read by all users of the system
+When should programs be configured SUID root?| Only when they require root privileges to do their job.
+You see the usrquota and grpquota options in the /etc/fstab entry for a filesystem. What is the consequence of these entries?| Quota support will be available if it's compiled into your kernel, but you must activate it with the quotaon command.
+Which of the following commands can be used to summarize the quota information about all filesystems?|repquota -a
+You've installed a commercial spreadsheet program called WonderCalc on a workstation. In which of the following directories are you most likely to find the program executable file? /usr/sbin /etc/X11 /bin /opt/wcalc/bin| The /opt directory tree exists to hold programs that aren't a standard part of a Linux distribution, such as commercial programs. These programs should install in their own directories under /opt; these directories usually have bin subdirectories of their own, although this isn't required. The /usr/sbin directory holds programs that are normally run only by the system administrator, and /bin holds critical basic binary files. The /etc/X11 directory holds X-related configuration files. None of these directories is an appropriate place for a spreadsheet program.
+What can the type command do that whereis can't do? Identify a command as an alias, internal command, or external command
+What can you conclude from the following interaction? $ which man /usr/bin/man| The first instance of the man program, in path search order, is in /usr/bin.
+After booting, one of your hard disks doesn't respond. What might you do to find out what's gone wrong?| Type dmesg less, and peruse the output for disk-related messages.
+Which of the following is the LILO boot loader configuration file?| /etc/lilo.conf
+Run level _____________ is the normal run level|3
+What should be the first line of a LILO configuration file stanza intended to boot a Linux kernel stored as /boot/bzImage-2.6.26?| image=/boot/bzImage-2.6.26
+Which command is used to install GRUB into the MBR of your first ATA hard drive? |grub-install /dev/hda
+You type the following command:<br>$ runlevel<br>5 3<br>What can you tell about your runlevel status?|The current runlevel is 3,The previous runlevel is 5
+A system administrator types the following command:<br># shutdown -c<br>What is the effect of this command?|A previously scheduled shutdown is cancelled
+How would you remove two lines of text from a file using Vi? |In Vi, dd is the command-mode command that deletes lines. Preceding this command by a number deletes that number of lines. Although yy works similarly, it copies (yanks) text rather than deleting it. Option C works in many more modern text editors, but not in Vi. Option D works in Emacs and similar text editors, but not in Vi.
+In Vi's command mode, you type :q!. What is the effect?| The program terminates without saving your work.
+What mount point should you associate with swap partitions?|None
+To access files on a USB pen drive, you type mount /dev/sdc1 /media/pen as root. Which types of filesystems will this command mount, provided the filesystem support exists in the kernel|Ext2fs,FAT,HFS
+Which of the following /etc/fstab entries will mount /dev/sdb2 as the /home directory at boot time?|/dev/sdb2 /home resierfs defaults 0 0
+What filesystem options might you specify in /etc/fstab to make a removable disl (USB pen drive, Zip disk, floppy disk, and so on) user-mountable?|user, users, owner
+Your /etc/fstab file contains the following entry: /dev/sdc5 / ext4 defaults 1 1 Unfortunately, the order in which your three hard disks is detected vaires randomly from one boot to another which makes this etry problematic. how might you change the entry to fix this problem?|Replace /dev/sdc5 with a UUID specification, such as UUID=ab4cdbdd-b9b3-404a-9a54-c1691f1f1483, obtaining the UUID value using blkid
+You've just repartitioned a non-boot disk, added a swap partition to it (/dev/sdb7), created swap space on the partition. How can you activate the new swap partition. How can you activate the new swap partition?|swapon /dev/sdb7, swapon -a
+What is the purpose of the /etc/mtab file?|It describes the filesystems that are currently mounted, using syntax similar to that of /etc/fstab.
+A network file server has become unavailable while your Linux computer was accessing it at /mnt/remote. Now you want to umount that share, but because the server has disappeared, umount complains. Which of the follow commands is most likley to successfully unmount this unresponsive mount?|umount -f /mnt/remote
+What does the following command accomplish? # mkfs.ext2 /dev/sda4| it creates a new ext2 filesystem on /dev/sda4, overwriting any existing filesystem and data.
+Which of the following options in used with fsck to force it to use a particular filesystem type?|-t
+What is an advantage of a journaling filesystem over a conventional (non-journaling) filesystem?|Journaling filesystems require shorter disk checks after a power failure of system crash.
+Which of the following features can you adjust with tune2fs?|The presence of a journal, The filesystem's UUID
+You have accidentally deleted a file on an ext3fs partition. To recover it, you first enter debugfs, specifying the partition's device node. How can you recover the file?|Type undelete inode, where inode is the files' inode number.
+An ext4 filesystem on /dev/sda3 is being checked every time you reboot your computer. You suspect it may have an incorrect value set that's causing the system to check it after every mount operation. How can you test this hypothesis?|Type dumpe2fs -h /dev/sda3 and examine the maximum mount count and maximum check interval values.
+What option to mkisofs would you use if you want a computer running Microsoft Windows 7 to be able to read long filenames on a CD-R or DVD created with Linux? |-J, -udf
+You've downloaded the latest version of your Linux distribution as a 4 GB DVD image file (distrib.iso). Which of the following commands will burn this file to a blank DVD, assuming your DVD drive can be accessed as /dev/dvdrw?| growisofs -Z /dev/dvdrw=distrib.iso
+You want to write files to a DVD+RW disc over a period of several days, retaining the ability to read the disc on another computer at a moment's notice. How can you accomplish this task?|Use mkudffs to create a UDF filesystem on the disc, mount it as if it were a hard disk, and write files to it.
+The /etc/auto.master file on ganymede.example file on ganymede.example.com contains the following line: /mnt/net /etc/auto.servers The /etc/auto.servers file includes the following line: templates europa.example.com: /data/templates What file should a user on ganymede.example.com access to read the /data/templates/iceflow.txt file on europa.example.com?|/mnt/net/templates/iceflow.txt
+What is the effect of the following udev rule, when placed in the /etc/udev/rules.d/99-my.rules files? KERNEL=="video*", DRIVER=="saa7134", SYMLINK+="video-A180" |It creates a symbolic link called /dev/video-A180 that points to the primary device file for a video device that has a driver called saa7134.
+You're using a third-party Linux driver that creates device files called /dev/pd-c0-aout, /dev/pdc0-din, and several more of this form. You want to give users in the exper group full read/write access to these device while keeping other users from accessing them. What udeve rule can accomplish this goal?|KERNEL=="pc-c?-*", GROUP="exper", MODE="0660"
+Which of the following represents a type of mandatory access control | The FTP service is allowed to interact with directories other than users' home directories
+Which FHS directory  can be mounted separately from the root directory ? | /home/
+The read, write, and execute permissions of a file are an example of a | discretionary access control
+The /usr/directory  contains programs that are generally accessible to all users. This directory  can be secured by mounting it | as read-only
+Who developed the first Linux kernel | Linus Torvalds
+As specified in the FHS, log files are generally found in the ____ directory  | /var/
+The WINE application is an example of process that runs in | user space 
+What is the primary mission of the Electronic Frontier Foundation (EFF)? | Protection of consumer digital rights
+What is a TPM chip used for? | All of the above 
+Which directory renders many application unusable, including logging into the GUI, if the space allocated to the /tmp/filesystem is full | /tmp/
+What would be the result of changing the GRUB option timeout=5 to timeout=0 on the Linux operating system | The boot loader will immediately boot the operating system into the default kernel
+Which of the following is not a common server form factor | FireWire 
+What is Pre-boot execution environment (PXE) associated with | Linux installation over a network 
+Assume that you have just logged on as aregular user. Which of the following commands allows you to edit the file with user passwords associated with the Shadow Password Suite? | B. sudo -c "vi/etc/shadow"
+To add a comment to the new user's profile, the _________ option could be used | -c
+commercial distributions | RHEL and SLE are examples of
+You need to change the permissions on a file called spock.odt such that the owner can read and write to the file, users who are members of the group can read and write to the file and users who are not the owner and not part of the owning group can only read the file. Which command will do this? | chmod 664
+core | The actual Stage 2 image is the __________ of the GRUB
+The core of the operating system: the kernel. |What is Linux exactly?
+Cost savings by purchasing less hardware Security advantages with more bastion hosts |What are the advantages of virtualization in a Linux infrastructure?
+dhcpcd | Which of the following is not a Linux DHCP client?
+a bootloader is | the first program that runs when a computer starts
+Free distributions backed by their commercial counterparts | Red Hat and Ubuntu are examples of
+What is a common use for Linux in the LANto-WAN Domain | gateway
+The open source license associated with theGNU project is __________ | GPL
+GNU stands for | GNU's not Unix
+The command that list currently loaded GPGkey is ____ | GPG -listkey
+GRUB stands for | Grand Unified Bootloader
+Which of the following commands will print lines from the file world.txt that contain matches to changes and changed? | grep change[ds] world.txt
+To add a new group to your system you must use the __________ command. | groupadd
+To delete an existing group, you must use the ______________ command. | groupdel
+To modify an existing group, you must use the | groupmod
+Which of the following commands can be used to add the users Superman, Batman and WonderWoman to a group called JusticeLeague that already exists on a Linux System? | groupmod -A "Superman,Batman,WonderWoman" JusticeLeague
+__________ aims to be compliant with the Multiboot Specification. | GRUB
+The ________ Shell is interactive. | GRUB
+In Linux, the two most common boot loaders are | GRUB and LILO
+Which of the following are valid block devices on most default linux distributions? | hard disks loopback devices
+The /etc/shadow file | is the encrypted password file 
+What does the configure script do in an application's install directory? | It checks the local system to verify that the necessary components are available. It creates the Makefile file.
+What does the following command accomplish? <br># mkfs -t ext2 /dev/sda4 | It creates a new ext2 filesystem on /dev/sda4, overwriting any existing filesystem and data.
+Red Hat/Fedora | The RPM and YUM package management systems are usually associated with _______ distributions. 
+259. Replace the incompatible parts with supported parts. | You're planning to install Linux on a system that you have built out of spare parts. Several components are not listed on your distributions HCL. What should you do? 
+ rpm -checksig ./evolution- 2.6.0.41.i586.rpm | You've downloaded a package named evolution-2.6.0.41.i586.rpm to your home directory. What command will you use to check the digital signature of the package to verify that is has not been tampered with?
+266. rpm -e evolution | What command would you use to uninstall the evolution-2.6.0.41.i586.rpm from your system?
+267. rpm -ihv ./evolution- 2.6.0.41.i586.rpm | You have just downloaded an RPM package named evolution- 2.6.0.41.i586.rpm. What command will you use to install the package on your system, displaying a progress indicator as the installation is completed? 
+269. rpm -U evolution- 2.6.0.41.i586.rpm | You currently have evolution- 2.2.0.53.i586.rpm on your system. You have recently downloaded evolution- 2.6.0.41.i586.rpm to your system and want to install it. What command will you use to upgrade(install) the newer package? 
+271. runlevels | _________ range from 0-6
+283. stages | The GRUB process happens in 
+289. Swap | Which Partition is used by Linux for virtual memory?
+295. tar tvf data79.tar | You've received a tarball called data79.tar from a colleague, but you want to check the names of the files it contains before extracting them. Which of the following commands would you use to do this?
+296. tar -xvzf Bit Torrent- 5.0.1.tar.gz | Assuming all of the preliminary steps have been taken correctly, what command would you enter at the shell prompt to extract all of the files from the Bit Torent- 5.0.1.tar.gz archive? 
+298. telinit 5 | Having booted into run level 3, how would you change to run level 5 without rebooting? telinit 5 startx run 5 ALT-F7-5 setinit 5 
+299. They are changed with the password utility. | Which of the following is true of Linux passwords?
+Stage 2 consists of | two images
+A server (or any system) should have a strong password. | T
+Linux may not support your hardware by default | T
+Virtual memory is the same as Swap space in Linux. | T
+With Server 2008, Microsoft has somewhat decoupled the GUI from the base OS. | Tr
+VFS is used for a partition that will store files from nonLinux Operating Systems. | Tr\
+In Linux, the GUI interface and the kernel are separate. | Tr
+ A multi-user operating system is capable of providing services for many users on the system concurrently | Tr
+KDE, GNOME and XDE are examples of GUI interfaces available for Linux | Tr
+Linux associates each partition as a separate device. | Tr
+The Open Source/GNU movement was started by Richard Stallman. | Tr
+Linux, for the most part, adopts the monolithic kernel architecture. | Tr
+It is important to check your distribution's Hardware Compatibility List (HCL) before installing Linux. | Tr
+We will be using a dual-boot system in this course. | Tr
+Which of the following measures is the most effective way to prevent attacks through various network services? | Uninstall unneeded network services.
+Each group gets a(n) | . unique GID 
+Which command will update the slocate database as a background process? | updatedb & 
+How can you best see how much free space you have in your current directory? | Use df
+The command to add a new user is | useradd 
+To delete a user, you must use the _____________ command. | userdel
+The third field in the /etc/passwd file is | user ID (UID)
+To modify an existing user's profile you, must use the _____________ command. | . usermod
+An executable file has the SUID permission set. IF the file is run on the system, who owns the file? | The user who runs the file becomes the file's temporary owner.
+Where does the RPM store its database of installed packages? | /var/lib/rpm 
+Typing ls -ld wonderjaye reveals a  symbolic file mode of drwxr-xr-x. Which of the following is true?| wonderjayeis adirectory. wonderjayemay be read by all users of the system.
+What is YaST? | Yet another Setup Tool and it has a GUI interface
+The different releases of Linux are known as | Distributions or distros
+How should you engage users in helping to secure your computer's passwords? | Educate them about the importance of security, the means of choosing good passwords, and the ways crackers can obtain passwords.
+What is wrong with the following /etc/fstabfile entry?/dev/hda8 nfs default 0 0 | The entry is missing a mount point specification. /dev/hda8is a disk partition, but nfsindicates a network filesystem.
+Group information is stored in the | /etc/group file 
+A server should be user friendly so anyone in the company can use it for casual computing. | False
+The server room does not need to be temperature controlled because servers are robust and can handle a wide variety of temperatures. | False 
+A server should be located out in the open, with easy access for all. | False
+In the Macintosh and Windows design concept, the GUI interface and kernel are separate. | False
+ext3 and ext are exactly the same file system with different names. | False
+We used the second extended file system (ext2) for our file system. | False, ext4 
+"One computer, one desk, one user" was the vision of Richard Stallman. | False (Gates)
+It is reserved | Which of the following statements applies to the IP address 192.168.0.1?
+The linuxconf Routed Daemon screen | Which of the following are ways to disable dynamic routing?
+Linux Loader | LILO stands for
+man 3 syslog | You are told by a co-worker that information pertaining to the syslog command can be found in man page 3. How would you view this information?
+Manages scheduling of routine system tasks | Which statement describes the cron daemon?
+The megaprog.rpm, if it exists, is valid and is not already installed, is installed on the system | An administrator types the following command on an RPM based Linux system: # rpm -ihv megaprog.rpm. What is the effect of this command? 
+The program files are large and thus may cause a disk to run out of space.|Users may be able to abuse a program's features, thus doing more damage than would otherwise be possible Which of the following are risks of SUID and SGID programs? 
+How would you remove two lines of text from a file using Vi? | In command mode, position the cursor on the first line, an
+What is the first program that the Linux kernel runs once it's booted in a normal boot process? | init
+initrd /boot/initrd-3.4.2 | How might you identify an initial RAM disk file in GRUB 2?
+Install it as a new kernel leaving the original kernel in place | which of the following is the correct method to apply a new kernel built on a Linux system
+What does runlevel 4 do? | Its purpose isn't standardized, so it can be used for anything you like
+What is included in a typical Linux distribution | . Kernel, tools, libraries and application
+You want to boot a Linux system into single-user mode. What option might you add to a Linux kernel's options list at a boot loader to accomplish this task | I
+root ALL=(ALL) ALL | Which entry in the standard /etc/sudoers file gives the root administrative user
+LDAP | Which of the following is the best choice for network authentication
+The live CD can be used for forensic analysis. | Which of the following is a valid reason to use a Live CD on a suspected compromised system?
+MBR | Where might the bios find a bootloader?
+. A methodology used by open source security professionals to measure compliance | Which of the following is one of the best descriptions for OSSTMM?
+Mkfs | Which command formats all Linux system, Microsoft VFAT....
+Nessus | Which of the following tools would be most appropriate to periodically scan all Linux servers for vulnerabilities?
+Netstat | which command helps to better understand the networking subsystem
+Nologin | Which of the following is a fake shell you can use for nonstandard users
+An open source antivirus solution mainly used on Linux e-mail gateways. | ClamAV can be described as:
+56. A passphrase using a public and private key | In addition to username/passwords, SSH can authenticate a user based upon
+A previously scheduled shutdown is cancelled. | A system administrator types the following command: # shutdown -c What is the effect of this command?
+. The private company behind Ubuntu | What is Canonical?
+9. /proc/kcore | In a suspected compromised system, which of the following files will have the current data stored in RAM?
+The program terminates without saving your work | In Vi's command mode, you type :q!. What is the effect?
+Know the Linux command for listing all running processes | ps aux or just ps
+An enterprise running RHEL that wishes to control its own repository locally for package updates may consider using | Red Hat Satellite Server
+Which entry in the standard /etc/sudoers file gives the root administrative user | root ALL=(ALL) ALL
+. rsync -e ssh | Which of the following commands is used to transfer data over an SSH connection in encrypted format?
+. Running GUI applications | Using Linux as a desktop typically involves the added security risk of:
+If a share on a MS windows host needs to mount on the Linux filesystem, which network service would typically be used? | SAMBA
+Samba has username and passowrd authentication as part ofits built-in functionality | from a security perspective, what is the advantage of SAMBA over NFS when installed with the standard configuration?
+8. The service runs in isolation in its own virtual-like environment | Running a network service in a chroot environment is considered a layer of security because:
+the linux open source license allows anyone to use, modify, and improve the ____ | source code 
+A specific function and minimal services installed to provide its designated services | The theory of configuring a bastion host is one in which the server has:
+SSH | which method is preferable for securing access in the Remote Access Domain?
+a stock built from the mainline kernel | A "vanilla" kernel has _____?
+which of the following control flags used in PAM approves user access assuming that there are no previous failures? | sufficient
+A file with the ___ bit allows other users to run that command | SUID
+Which of the following commands may not be used instead of shutdown in certain circumstances (with appropriate options added to one or the other command) | takedown
+You want to change to single-user mode on a running system. What command might you use to do this? | telinit 1
+What is the purpose for which the following iptables is used: iptables -I INPUT -m state --state -m tcp -p tcp --dport 22 -j ACCEPT | to allow allincoming connectiosn to port 22 by inserting the rules at the top of the chain
+Type dmesg | less, and peruse the output for disk-related messages. | After booting, one of your hard disks doesn't respond. What might you do to find out what's gone wrong?
+Type R. Type i. Type a. | From Vi's command mode, you want to enter insert mode. How might you do this?
+Typically, open source software vulnerabilities are immediately made public | Which of the following is a difference between security vulnerabilities associated with open source software and proprietary software ?
+The user's basic information, such as the default login shell. | what user account information can be found in the /etc/passwd file
+User Space | The WINE application is an example of a process that runs in?
+Usrquota | Which mounting option will enable user quotas on a filesystem
+Vi is smaller and so can fit on compact emergency systems and embedded devices | What is an advantage of Vi over Emacs?
+5. visudo | which of the following commands is used to edit the /etc/sudoers file?
+YUM | which of the following commands can automatically detect dependencies during software install?

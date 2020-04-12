@@ -1,0 +1,1249 @@
+﻿1.___________ is the process of transforming data from cleartext into ciphertext|Encryption
+2. The ____________ represents the fourth layer of defense for a typical IT infrastructure| Lan-to-wan 
+3.With wireless LANs (WLANs), radio transceivers are used to transmit IP packets from a WLAN NIC to a _____________.|Wireless access point (WAP)
+4. A ________ is a collection of computers connected to one another or to a common connection medium.| Local area network (LAN)
+5. A ___________ defines how a business gets back on its feet after a major disaster like a fire or hurricane.|Disaster recovery plan (DRP)
+6. A ___________ gives priorities to the functions an organization needs to keep going.| Business continuity plan (BCP)
+7.Connecting your computers or devices to the ________ immediately exposes them to attack.| Internet
+8. The director of IT security is generally in charge of ensuring that the ____________ conforms to policy.|Workstation Domain
+9. The goal and objective of a __________ is to provide a consistent definition for how an organization should handle and secure different types of data.|Data classification standard 
+10.The requirement to keep information private or secret is the definition of __________.| Confidentiality
+11.The world needs people who understand computer-systems ________ and who can protect computers and networks from criminals and terrorists.| security
+12. The ________ is where the fourth layer of defense is required.| LAN-to-WAN Domain
+13. This security appliance examines IP data streams for common attack and malicious intent patterns.|intrusion detection system (IDS)
+14. What name is given to a U.S. federal law that requires U.S. government agencies to protect citizens' private data and have proper security controls in place?| Federal Information Security Management Act (FISMA)
+15. An encrypted channel used for remote access to a server or system, commonly used in Linux and UNIX servers and applications, is the definition of __________.|secure shell (SSH)
+16.Audio conferencing is a software-based, real-time audio conference solution for ________ callers.|VoIP
+17.E-commerce changed how businesses sell, and the ________ changed how they market.| Internet
+18. Medical practices and hospitals realized early on that ________ provide(s) the ability to provide access to the necessary information without having to invest in many computers and network infrastructure.| mobile devices
+19. The ________ in analog communications is one error for every 1,000 bits sent; in digital communications, the __________ is one error for every 1,000,000 bits sent.|Bit error rate
+20.What name is given to a high-speed broadband networking technology that uses a 53-byte cell to support real-time voice, video, or data communications?| Dense wavelength division multiplexing (DWDM)
+21. What term is used to describe a packet-based WAN service capable of supporting one-to-many and many-to-many WAN connections?| frame relay
+22. ________ is a technique where multiple light streams can transmit data through a single strand of fiber.| Dense wavelength division multiplexing (DWDM)
+23. A software program that collects information about Internet usage and uses it to present targeted advertisements to users is the definition of ________.| adware
+24. A _________ has a hostile intent, possesses sophisticated skills, and may be interested in financial gain. They represent the greatest threat to networks and information resources.| cracker
+25. A __________ tries to break IT security and gain access to systems with no authorization, in order to prove technical prowess.| black-hat hacker
+26. A ___________ is a software program that performs one of two functions: brute-force password attack to gain unauthorized access to a system, or recovery of passwords stored in a computer system.| password cracker
+27. A ___________ is a tool used to scan IP host devices for open ports that have been enabled.| port scanner
+28. A ___________ fingerprint scanner is a software program that allows an attacker to send log-on packets to an IP host device.| operating system (OS)
+29. An attempt to exploit a vulnerability of a computer or network component is the definition of ________.| attack
+30. Black-hat hackers generally poke holes in systems, but do not attempt to disclose __________ they find to the administrators of those systems.| vulnerabilities
+31. In a ________, the attacker sends a large number of packets requesting connections to the victim computer.| SYNflood
+32. A ___________ is a formal analysis of an organization's functions and activities that classifies them as critical or noncritical.|business impact analysis (BIA)
+33. Any organization that is serious about security will view ___________ as an ongoing process.| risk management
+34. A___________ primarily addresses the processes, resources, equipment, and devices needed to continue conducting critical business activities when an interruption occurs that affects the business's viability.| business continuity plan (BCP)
+35. Information security activities directly support several common business drivers, including ________ and efforts to protect intellectual property.| compliance
+36. Risks apply to specific assets. If you multiply the risk __________ by the cost of the asset, the result is the exposure to a specific risk.| probability
+37. The first step in risk analysis is to determine what and where the organizations _________ are located.| assets
+38. The recovery point objective (RPO) identifies the amount of _________ that is acceptable.| data loss
+39. What is meant by risk register?| A list of identified risks that results from the risk-identification process.
+40. What name is given to a risk-analysis method that uses relative ranking to provide further definition of the identified risks in order to determine responses to them?| qualitative risk analysis
+41. When you accept a __________, you take no further steps to resolve.| negative risk
+42. A mechanism that limits access to computer systems and network resources is ________,|logical access control
+43. How is decentralized access control defined?| A system that puts access control into the hands of people such as department managers who are closest to system users; there is no one centralized entity to process access requests in this system.
+44. This device uses public key infrastructure (PKI) technology—for example, a certificate signed by a trusted certification authority—and doesn't provide one-time passwords.| USBtoken
+45. Two-factor __________ should be the minimum requirement for valuable resources as it provides a higher level of security than using only one.| authentication
+46. What name is given to an access control method that bases access control approvals on the jobs the user is assigned?| Role-based access control (RBAC)
+47. When you apply an account-lockout policy, set the __________ to a high enough number that authorized users aren't locked out due to mis-typed passwords.| threshold
+48. Which of the following is the definition of access control?| The process of protecting a resource so that it is used only by those allowed to use it; a particular method used to restrict or allow access to resources.
+49. ________ is used to describe a property that indicates that a specific subject needs access to a specific object. This is necessary to access the object in addition to possessing the proper clearance for the object's classification.| Need-to-know
+50. A physically constrained user interface is a user interface that does not provide a physical means of entering unauthorized information.| True
+51. Access control is the process of proving you are the person or entity you claim to be.| False
+52. LAN to WAN connectivity is ____. |access server
+53. A(n) ____ is a network of computers and other devices that is confined to a relatively small space, such as one building or even one office.| LAN
+54. A personal computer which may or may not be connected to a network is a(n) ____.| workstation
+ 
+A ____ enables resource sharing by other computers on the same network.| host
+____ refer to the capability of a server to share data files, applications (such as word-processing or spreadsheet programs), and disk storage space.| File services
+A ____ is usually composed of a group of nodes that use the same communications channel for all their traffic.| segment
+The device inside a computer that connects a computer to the network media and allows it to communicate with other computers is known as a(n) ____.| NIC (Network Interface Card)
+TRUE or FALSE: Networks are usually only arranged in a ring, bus, or star formation and hybrid combinations of these patterns are not possible.| FALSE
+TRUE or FALSE: Clients on a client/server network share their resources directly with each other.| FALSE
+TRUE or FALSE: Protocols ensure that data are transferred whole, in sequence, and without error from one node on the network to another.| TRUE
+The ____ is the software that runs on a server and enables the server to manage data, users, groups, security, applications, and other networking functions.| network operating system
+A(n) ____ is a computer installed with the appropriate software to supply Web pages to many different clients upon demand.| web server
+A(n) ____ allows 24 multiplexed voice signals over a single neighborhood line.| FDM (frequency-division multiplex)
+The ____ is the main circuit that controls the computer.| motherboard
+The ____ of a network refers to that part of the network to which segments and shared devices connect.| backbone
+TRUE or FALSE: Resource sharing is controlled by a central computer or authority.| FALSE
+Any device that gives off a spark is also probably emitting ___.| EMI (electro-magnetic interference)
+A network that is larger than a LAN and connects clients and servers from multiple buildings is known as a(n) ____.| MAN (metropolitan area network)
+In a(n) ____ network, every computer can communicate directly with every other computer.| peer-to-peer
+____ coordinate the storage and transfer of e-mail between users on a network.| Mail services
+____ is an organization composed of more than a thousand representatives from industry and government who together determine standards for the electronics industry and other fields, such as chemical and nuclear engineering, health and safety, and construction.| ANSI (American National Standards Institute)
+____ is a technical advisory group of researchers and technical professionals interested in overseeing the Internet's design and management.| IAB (Internet Architecture Board)
+The primary function of protocols in the ____ layer, is to divide data they receive from the Network layer into distinct frames that can then be transmitted by the Physical layer.| data link
+The ____ is responsible for Internet growth and management strategy, resolution of technical disputes, and standards oversight.| IAB (Internet Architecture Board)
+____ is a connection oriented protocol.| TCP
+What defines the minimum acceptable performance of a product or service?| standards
+A _____ is a unique character string that allows the receiving node to determine if an arriving data unit matches exactly the data unit sent by the source.| checksum
+Who is responsible for IP addressing and domain name management.| ICANN (Internet Corporation for Assigned Names andNumbers)
+____ is a method of identifying segments that belong to the same group of subdivided data.| Sequencing
+A business that provides organizations and individuals with access to the Internet and often, other services, such as e-mail and Web hosting is known as a(n) _____.| ISP (internet service provider)
+A device that connects network segments and direct data is known as a(n) _____.| router
+The _____ provides developing countries with technical expertise and equipment to advance those nations' technological bases. |ITU (International Telecommunication Union)
+The ____ is a specialized United Nations agency that regulates international telecommunications, including radio and TV frequencies, satellite and telephony specifications, networking infrastructure, and tariffs applied to global communications.| ITU (International Telecommunication Union)
+Protocols at the ____ layer accept frames from the Data Link layer and generate voltage so as to transmit signals.| physical
+Among the Session layer's functions are establishing and keeping alive the communications link for the duration of the session, keeping the communication secure, synchronizing the dialogue between the two nodes, determining whether communications have been cut off, and, if so, figuring out where to restart transmission, and terminating communications.| TRUE
+Connectivity devices such as hubs and repeaters operate at the ____ layer.| physical
+The ____ layer is the lowest, or first, layer of the OSI Model.| physical
+TRUE or FALSE: Connectivity devices such as hubs and repeaters operate at the Presentation layer of the OSI Model.| FALSE
+Addresses used to identify computers on the Internet and other TCP/IP-based networks are known as ____ addresses.| IP (internet protocol)
+Every process that occurs during network communications can be associated with a layer of the OSI Model| TRUE
+Through ____ layer protocols, software applications negotiate their formatting, procedural, security, synchronization, and other requirements with the network.| application
+___ addresses contain two parts: a Block ID and a Device ID.| MAC
+The Application layer separates data into ____ or discrete amounts of data.| protocol data units
+The primary function of protocols at the session layer is to translate network addresses into their physical counterparts and decide how to route data from the sender to the receiver.| FALSE
+The ____ is a trade organization composed of representatives from electronics manufacturing firms across the United States.| EIA (Electronic Industries Alliance)
+The top, or seventh, layer of the OSI Model is the ____ layer application
+The process of gauging the appropriate rate of transmission based on how fast the recipient can accept data is known as _____.| flow control
+TRUE or FALSE: Addressing is a system for assigning unique identification numbers to devices on a network.| TRUE
+An anonymous login may be used with _______ .| FTP
+____ is a Network layer protocol that obtains the MAC (physical) address of a host, or node, and then creates a database that maps the MAC address to the host's IP (logical) address.| ARP (Address Resolution Protocol)
+____ provides information about how and where data should be delivered, including the data's source and destination addresses.| IP (Internet Protocol)
+TRUE or FALSE: Routers use DHCP to determine which nodes belong to a certain multicast group and to transmit data to all nodes in that group.| FALSE
+____ are created when a client makes an ARP request that cannot be satisfied by data already in the ARP table.| Dynamic ARP table entries
+____ is a transmission method that allows one node to send data to a defined group of nodes.| Multicasting
+____ is the process of subdividing a network segment.| Subnetting
+TRUE or FALSE: An IP whose first octet is in the range of 128-191 belongs to a Class C network.| FALSE, it belongs to a Class B network
+____ is an automated means of assigning a unique IP address to every device on a network.| DHCP (Dynamic Host Configuration Protocol)
+In the context of TCP/IP, a packet is also known as a(n) ____.|IP datagram
+TRUE or FALSE: Static IP addressing can easily result in the duplication of address assignments.| TRUE
+What defines the standards for communication between network devices?| protocols
+TRUE or FALSE: UDP (User Datagram Protocol) belongs to the Transport layer of the OSI.| TRUE
+____ is a Network layer protocol that reports on the success or failure of data delivery.| ICMP (Internet Control Message Protocol)
+TRUE or FALSE: A device without an IP address, can get one with ARP.| FALSE
+The IP address 127.0.0.1 is called a(n) ____.| loopback address
+To traverse more than one LAN segment and more than one type of network through a router.| Internetwork
+Process of subdividing a single class of networks into multiple, smaller logical networks, or segments.| Subnetting
+An address that represents a single interface on a device.| Unicast address
+The most common way of expressing IP addresses.| Dotted decimal notation
+The database of Internet IP addresses and their associated names.| Name Space
+Used to synchronize the clocks of computers on a network.| NTP (Network Time Protocol)
+A collection of protocols designed by the IETF to simplify the setup of nodes on a TCP/IP network.| Zeroconf
+Group of computers that belongs to the same organization and has part of their IP addresses in common.| domain
+Protocols that can span more than one LAN.| Routable
+____ operates at the Transport layer of the OSI Model and provides reliable data delivery services.| TCP (Transmission Control Protocol)
+____ is a terminal emulation protocol to log on to remote hosts using the TCP/IP protocol suite.| Telnet
+ICMP services are used by ______ to send echo requests.| PING (Packet INternet Groper)
+In classful addressing, the network information portion of an IP address (the network ID) is limited to the first ____ bits in a Class A address.| 8
+Together, the additional bits used for subnet information plus the existing network ID are known as the ____.| extended network prefix
+The utility that allows you to query the DNS registration database and obtain information about a domain is called ____.| whois
+The ____ utility performs the same TCP/IP configuration and management as the ipconfig utility, but applies to UNIX and Linux OS's.| ifconfig
+A subnet created by moving the subnet boundary to the left is known as a(n) ____.| supernet
+The formula for determining how to modify a default subnet mask is ____.| 2^n - 2 = Y
+The ____ utility uses ICMP to trace the path from one networked node to another, identifying all intermediate hops between the two nodes.| traceroute
+A(n) ____ indicates where network information is located in an IP address.| subnet mask
+On networks that run NetBIOS over TCP/IP, the ____ utility can provide information about NetBIOS statistics and resolve NetBIOS names to their IP addresses.| nbtstat
+The ____ utility allows you to query the DNS database from any computer on the network and find the host name of a device by specifying its IP address, or vice versa.| nslookup
+____ are a combination of software and hardware that enable two different network segments to exchange data.| Gateways
+TRUE or FALSE: When a router is used as a gateway, it must maintain routing tables as well.| TRUE
+A _____ consists of four 8-bit octets (or bytes) that can be expressed in either binary or dotted decimal notation.| IP address
+Octet(s) that represent host information are set to equal all 1s, or in decimal notation 255 are known as _____ .| broadcast addresses
+____ is a mail protocol that is incapable of doing anything more than transporting mail or holding it in a queue.| SMTP (Simple Mail Transfer Protocol)
+_____ takes the form of the network ID followed by a forward slash (/), followed by the number of bits that are used for the extended network prefix.| CIDR (Classless InterDomain Routing) notation
+A(n) _____ is usually assigned an IP address that ends with an octet of .1.| internet gateway
+_____ is a TCP/IP utility similar to nslookup.| dig
+The process of separating a network into multiple logically defined segments, or subnets is known as ______. |subnetting
+_____ identifies each element of a mail message according to content type.| MIME (Multipurpose Internet Mail Extensions)
+A(n) _____ requires two network connections: one that connects to the Internet and one that connects to the LAN.| ICS Host
+____ is the protocol responsible for moving messages from one mail server to another over TCP/IP-based networks.| SMTP (Simple Mail Transfer Protocol)
+The netstat ____ command allows you to display the routing table on a given machine.| -r
+____ is an Application layer protocol used to retrieve messages from a mail server.| POP (Post Office Protocol)
+____ is a command-line utility that provides information about a network adapter's IP address, subnet mask, and default gateway.| IPconfig
+When working on a UNIX-type of system, you can limit the maximum number of router hops the traceroute command allows by typing the ____ switch.| -m
+TRUE or FALSE: The "0" bits in a subnet mask indicate that corresponding bits in an IP address contain network information.| FALSE
+____ is a mail retrieval protocol that was developed as a more sophisticated alternative to POP3.| IMAP (Internet Message Access Protocol)
+A form of transmission that allows multiple signals to travel simultaneously over one medium is known as ____.| multiplexing
+The distance between corresponding points on a wave's cycle is called its _____.| wavelength
+____ cable consists of color-coded pairs of insulated copper wires, each with a diameter of 0.4 to 0.8 mm.| Twisted-pair
+You must limit the number of ___ on a segment for a clear, strong, and timely signal.| nodes
+____ signals are composed of pulses of precise, positive voltages and zero voltages.| Digital
+TRUE or FALSE: A full-duplex channel is like a river.| FALSE
+A(n) ____ is a piece of hardware that enables networks or segments running on different media to interconnect and exchange signals.| media converter
+Can be twisted at least twelve times per foot.| Cat5
+TRUE or FALSE: Transmission methods using fiber-optic cables achieve faster throughput than those using copper or wireless connections.| TRUE
+A ____ is a distinct communication path between nodes, much as a lane is a distinct transportation path on a freeway.| channel
+A panel of data receptors into which horizontal cabling from the workstations is inserted is called a _____ .| punch-down block
+The progress of a wave over time in relationship to a fixed point is known as the ____ of the wave.| phase
+_____ cable has a 250-MHz rate.| Cat6
+_______ is the nondata information that must accompany data for a signal to be properly routed and interpreted by the network.| Overhead
+Follows the 5-4-3 rule of networking.| 10BASE-T
+_____ are digital signals sent through DC with exclusive use.| Baseband
+_____ causes noise.| EMI (electro-magnetic interference)
+_____ divides a channel into multiple intervals of time, or time slots.| TDM (time division multiplex)
+The point of division between the telcom service provider and internal network ____.| demarc
+A wave's ____ is a measure of its strength at any given point in time.| amplitude
+A 568 standard is for __.| structured cabling
+A device that regenerates a digital signal is called a(n) ____.| repeater
+A(n) ____ segment does not contain end nodes.| unpopulated
+The loss of a signal's strength as it travels away from its source is known as ____.| attenuation
+The hardware that makes up the enterprise-wide cabling system is known as the ____.| cable plant
+TRUE or FALSE: A pulse of positive voltage represents a 0.| FALSE
+TRUE or FALSE: Seven bits form a byte| FALSE
+When a data transmission involves only one transmitter and one receiver, it is considered a(n) ____ transmission.| point-to-point
+____ are connectivity devices that enable a workstation, server, printer, or other node to receive and transmit data over the network media.| NICs
+TRUE or FALSE: A repeater typically contains multiple data ports into which the patch cables for network nodes are connected.| FALSE
+____ automatically calculates the best path between two nodes and accumulates this information in a routing table.| Dynamic routing
+____ is the routing protocol of Internet backbones and is not used to route between nodes on an autonomous LAN - that is, it is used on border and exterior routers.| BGP
+The term ____ refers to the most efficient route from one node on a network to another.| best path
+A(n) ____ is software that enables an attached device to communicate with the computer's OS.| driver
+____ are devices that connect two network segments by analyzing incoming frames and making decisions about where to direct them based on each frame's MAC address.| Bridges
+TRUE or FALSE: Hubs operate at the Network layer of the OSI model.| FALSE
+____ are combinations of networking hardware and software that connect two dissimilar kinds of networks.| Gateways
+Most hubs also contain one port, called a(n) ____, that allows the hub to connect to another hub or other connectivity device.| uplink port
+TRUE or FALSE: If congestion or failures affect the network, a router using dynamic routing can detect the problems and reroute data through a different path.| TRUE
+TRUE or FALSE: One disadvantage to using wireless NICs is that currently they are somewhat more expensive than wire-bound NICs.| TRUE
+A computer's ____ is the circuit, or signaling pathway, used by the motherboard to transmit data to the computer's components, including its memory, processor, hard disk, and NIC.| bus
+A routers strength lies in its ____ .| intelligence
+A(n) ____ is a device or connection on a network that,were it to fail, could cause the entire network or portion of the network to stop functioning.| single point of failure
+A router with multiple slots that can hold different interface cards or other devices is called a(n) ____.| modular router
+A(n) ____ hub does nothing.| passive
+231. In popular usage and in the media, the term ________ often describes someone who breaks into a computer system without authorization| Hacker
+Data classification standards, know the types of data and how they are classified.|Private data,Confidential, Internal use only, and public domain data.
+Know the government data classification standards.|Top Secret, Secret and Confidential
+Private Data|information which is confidential and only ethically available to selected individual.. The right to keep certain things to yourself; not for public viewing.
+Confidential Data|Information or data that is owned by the organization. Intellectual property such as customer lists, pricing information, and patents.
+Public Domain Data|Information or data shared with the public such as web site content, white papers, etc.
+Top Secret|Applies to information that the classifying authority finds would cause grave damage to national security if it were disclosed.
+Secret|Applies to information that the classifying authority finds would cause serious damage to national security if it were disclosed.
+Confidential|Applies to information that the classifying authority finds would cause damage to national security.
+IT Security Policy Framework|Policy, Standard, Procedures and Guidelines.
+Policy|a short written statement that the people in charge of the organization have set as a course of action or direction. A Policy comes from upper management and applies to the entire organization.
+Standard|a detailed written definition for hardware and software and how it is to be used. Standards ensure that consistent security controls are used throughout the IT system.
+Procedures|are written instructions for how to use polices and standards. The may include a plan of action, installation, testing and auditing of security controls.
+Guidelines|a suggested course of action for using the policy, standards, or procedures. Guidelines can be specific or flexible regarding use.
+Data Classifications Standards|The goal and objective of data classification standard is to provide a consistent definition for how an organization should handle and secure different types of data. (Private Data, Confidential Data, Internal Use Only and Public Domain Data.
+Compliance Laws - Sarbanes Oxley Act|Passed in 2002, it requires publicly traded companies to submit accurate financial reporting. It does not require securing private information, but it does require security controls to protect the confidentiality and integrity of the reporting itself.
+Compliance Laws - Gramm-Leach-Bliley Act|Passed in 1999, requires all types of financial institutions to protect customers' private financial information.
+Health Insurance Portability and Accountability Act (HIPPA)|Passed in 1996, requires health care organizations to secure to secure patient information.
+Children's Internet Protection Act (CIPA)|Passed in 2000, requires public schools and public libraries to use an Internet safety policy. The policy must address the following: Children's access to inappropriate matter on the Internet, Children's security when using e-mail, chat rooms, and other electronic communications, restricting hacking and other unlawful activities by children online, disclosing and distributing personal information about children without permission, and restricting children's access to harmful materials.
+Risks|the likelihood that something bad will happen to an asset. The exposure to some event that has an effect on an asset.
+Threats|any action that could damage an asset. Threats include natural and human-induced threats.
+Vulnerability|a weakness that allows a threat to be realized or to have an effect on an asset.
+User Domain Vulnerability|Lack of awareness or concern for security policy, Accidental acceptable use policy violation, Intentional malicious activity, and Social engineering
+Workstation Domain Vulnerability|Unauthorized user access, Malicious software introduced, and weaknesses in installed software.
+LAN Domain Vulnerability|Unauthorized network access, transmitting private data unencrypted, and spreading malicious software.
+LAN-to-WAN Domain Vulnerability|Exposure and unauthorized access of internal resources to the public, Introduction of malicious software, and Loss of productivity due to internet access.
+WAN Domain Vulnerability|Transmitting private data unencrypted, Malicious attacks from anonymous sources, Denial of Service attacks, and Weaknesses in software.
+Remote Access Domain Vulnerabilty|Brute-force attacks on access and private data, Unauthorized remote access to resources, and Data leakage from remote access or lost storage devices.
+System/Application Domain Vulnerability|Unauthorized physical or logical access to resources, Weakness in server operating system or application software, and Data loss from errors, failures or disasters.
+Types of hackers|Black-hat Hackers, Gray-hat Hackers, and White-hat Hackers
+Black-hat Hackers|tries to break IT security for the challenge and to prove technical prowess. They tend to poke holes in a system but do not attempt to disclose vulnerabilities they find to the administration.
+Gray-hat Hackers|a hacker with average abilities who may one day become a Black-hat or White-hat hacker.
+White-hat Hackers|uses different penetration-test tools to uncover vulnerabilities so that they can be fixed.
+Risk Vulnerability|The likelihood that something bad will happen.
+Risk Methodology|A description of how you will manage risks. Includes the approach, required information, and the techniques to address each risk.
+Security Gap|The difference between the security controls in place and the control you need in order to address all vulnerabilities.
+Steps of the System Life Cycle|1. Project initiation and planning
+2. Functional requirements and definition
+3. System-design specification
+4. Build (develop) and document
+5. Acceptance testing
+6. Implementation
+In the change management process, what are the configuration control and change control?|Configuration control is the management of the baseline settings for a system device. The baseline settings meet security requirements. They require that you implement them carefully and only with prior approval.
+Change control is the management of changes to the configuration. Unmanaged changes introduce risk, because they might affect security operations or controls. An improper change could even disable the system or equipment. Change control ensures that any changes to a production system are tested, documented, and approved. The change itself must follow a change control process that ensures you make the changes correctly and report it to management.
+Principles of least privilege|The principles of least privilege, means giving a user account only those privileges which are essential to that user's work.
+When developing, implementing and designing and organization you often must comply with the rules on what level?|Regulatory Compliance
+Brewer and Nash Integrity Model|based on the mathematical theory published in 1989 to ensure fair competition. It is used to apply dynamically changing access permissions.
+What are the formal models of access control?|Discretionary access control (DAC) - the owner of the resource decides who gets in. The owner can give that job to others. 
+Mandatory access control (MAC) - permission to enter a system is kept by the owner and cannot be given to someone else.
+Non-discretionary access control - access controls are closely monitored by the security administrator.
+Rule-based access control - a list of rules, maintained by the data owner, determines which users have access to objects.
+What are the types of Access Control?|Physical access controls - Control entry into buildings, parking lots and protected areas. 
+Logical - Control access to a computer system or network.
+How does identification and authorization work together in the access control process?|Identification is the method a subject uses to request access to a system or resource. Authorization is the process of deciding who has access to which computer and network resources.
+What does a bushiness impact analysis determine?|...
+What are the components of a business continuity plan?|BCP &DRP
+What are the primary components of Risk Management?|Mitigation, assignment, acceptance and avoidance.
+What are controls that monitor activity?|IDS, IPS and Firewalls
+What are monitoring issues for logging?|...
+What is a security audit?|The purpose of a security audit is to make sure your systems and security controls work as expected. Includes Monitor, Audit, Improve & Secure.
+What is an advantage of IPv6 over IPv4|More host addresses
+What SSID beaconing and why is it considered a weakness of Wireless LANs?|By default, wireless networks brodcast their presence to the public sending out announcements containing the network's service identifier (SSID).
+Identify and define router, switch, hub and firewalls? Which one would you not see on a corporate network?|Hub - because it broadcasts to everyone, increasing traffic.
+Router|A device that forwards data packets between computer networks
+Switch|A device for transmitting data on a network. A switch makes decisions, based on the media access control (MAC) address of the data, as to where the data is to be sent.
+Hub|A device that is the central connecting point of a LAN. A hub is little more than a multi-port repeater taking incoming signals on one port and repeating them to all other ports. Ethernet hubs have been largely replaced by Ethernet switches.
+Firewall|A software program or hardware device designed to prevent unauthorized access to computers or networks.
+What is the difference between a broad firewall and a multi-layered firewall and when is i appropriate to use each type?|Pages 330-332
+What are the activities/responsibilities happening on each layer of the OSI Model?|Application Layer, Presentation Layer, Session Layer, Transport Layer, Network Layer, Data Link Layer, and Physical Layer.
+Confidentiality|Keeps information secret from all but authorized people.
+Integrity|Ensures no one, even the sender, changes information after transmitting it.
+Authentication|Confirms the identity of an entity.
+Non-replication|Enables you to prevent a party from denying a previous statement or action.
+What could be proved by an asymmetric digital signature vs a symmetric digital signature and what is the fancy name for the thing that can be proved?|Asymmetric Digital Signature - Data encrypted with one key can be decrypted only with the other key. Symmetric Digital Signature -uses the same key to encrypt and decrypt.
+Identify the different Asymmetric Cryptographic Applications?|RSA, DSA & SHA
+RSA|A commonly used encryption and authentication algorithm named for MIT students, An asymmetric algorithm used to encrypt data and digitally sign transmissions. It is named after its creators, Rivest, Shamir, and Adleman, and RSA is also the name of the company they founded together. RSA relies on the mathematical properties of prime numbers when creating public and private keys.
+DSA|Digital Signature Algorithm. A digital signature is an encrypted hash of a message. The sender's private key encrypts the hash of the message to create the digital signature. The recipient decrypts the hash with the sender's public key, and, if successful, it provides authentication, non-repudiation, and integrity. Authentication identifies the sender. Integrity verifies the message has not been modified. Non-repudiation is used with online transactions and prevents the sender from later denying they sent the e-mail.
+SHA|Secure Hash Algorithm - A one way hash algorithm designed to ensure the integrity of a message.
+What are the four security objectives for internal security and what do they mean?|Privacy, Integrity, Authorization and Access Control
+Privacy|Keeps information readable only by authorized people.
+Integrity|Ensures that no one has changed or deleted data.
+Authorization|Approving someone to do a specific task or access certain data.
+Access Control|Restricting information to the right people.
+What is a transposition cipher, a substitution cipher and which one is a Caesar Cipher?|Substitution is a Caesar Cipher.
+Transposition Cipher|Rearranges characters or bits of data.
+Substitution Cipher|Replaces bits, characters, or blocks of information with other bits, characters, or blocks.
+How does Risk Management affect security roles?|Pages 252-253
+What does a business impact analysis determine?|Determines the impact that a particular incident would have on business operations over time and drives the choice of the recovery strategy and the critical business functions.
+What are the components of a business continuity plan?|BCP and DRP
+BCP|Business continuity plan. A plan that helps an organization predict and plan for potential outages of critical services or functions. It includes disaster recovery elements that provide the steps used to return critical functions to operation after an outage.
+DRP|Disaster recovery plan. A document designed to help a company respond to disasters, such as hurricanes, floods, and fires. It includes a hierarchical list of critical systems and often prioritizes services to restore after an outage. Testing validates the plan. Recovered systems are tested before returning them to operation, and this can include a comparison to baselines. The final phase of disaster recovery includes a review to identify any lessons learned and may include an update of the plan.
+Qualitative Risk Analysis|Describes a risk scenario and then figures out what impact the event would have on business operations.
+Quantitative Risk Analysis|Attempts to describe risk in financial terms and put a dollar value on all the elements of a risk.
+What are the primary components of Risk Management?|Risk Mitigation (reduction), Risk assignment (transference), Risk Acceptance, and Risk Avoidance.
+Risk Mitigation|Uses various controls to mitigate or reduce identified risks. These controls might be administrative, technical or physical.
+Risk Assignment|Allows the organization to transfer the risk to another entity.
+Risk Avoidance|Deciding not to take the risk by discontinuing use because the potential loss to the company exceeds the potential value gained.
+What are the controls that monitor activity?|IDS, IPS andFirewalls
+IDS|Intrusion detection system. A detective control used to detect attacks after they occur. A signature-based IDS (also called definition-based) uses a database of predefined traffic patterns.
+IPS|a device that can take immediate action during an attack to block traffic, blacklist an IP address, or segment an infected host
+What are monitoring issues for logging?|Logging produces too much information and takes up disk space.
+Penetration Testing|Method of evaluating the security of a computer system or network, by simulating a malicious attack instead of just scanning for vulnerabilities
+What is a baseline and how does it pertain to security monitoring?|In order to recognize something as abnormal, you first must know what normal looks like. The baseline is the normal state of the system.
+What is a security audit?|A security audit is to make sure your system and security controls work as expected.
+Network Infrastructure Defense|Deploys controls to protect your network by creating choke points in the network, Using proxy services and bastion hosts to protect critical services, using content filtering at choke poi to screen traffic, disabling any unnecessary network services and processes that may pose a security vulnerability, maintaining up-to-date IDS signature databases, and applying security patches to network devices to ensure protection against new threats and to reduce vulnerabilities.
+Operating System Defense|Serves as an interface between application software and hardware resources. Controls to secure the operating system are important. These include: Deploying change-detection and integrity-checking software and maintaining logs, deploying or enabling change-detection and integrity-checking software on all servers, ensuring that all operating systems are consistent and have been patched with the latest updates from vendors, ensuring that only trusted sources are used when installing and upgrading OS code, and disabling any unnecessary OS services and processes that may pose a security vulnerability.
+Application Defenses|Software applications provide end users with access to shared data. Some common controls include the following: Implementing regular antivirus screening on all host systems, ensuring that virus definition files are up to date, requiring scanning of all removable media, installing personal firewall and IDS software on hosts as an additional security layer, deploying change detection software and integrity checking software and maintaining logs, implementing e-mail usage controls and ensuring that e-mail attachments are scanned, establishing a clear policy regarding software installations and upgrades, ensuring that only trusted sources are used when obtaining, installing, and upgrading software through digital signatures and other validations.
+What is a backdoor?|Obtaining admin access to a computer system while attempting to remain undetected
+What is a worm and how does it propagate?|Self-contained programs designed to propagate from one host machine to another, using the host's own network communication protocols.
+What are the four types of attacks?|Unstructured, Structured, Direct and Indirect.
+Structured Attacks|Sophisticated hacking techniques to identify, penetrate, probe, and carry out malicious activities.
+Unstructured Attacks|Moderately skilled attackers initially attack simply for personal gratification. Can lead to more malicious attacks.
+Direct Attacks|Attacks against a specific target, such as a specific organizations through remote log on exploits.
+Indirect Attacks|Result of a preprogramed hostile code exploits, such as Internet worms or viruses. The attacks are unleashed indiscriminately.
+Name two of the earliest viruses on PCs?|Brain, Lehigh and Jeruselum
+Laws of Security Compliance|FISMA, HIPAA, GLBA and SOX
+FISMA|Federal Information Security Management Act (FISMA, United States) - Requires U.S. government agencies to protect citizens' private data and have proper security controls in place.
+HIPAA|The Health Insurance Portability and Accountability Act, a federal law protecting the privacy of patient-specific health care information and providing the patient with control over how this information is used and distributed.
+GLBA|Gramm-Leach-Bliley Act includes provisions to protect consumers personal financial information held by financial institutions.
+SOX|Sarbanes-oxley act of 2002: enacted in response to the financial scandals to protect shareholders and the general public from accounting errors and fraudulent practices.
+What is HIPAA and what is the minimum necessary rule?|Health Insurance Portability and Accountability Act - Requires covered entities to protect all EPHI (Electronic Protected Health Information) they create, receive , maintain or transmit.
+What are the standards set by PCI DCS and what are the principles on this requirement?|PCI DCS (Payment Card Industry Data Security Standard) -Build and maintain a secure network, protect cardholder data, maintain a vulnerability-management program, implement strong access control measures, regularly monitor and test networks and maintain an information security policy.
+What is the difference between a Standard and a Compliance Law?|A law can actually enforce a standard.
+Application Layer|The seventh layer of the OSI model. Application layer protocols enable software programs to negotiate formatting, procedural, security, synchronization, and other requirements with the network.
+Presentation Layer|The sixth layer of the OSI model. Protocols in the Presentation layer translate between the application and the network. Here, data are formatted in a schema that the network can understand, with the format varying according to the type of network used. The Presentation layer also manages data encryption and decryption, such as the scrambling of system passwords.
+Session Layer|The fifth layer in the OSI model. The Session layer establishes and maintains communication between two nodes on the network. It can be considered the "traffic cop" for network communications.
+Transport Layer|The fourth layer of the OSI model. In this layer protocols ensure that data are transferred from point A to point B reliably and without errors. this layer services include flow control, acknowledgment, error correction, segmentation, reassembly, and sequencing.
+Network Layer|The third layer in the OSI model. Protocols in the Network layer translate network addresses into their physical counterparts and decide how to route data from the sender to the receiver.
+Data Link Layer|The second layer in the OSI model. The Data Link layer bridges the networking media with the Network layer. Its primary function is to divide the data it receives from the Network layer into frames that can then be transmitted by the Physical layer.
+Physical Layer|The lowest, or first, layer of the OSI model. Protocols in the Physical layer generate and detect signals so as to transmit and receive data over a network medium. These protocols also set the data transmission rate and monitor data error rates, but do not provide error correction.
+1.1 User can access systems, applications, and datapending | User domain
+1.2 A workstation can be a desktop computer, a laptop computer, aspecial-purpose. Require tight security and access controls | Workstation domain
+1.3 A local area network (LAN) is a collection of computers connected to one another or to optic cables, or radio waves. The third the third layers defend required. | LAN Domain
+1.4 The interface between the computer an the LAN physical media.| NIC(Network interface card)
+1.5 where the IT infrastructure links to a wide area network and the Internet. Connecting to the Internet is like rolling out. Strict security controls given the risks and threats of connecting to the internet.| LAN-to-WAN domain
+1.6 As network costs drop, organizations can afford faster Internet. telecommunication service providers sell. In the business of providing. Supplier troubleshooting.| WAN Domain
+1.7 Organization's IT infrastructure. Critical for staff member. dangerous yet necessary for mobile worker.| Remote acess domain
+1.8 Hold all the mission-critical systems, applications, and data. Authorized user. Data like treasure. Private customer data, intellectual property, or national security. Seek deep within an IT system.| System/application Domain
+1.9 ISS|( Intergrity, Avaibility, Confident)
+1.10 Intergrity |ISS, Avaibility, Confident
+1.12 Avaibility |ISS, Intergrity, Confident
+1.13 Confident |ISS, Intergrity, Avaibility
+1.15 Organizations that require customer-service representatives to access.| Blocking out
+1.16 The____ is the weakest link in IT infrastructure.| User Domain
+2.1 Real-time support | VoIP
+2.2 VoIP | Real-Time, voice communication
+2.3 convergence is the combination of voice, video, and data communications using TCP/IP.| B.Protocol
+2.4 Unified communications solves the_____ Communication challenge.| A.Human Latency
+2.5 SIP is more secure than VoIP. | False
+2.6 VoIP is more secure than SIP. | True
+2.7 SIP is less secure than VoIP. | True
+2.8 VoIP is less secure than SIP. | False
+3.1 Attack result in downtime or inability of a user | DoS
+3.2 A type of DoS attack that also impacts availability. Overloads the computer and prevents legitimate users. | DDoS
+3.3 a tool used to scan IP host devices for open port. A port is like a channel slector switch in the IP packet. | Port Scan
+3.4 tries to break IT security and gain access to system with no authorization, prove technical prowess. special software tools to explois vulnerbilities. poke holes. | Black-hat
+3.5 ethical hacker, is an information systems security professional, has authorization to identify vulnerabilities and perform penetration testing, fixing system | White-hat
+3.6 Wannabe, average abilities, one day become a black-hat hacker, could alse opt to become a white-hat | Gray-hat
+3.7 The main goal of a cyberattack is to affect one or more IT assets.| True
+3.8 Which of the following terms best describes a person with very little skill?| Script kiddie
+3.9 Which type of attack result in legitimate user mot having access to a system resource?| DoS
+3.10 Which type of document defines| AUP
+4.1 BIA| Business Impact Analysis
+4.2 BCP| Business continuity Plan
+4.3 the first step indeveloping plans to address interruptions is to identify those business functions crucial to your organization.| BIA
+4.4 plan for a structured response to any events that result in an interruption to critical business.| BCP
+5.1 These control entry into buildings, parking lots, and protected areas. | Physic access control
+5.2 Access to a computer system or network. Requires that you enter a unique username and password to log to your company | Logical access controls
+5.3 Authrization, indentification, authentication, accountability
+5.4 Create a policy to define authorization rules. Process of deciding access to which computer. | Authorization
+5.5 group(s) you are in.| group membership policy
+5.6 higher degree of authority to access certain resources. | Authority-level policy
+5.7 subject requesting access is the same subject who has been granted access | Authentication
+5.8 Owner of the resource decides who gets in and changes permissions as needed. The owner can give that job to others | Discretionary access control
+5.9 determined by the sensitivity of the resource and the security level of the subject.| Mandatory AC
+5.10 closely monitored by the security adminitrator, an not the system administrator. | Non-Discretion AC
+5.11 A list of rules, maintained by the data owner. | Rule-based AC
+5.12 bases access control approvals on the jobs the user assigned - RBAC
+5.13 access control are policies or procedure used to control access to certain items. | True
+5.14 which are the best describes the authorization | approvad for
+5.15 which are the best describes the identification component of access control? | to an system
+5.16 which are the best describes the authentication | hasbeen granted that access
+5.17 when you log on to a network, you are presented with | Logical access control
+5.18 access control cannot be implemented in various | false
+5.19 physic access, security bypass, eavesdropping | Compromised 
+5.20 when the owner of the resource determines the access and changes permissions as needed | DAC
+A method of security testing that isn't based directly on knowledge of a programs architecture is the definition of ...|black-box testing
+An auditing bechmark is the standard by which asystem is compared to determine whether it is securely configured|true
+AnSOC 1 report is commonly implemented for organizations that must complywith Sarbanes-Oxley (SOX) or the Gramm-Leach-Bliley Act (GLBA).|true
+As your organization evolves and as threats mature, it is important to make sure your ... stil meets the risks you face today|controls
+What is necessary because of potential liability, negligence, mandatory regulatory complicance?|Audits
+If knowing about an audit changes user behavior, an audit will|not be accurate
+its essential to match your organizations required ... with its security structure|permission level
+The --- framework defines the scope and content of threelevels of audit reports.|Service Organizaiton Control (SOC)
+The following are al methods of collecting data: questionnaires, interviews, observation, and checklists.|true
+The primary differnece between SOC 2 and SOC 3 reports is thier...|audience
+What is security testing that is based on limited knowledge of an application's design?|gray-box testing
+a reconnaissance technique that enables an attacker to use port mapping to learn which operating system and version are running on a computer?|operating system fingerprinting
+What is the process of using tools to determine the layout and services running on an organization's systems and networks?|network mapping
+What is the technique of matching network traffic with rules or signatures based on the apprearance of the traffic and its relationship to other packets?|stateful matching
+An intrusion detection system that uses pattern matching and stateful matching to compare current traffic with activity patterns (signatures) of known network intruders.|anomaly-based IDS?
+Incorrectly identifying abnormal activity as normal|false negative
+The state of a computer or device in which you have turned off or disabled unnecessary services and protected the ones that are still running.|hardend configuration
+An intrusion detection system that uses pattern matching and stateful matching to compare current traffic with activity patterns (signatures) of known network intruders.|pattern-based IDS
+Security testing that is based on knowledge of the application's design and source code.|white box testing
+________ provides information on what is happening as it happens.|Real-time monitoring
+A company can discontinue or decide not to enter a line of business if the risk level is too high. This is categorized as ________.|risk avoidance
+A control involved in the process of developing and ensuring compliance with policy and procedures is the definition of ________.|administrative control
+A control that is carried out or managed by a computer system is the definition of ________.|technical control
+A countermeasure, without a corresponding __________, is a solution seeking a problem; you can never justify the cost.|risk
+A measure installed to counter or address a specific threat is the definition of ________.|countermeasure
+A threate source can be a situation or a method that might accidentally trigger a|vulnerability
+A --- is an intent and method to exploit a vulnerability|threat source
+Among common recovery location options, this is one that can take over operations quickly. It has all the equipment and data already staged at the location, though you may need to refresh or update the data.|hot site
+An organization seeks a balance between an acceptable level of a risk and the cost of reducing it.|true
+Anorganization knows that arisk exists and has decided that the cost of reducing it is higher than the loss would be. This can include self-insuring or using a deductible. This is categorized as ________.|risk acceptance
+Forensics and incident response are examples of ___________ controls.|corrective
+How your organization responds to risk reflects the value it puts on its ___________.|assests
+It is necessary to create and/or maintain a plan that makes sure your company continues to operate in the face of disaster. This is known as a ________.|buisness continuity plan
+Residual risk is the risk that remains after you have installed countermeasures and controls.|true
+The goal of risk amangement is to eliminate risk.|false
+The term detective control refers to a control that determines that a threat has landed in your system.|true
+________ allows anorganization to transfer risk to another entity. Insurance is a common way to reduce risk.|risk assignment
+________ is arisk management phase that includes assessment of various types of controls to mitigate the identified risks, selection of a control strategy, and justification of choice of controls.|risk assessment
+________ uses various controls to reduce identified risks. These controls might be administrative, technical, or physical.|risk mitigation
+___________ is the likelihood that a particular threat exposes a vulnerability that could damage your organization.|risk
+A ________ is oneof the simplest substitution ciphers. It shifts each letter in the English alphabet a fixed number of positions, with Z wrapping back to A.|Vigenere cipher
+A process that creates the first secure communications session between a client and a server is the definition of ________.|SSL handshake
+Certain security objectives add value to information systems. _________ provides an exact time when a producer creates or sends information.|Timestamping
+In a ________, the cryptanalyst can encrypt any information and observe the output. This is best for the cryptanalyst.|Chosen-plaintext attack
+In a --- , the cryptanalyst possesses certain pieces of information before and after encryption|Known plaintext attack
+In an asymmetric key system, where everyone shares the same secret, compromising one copy of the key compromises all copies.|false
+Symmetric key cryptography is a type of cryptography that cannot secure correspondence until after the two parties exchange keys.|true
+The number of possible keys to a cipher is a|keyspace
+The term certificate authority refers to a trusted repository of all public keys.|false
+The output of a one-way algorithm; a mathematically derived numerical representation of some input.|check-sum
+The process of issuing keys to valid users of a cryptosystem so they can communicate.|key distribution
+What name is given to an encryption cipher that is a product cipher with a 56-bit key consisting of 16 iterations of substitution and transformation?|Data encryption standard
+What name is given to an encryption cipher that rearranges characters or bits of data?|transposition cipher
+What name is given to an encryption cipher that uniquely maps any letter to any other letter?|simple substitution cipher
+What name is given to an object that uses asymmetric encryption to bind a message or data to a specific entity|digital signature
+What name is given to random characters that you can combine with an actual input key to create the encryption key?|salt key
+Which of the following is the definition of Vigenerecipher?|An encryption cipher that uses multiple encrytpion cschemes in succession.
+Without any knowledge of the key, an attacker with access to an encrypted message and the decryption cipher could try every possible key to decode the message. This is referred to as ________.|brute-force attack
+_______________ enables you to prevent a party from denying a previous statement or action.|non-repudiation
+_______________ is another symmetric algorithm that organizations currently use. It is a 64-bit block cipher that has a variable key length from 32 to 448 bits. It is much faster than DES or IDEA and is a strong algorithm that has been included in more than 150 products, as well as v2.5.47 of the Linux kernel. Its author, Bruce Schneier, placed it in the public domain.|blowfish
+A _____________ contains rules that define the types of traffic that can come and go through a network.|firewall
+A method to restrict access to a network based on identity or other rules is the definition of ________.|network access control
+A stateful inspection firewall compares received traffic with a set of rules that define which traffic it will permit to pass through the firewall.|flase
+Border firewalls simply seperate the protected network from the internet|true
+internet control message protocol is a method of IP address assignment that uses an alternate, public IP address to hide a systems real IP address|fasle
+One of the OSI Reference Model layers, the Network Layer, is responsible for the logical implementation of the network.|true
+One of the OSI Reference Model layers,the Transport Layer, is responsible for maintaining communication sessions between computers.|false
+Telephony denial of service (TDoS) is a variation of a denial of service (DoS) attack, but is launched against traditional and packet-based telephone systems. A TDoS attack disrupts an organization's use of its telephone system through a variety of methods.|true
+The traceroute command displays the path that a particular packet follows so you can identify the source of potential network problems.|true
+What name is given to a protocol to implement a VPN connection between two computers?|Point to Point tunneling protocol
+What term is used to describe the current encryption standard for wireless networks?|Wi- Fi protected access
+Which OSI Reference Model layer creates, maintains, and disconnects communications that take place between processes over the network?|Session Layer
+Which OSI Reference Model layer includes all programs on a computer that interact with the network?|Application Layer
+Which OSI Reference Model layer is responsible for the coding of data?|Presentation layer
+Which OSI Reference Model layer must translate the binary ones and zeros of computer language into the language of the transport medium?|Physical Layer
+Which OSI Reference Model layer uses Media Access Control (MAC) addresses?Device manufacturers assign each hardware device a unique MAC address.|DataLink Layer
+Which of the following is the definition of network address translation ?|A method of IP address assignment that uses an alternate, public IP address to hide a system's real IP address.
+A firewall that examines each packet it receives and compares the packet to a list of rules configured by the network administrator.|packet-filtering firewall
+________ allows the computer to get its configuration information from the network instead of the network administrator providing the configuration information to the computer. It provides a computer with an IP address, subnet mask, and other essential communication information, simplifying the network administrator's job.|DHCP
+________ is asuite of protocols designed to connect sites securely using IP networks.|Internet Protocol Security (IPSec)
+A ________ enables the virus to take control and execute before the computer can load most protective measures.|System infector
+A ________ is a virus that attacks and modifies executable programs (like COM, EXE, SYS, and DLL files).|file infector
+A ____________ tricks users into providing logon information on what appears to be a legitimate Web site but is in fact a Web site set up by an attacker to obtain this information.|phishing attack
+Anomaly detection involves developing a network baseline profile of normal or acceptable activity, such as services or traffic patterns, and then measuring actual network traffic againstthis baseline.|true
+Defense in depth combines the capabilities of people, operations, and security technologies to establish multiple layers of protection, eliminating single lines of defense and effectively raising the cost of an attack.|true
+In a __________, the attacker uses IP spoofing to send a large number of packets requesting connections to the victim computer. These appear to be legitimate but in fact reference a client system that is unable to respond.|SYN Flood attack
+Malicious code attacks all three information security properties. Malware can erase or overwrite files or inflict considerable damage to storage media. This property is ________.|availability
+Malicious code attacks all three information security properties.Malware can modify database records either immediately or over a period of time. This property is ________.|integrety
+The primary characteristic of a virus is that it replicates and generally involves user action of some type|true
+Unexplained increases in bandwidth consumption, high volumes of inbound and outbound e-mail during normal activity periods, a sudden increase in e-mail server storage utilization (this may trigger alarmthresholds set to monitor and manage disk/user partition space), and an unexplained decrease in available disk space are all telltale symptoms of a ________.|worm
+Unlike viruses, worms do not require a host program in order to survive and replicate.|true
+Unrecognized new processes running, startup messages indicating that new software has been (or is being) installed (registry updating), unresponsiveness of applications to normal commands, and unusual redirection of normal Web requests to unknown sites are all telltale symptoms of a ________.|trojan
+A type of virus that infects other files and spreads in multiple ways.|What is meant by multiparite virus
+What name is given to a type of virus that uses a number of techniques to conceal itself from the user or detection software?|stealth virus
+What term is used to describe a type of virus that includes a separate encryption engine that stores the virus body in encrypted format while duplicating the main body of the virus?|polymorphic virus
+Whether software or hardwarebased, a ____________ captures keystrokes, or user entries, and then forwards that information to the attacker.|keystroke logger
+A botnet consists of a network of compromised computers that attackers use to launch attacks and spread malware.|a botnet
+A program that executes a malicious function of some kind when it detects certain conditions.|logic bomb
+________ attack countermeasures such as antivirus signature files or integrity databases.|retro virus
+_____________ are the main source of distributed denial of service (DDoS) attacks and spam.|botnets
+ISO 17799 is an international security standard.|true
+Ininformation technology, perhaps the best-known ISO standard is the Open Systems Interconnection (OSI) Reference Model. This internationally accepted framework of standards governs how separate computer systems communicate using networks.|true
+The ANSI produces standards that affect nearly all aspects of IT.|true
+The National Institute of Standards and Technology (NIST) is the main United Nations agency responsible for managing and promoting information and technology issues.|false
+The Payment Card Industry Data Security Standard (PCI DSS) is an international standard for handling transactions involving payment cards.|true
+The ________ is aU.S. standards organization whose goal is to empower its members and constituents to strengthen the U.S. marketplace position in the global economy, while helping to ensure the safety and health of consumers and the protection of the environment.|American National Standards Institute
+The ________ is an organization formed in 1994 to develop and publish standards for the World Wide Web.|W3C
+The ________ is the main United Nations agency responsible for managing and promoting information and technology issues.|Internation Telecommunication Union
+The _____________ is the preeminent organization for developing and publishing international standards for technologies related to electrical and electronic devices and processes.|International Electrotechnical Commission
+The best-known standard that relates to information security is the IEEE 802 LAN/MAN standard family.|true
+Unlike other organizations that specifically focus on engineering or technical aspects of computing and communication, the __________ primarily addresses standards that support software development and computer system operation.|ISO
+What do the letters of the C - I - A triad stand for?|confidential , integrety, availabilty
+A federal agency within the U.S. Department of Commerce whose mission is to "promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life."|NIST
+A U.S. standards organization whose goal is to empower its members and constituents to strengthen the U.S. marketplace position in the global economy, while helping to ensure the safety and health of consumers and the protection of the environment.|ANSI
+A standards organization that develops and promotes Internet standards.|Internet Engineering Task Force
+________ is a document produced by the IETF thatcontains standards as well as other specifications or descriptive contents.|A request for comments (RFC)
+The Internet Architecture Board (IAB) is a subcommittee of the IETF composed of independent researchers and professionals who have a technical interest the overall well-being of the Internet.|true
+A certificate of completion is a document that is given to a student upon completion of the program and is signed by the instructor.|true
+A professional certification states that you have taken the course and completed the tasks and assignments.|false
+An educational program that is generally associated with a college or university that provides formal courses that do not lead to degrees is the definition of ________.|continuing education
+Certifications that require additional education generally specity the number of credits each certificate requires|true
+In general, security training programs are identical to security education programs with respect to their focus on skills and in their duration.|false
+Most certifications require certification holders to pursue additional education each year to keep their certifications current.|True
+Most educational institutions offer accelerated programs to complete PhD degree requirements in less than one year.|False
+Obtaining the coveted CAE/IAE or CAE/R designation means the curriculum and research institutions meet or exceed the standards defined by the _______.|NSA
+The Office of Personnel Management (OPM) requires that federal agencies provide the training suggested by the NIST guidelines.|true
+The current term for online study is distance learning|true
+The four main areas in NIST SP 800-50 are awareness, training, education, and __________________.|profesisonal development
+The main purpose of security training courses is to rapidly train students in one or more skills, or to cover essential knowledge in one or more specific areas.|true
+The most difficult and slowest option for IT security training is studying materials yourself.|false
+The purpose of ________ is to provide formal training courses that lead to a certificate or professional certification and not a degree.|continueing education
+The standard bachelor's designation is a four-year diploma program.|false
+What name is given to a document that verifies that a student has completed courses and earned a sufficient score on an assessment?|Certificate of completion
+What name is given to educational institueitons that meet specifif federal information assurance educational guidelines|continuing education centers
+Whereas MS programs prepare students to perform information security work, MBA programs prepare students to manage and maintain the people and environment of information security.|true
+Which of the following is the definition of continuing professional education (CPE)?|A standard unit of credit that equals 50 minutes of instruction.
+________refers to an educational institution that has successfully undergone evaluation by an external body to determine whether the institution meets applicable standards.|accredited
+An information security safeguard is also called in informaiton security control|true
+GLBA distinguishes between customers and consumers for its notice requirements. A customer is any person who gets a consumer financial product or service from a financial institution.|false
+Generically, this is data that can be used to individually identify a person, including Social Security number, driver's license number, financial account data, and health data.|Personally identifiable information
+Information regulated under the GRamm Leach Bliey Act is|consumer financial information
+Information regulated under the sarbanes oxley act is|corporate financial information
+Information systems security is about ensuring the confidentiality, integrity, and availability of IT infrastructures and the systems they comprise.|true
+One of the most important parts of a FISMA information security program is that agencies test and evaluate it.|true
+SOX doesn't apply to publicly traded companies|false
+Social Security numbers, financial account numbers, credit card numbers, and date of birthare examples of __________ as stipulated under GLBA.|NPI
+Students who have had their FERPA rights violated are allowed to sue a school for that violation.|False
+The FTC Safeguards Rule requires a financial institution to create a written information security program that must state how the institution collects and uses customer data. It also must describe the controls used to protect that data.|true
+The Family Educational Rights and Privacy Act (FERPA) is the main federal law protecting the privacy of student information.|true
+The ________ is aregulation that covered entities may disclose only the amount of protected health information absolutely necessary to carry out a particular function.|minimum necessary rule
+The regulating agency for the Family Educational Rights and Privacy Act is the ________.|U.S. department of eduacation
+The regulating agency for the Gramm Leach Bliley act is the|FTC
+The regulating agency for the Sarbanes-Oxley Act is the ________.|Securities and Exchange Commission
+Under CIPA, a technology protection measure is any technology that can block or filter the objectionable content.|true
+What name is given to patient health information that is computerbased?|electronic protected health information
+Which regulating agency has oversight for the Children's Internet Protection ACt?|FCC
+____________ is a person's right to control the use and disclosure of his or her own personal information.|privacy
+the likelyhood that something bad happens to an asset is|Risk
+This defines how a business gets back on its feet after a major disaster like a hurricane|Disaster Recovery Pla (DRP)
+Gives priorities to the functions an organization needs to keep going|Businees Continuity Plan
+Connecting your computers or devices to the ---- immediately exposes them to attack|internet
+Software vendors must protect themselves from liabilities of their own vulnerabilities with a|End-User License Agreement (
+This represents the fourth layer of defense for a typical IT infrastructure|LAN - to - WAN Domain
+The goal and objective of a --- is to provide a consistent definition for how an organization should handle and secure different types of data|data classification standard
+The requirement to keep information private or secret is the definition of|...
+The tunnel can be created between a remote workstation using the public internet and VPN router and a --- web site|(SSL - VPN)
+A --- is a weakness that allows a threat to be realized|vulnerability
+The weakest link in the security of an IT infrastructure is the user|True
+This appliance examines IP data streams for common attack and malicious intent patterns|(IDS)
+What name is given to a U.S. federal law that requires U.S. government agencies to protect citizens private data and have proper security controls in place?|Federal Information Security Management Act
+What name is given to an exterior network that acts as a buffer zone between the public internet and the organizations IT?|demilitarized zone
+What term is used to describe guarding information from everyone except those who have rights to it?|confidentiality
+Which of the following describes the Family Educational Rights and Private ACT?|a law that protects the private data of students
+____________ is the amount of time it takes to recover and make a system, application, and data available for use after an outage.|Recover time objective
+A --- is any action that could damage an asset that can be natural and or human iduced|threat
+_______ means only authorized users can change information and deals with the validity and accuracy of data.|integrety
+A common DSL service is ________,where the bandwidth is different for downstream and upstream traffic.|asymmetric digital subscriber line (ADSL)
+An encrypted channel used for remote access to a server or system, commonly used in Linux and UNIX servers and applications, is the definition of __________.|secure shell (SSH)
+E-commerce changed how businesses sell, and the --- change how they market|...
+If VoIP traffic needs to traverse through a WAN with congestion, you need|quality of service (QOS)
+Medical practices and hospitals realized early on that ________ provide(s) the ability toprovide access to the necessary information without having to invest in many computersand network infrastructure|mobile devices
+Network devices can implement ___________ to better support VoIP and SIP IP packets and reduce dropped calls and delays.|traffic prioritization
+Security controls do not need to be implemented to secure VoIP and SIP on LANs andWANs.|false
+The term Bring Your Own Device (BYOD) refers to an organizational policy of allowing or even encouraging employees, contractors, and others to connect their own personal equipment to the corporate network; this offers cost savings and other benefits but also presents security risks.|true
+The total number of errors divided by the total number of bits transmitted is the definition of|bit error rate
+Voice an unified communications are --- applications that use 64 byte IP packets|Session Initiation Protocol (SIP)
+What is ment by application convergence?|The integration of applications to enhance productivity
+The software in a phone system that performs the call switching from an inboundtrunk to a phone extension|call control
+What name is given to a high-speed broadband networking technology that uses a 53-byte cell to support real-time voice, video , or data communications?|asynchronous transfer mode (ATM)
+What name is given to a software-based application like WebEx that supports audio conferencing and sharing of documents (text, spreadsheets, presentations, etc.) for real-time discussions with team members or colleagues?|collaboration
+What name is given to an attack that uses ping or ICMP echo-request, echo-reply messages to bring down the availability of a server or system?|denial of service
+What term is used to describe a packet- based WAN service capable of supporting one-to-many and many-to-many WAN connections?|frame relay
+What term is used to describe a strategy that uses a device to provide electrical power for IP phones from the RJ-45 8-pin jacks directly to the workstation outlet?|power over Ethernet (Poe)
+What term is used to describe communication that doesn't happen in real time but rather consists of messages that are stored on a server and downloaded to endpoint devices?|store-and-forward communications
+What term is used to describe streamlining processes with automation or simplified steps?|business process engineering
+--- is the basis for unified communication and is the protocol used by real-time applications such as IM chat, conferencing and collaboration|Session Initiation Protocol (SIP)
+A DoS attack is a coordinated attempt to deny service by causing a computer to perform an unproductive task.|true
+A _________ has a hostile intent, possesses sophisticated skills, and may be interested in financial gain. They represent the greatest threat to networks and information resources.|cracker
+A __________ tries to break IT security and gain access to systems with no authorization, in order to prove technical prowess.|black- hat -hacker
+A ___________ is a software program that performs one of two functions: brute-force password attack to gain unauthorized access to a system,or recovery of passwords stored in a computer system.|password cracker
+A --- is a tool used to scan IP host devices for open ports that have been enabled|port scanner
+A protocol analyzer or --- is a software program that enables a computer to monitor and capture network traffic|packet sniffer
+In a ________, the attacker sends a large number of packets requesting connections to the victim computer|SYN flood
+Malicious software can be hidden in a|...
+spoofing means a type of attack in which one person, program, or computer disguises itself as another person, program, or computer to gain access to some resource.|true
+A program or dedicated hardware device that inspects network traffic passing though it|firewall
+An attack that seeks to obtain personal or private financial information through domain spoofing|pharming
+The mode in which sniffers operate; it is nonintrusive and does not generate network traffic. This means that every data packet is captured and can be seen by the sniffer.|promiscuous mode
+A type of malware that modifies or replaces one or more existing programs to hide the fact that a computer has been compormised|rootkit
+What term is used to describe an attack in which the attacker gets between two parties and intercepts messages before transferring them on to their intended destination?|man-in-the-middle attack
+When an attacker discovers a __________, he or she can use it to bypass existing security controls such as passwords, encryption, and so on.|backdoor
+A network utility program that reads from and writes to network connections.|netcat
+Wiretapping is an application incorporating known software vulnerabilities, data, and scripted commands to exploit a weakness in a computer system or IP host device.|false
+______ is a method that black-hat hackers use to attempt to compromise logon and password access controls, usually following a specific attack plan, including the use of social engineering to obtain user information.|Brute-force password atack
+____ is type of attack in which the attacker takes control of a session between two machines and masquerades as one of them.|Hijacking
+A ___________ is a formal analysis of an organization's functions and activities that classifies them as critical or noncritical.|business impact analysis (BIA)
+A___________ primarily addresses the processes, resources, equipment,and devices needed to continue conducting critical business activities when an interruption occurs that affects the business's viability.|...
+Annual loss expectancy (ALE) means the process of identifying, assessing, prioritizing, and addressing risks.|false
+Risks apply to specific assets. If you multiply the risk __________ by the cost of the asset, the result is the exposure to a specific risk.|probability
+Singe loss expectancy(SLE) means the expected loss for a single threat occurrence. The formula to calculate SLE is SLE = Resource Value x EF|true
+The first step in risk analysis is to determine what and where the organizations --- are located|assets
+The formal process of monitoring and controlling risk focuses on --- new risks.|analyzing
+The goal of --- is to quantify possible outcomes of risks, determine probabilities of outcomes, identify high impact risks and develop plans based on risks|quantitative risk analysis
+The recover point objective (RPO) identifies the amount of ---- that is acceptable|data loss
+The term risk management describes the process of identifying, assessing, prioritizing and addressing risks|true
+What is meant by annual rate of occurrence (ARO)?|The annual probability that a stated threat will be realized.
+What is meant by risk register?|A list of identified risks that results from the risk-identification process
+What is the project Management Body of Knowledge ?|A collection of the knowledge and best practices of the project management profession
+What is the difference between a BCP and a DRP?|...
+What name is given to any risk that exists but has a defined response?|residual risk
+When you accept a --- you take no further steps to resolve|negative risk
+A risk-analysis method that uses relative ranking to provide further definition of the identified risks in order to determine responses to them.|...
+________ is the difference between the security controls you have in place and the controls you'd to have in place in order to address all vulnerabilities.|security gap
+--- is rapidly becoming an increasingly important aspect of enterprisecomputing|disaster recovery
+A communication protocol that is connectionless and is popular for exchanging small amounts of data or messages is called ---|User Datagram Protocol (UDP)
+A method of restricting resource access to specific periods of time is called ---|temporal isolation
+An organization's facilities manager is often responsible for ---|Physical Access Control
+Biometrics is another --- method for identifying subjects|access control
+A system that puts access control into the hands of people such as department managers who are closest to system users; there is no one centralized entity to process access requests in this system.|decentralized access control
+Mandatory access control (MAC) isa means of restricting access to an object based on the object's classification and the user's security clearance.|true
+The Bell-La Padula access control model focuses primarily on ---|confidentiality of data and control of access to classified information
+The --- is the central part of a computing environment's hardware, software, and firmware that enforces access control for computer systems|security kernel
+What is ment by constrained user interface?|Software that allows users to enter only specific information.
+What name is given to an access control method that bases access control approvals on the jobs the user is assigned?|role-based access control
+What term is used to describe a device used as a log on authenticator for remote users of a network?|synchronous token
+An authentication token used to process challenge-response authentication with a server. It takes the server's challenge value and calculates a response. The user enters the response to authenticate a connection.|asynchronous token?
+Which of the following is an accurate description of cloud computing?|The practice of using computing services that are delivered over a network.
+Which of the following is not a type of authentication?|...
+The process of protecting a resource so that it is used only by those allowed to use it; a particular method used to restrict or allow access to resources.|Which of the following is the definition of access control?
+a ---- is an authentication credential that is generally longer and more complex than a password|passphrase
+---- is an authorization method in which access to resources is decided by the user's formal status.|Authority - level policy
+---- is the process of dividing up tasks into a series of unique activities|Separation of duties
+A compliance liaison works with each department to ensure that it understands, implements, and monitors compliance in accordance with the organization's policies.|True
+A security awareness program includes|...
+A way to protect your organization from personnel - related security violations is to use job rotation.|true
+An organization must comply with rules on two levels. regulatory compliance and organizational compliance.|true
+Because personnel are so important to solid security, one of the best security controls you can develop is a strong security --- and awareness program|training
+Enacting changes in response to reported problems is called|reactive change managment
+For all the technical solutions you can devise to secure your systems, the --- remains your greatest challenge.|human element
+Initiating changes to avoid expected problems is the definition of proactive change managment|true
+one of the most popular types of attacks on computer systems involves--- . These attack deceive or use people to get around security controls.|Social engineering
+The--- team's responsibilities include handling events that affect your computers and networks and ultimately can respond rapidly and effectively to any event.|security administration
+The name given to a group that is responsible for protecting sensitive data in the event of a natural disaster or equipment failure, among other potential emergencies, is ...|emergency operations group
+The term remediation refers to fixing something before it is broken, defective, of vulnerable.|true
+The technical evaluation of a system to provide assurance that you have implemented the system correctly|certification
+A mandated requirement for a hardware or software solution that is used to deal with a security risk throughout the organization|standard
+What name is given to a method of developing software that is based on small project iteration, or sprints, instead of long project schedules?|agile development
+What term is used to describe a benchmark used to make sure that a system provides a minimum level of security across multiple applications and across different products?|baseline
+What term is used to describe a set of step-by-step actions to be performed to accomplish a security requirement, process, or objective?|procedure
+When an information security breach occurs in your organization, a --- helps determine what happened to the system and when.|Security event log
+Which of the following is the definition of guideline?|A recommendation to purchase or how to used a product or system
+Which of the following is the definition of system owner?|The person responsible for the daily operation of a system and for ensuring that the system continues to operate in compliance with the conditions set out by the AO.
+Information security is specific to securing information, whereas information systems security is focused on the security of the systems that house the information. True or False?|True
+Software manufacturers limit their liability when selling software using which of the following?|End-User License Agreement (EULA)
+The ___ tenet of information systems security is concerned with the recovery time objective.|Availability
+Encrypting data on storage devices or hard drives is a main strategy to ensure data integrity. True or False?|False
+Organizations that require customer-service representatives to access private customer data can best protect customer privacy and make it easy to access other customer data by using which of the following security controls?|Blocking out customer private data details and allowing access only to the last four digits of Social Security numbers or account numbers.
+The ___ is the weakest link in an IT infrastructure.|User Domain
+Which of the following security controls can help mitigate malicious e-mail attachments?|All of the above
+You can help ensure confidentiality by implementing ___.|A virtual private network for remote access
+Encrypting e-mail communication is needed if you are sending confidential information within an e-mail message through the public internet. True or False?|True
+Using security policies, standards, procedures, and guidelines helps organizations decrease risks and threats. True or False?|True
+A data classification standard is usually part of which policy definition?|Asset protection policy
+The SSCP profession certification is geared toward which of the following information systems security positions?|A) IT security practitioner
+Maximizing availability primarily involves minimizing ___.|E) All of the above
+Which of the following is not a U.S. compliance law or act?|D) PCI DSS
+Internet IP packets are to cleartext what ecnrypted IP packets are to___.|Ciphertext
+Wireless access point (WAP)|With wireless LANs (WLANs), radio transceivers are used to transmit IP packets from a WLAN NIC to a _____________.
+Local area network (LAN)|A ________ is a collection of computers connected to one another or to a common connection medium.
+Disaster recovery plan (DRP)|A ___________ defines how a business gets back on its feet after a major disaster like a fire or hurricane.
+Business continuity plan (BCP)|A ___________ gives priorities to the functions an organization needs to keep going.
+Internet|Connecting your computers or devices to the ________ immediately exposes them to attack.
+Workstation Domain|The director of IT security is generally in charge of ensuring that the ____________ conforms to policy.
+Data classification standard|The goal and objective of a __________ is to provide a consistent definition for how an organization should handle and secure different types of data.
+Confidentiality|The requirement to keep information private or secret is the definition of __________.
+security|The world needs people who understand computer-systems ________ and who can protect computers and networks from criminals and terrorists.
+LAN-to-WAN Domain|The ________ is where the fourth layer of defense is required.
+LAN-to-WAN Domain|The ____________ represents the fourth layer of defense for a typical IT infrastructure.
+Federal Information Security Management Act (FISMA)|What name is given to a U.S. federal law that requires U.S. government agencies to protect citizens' private data and have proper security controls in place?
+secure shell (SSH)|An encrypted channel used for remote access to a server or system, commonly used in Linux and UNIX servers and applications, is the definition of __________.
+VoIP|Audio conferencing is a software-based, real-time audio conference solution for ________ callers.
+Internet|E-commerce changed how businesses sell, and the ________ changed how they market.
+mobile devices|Medical practices and hospitals realized early on that ________ provide(s) the ability to provide access to the necessary information without having to invest in many computers and network infrastructure.
+Bit error rate|The ________ in analog communications is one error for every 1,000 bits sent; in digital communications, the __________ is one error for every 1,000,000 bits sent.
+Dense wavelength division multiplexing (DWDM)|What name is given to a high-speed broadband networking technology that uses a 53-byte cell to support real-time voice, video, or data communications?
+frame relay|What term is used to describe a packet-based WAN service capable of supporting one-to-many and many-to-many WAN connections?
+Dense wavelength division multiplexing (DWDM)|________ is a technique where multiple light streams can transmit data through a single strand of fiber.
+adware|A software program that collects information about Internet usage and uses it to present targeted advertisements to users is the definition of ________.
+cracker|A _________ has a hostile intent, possesses sophisticated skills, and may be interested in financial gain. They represent the greatest threat to networks and information resources.
+black-hat hacker|A __________ tries to break IT security and gain access to systems with no authorization, in order to prove technical prowess.
+password cracker|A ___________ is a software program that performs one of two functions: brute-force password attack to gain unauthorized access to a system, or recovery of passwords stored in a computer system.
+port scanner|A ___________ is a tool used to scan IP host devices for open ports that have been enabled.
+operating system (OS)|A ___________ fingerprint scanner is a software program that allows an attacker to send log-on packets to an IP host device.
+attack|An attempt to exploit a vulnerability of a computer or network component is the definition of ________.
+vulnerabilities|Black-hat hackers generally poke holes in systems, but do not attempt to disclose __________ they find to the administrators of those systems.
+SYNflood|In a ________, the attacker sends a large number of packets requesting connections to the victim computer.
+business impact analysis (BIA)|A ___________ is a formal analysis of an organization's functions and activities that classifies them as critical or noncritical.
+risk management|Any organization that is serious about security will view ___________ as an ongoing process.
+business continuity plan (BCP)|A___________ primarily addresses the processes, resources, equipment, and devices needed to continue conducting critical business activities when an interruption occurs that affects the business's viability.
+compliance|Information security activities directly support several common business drivers, including ________ and efforts to protect intellectual property.
+probability|Risks apply to specific assets. If you multiply the risk __________ by the cost of the asset, the result is the exposure to a specific risk.
+assets|The first step in risk analysis is to determine what and where the organizations _________ are located.
+data loss|The recovery point objective (RPO) identifies the amount of _________ that is acceptable.
+A list of identified risks that results from the risk-identification process.|What is meant by risk register?
+qualitative risk analysis|What name is given to a risk-analysis method that uses relative ranking to provide further definition of the identified risks in order to determine responses to them?
+negative risk|When you accept a __________, you take no further steps to resolve.
+logical access control|A mechanism that limits access to computer systems and network resources is ________,
+A system that puts access control into the hands of people such as department managers who are closest to system users; there is no one centralized entity to process access requests in this system.|How is decentralized access control defined?
+USBtoken|This device uses public key infrastructure (PKI) technology—for example, a certificate signed by a trusted certification authority—and doesn't provide one-time passwords.
+authentication|Two-factor __________ should be the minimum requirement for valuable resources as it provides a higher level of security than using only one.
+role-based access control (RBAC)|What name is given to an access control method that bases access control approvals on the jobs the user is assigned?
+threshold|When you apply an account-lockout policy, set the __________ to a high enough number that authorized users aren't locked out due to mis-typed passwords.
+Need-to-know|________ is used to describe a property that indicates that a specific subject needs access to a specific object. This is necessary to access the object in addition to possessing the proper clearance for the object's classification.
+True|A physically constrained user interface is a user interface that does not provide a physical means of entering unauthorized information.
+False|Access control is the process of proving you are the person or entity you claim to be.
+Ping|sends a ping (ICMP Echo Request) to the target machine.
+port scan|will help identify which ports are open thereby giving an indication of which services may be running on the targeted machine.
+3. Critical infrastructure|are those whose loss would have severe repercussions to our nation i.e. Transportation Sector, Power Grid, Financial Infrastructure, Water Filtration Plants, Telecom Infrastructure, National Monuments, Chemical Facilities etc.
+5. Access Control|is the ability of mechanisms or methods used to determine which permissions a user has for any network resource
+6. An Algorithm|is a mathematical formula, usually for encryption, which gives a step by step or instructions on how to solve a problem.
+4. Hackers are individuals|who deliberately access computer systems and networks without authorization.
+7. Assets|are resources and information an organization need to conducts its business. Data is unquestionably a company's most important asset.
+Asymmetric Encryption|Asymmetric meaning different, uses both a public and private key. Public key encrypts and Private Key decrypts.
+9. Symmetric Encryption|Symmetric meaning the same, uses only 1 key, a public key that is available to everyone
+anomaly|is something that does not fit into an expected pattern.
+11. Confidentiality|is the principle that states information should not be disclosed to unauthorized individuals
+13. Availability|means that the software, hardware and data should be available to the user when he or she wants to access it.
+14. Authentication|, perhaps the most important thing we do, is where we verify a user's identity.
+Backups|refer to copying and storing data in a secondary location to preserve the data in case it's destroyed or corrupted
+12. Integrity|requires that the information is not changed or modified except by individuals authorized to do so.
+16. Incremental backups|have a smaller backup window where files that have modified or changed are backed up. When the incremental backup is complete all archive bits are unchecked back to 0. The advantage is the backups are faster and the disadvantage is the restore process is longer and backups have to be restored in order. It is cumulative in nature.
+17. Differential backups|have a larger backup window where the files that have changed or modified are backed up. After the incremental backup has occurred it does not uncheck the archive bit back to 0 as does the incremental backup, in other words with a differential backup the archive bit always reads 1. The disadvantage is the backup takes longer but the restore process is shorter as all that is needed is the last differential backup and the last full backup to restore
+baseline|is a foundation for comparison or measurement. It is a comparison for what is and what it will be. For example of your boss tells you that he wants' to increase the amount of users on the network by 200 and your existing network is 500 you divide 200 by 500 and the result is a 40% increase in your baseline.
+19. Switches|separate collision domains yet extend broadcast domains.
+20. Biometrics|is where a individual uses finger prints, retinal scans, hand and facial geometry or voice analysis for authentication.
+21. Block cipher|is where entire blocks of data are encrypted at one time and inserted back into the text randomly. The randomness contributes to unpredictability which makes for stronger encryption. It is usually used by AES where its block size is 128 bit.
+22. Stream Ciphers|were at one time used by AES, and it is done one character at a time but has since been replaced by block cipher.
+Control|is something you use to detect, prevent or mitigate the risk associated with a threat. Encryption is a good example of a control.
+24. Mitigate|action taken to reduce the likelihood of a threat occurring.
+25. AUP|is a policy that communicates to users what the who, what, why, where, when and how network resources are to be used.
+26. AAR or After Action Review|is a document that lists the who, what, why, where, when and how of an incident or disaster response.
+Disaster Recovery Plan or DRP|is a written plan developed to address how an organization will react to a natural or man made disaster in order to assure organizations business continuity. Remember also that some incidents can become disasters.
+28. Radius Servers|use UDP port 1812 for authentication and port 1813 for accounting.
+29. AES or Advanced Encryption Standard|is the defacto method of encryption used today. Its block size is 128 bit and It can use key lengths of 128, 160, 192 & 256 bit.
+30. Computer Forensics|involves the preservation, identification, documentation and interpretation of computer data used in legal proceedings.
+Intrusion Detection System is a (Passive Visibility Tool)|in all that it does is catch an intrusion and record it into the logs where an administrator can take whatever action is needed. It can be host or network based but generally is deployed on a network basis.
+Intrusion Prevention System is a (Active Control Tool)|) in that when it sees a problem it goes out and corrects it by either eliminating a protocol or shutting down ports for example. It can also be network based or host based but is generally deployed on a network basis.
+33. Layered Security|refers to the arrangement of multiple layers of defense, a form of defense in depth and is considered by most Cyber Security Professionals to one of the only ways to truly protect a network.
+34. Implicit Deny|is a philosophy where all user actions are prohibited unless specifically permitted.
+35. Single Sign On|is an authentication process by which the user can enter a single user ID and password and then move from resource to resource or application to application.
+36. Mutual Authentication|describes a process in which each side of an electronic communication verifies the authenticity where you would use a token and a password to authenticate. It can however be a combination of two or more types of authentication.
+37. Stateful firewalls|firewalls have the capability to examine the data stream from end to end.
+38. Stateless firewalls|are only capable of examining individual packets. They obviously much quicker but not as sophisticated.
+Star Topology|the most often used topology today is one whose components are connected to a central connection point.
+40. Fault Tolerance|is the capability of a network, system or component to continue functioning despite damage or malfunction.
+41. Redundancy|is the use of one or more identical devices, connections or components for storing, processing, or transporting data. Redundancy is the most common method of achieving fault tolerance.
+DMZ|acts as a buffer zone between the web where no controls exist and the LAN which has security policies and controls in place.
+43. TCP|is a core protocol of the TCP/IP suite. It resides at the transport layer, it's a connection oriented protocol and it provides for reliable delivery.
+44. UDP|is a connectionless protocol which also resides at the transport layer of the TCP/IP suite. It however does not provide for reliable delivery but it is more efficient and is best suited for such things as video over the web.
+Proxy Server|is a software application on a network host that screens all incoming and outgoing traffic. It's sometimes called the application gateway or simply the proxy.
+46. NIST Password Standard 800-118|for Enterprise Password Management currently requires 8 characters with 1 uppercase and 1 special character.
+47. Entropy|is a measure of unpredictability of information content.
+48. Private Key Encryption|is data that is encrypted using a single key that only the sender and receiver know. The most common types of private key are AES and DES or 3 DES. This is known as Symmetric Encryption.
+49. Public Key Encryption|is data that is encrypted using 2 keys, one private that's known only to the user and one public that's associated with the user. RSA is the most popular type used today and this type is called Asymmetric, meaning different.
+50. Encryption & Algorithm Analogy|Using an envelope the Encryption is that data contained in the letter. An Algorithm is a set of detailed instructions based on a mathematical formula and how to insert the data into the envelope.
+51. Signature Based Monitoring|is where an IPS or IDS examines network traffic, activity and transactions and look for well known patterns.
+52. Anomaly Based Monitoring|is where an IPS or IDS establishes a baseline of normal activities over a given period of time. Then whenever a significant deviation for the baseline occurs it can detect it and sound an alarm. There are two issues with this form of detection and they are false alarms because sometimes network behavior changes rapidly and higher than usual network cost i.e. processing time.
+53. Behavior-Based Monitoring|examines and analyzes the behavior of processes and programs and detect any abnormal activities. It can then decide to allow or block the activity. Its advantage is that it doesn't have to compile a baseline or update its signature files and as a result can quickly stop new attacks.
+54. De Jure standards|are official standards such as those that are set by the IEEE.
+55. De Facto standards|are those standards, though not set by the IEEE or any other organization, and still are accepted as the industry standard.
+56. Latency|is the delay between transmission of a signal and its receipt.
+57. Throughput|is the amount of data that a medium can transmit during a given period of time.
+58. Scalability|is the property that allows you to increase the size of the network easily.
+59. Convergence|the ability to have or use voice, data or video over a network.
+60. Vulnerability|is a flaw or a weakness that allow a threat agent to bypass security.
+IMPACT|is a systematic and methodical evaluation of exposure of assets to attackers, forces of Nature or any other entity that is a potential harm.
+62. Risk|is the likelihood that a threat agent will exploit vulnerability
+Digital Certificate|is a password protected and encrypted file that holds individuals identification information including the public key.
+Incident|is an issue that may be man made or natural whose impact affects the QoS or functionality of a network is resolved in a timely manner.
+Disaster|is an issue that escalates from an incident, either man made or natural that causes catastrophic damage to the functionality or QoS of a network. It is generally not solved in a timely manner.
+67. CSMA/CD|is a method of accessing a wired medium and when a collision occurs it uses a technique called jamming to make sure it can transmit the data which is unlike CSMA/CA a wireless access method which uses ACK or acknowledge packets to access and verify the transmission
+68. Nonrepudiation|is the ability to verify that an operation has been performed by a particular person or account. It is a system property that prevents the parties to a transaction from subsequently denying involvement in the transaction.
+Virus|is program that replicates itself to other devices on the network. It needs an executable program to attach itself to in order to do its job.
+Worm|is a program that travels through and replicates itself on the network. They do not alter programs as viruses do but are payload specific. They can and sometimes do carry viruses however.
+Trojan|is as it suggests. It is a program that disguises itself but actually causes harm to the machine
+Hot Site|is an exact copy or mirror of your present network. It includes facility, hardware, power, telecom, software and backups.
+Warm Site|contains site, telecom, power and hardware. Software and backups are to be brought with.
+Cold Site|contains site, power and telecom. Everything else i.e. hardware, software and backups must be brought in.
+In information security, an example of a threat agent can be ____.|All of the above
+Select below the information protection item that ensures that information is correct and that no unauthorized person or malicious software has altered that data.|Integrity
+Which position below is considered an entry-level position for a person who has the necessary technical skills?|security technician
+Which of the three protections ensures that only authorized parties can view information?|Confidentiality
+According to the U.S. Bureau of Labor Statistics, what percentage of growth is the available job outlook supposed to reach by the end of the decade?|22
+Those who wrongfully disclose individually identifiable health information can be fined up to what amount per calendar year?|$1,500,000
+What information security position reports to the CISO and supervises technicians, administrators, and security staff?|manager
+To date, the single most expensive malicious attack occurred in 2000, which cost an estimated $8.7 billion. What was the name of this attack?|Love Bug
+What country is now the number one source of attack traffic?|Indonesia
+Which term below is frequently used to describe the tasks of securing information that is in a digital format?|information security
+Select below the term that is used to describe individuals who want to attack computers yet lack the knowledge of computers and networks needed to do so:|Script kiddies
+An item that has value.|asset
+A premeditated, politically motivated attack against information, computer systems, computer programs, and data, which often results in violence.|cyberterrorism
+Attacker who attacks for ideological reasons that are generally not as well defined as a cyberterrorist's motivation|hactivist
+Automated attack package that can be used without an advanced knowledge of computers|exploit kit
+A situation that involves exposure to danger|risk
+A type of action that has the potential to cause harm.|threat
+A person or element that has the power to carry out a threat|threat agent
+A flaw or weakness that allows a threat agent to bypass security|vulnerability
+The means by which an attack could occur​|​threat vector
+In information security, what constitutes a loss?|all of the above
+Under which law are health care enterprises required to guard protected health information and implement policies and procedures whether it be in paper or electronic format?|HIPAA
+Script kiddies acquire which item below from other attackers to easily craft an attack|Exploit kit
+What type of theft involves stealing another person's personal information, such as a Social Security number, and then using the information to impersonate the victim, generally for financial gain?|Identity theft
+What term is used to describe a loose network of attackers, identity thieves, and financial fraudsters?|Cybercriminals
+The security protection item that ensures that the individual is who they claim to be (the authentic or genuine person) and not an imposter is known as?|Authentication
+The ____ Act requires banks and financial institutions to alert customers of their policies and practices in disclosing customer information.|Gramm-Leach-Bliley
+What kind of server connects a remote system through the Internet to local serial ports using TCP/IP?|Serial server
+In what kind of attack can attackers make use of hundreds of thousands of computers under their control in an attack against a single server or network?|distributed
+Which of the following is malicious computer code that reproduces itself on the same computer?|virus
+The physical procedure whereby an unauthorized person gains access to a location by following an authorized user is known as?|Tailgating
+What kind of software program delivers advertising content in a manner that is unexpected and unwanted by the user, and is typically included in malware?|Adware
+What type of malware consists of a set of software tools used by an attacker to hide the actions or presence of other types of malicious software, such as Trojans, viruses, or worms?|rootkit
+The two types of malware that require user intervention to spread are:|Viruses and trojans
+Select below the type of malware that appears to have a legitimate use, but actually contains or does something malicious:|Trojan
+What term below is used to describe a means of gathering information for an attack by relying on the weaknesses of individuals?|Social engineering
+Malware that locks or prevents a device from functioning properly until a fee has been paid is known as:​|​Ransomware
+What type of attack is targeted against a smaller group of specific individuals, such as the major executives working for a manufacturing company?​|​Watering Hole
+What type of malware is heavily dependent on a user in order to spread?|virus
+Of the three types of mutating malware, what type changes its internal code to one of a set number of predefined mutations whenever it is executed?​|Oligomorphic malware
+What type of undocumented yet benign hidden feature launches after a special set of commands, key combinations, or mouse clicks, and was no longer included in Microsoft software after the start of their Trustworthy Computing initiative?|Easter egg
+A virus that infects an executable program file is known as?|program virus
+Computer code that is typically added to a legitimate program but lies dormant until it is triggered by a specific logical event is known as a?|logic bomb
+One of the armored virus infection techniques utilizes encryption to make virus code more difficult to detect, in addition to separating virus code into different pieces and inject these pieces throughout the infected program code. What is the name for this technique?|Swiss cheese
+What is the term used to describe unsolicited messages received on instant messaging software?|Spim
+A software program that delivers advertising content in a manner that is unexpected and unwanted by the user.|Adware
+Software code that gives access to a program or a service that circumvents normal security protections.​|Backdoor​
+A logical computer network of zombies under the control of an attacker.​|​Botnet
+Malicious computer code that, like its biological counterpart, reproduces itself on the same computer.​|​Computer virus
+A false warning designed to trick users into changing security settings on their computer​|Hoax
+Software or a hardware device that captures and stores each keystroke that a user types on the computer's keyboard.​|Keylogger​
+Computer code that lies dormant until it is triggered by a specific logical event​|​Logic bomb​
+​A computer virus that is written in a script known as a macro|​Macro virus
+​A phishing attack that targets only specific users|​Spear phishing
+​A phishing attack that uses telephone calls instead of e-mails.|Vishing
+A series of instructions that can be grouped together as a single command and are often used to automate a complex set of tasks or a repeated series of tasks are known as:|A macro
+Which of the following is not one of the four methods for classifying the various types of malware?​|​Source
+How many different Microsoft Windows file types can be infected with a virus?|70
+​What type of system security malware allows for access to a computer, program, or service without authorization?|​Backdoor
+Attacks that take place against web based services are considered to be what type of attack?|server-side
+When TCP/IP was developed, the host table concept was expanded into a hierarchical name system for matching computer names and numbers using this service:|DNS
+Which SQL statement represents a SQL injection attempt to determine the names of different fields in a database?|whatever' AND email IS NULL; --
+Which type of attack below is similar to a passive man-in-the-middle attack?|replay
+What portion of the HTTP packet consists of fields that contain information about the characteristics of the data being transmitted?|HTTP header
+The default root directory of the Microsoft Internet Information Services (IIS) Web server is located at which directory below?|C:\Inetpub\ wwwroot
+Choose the SQL injection statement example below that could be used to find specific users:|whatever' OR full_name LIKE '%Mia%'
+On a compromised computer, you have found that a user without administrative privileges was able to perform a task limited to only administrative accounts. What type of exploit has occurred?​|​Privilege escalation
+To what specific directory are users generally restricted to on a web server?|root
+How can an attacker substitute a DNS address so that a computer is automatically redirected to another device?|DNS poisoning
+Which SQL injection statement example below could be used to discover the name of the table?|whatever' AND 1=(SELECT COUNT(*) FROM tabname); --
+What language below is designed to display data, with a primary focus on how the data looks?|HTML
+An attack in which the attacker attempts to impersonate the user by using his or her session token is known as:|Session hijacking
+What language below is for the transport and storage of data, with the focus on what the data is?|XML
+Select below the string of characters that can be used to traverse up one directory level from the root directory:|../
+A user has become compromised as a result of visiting a specific web page, without clicking on any kind of content. What type of attack has occurred?|drive-by-download
+HTML uses which option below within embedded brackets (< >) causing a web browser to display text in a specific format?|tags
+​Part of the TCP/IP protocol for determining the MAC address based on the IP address.|​Address Resolution Protocol (ARP)
+An attack that corrupts the ARP cache​|ARP Poisoning​
+An attack that occurs when a process attempts to store data in RAM beyond the boundaries of a fixed-length storage buffer​|​Buffer overflow attack
+Injecting and executing commands to execute on a server​|Command injection​
+​An attack that injects scripts into a web application server to direct attacks at clients.|​Cross-site scripting (XSS)
+​An attack that substitutes DNS addresses so that the computer is automatically redirected to an attacker's device.|​DNS poisoning
+Another name for locally shared object (LSO)|​Flash cookie
+An attack that uses the Internet Control Message Protocol (ICMP) to flood a victim with packets.|​Ping flood
+A form of verification used when accessing a secure web application|​Session token
+​An attack that broadcasts a ping request to computers yet changes the address so that all responses are sent to the victim.|Smurf attack
+Which SQL injection statement can be used to erase an entire database table?|whatever'; DROP TABLE members; --
+What language below is used to view and manipulate data that is stored in a relational database?|SQL
+The exchange of information among DNS servers regarding configured zones is known as:|zone transfer
+Proximity readers utilize a special type of tag that can be affixed to the inside of an ID badge. What is the name for this type of tag?|Radio Frequency Identification tag (RFID)
+Select the tool below that consists of a system of security tools that is used to recognize and identify data that is critical to an organization and ensure that it is protected:|Data Loss Prevention
+How can an area be made secure from a non-secured area via two interlocking doors to a small room|Using a mantrap
+Most portable devices, and some computer monitors, have a special steel bracket security slot built into the case, which can be used in conjunction with a:|cable lock
+​What type of filtering utilizes a an analysis of the content of spam messages in comparison to neutral / non-spam messages in order to make intelligent decisions as to what should be considered spam?|​Bayesian filtering
+Instead of trying to make a match, modern AV techniques are beginning to use a type of detection that attempts to identify the characteristics of a virus. What is the name for this technique?|heuristic detection
+​A paper or electronic record of individuals who have permission to enter a secure area, the time that they entered, and the time they left the area|​Access list
+Subtypes of security controls, classified as deterrent, preventive, detective, compensation, or corrective.​|​Activity phase controls
+​An operating system for Google Android smartphones and other devices.|​Android
+A structure designed to block the passage of traffic​|Barricade​
+Spam filtering software that analyzes every word in an email and determines how frequently a word occurs in order to determine if it is spam.​|​Bayesian filtering
+An attack that uses the user's web browser settings to impersonate the user|Cross-site request forgery (XSRF)
+A software testing technique that deliberately provides invalid, unexpected, or random data as inputs to a computer program.|Fuzz testing
+A mobile operating system for Apple iPhones​|​iOS
+A nonrelational database that is better tuned for accessing large data sets.|​NoSQL
+Large-scale, industrial control systems.|Supervisory control and data acquisition (SCADA)
+An independently rotating large cup affixed to the top of a fence prevents the hands of intruders from gripping the top of a fence to climb over it. What is the name for this technology?|roller barrier
+Cipher locks are sometimes combined with what type of sensor, which uses infrared beams that are aimed across a doorway?|Tailgate sensors
+A spiked collar that extends horizontally for up to 3 feet from the pole is an example of what kind of technology?|Anti-climb
+Instead of using a key or entering a code to open a door, a user can use an object, such as an ID badge, to identify themselves in order to gain access to a secure area. What term describes this type of object?|physical token
+What type of video surveillance is typically used by banks, casinos, airports, and military installations, and commonly employs guards who actively monitor the surveillance?|CCTV
+Most DLP systems make use of what method of security analysis below?|Content inspection
+What is the name for a cumulative package of all patches and hotfixes as well as additional features up to a given point?|service pack
+What is the name for a standard or checklist against which systems can be evaluated and audited for their level of security (security posture)?|baseline
+What type of device, sometimes called a packet filter, is designed to prevent malicious network packets from entering or leaving computers or networks?|firewall
+What is the maximum effective range of a typical passive RFID tag?|19
+What is the best way to prevent data input by a user from having potentially malicious effects on software?​|​Escaping user responses
+Which of the following is not one of the types of settings that would be included in a Microsoft Windows security template?|Resolution settings
+Anti-virus products typically utilize what type of virus scanning analysis?​|Static analysis
+A system such as a printer, smart TV, or HVAC controller, typically uses an operating system on what is called a:|​Embedded system
+A key that is generated by a symmetric cryptographic algorithm is said to be a:|private key
+After the DES cipher was broken and no longer considered secure, what encryption algorithm was made as its successor?|3DES
+Cryptography that attempts to use the microscopic behaviors of objects to develop and share keys while also detecting eavesdropping is known as what type of cryptography?|Quantum cryptography
+Data that is in an unencrypted form is referred to as which of the following?|Cleartext
+If using the MD5 hashing algorithm, what is the length to which each message is padded?|512 bits
+In cryptography, which of the five basic protections ensures that the information is correct and no unauthorized person or malicious software has altered that data?|Integrity
+On what principle did Julius Caesar's cyptographic messages function?|Each alphabetic letter was shifted three places down in the alphabet
+Select below the hashing algorithm that takes plaintext of any length and generates a digest 128 bits in length:|MD2
+Select below the standard that is based on the Rijndael algorithm, and was approved by NIST in late 2000 as a replacement for DES:|AES
+The asymmetric cryptography algorithm most commonly used is:|RSA
+The NTRUEncrypt cryptographic algorithm makes use of which of the following cryptographic techniques?|lattice-based
+The SHA-1 hashing algorithm creates a digest that is how many bits in length?|​160 bits
+The simplest type of stream cipher, one in which one letter or character is exchanged for another, is known as what?|substitution
+What cryptographic method, first proposed in the mid-1980s, makes use of sloping curves instead of large prime numbers?|ECC
+What is the block cipher algorithm that operates on 64-bit blocks and can have a key length from 32 to 448 bits known as?|Blowfish
+What is the name of the cryptographic hash function that has international recognition and has been adopted by standards organizations such as the ISO, that creates a digest of 512 bits and will not be subject to patents?|Whirlpool
+What is the name of the open source asymmetric cryptography system that runs on Windows, UNIX, and Linux systems, and is compatible with PGP?|GPG
+What type of cryptographic algorithm is considered to be a one-way algorithm, in that its contents can't be used to reveal the original set of data?|hash
+What type of cryptography uses two keys instead of just one, generating both a private and a public key?|Asymmetric
+Which of the following is not one of the functions of a digital signature?|Protect the public key
+Which type of cryptographic algorithm takes an input string of any length, and returns a string of any requested variable length?|Sponge
+​A symmetric cipher that was approved by the NIST in late 2000 as a replacement for DES|Advanced Encryption Standard (AES)
+A cipher that manipulates an entire block of plaintext at one time.​|Block cipher​
+Data that has been encrypted.​|​Ciphertext
+​A symmetric block cipher that uses a 56-bit key and encrypts data in 64-bit blocks|Data Encryption Standard (DES)​
+A key exchange that requires all parties to agree upon a large prime number and related integer so that the same key can be separately created.​|​Diffie-Hellman (DH)
+​An algorithm that uses elliptic curves instead of prime numbers to compute keys|Elliptic curve cryptography (ECC)​
+A temporary key that is used only once before it is discarded.​|Ephemeral key
+​An asymmetric encryption key that does have to be protected.|​Private key
+An asymmetric encryption key that does not have to be protected.​|Public key​
+​An algorithm that takes one character and replaces it with one character.|Stream cipher
+A trust model with one CA that acts as a facilitator to interconnect all other CAs|​Bridge trust model
+A trusted third-party agency that is responsible for issuing digital certificates​|Certificate Authority (CA)​
+A publicly accessible centralized directory of digital certificates that can be used to view the status of a digital certificate​|Certificate Repository​
+A technology used to associate a user's identity to a public key, in which the user's public key is digitally signed by trusted third party.​|​Digital certificate
+​A trust model that has multiple CAs that sign digital certificates|​Distributed trust model
+A process in which keys are managed by a third party, such as a trusted CA​|​key escrow
+A framework for managing all of the entities involved in creating, storing, distributing, and revoking digital certificates|​Public key Infrastructure (PKI)
+​Symmetric keys to encrypt and decrypt information exchanged during a handshake session between a web browser and web server|​Session keys
+​A trust model in which two individuals trust each other because each individually trusts a third party.|​Third-party trust
+The type of trust relationship that can exist between individuals or entities.|Trust model
+A document that describes in detail how a CA uses and manages certificates, as well as how end users register for a digital certificate, is known as?|Certificate practice statement (CPS
+A framework for all of the entities involved in digital certificates for digital certificate management is known as:|Public key infrastructure
+A sensitive connection between a client and a web server uses what class of certificate?|Class 2
+At what stage can a certificate no longer be used for any type of authentication?|expiration
+Because of the limitations of a hierarchical trust model, what type of trust model is used for CAs on the Internet?|distributed trust
+Select below the term that is used to describe a trusted third-party agency that is responsible for issuing digital certificates:|Certification Authority
+Select below the type of certificate that is often issued from a server to a client, with the purpose of ensuring the authenticity of the server:|Server digital
+The Authentication Header (AH) protocol is a part of what encryption protocol suite below?​|​IPSec
+The process by which keys are managed by a third party, such as a trusted CA, is known as?|Key escrow
+Using what mechanism below can the non-repudiation of an e-mail and it's content be enforced?|Asymmetric encryption
+What cryptographic transport algorithm is considered to be significantly more secure than SSL?|TLS
+What is the name for an organization that receives, authenticates, and processes certificate revocation requests?|Registration Authority
+What kind of certificate is typically used by an individual to secure e-mail transmissions?|Personal digital
+What protocol below supports two encryption modes: transport and tunnel?|IPSec
+What protocol, developed by Netscape in 1994, is designed to create an encrypted data path between a client and server that could be used on any platform or operating system?|SSL
+What type of cryptographic algorithm can be used to ensure the integrity of a file's contents?|Hashing
+What type of trust model has a single CA that acts as a facilitator to interconnect all other CAs?|bridge trust
+When two individuals trust each other because of the trust that exists between the individuals and a separate entity, what type of trust has been established?|third-party
+Why is IPsec considered to be a transparent security protocol?​|​IPsec is designed to not require modifications of programs, or additional training, or additional client setup
+Select below the secure alternative to the telnet protocol:|​SSH
+​SSL and TLS keys of what length are generally considered to be strong?|​4096
+The mechanism used in an information system for granting or denying approval to use specific resources.|access control
+A set of permissions that is attached to an object.|access control list (ACL)
+A predefined framework found in hardware and software that a custodian can use for controlling access.|access control model
+The process of setting a user's account to expire.|account expiration
+The least restrictive access control model in which the owner of the object has total control over it.|Discretionary Access Control (DAC)
+The second version of the Terminal Access Control Access Control System (TACACS) authentication service.|Extended TACACS (XTACACS)
+A Microsoft Windows feature that provides centralized management and configuration of computers and remote users.|Group Policy
+Rejecting access unless a condition is explicitly met.|implicit deny
+The act of moving individuals from one job responsibility to another.|job rotation
+An authentication system developed by the MIT and used to verify the identity of networked users.|Kerberos
+An attack that constructs LDAP statements based on user input statements, allowing the attacker to retrieve information from the LDAP database or modify its content.|LDAP injection attack
+Providing only the minimum amount of privileges necessary to perform a job or function.|least privilege
+A protocol for a client application to access an X.500 directory|Lightweight Directory Access Protocol (LDAP)
+The most restrictive access control model, typically found in military settings in which security is of supreme importance.|Mandatory Access Control (MAC)
+Requiring that all employees take vacations.|Mandatory vacations
+An industry standard authentication service with widespread support across nearly all vendors of networking equipment.|Remote Authentication Dial in User Service (RADIUS)
+A "real-world" access control model in which access is based on a user's job function within the organization.|Role Based Access Control (RBAC)
+An access control model that can dynamically assign roles to subjects based on a set of rules defined by a custodian.|Rule Based Access Control (RBAC)
+Transporting LDAP traffic over Secure Sockets Layer (SSL) or Transport Layer Security (TLS)|Secure LDAP
+An Extensible Markup Language (XML) standard that allows secure web domains to exchange user authentication and authorization data.|Security Assertion Markup Language (SAML)
+The practice of requiring that processes should be divided between two or more individuals.|separation of duties
+The current version of the Terminal Access Control Access Control System authentication service.|TACACS+
+An authentication service commonly used on UNIX devices that communicates by forwarding user authentication information to a centralized server.|Terminal Access Control Access Control System (TACACS)
+Limitation imposed as to when a user can log into a system or access resources.|time-of-day restriction
+An _____ is a specific resource, such as a file or a hardware device.|object
+A _____ is a user or a process functioning on behalf of the user that attempts to access an object.|subject
+The action that is taken by the subject over the object is called an _____.|operation
+End-user cannot set controls; Most restrictive model|Mandatory Access Control (MAC)
+Subject has total control over objects; Least restrictive model|Discretionary Access Control (DAC)
+Assigns permissions to particular roles in the organization and then users are assigned to roles; Considered a more "real-world" approach|Role Based Access Control (RBAC)
+Dynamically assigns roles to subjects based on a set of rules defined by a custodian; Used for managing user access to one or more systems|Rule Based Access Control (RBAC)
+_____, or _____ _____ _____ _____ _____ _____, was developed in 1992 and quickly became the industry standard with widespread support across nearly all vendors of networking equipment. _____ was originally designed for remote dial-in access to a corporate network.|RADIUS, Remote Authentication Dial In User Service
+A wireless device, called the _____, sends a request to an AP requesting permission to join the WLAN. The AP prompts the user for the user ID and password. Name the step.|supplicant
+Step 1
+The AP, serving as the _____ that will accept or reject the wireless device, creates a data packet from this information called the _____ _____. This packet includes information such as identification of the specific AP that is sending the authentication request and the user name and password. Name the step.|authenticator, authentication request
+Step 2
+When an authentication request is received, the RADIUS server validates that the request is from an approved AP and then decrypts the data packet to access the user name and password information. Name the step.|Step 3
+If the user name and password are correct, the RADIUS server sends an authentication acknowledgment that includes information on the user's network system and service requirements. Name the step.|Step 4
+If accounting is also supported by the RADIUS server, an entry is started in the accounting database. Name the step.|Step 5
+Once the server information is received and verified by the AP, it enables the necessary configuration to deliver the wireless services to the user. Name the step.|Step 6
+A _____ _____ is a database stored on the network itself that contains information about users and network devices. It contains information such as the user's name, telephone extension, email address, login name, and other facts.|directory service
+The International Organization for Standardization (ISO) created a standard for directory services known as _____.|X.500
+The purpose of the X.500 standard was to standardize how the data was stored so that any computer system could access these directories. The information is held in a _____ _____ _____ (_____).|directory information base (DIB)
+Entries in the DIB are arranged in a tree structure called the _____ _____ _____ (_____).|directory information tree (DIT)
+The X.500 standard defines a protocol for a client application to access an X.500 directory called the _____ _____ _____ (_____).|directory access protocol (DAP)
+The Windows UAC interface also provides extended information . A _____ icon warns users if they attempt to access any feature that requires UAC permission.|shield
+In addition, the UAC prompt includes a description of the requested action to inform the user of the requested action. The UAC prompts are color-coded to indicate the level of risk, from _____ (highest risk) to _____ (lowest risk).|red, gray
+_____ is typically used when a user attempts to access a network service and that service requires authentication.|Kerberos
+Accounts that remain active after employee has left organization.|Orphaned accounts
+Accounts not accessed for lengthy period of time|Dormant accounts
+Process of setting a user's account to expire|Account expiration
+The Google operating system for mobile devices that is not proprietary.|Android
+Maintaining an accurate record of company-owned mobile devices.|asset tracking
+A secure repository for storing valuable authentication information on a mobile device.|credential management
+Using a mobile device's GPS to define geographical boundaries where an app can be used.|geo-fencing
+Adding or allowing geographical identification data in a mobile app.|geo-tagging
+The operation of stockrooms where mobile devices are stored prior to their dispersal.|inventory control
+The operating system for Apple mobile devices that is a closed and proprietary architecture.|iOS
+Services that can identify the location of a person carrying a mobile device or a specific store or restaurant.|location services
+A technology that prevents a mobile device from being used until the user enters the correct passcode.|lock screen
+The tools and services responsible for distributing and controlling access to apps. Also called application control.|mobile application management (MAM)
+Tools that allow a device to be managed remotely.|mobile device management (MDM)
+The ability to quickly remove devices from the organization's network.|off-boarding
+The ability to rapidly enroll new mobile devices.|on-boarding
+The ability to remotely erase sensitive data stored on a mobile device.|remote wiping
+A small form factor storage media of a variety of different types and sizes.|Secure Digital (SD)
+A mobile cell phone that has an operating system for running apps and accessing the Internet|smartphone
+Portable computing device that is generally larger than smartphones and smaller than notebooks, and is focused on ease of use.|tablet
+An attack that sends unsolicited messages to Bluetooth-enabled devices.|bluejacking
+An attack that accesses unauthorized information from a wireless device through a Bluetooth connection.|bluesnarfing
+A wireless technology that uses short-range radio frequency (RF) transmissions and provides rapid ad hoc device pairings.|Bluetooth
+An infrastructure that is used on public access WLANs to provide a higher degree of security.|captive portal AP
+A weak authentication protocol that has been replaced by the Extensible Authentication Protocol (EAP).|Challenge-Handshake Authentication Protocol (CHAP)
+The encryption protocol used for WPA2 that specifies the use of a general-purpose cipher mode algorithm providing data privacy with AES.|Counter Mode with Cipher Block Chaining Message Authentication Code Protocol (CCMP)
+An AP set up by an attacker to mimic an authorized AP and capture transmissions, so a user's device will unknowingly connect to this evil twin instead of the authorized AP.|evil twin
+A framework for transporting authentication protocols that defines the format of the messages.|Extensible Authentication Protocol (EAP)
+A 24-bit value used in WEP that changes each time a packet is encrypted.|initialization vector (IV)
+A proprietary EAP method developed by Cisco Systems requiring mutual authentication used for WLAN encryption using Cisco client software.|Lightweight EAP (LEAP)
+A method for controlling access to a WLAN based on the device's MAC address.|Media Access Control (MAC) address filtering
+A set of standards primarily for smartphones and smart cards that can be used to establish communication between devices in close proximity.|near field communication (NFC)
+A weak authentication protocol that has ben replaced by the Extensible Authentication Protocol (EAP).|Password Authentication Protocol (PAP)
+The authentication model used in WPA that requires a secret key value to be entered into the AP and all wireless devices prior to communicating.|preshared key (PSK)
+An EAP method desgned to simplify the deployment of 802.1x by using Microsoft Windows logins and passwords.|Protected EAP (PEAP)
+Intentionally flooding the radio frequency (RF) spectrum with extraneous RF signal "noise" that creates interference and prevents communications from occurring.|RF jamming
+An unauthorized AP that allows an attacker to bypass many of the network security configurations and opens the network and its users to attacks.|rogue access point
+The alphanumeric user-supplied network name of a WLAN.|Service Set Identifier (SSID)
+An in-depth examination and analysis of a wireless LAN site.|site survey
+The WPA and WPA2 encrytion technology.|Temporal Key Integrity Protocol (TKIP)
+The process of documenting and then advertising the location of wireless LANs for others to use.|war chalking
+Searching for wireless signals from an automobile or on foot using a portable computing device.|war driving
+The original set of protections from the Wi-Fi Alliance designed to address both encryption and authentication.|Wi-Fi Protected Access (WPA)
+The second generation of WPA security from the Wi-Fi Alliance that addresses authentication and encryption on WLANs and is currently the most secure model for Wi-Fi security.|Wi-Fi Protected Access 2 (WPA2)
+An optional means of configuring security on wireless local area networks primarily intended to help users who have little or no knowledge of security to quickly and easly implement security on their WLANs. Due to design and implementation flaws, WPS is not considered secure.|Wi-Fi Protected Setup (WPS)
+An IEEE 802.11 security protocol designed to ensure that only authorized parties can view transmitted wireless information. WEP has significant vulnerabilities and is not considered secure.|Wired Equivalency Privacy (WEP)
+A wireless network designed to replace or supplement a wired local area network (LAN).|wireless local area network (WLAN)
+A passive attack in which the attacker captures transmitted wireless data, records it, and then sends it on to the original recipient without the attacker's presence being detected.|wireless replay
+Bluetooth is a _____ _____ _____ technology designed for data communication over short distances.|Personal Area Network (PAN)
+A _____ _____ _____ uses a standard web browser to provide information, and gives the wireless user the opportunity to agree to a policy or present valid login credentials, providing a higher degree of security.|captive portal AP
+There are two types of Bluetooth network topologies. The first is a _____. When two Bluetooth devices come within range of each other, they automatically connect with one another.|piconet
+One device is the _____, and controls all of the wireless traffic. The other device is known as a _____, which takes commands from the master.|master, slave
+Slave devices that are connected to the piconet and are sending transmissions are known as _____ _____; devices that are connected but are not actively participating are called _____ _____.|active slaves, parked slaves
+If multiple piconets cover the same area, a Bluetooth device can be a member in two or more overlaying piconets. A group of piconets in which connections exists between different piconets is called a _____.|scatternet
+The current version is Bluetooth v_____, yet all Bluetooth devices are backward compatible with previous versions. Most Bluetooth devices have a range of _____ feet and can transmit _____ million bits per second (Mbps).|4.0, 33, 1
+TKIP's enhancements are in three basic areas: the required key length is increased from 64 bits to _____ bits, the IV is increased from 24 bits to _____ bits, and a unique "base key" is created for each wireless device using a master key derived in the authentication process along with the sender's unique MAC address.|128, 48
+The SSID serves as the user-supplied network name of a wireless network and generally can be any alphanumeric string up to _____ characters.|32
+A 128-bit key performs _____ rounds, a 192-bit key performs _____ rounds, a 256-bit key performs _____ rounds|9, 11, 13
+_____ _____ is for individuals or small office/home offices and _____ _____ is for larger enterprises, schools, and government agencies.|WPA2 Personal, WPA2 Enterprise
+_____ packets are issued by the authenticator and ask for a _____ packet from the supplicant.|Request, response
+If the authentication is successful, a _____ packet is sent to the supplicant; if not, a _____ packet is sent.|Success, failure
+A monitoring technique used by an intrusion detection system (IDS) that creates a baseline of normal activities and compares actions against the baseline. Whenever there is a significant deviation from this baseline, an alarm is raised.|anomaly-based monitoring
+A firewall that can identify the applications that send packets through the firewall and then make decisions about the applications.|application-aware firewall
+A specialized intrusion detection system (IDS) that is capable of using "contextual knowledge" in real time.|application-aware IDS
+An intrusion prevention system (IPS) that knows information such as the applications that are running as well as the underlying operating systems.|application-aware IPS
+A special proxy server that knows the application protocols that it supports.|application-aware proxy
+A monitoring technique used by an IDS that uses the normal processes and actions as the standard and compares actions against it.|behavior-based monitoring
+Searching incoming web content to match keywords.|content inspection
+A defense that uses multiple types of security devices to protect a network. Also called layered security.|defense in depth
+A separate network that rests outside the secure network perimeter: untrusted outside users can access the DMZ but cannot enter the secure network.|demilitarized zone (DMZ)
+A set of individual instructions to control the actions of a firewall.|firewall rules
+A monitoring technique used by an intrusion detection system (IDS) that uses an algorithm to determine if a threat exists.|heuristic monitoring
+A software-based application that runs on a local host computer that can detect an attack as it occurs.|host-based intrusion detection system (HIDS)
+A device that detects an attack as it occurs.|intrusion detection system (IDS)
+A defense that uses multiple types of security devices to protect a network. Also called defense in depth.|layered security
+A dedicated network device that can direct requests to different servers based on a variety of factors.|load balancer
+Searching for malware in incoming web content.|malware inspection
+A technique that examines the current state of a system or network device before it is allowed to connect to the network.|network access control (NAC)
+A technique that allows private IP addresses to be used on the public Internet.|network address translation (NAT)
+A technology that watches for attacks on the network and reports back to a central device.|network intrusion detection system (NIDS)
+A technology that monitors network traffic to immediately react to block a malicious attack.|network intrusion prevention system (NIPS)
+Hardware or software that captures packets to decode and analyze their contents.|protocol analyzer
+A computer or an application program that intercepts user requests from the internal secure network and then processes those requests on behalf of the users.|proxy server
+Any combination of hardware and software that enables remote users to access a local internal network.|remote access
+A computer or an application program that routes incoming requests to the correct server.|reverse proxy
+A device that can forward packets across computer networks|router
+A monitoring technique used by an intrusion detection system (IDS) that examines network traffic to look for well-known patterns and compares the activities against a predefined signature.|signature-based monitoring
+A technique that uses IP addresses to divide a network into network, subnet, and host.|subnetting
+A device that connects network segments and forwards only frames intended for that specific device or frames sent to all devices.|switch
+Network hardware that provides multiple security functions.|Unified Threat Management (UTM)
+Restricting access to unapproved websites.|URL filtering
+A technology that allows scattered users to be logically grouped together even though they may be attached to different switches.|virtual LAN (VLAN)
+A technology that enables use of an unsecured public network as if it were a secure private network.|virtual private network (VPN)
+A device that aggregates VPN connections.|VPN concentrator
+A special type of application-aware firewall that looks at the applications using HTTP.|web application firewall
+A device that can block malicious content in real time as it appears (without first knowing the URL of a dangerous site).|web security gateway
+_____ _____ _____ looks at the incoming packet and permits or denies it based on the conditions that have been set by the administrator.|Stateless packet filtering
+_____ _____ _____ keeps a record of the state of a connection between an internal computer and an external device and then makes decisions based on the connection as well as the conditions.|Stateful packet filtering
+_____ _____ is a technology that can help to evenly distribute work across a network.|Load balancing
+_____ _____ load balancers act upon data found in Network and Transport layer protocols such as IP, TCP, FTP, and UDP.|Layer 4
+_____ _____ load balancers distribute requests based on data found in Application layer protocols such as HTTP.|Layer 7
+The job of this layer is to send the signal to the network or receive the signal from the network. Involved with encoding and signaling, and data transmission and reception.|Layer 1 - Physical Layer
+This layer is responsible for dividing the data into frames. Some additional duties include error detection. Performs physical addressing, data framing, and error detection.|Layer 2 - Data Link Layer
+This layer picks the route the packet is to take, and handles the addressing of the packets for delivery. Makes logical addressing, routing, fragmentation, and reassembly available.|Layer 3 - Network Layer
+This layer is responsible for ensuring that error-free data is given to the user. Provides connection establishment, management, and termination as well as acknowledgments and retransmissions.|Layer 4 - Transport Layer
+This layer has the responsibility of permitting the two parties on the network to hold ongoing communications across the network. Allows devices to establish and manage sessions.|Layer 5 - Session Layer
+This layer is concerned with how the data is represented and formatted for the user. Is used for translation, compression, and encryption.|Layer 6 - Presentation Layer
+This layer provides the user interface to allow network services. Provides services for user applications.|Layer 7 - Application Layer
+A bit works at what layer of the OSI model?|Layer 1 - Physical
+A bit/frame works at what layer of the OSI model?|Layer 2 - Data Link
+A packet/datagram works at what layer of the OSI model?|Layer 3 - Network
+A segment works at what layer of the OSI model?|Layer 4 - Transport
+Data works at what layers of the OSI model?|Layers 5, 6, and 7
+A _____ is a standard network device for connecting multiple network devices together so that they function as a single network segment.|hub
+A hub works at what layer of the OSI model?|Layer 1
+A _____ is a device that connects network devices together. It can learn which device is connected to each of its ports, and then forward only frames intended for a specific device or frames sent to all devices.|switch
+A switch works at what layer of the OSI model?|Layer 2
+A router works at what layer of the OSI model?|Layer 3
+Name the monitoring methodology. Only if this application has tried to scan previously and a baseline has been established.|Anomaly-based monitoring
+Only if a signature of scanning by this application has been previously created.|Signature-based monitoring
+Only if this action by the application is different from other applications.|Behavior-based monitoring
+IDS is triggered if any application tries to scan multiple ports.|Heuristic monitoring
+The location of the origination of the packet. Addresses generally can be indicated by a specific IP address or range of addresses, an IP mask, the MAC address, or host name.|Source address
+This is the address the connection is attempting to reach. These addresses can be indicated in the same way as the source address.|Destination address
+The TCP/IP port number being used to send packets of data through. Options for setting the _____ _____ often include a specific port number, a range of numbers, or Any.|Source port
+This setting gives the port on the remote computer or device that the packets will use.|Destination port
+If VLAN members on one switch need to communicate with members connected to another switch, a special _____ protocol must be used, either a proprietary protocol or the vendor-neutral IEEE 802.1Q|tagging
+Each operation in a computing environment starts with a _____ _____ . This is an instruction that interrupts
+Physical layer|(Layer 1) This layer converts data into transmitted bits over the physical network medium.
+Data link layer|(Layer 2) This layer manages physical addressing (MAC addresses) and supports the network topology, such as Ethernet.
+Network layer|(Layer 3) This layer handles logical addressing (IP addresses)
+Transport layer|(Layer 4) This layer formats and handles data transportation. This transportation is independent of and transparent to the application.
+Session layer|(Layer 5)This layer manages the communication channel, known as a session, between the endpoints of the network communication. A single transport layer connection between two systems can support multiple, simultaneous sessions.
+Presentation layer|(Layer 6) This layer translates the data received from the host software into a format acceptable to the network. This layer also performs this task in reverse for data going from the network to the host software.
+Application layer|(Layer 7) This layer enables communications with the host software, including the operating system. The application layer is the interface between host software and the network protocol stack. The sub-protocols of this layer support specific applications or types of data. the program being executed and requests a service from the OS. HIDS can monitor _____ _____ based on the process, mode, and action being requested.|System call
+packet-filtering firewall|A firewall that examines each packet it receives and compares the packet to a list of rules configured by the network administrator is the definition of ________.
+network access control (NAC)|A method to restrict access to a network based on identity or other rules is the definition of ________.
+firewall|A ___________ controls the flow of traffic by preventing unauthorized network traffic from entering or leaving a particular portion of the network.
+firewall|A _____________ contains rules that define the types of traffic that can come and go through a network.
+reconnaissance|Network ________ is gathering information about a network for use in a future attack.
+Point-to-Point Tunneling Protocol (PPTP)|What name is given to a protocol to implement a VPN connection between two computers?
+Network address translation (NAT)|What term is used to describe a method of IP address assignment that uses an alternate, public IP address to hide a system's real IP address?
+Wi-Fi Protected Access (WPA)|What term is used to describe the current encryption standard for wireless networks?
+A network device that connects network segments, echoing all received traffic to all other ports.|Which of the following is the definition of hub?
+system infector|A ________ enables the virus to take control and execute before the computer can load most protective measures.
+file infector|A ________ is a type of virus that primarily infects executable programs.
+file infector|A ________ is a virus that attacks and modifies executable programs (like COM, EXE, SYS, and DLL files).
+logic bomb|A ___________ is a program that executes a malicious function of some kind when it detects certain conditions.
+phishing attack|A ____________ tricks users into providing log-on information on what appears to be a legitimate Web site but is in fact a Web site set up by an attacker to obtain this information.
+attacks against productivity and performance|Another way that malicious code can threaten businesses is by using mass bulk e-mail (spam), spyware, persistence cookies, and the like,consuming computing resources and reducing user productivity. These are known as ________.
+7 billion|As of 2013, Cisco estimated that there were more than________ devices connected to the Internet.
+smurf attack|In a _________, attackers direct forged Internet Control Message Protocol (ICMP) echo-request packets to IP broadcast addresses from remote locations to generate denial of service attacks.
+SYN flood attack|In a __________, the attacker uses IP spoofing to send a large number of packets requesting connections to the victim computer. These appear to be legitimate but in fact reference a client system that is unable to respond.
+availability|Malicious code attacks all three information security properties. Malware can erase or overwrite files or inflict considerable damage to storage media. This property is ________.
+IAB|The ________ provides oversight for architecture for Internet protocols and procedures, processes used to create standards, editorial and publication procedures for RFCs, and confirmation of IETF chair and technical area directors. It also provides much of the high-level management and validation of the processes of conducting IETF business.
+True|The ANSI produces standards that affect nearly all aspects of IT.
+Hollings Manufacturing Extension Partnership|The ____________ is a network of centers around the United States that offers technical and business assistance to small- and medium-sized manufacturers.
+False|The National Institute of Standards and Technology (NIST) is the main United Nations agency responsible for managing and promoting information and technology issues.
+True|The Gauss is a measurement of a magnetic field.
+True|Information technology, perhaps the best-known ISO standard is the Open Systems Interconnection (OSI) Reference Model. This internationally accepted framework of standards governs how separate computer systems communicate using networks.
+American National Standards Institute (ANSI)|The ________ is a U.S. standards organization whose goal is to empower its members and constituents to strengthen the U.S. marketplace position in the global economy, while helping to ensure the safety and health of consumers and the protection of the environment.
+True|The best-known standard that relates to information security is the IEEE 802 LAN/MAN standard family.
+ANSI|Unlike other organizations that specifically focus on engineering or technical aspects of computing and communication, the __________ primarily addresses standards that support software development and computer system operation.
+World Wide Web Consortium (W3C)|The ________ is an organization formed in 1994 to develop and publish standards for the World Wide Web.
+procrastination|"There are so many demands on your time, it is often difficult to justify setting aside time to study. Also, you may find that self-study takes more time than you planned."This is a disadvantage to choosing the self-study option that can be labeled ________.
+A standard unit of credit that equals 50 minutes of instruction.|Which of the following is the definition of continuing professional education (CPE)?
+NSA|Obtaining the coveted CAE/IAE or CAE/R designation means the curriculum and research institutions meet or exceed the standards defined by the _______.
+True|Whereas MS programs prepare students to perform information security work, MBA programs prepare students to manage and maintain the people and environment of information security.
+four-year|The standard bachelor's degree is a __________ program.
+True|The main purpose of security training courses is to rapidly train students in one or more skills, or to cover essential knowledge in one or more specific areas.
+two|A master's degree program goes beyond the level of a bachelor's degree program and generally consists of ___________ year(s) of study beyond a bachelor's degree.
+no standard time frame|With university doctoral programs, completing the degree requirements takes ________.
+National Centers of Academic Excellence in Information Assurance Education (CAE/IAE)|What name is given to educational institutions that meet specific federal information assurance educational guidelines?
+professional development|The four main areas in NIST SP 800-50 are awareness, training, education, and __________________.
+True|Employers do use certifications to help assess prospects, but the best assessment is the prospect's actual performance.
+Certified Authorization Professional|The best fits for (ISC)2's_____________ are personnel responsible for developing and implementing processes used to assess risk and for establishing security requirements.
+Systems Security Certified Practitioner|(ISC)2 offers the ________ credential, which is ideal for those who are working toward or already hold positions as senior network security engineers, senior security systems analysts, or senior security administrators. It covers the seven domains of best practices for information security.
+Certified Secure Software Lifecycle Professional|(ISC)2 offers the ________________ credential, which is one of the few credentials that address developing secure software. It evaluates professionals for the knowledge and skills necessary to develop and deploy secure applications.
+CISSP-ISSMP®|The ____________ concentration from (ISC)2 contains deeper managerial elements such as project management, risk management, setting up and delivering a security awareness program, and managing a business continuity planning program.
+CISSP-ISSEP®|The ____________ concentration from (ISC)2 is the road map for incorporating security into projects, applications, business processes, and all information systems.
+Architect|Which is Cisco's highest level of certification?
+True|The purpose of DoD Directive 8570.01 is to reduce the possibility that unqualified personnel can gain access to secure information.
+entry-level information security certification of choice for IT professionals|Comp TIA's Security+ certification provides ________.
+True|The Info tech Security Certified Program (SCP) certification programs apply mainly to network security topics and are most appropriate for professionals involved in securing network components within the IT infrastructure.
+Typically, the director of IT security ensures that the company meets WAN Domain security policies, standards, procedures, and guidelines. True or False|True
+Failing to prevent an attack all but invites an attack. True or False|True
+Qualitative risk analysis is a list of identified risks that results from the risk-identification process. True or False|False
+Annual loss expectancy (ALE) means the process of identifying, assessing, prioritizing, and addressing risks. True or False|False
+When you apply an account-lockout policy, set the __________ to a high enough number that authorized users aren't locked out due to mistyped passwords.|Threshold
+Which of the following adequately defines continuous authentication?|An authentication method in which a user is authenticated at multiple times or event intervals.
+From the perspective of a _________ professional, configuration management evaluates the impact a modification might have on security.|Security
+SAS70 was officially retired in June 2011 and was superseded and enhanced by the Statement of Standards for Attestation Engagements Number 16 (SSAE 16), which is now the predominant auditing and reporting standard for service organizations. True or False|True
+Audits are necessary because of ________.|All of the above
+________ attempts to describe risk in financial terms and put a dollar value on all the elements of a risk.|Quantitative risk analysis
+One of the OSI Reference Model layers, the Transport Layer, creates, maintains, and disconnects communications that take place between processes over the network. True or False|False
+Opt-in (subscribe) features in spam messages can represent a new form of reconnaissance attack to acquire legitimate target addresses. True or False|False
+The main purpose of security training courses is to rapidly train students in one or more skills, or to cover essential knowledge in one or more specific areas. True or False|True
+"There are so many demands on your time, it is often difficult to justify setting aside time to study. Also, you may find that self-study takes more time than you planned."This is a disadvantage to choosing the self-study option thatcan be labeled ________.|Procrastination
+Today, one of the most common methods for identifying what skills a security professional possesses is his or herlevel of certification. True or False|True
+In the legal system, ________ is the act of following laws, rules, and regulations that apply to organizations.|Compliance
+Typically, the director of IT security ensures that the company meets WAN Domain security policies, standards, procedures, and guidelines.|True
+Qualitative risk analysis is a list of identified risks that results from the risk-identification process.|True
+Loss of financial assets due to ________ is a worst-case scenario for all organizations.|Malicious attack
+Most often, passphrases are used for public and private key authentication.|True
+There are four basic forms of a cryptographic attack. In a ________, the cryptanalyst has access only to a segment of encrypted data, and has no choice as to what that data mightbe.|Ciphertext-only attack (COA)
+Which of the following is the definition of packet-filtering firewall?|A firewall that examines each packet it receives and compares the packet to a list of rules configured by the network administrator.
+Multiprotocol Label Switching (MPLS) is a WAN software feature that allows
+customers to maximize performance.|True
+What fills security gaps and software weaknesses?|Testing and quality assurance
+E-commerce systems and applications demand strict C-I-A ________|Security Controls
+Wardialers are becoming more frequently used given the rise of digitaltelephony and now IP telephony or Voice over IP (VoIP).|False
+Although wardialing is an old attack method, it is still useful for finding access
+points to computers because many computer networks and voice systems have modems attachedto phone lines.|True
+The term risk management describes the process of identifying, assessing, prioritizing, and addressing risks.|True
+The proportion of value of a particular asset likely to be destroyed by a given risk,
+expressed as a percentage, is exposure factor (EF).|True
+When security seems to get in the way of an employee's productivity, they'll often bypass security measures to complete their work more quickly.|True
+The primary difference between SOC 2 and SOC 3 reports is ________.|Their Audience
+SOC 3 reports are intended for public consumption.|True
+Decryption is the act of scrambling plaintext into ciphertext.|False
+Internet Control Message Protocol (ICMP) is a method of IP address assignment that uses an alternate, public IP address to hide a system's real IP address.|False
+A method to restrict access to a network based on identity or other rules is the definition of ________.|network access control (NAC)
+A computer virus is an executable program that attaches to, or infects, other executable programs.|True
+Malicious code attacks all three information security properties.Malware can modify database records either immediately or over a period of time. This property is ________.|Integrity
+The purpose of ________ is to provide formal training courses that lead to a certificate or professional certification and not a degree.|Continuing Education

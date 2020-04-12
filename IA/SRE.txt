@@ -1,0 +1,124 @@
+﻿1. In reverse engineering process, what refers to the sophistication of the design information that can be extracted from the source code?|c) abstraction level
+2. In reverse engineering, what refers to the level of detail that is provided at an abstraction level?|b) completeness
+3. The core of reverse engineering is an activity called|c) extract abstractions
+4. What have become de rigueur for computer-based products and systems of every type?|a) GUIs
+5. Forward engineering is also known as|d) both renovation and reclamation
+6. Reverse engineering is the process of deriving the system design and specification from its|c) Source code
+7. Reverse engineering techniques for internal program data focus on the definition of classes of objects.|a) True
+8. Which of the following steps may not be used to define the existing data model as a precursor to re-engineering a new database model:|d) Discover user interfaces
+9. Much of the information necessary to create a behavioral model can be obtained by observing the external manifestation of the existing|b) interface
+10. Extracting data items and objects, to get information on data flow, and to understand the existing data structures that have been implemented is sometimes called|a) data analysis
+11. Reverse engineering and Re-engineering are equivalent processes of software engineering.|b) False
+12. Transformation of a system from one representational form to another is known as|d) Both a and b
+13. Which of the following is not an objective of reverse engineering?|d) to assist migration to a CASE environment
+1. ____ converts the programs written in assembly language into machine instructions .|c) Assembler
+2. The instructions like MOV or ADD are called as ______ .|a) OP-Code
+3. The alternate way of writing the instruction, ADD #5,R1 is ______ .|b) ADDI 5,R1;
+4. Instructions which wont appear in the object program are called as _____ .|d) Assembler Directives
+5. The assembler directive EQU, when used in the instruction : Sum EQU 200 does,|b) Replaces every occurrence of Sum with 200
+6. The purpose of the ORIGIN directive is,|a) To indicate the starting position in memory, where the program block is to be stored
+7. The directive used to perform initialization before the execution of the code is ______ .|c) Dataword
+8. _____ directive is used to specify and assign the memory required for the block of code .|d) Reserve
+9. _____ directive specifies the end of execution of a program .|b) Return
+10. The last statement of the source program should be _______ .|d) End
+11. When dealing with the branching code the assembler,|c) Finds the Branch offset and replaces the Branch target with it
+12. The assembler stores all the names and their corresponding values in ______ .|b) Symbol Table
+13. The assembler stores the object code in ______ .|d) Magnetic disk
+14. The utility program used to bring the object code into memory for execution is ______.|a) Loader
+15. To overcome the problems of the assembler in dealing with branching code we use _____ .|d) Two-pass assembler
+1. abstraction |  In reverse engineering process, what refers level to the sophistication of the design information that can be extracted from the source code?
+2.ADDI 5,R1; | 	The alternate way of writing the instruction, ADD #5,R1 is ______
+3.All of them|Which of the following answer is true about uses of Reverse engineering?
+4.All of them|Which the following methods are often used in SRE
+5.All of them|Which the following situtations are decompilation used
+7.Assembler|____ converts the programs written in assembly language into machine instructions .
+8.Assembler, Directives|Instructions which wont appear in the object program are called as _____
+9.both renovation and reclamation|Forward engineering is also known as ___
+10. CISC|Is processor architecture which emphasises on hardware rather than software
+11. completeness|In reverse engineering, what refers to the level of detail that is provided at an abstraction level?
+12. Construct Schematic diagrams|In documentation one should ___
+13. CPU information and state|The processor control region (PCR) is a perprocessor structure that stores ____
+14. CS|Which the following register is code segment register
+15. Dataword|The directive used to perform initialization before the execution of the code is ______ .
+16. Debuggers|are asually the tool of choice for dynamic during execution?
+17. Decompilation|Computer program that perform the reverse operation which performed by a compiler is known as ___
+18. Disassemble|____ Converts the executable program into some form of assembly language
+19. Disassemble|___ are usually the tool of choice for static
+20. Encrypt executable file and when the exe file is in encrypted form. Self-modifying code| In order to anti-disassembly Techniques, we need
+21. End|The last statement of the source program should be _______ .
+22. extract abstractions|The core of reverse engineering is an activity called
+23. fail|systems __________ because they have faulty or poorly matched parts, are used in ways that exceed what was intended by the design, or were poorly designed to begin with.
+24. Finds the Branch offset and replaces the Branch target with it|When dealing with the branching code the assembler
+25. GUIs|What have become de rigueur for computer-based products and systems of every type?
+26. A "high-level" program is translated into executable machine code|Which of the following answer is true about Compilation?
+27. Identify|Engineers have to be able to ___ the design problem to solve and decide whether or not to address it
+28. kernel and user space|Windows divides the virtual address space into __
+29. Languages perform most semantic checks before program execution|Which of the following answer is true about "Dynamic" Languages
+31. Loader|The utility program used to bring the object code into memory for execution is ______.
+32. Magnetic disk|The assembler stores the object code in ______ .
+33. OP-Code|The instructions like MOV or ADD are called as ______
+34. The steps in the reverse-engineering process are: | Prediction, Observation, Disassemble. Analyze, Test, Documentation
+35. Replaces every occurrence of Sum with 200|The assembler directive EQU, when used in the instruction : Sum EQU 200 does,
+36. Reserve|_____ directive is used to specify and assign the memory required for the block of code
+37. Return|____ directive specifies the end of execution of a program .
+38. Reverse Engineering|is defined as "analyzing a subject to´ identify its components and their dependencies, and to extract and create a similar system"
+39. Reverse Engineering|Give an application, deduce tentative requirements is knows as ___
+40. ____ Is the process of taking something (a device, an electrical component, a software program, etc.) apart and analyzing its workings in detail.| Reverse Engineering
+41. RISC|ARM is ____ architecture
+42. Source code|Reverse engineering is the process of deriving the system design and specification from its __
+43. Stack Pointer & Program Counter|In 8086 which is/are the 16 bit registers
+44. subsystems|Define a system by identifying its _____________, their relationship to other systems, and the intended input and output of the system.
+45. Symbol Table|The assembler stores all the names and their corresponding values in ______ .
+46. System call|An operating system manages hardware resources and provides ____ through which users can request them.
+47. To indicate the starting position in memory, where the program block is to be stored|The purpose of the ORIGIN
+directive is,
+48. True|Reverse engineering techniques for internal program data focus on the definition of classes of objects.
+49. Reverse engineering and re-engineering are equivalent process | True
+50. Two-pass assembler|To overcome the problems of the assembler in dealing with branching code we use
+51. What is the purpose of this product?|which of the following questions should be asked in the Prediction step?
+52. What is this?|In the observation stage of reverse engineering you should ask all the following questions EXCEPT which?
+Which ﬂags is Set if the result overflows the max size. It applies to signed numbers? | OF/Overflow flag
+What is the CPUs stack pointer | ESP
+Which data types in 32 bits | Double word
+Which flags is Set to th most significant bit of the result? | CF/Carry flag
+Which flags is Set if the result of the previous arithmetic operation is zero? | ZF/Zero flag
+In ARM, privileges are defined by ____ different modes? | 8
+Which event in history was an example of reverse engineering | Soviets Copied America's Best Bomber During WWII
+Which flags is Set when the result requires a carry. It applies to unsigned numbers? | CF/Carry flag
+what is the output of the following code if: | BX = 1D
+What is the location value of RO and the content at that place? MOV 45, #4FH MOV R0, 45H INC R0 MOV @R0, #30H | 30H, 50H
+is known as the count register, as store the loop count in iterative operations. |ECX
+ is a portion of an object file or the corresponding virtual address space of a program that contains initialized static variables, that is, global variables and static local variables | Data segment
+Registers of proccessor in computer include | Segment registers, general registers, flag registers
+which of the following answer is true about interpretation?| a program is translated and executed one statement at a time 
+What is the output of the following code if:MOV CX, 80MOV AH, 2MOV DL, '*'TOP: INT 21H LOOPTOP |Print 80 '*' in a line
+Which of the following answer is true about Compilation? | A "high-level" program is translated into executable machine code
+In order to display a character on the screen, which interrupt number is we need to use: | INT 21H
+Assembly language programs are written using | ASCII code
+what is the output of he following code AL = 00110100 BL = 00111001 ADD AL,BL | AL = 011001101
+must find out what the developer actually did | Reverse engineering
+In x86 which is/are the 32 bit registers | Both [A] &amp; [B]
+Compilers translate high-level programs to machine code as follows: |  Indirectly via an assembler
+The status flag ZF = 1 according to the result of the operation | iff the result is zero
+is an area of memory allocated for automatic variables  | Stack Segment 
+indicates the overflow of a high-order bit (leftmost bit) of data after a signed arithmetic operation | OF
+determines whether the external interrupts like keyboard entry, etc., are to be ignored or processed | IF 
+To speed up the processor operations, the processor includes some internal memory storage locations, called | registers
+Time consuming for Reverse Engineering is ... Forward Engineering | less than
+Given an application, deduce tentative requirements is known as | Reverse engineering
+The steps in the compilation are: |  Scanner, Parser, Machine-independent code improvement, Semantic analysis, Code Generation, Machine-dependent code improvement.
+which the following are low language program? | assembly
+In x64 which is/are the 32 bit registers |  Both [A] &amp; [B]
+is the primary accumulator; it is used in input/output and most arithmetic instructions | EAX 
+What is the output of the following code? MOV BX, 1200H INC BX |BX = 1201H
+which the following language can be executed directly in computer without Compilation ad Interpretation | machine code
+In order to read a string on the keyboard, which function number is we need to use: | AH =1
+contains the machine instructions of the program | Code segment 
+which is/are the 8 bit registers | AH
+which the following actions are illegal| to refrain from using these techniques for direct violation of the copyright laws
+Which of the following answer is true about uses of Reverse engineering? | given requirements, develop an application 
+Which the following register is general register | EAX
+CISC stands for | Complex Instruction Set Computing
+is used as destination index for string operations. |  DI (Destination Index) 
+MOV A, #56H MOV R1, #50H MOV 50H, #45H XCHD A, @R1 what is the result at A, R1? |  45H, 56H
+Which the following register is segment register | DS
