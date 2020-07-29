@@ -2363,3 +2363,132 @@ Carl and Gayle have a weekly meeting to discuss staffing in the four restaurants
 Cues to meaning come from all BUT one of the following | Arrangement of the room in which the message is delivered
 Which of the following is NOT a result of effective listening | Understanding
 The combination resume would be best for which of the following individuals | An individual who has just graduated and has limited experience other than internships and/or part-time work while in school
+Nutrient uptake by plants acidifies soils because roots ________. | Adsorb basic cations and desorb hydrogen
+T/F: Humus has a much higher cation adsorption capacity at pH 5.5 than at pH 8.0 | False
+Which of the following is not a factor affecting CEC? | Soil structure
+During the reaction whereby limestone changes the pH of a soil, what is the fate of the acid H+ that makes it unable to affect soil acidity? | It becomes part of the water molecule
+T/F: A 2:1 type silicate clay has one octahedral sheet sandwiched between two tetrahedral sheets | True
+The swelling/shrinking tendency of some silicate clay minerals is due primarily to ________. | The movement of water molecules in and out of the interlayers of the crystal
+What are the three essential Primary Macronutrients for plants? | Nitrogen, Phosphorus, Potassium
+T/F: The high cation adsorption capacity of a 2:1 clay is due primarily to the substitution of silicon atoms for aluminum in the tetrahedral sheet. | False
+The octahedron building of a clay crystal contains _______ atoms. | 1 silicon and 6 oxygen
+T/F: The amount of residual acidity is much smaller than the active acidity. | False
+Before plants can absorb nitrate-nitrogen that originated from residue of a previous crop, the following processes must have occurred: | Mineralization, nitrification
+Which of the following materials would work as liming materials? | MgCO3
+CaCO3
+CaO
+T/F: Soil phosphorus is associated with eutrophication of lakes. | True
+Which of these essential elements is it most likely to be toxic to plants in a soil at pH 4.0? | Manganese
+Which of these processes represent a loss of nitrogen from the soil? | Ammonia Volatilization
+T/F: Nitrogen use efficiency is consistent among all plants and averages about 95%. | False
+An example of isomorphic substitution would be the substitution of _______ for _______. | Aluminum for silicon
+The process of ________ releases plant-available nitrogen as the result of the breakdown of nitrogen-rich organic. | Mineralization
+A pure clay crystal of kaolinite contains one octahedral layer and one tetrahedral layer. Which of these descriptions best describes the individual octahedrons that form the octahedral layer: | 1 aluminum and 6 oxygens
+Soils having experienced a high degree of leaching would probably also be ________. | Acidic
+Limestone, the most common material used to reduce soil acidity, has the formula ________. | CaCO3
+T/F: In order for nitrate to form from soil organic matter, Nitrosomonas and Nitrobacter must both be present in the soil | True
+Which is larger, exchangeable acidity or active acidity? | Exchangeable acidity
+T/F: Ammonia volatilization is a process by which much needed nitrogen is added to the pool or plant-available nitrogen in soils. | False
+If soil pH was observed to gradually increase and then gradually decrease over a 4-6 year period, what chemical had probably been added to the soil at the start of this period: | Calcium carbonate
+The finer a sample of limestone, the quicker it will change the _____ of the soil to which it is applied. | pH
+T/F: The leaf-like structure of silicate clays involves two kinds of horizontal sheets, one dominated by a plane of silicon atoms, the other by a plane of aluminum and/or magnesium | True
+T/F: A tetrahedral sheet is characterized by a plane of aluminum atoms surrounded by oxygen and hydroxyl groups | False
+Humus is an important soil colloid. It differs from 2:1 type minerals in all but one of the following characteristics: | Capable of adsorbing cations
+T/F: The primary source of charge for 2:1 type clay minerals is ionization of the surface hydroxyl groups on the tetrahedral sheets | False
+T/F: In most soils of the arid regions of Nevada, smectite is more prominent than in most soils in warm, humid Georgia. | True
+The very high pH levels found in some arid region soils are most likely due to high levels of exchangeable ________. | Na+
+The electronegative charge on 2:1 type silicate clays is due primarily to ________. | Substitution of one metallic atom for another in the crystal structure of the clay
+T/F: The CEC of a soil is determined primarily by the amount and kind of colloids in the soil and by the pH | True
+The exchange complexes of strongly acid (pH 4.5) mineral soils are saturated mainly with _______. | Exchangeable Al3+ ions
+If you were seeking a soil colloid with a high capacity to adsorb cationic pollutants, but also with a consistent capacity to do so even as the pH varied from 4.0 to 7.5, which of the following would you choose? | Montmorillonite
+T/F: While kaolinite particles are larger than those of other major silicate clays, the surface area of kaolinite per kilogram is much smaller than that of the 2:1 type minerals. | True
+T/F: Vermiculite and associated silicate clays have a net electropositive charge in slightly acid soils. | False
+The negative charges associated with smectite clay crystals are due mostly to ________. | Isomorphous substitution of Mg for Al in the octahedral sheet
+T/F: The order of strength of adsorption of ions by most colloids when they are present in equivalent quantities is Al>Ca>K>Mg>Na. | False
+Among the soils of which order would you most likely find the highest buffering capacities? | Vertisols
+An acid soil is known to contain toxic quantities of a certain plant nutrient. Which of these essential elements is it most likely to be? | Manganese
+T/F: Iron and manganese are commonly deficient in very acid soils. | False
+Available phosphorus levels are constrained in alkaline and salt-affected soils because of ________. | High calcium and magnesium levels
+T/F: The higher the cation exchange capacity of a soil, the greater is its buffer capacity. | True
+T/F: The amount of exchangeable acidity is much smaller than the residual acidity. | True
+Which of the following human actions is most apt to result in a long term decrease in soil pH? | Application of NH4- containing fertilizers, emission of gases from automobiles, application of unlimed sewage sludge, and application of farm manure
+Sodic soils generally have a poor physical condition. To what is this most likely due? | Dispersal of the Na saturated soil colloids
+As biotite weathers in soils, which of the following would not likely develop by mere alteration of this mineral? | Kaolinite
+If you were looking for a soil with high cation exchange capacity and were not concerned with the soil's physical properties, which of the following would most likely fit your needs? | Vertisol
+T/F: The leaf-like structure of silicate clays involves two kinds of horizontal sheets, one dominated by a plane of silicon atoms, the other by a plane of aluminum and/or magnesium. | True
+T/F: If you want to grow azaleas in a soil that initially has a pH of 6.5 and have been told that you should apply sulfur to reduce the soil pH, you would likely need more sulfur if the soil is a clay Vertisol than if it is an clay Ultisol. | True
+T/F: If you wanted to quickly increase the pH of a soil to 7.5 to combat a disease in cabbages you are about to plant you should use hydrated lime rather than ground limestone. | True
+T/F: Active soil acidity is a measure of the H+ ion activity in the soil solution. | True
+T/F: Soil colloids are too small to be seen with an ordinary light microscope. | True
+T/F: Of the silicate clays, smectite has the least tendency to expand upon wetting and shrink upon drying. | True
+T/F: Soil reaction indicates the degree of acidity or alkalinity in a soil. | True
+T/F: Even at pH values near 7.0 some colloids such as iron and aluminum oxides have negative surface charges less than 10 cmolc/kg. | True
+T/F: Isomorphous substitution involves the substitution of a tetrahedral sheet for an octahedral sheet. | False
+T/F: Nitrogen fertilization is a significant cause of acidity in many cultivated soils. | True
+T/F: Iron and aluminum hydrous oxides are characteristic of soils that are highly weathered chemically. | True
+T/F: The amount of limestone required to increase the pH from 5 to 7 would likely be higher for an Oxisol than for an Alfisol. | False
+The drainage of certain wetlands has resulted in extreme soil acidity. This is due primarily to which of the following processes that take place when the soil is drained? | Oxidation of sulfur-bearing minerals that produces sulfuric acid
+Under which of the following conditions would you favor a finely ground dolomitic limestone as your choice of a liming material? | Need to provide magnesium in addition to calcium
+T/F: The cation exchange capacity of humus increases if pH increases. | True
+How does the amount of lime needed to neutralize the residual acidity in a clay loam soil compare to that needed to neutralize the active acidity in that soil? | Residual requires 5,000 times greater
+You are working with a soil colloid known to have a reasonably high potassium level, a cation exchange capacity of about 20 cmolc/kg of clay and little tendency to swell when wetted. Which of the following is it most apt to be the dominant clay mineral in this soil? | Fine-grained mica
+Soils rich in which type of clay would provide the most troublesome site on which to build a home? | Smectite
+Which cation would you expect to be mostly tightly held in a soil at pH 4.5? | Al3+
+T/F: A 2:1 type silicate clay has one octahedral sheet sandwiched between two tetrahedral sheets. | True
+T/F: The high cation adsorption capacity of vermiculite is due primarily to the substitution of silicon atoms for aluminum in the tetrahedral sheet. | False
+A homeowner in New Mexico attempted to grow azaleas in a well drained soil (pH 7.5) but the plants were stunted and the leaves were yellow. What is the most likely cause of this constraint? | Fe deficiency
+T/F: Residual soil acidity is that acidity remaining in the soil after limestone has been applied. | False
+Some soil colloids exhibit positive charges under highly acid conditions. To what are these charges likely due? | Protonation of some hydroxyl groups by excess H+ ions
+Which of the following silicate clays would be least apt to be formed from the mere alteration of primary minerals? | Iron or aluminum oxides
+A well drained soil under a rain forest in Brazil contains significant amounts of a silicate clay. Which of the following is it most apt to be? | Kaolinite
+T/F: Kaolinite is most prevalent in soils developed from volcanic ejecta (Andisols). | False
+In the early stages of plant nitrogen deficiency, the most obvious symptoms are ________. | Yellowish colors in the oldest leaves
+T/F: Soil test interpretations have been developed so that for most fields testing "high" in a nutrient, addition of that nutrient will not increase yield enough to more than pay for the cost of applying the nutrient. | True
+The sulfur dioxide in the atmosphere ________. | Comes from fires such as fossil fuel burning, volcanoes and forest fires, can be an important source of sulfur nutrition for plants, and is a major contributor to "acid rain"
+T/F: Applying heavy dressings of N fertilizer will tend to produce sugary-sweet fruits and vegetables. | False
+In order for nitrate to form from soil organic matter, ________ must be present in the soil | Nitrosomonas and Nitrobacters
+T/F: Forests in decline because of acid deposition can often be brought back to high productivity with just a few applications of nitrogen fertilizer. | False
+T/F: The forestry industry uses fertilizers most often to treat old growth stands that will produce valuable lumber. | False
+Ammonium fixation would be expected to be greatest in soils containing a lot of ________. | Vermiculite
+T/F: On the average, agricultural soils in the US are currently being depleted of their nitrogen supply. | False
+T/F: Most synthetic chemical fertilizers are inorganic salts. | True
+T/F: Routine soil testing on a regular basis allows landowners to monitor most changes in soil quality. | False
+T/F: The terms "ammonium fixation" and "biological nitrogen fixation" refer to the same soil process. | False
+Mycorrhizae improve the nutrition of many plants by ________. | Transporting phosphorus through the soil to the plant root
+Loss of P to groundwater is likely to be most significant for which type of soil? | Cultivated organic peat soils
+Which of the following micronutrients is least commonly found to be deficient in plants? | Chlorine
+T/F: Ammonia volatilization is a process by which much needed nitrogen is added to the pool of plant-available nitrogen in soils. | False
+The total phosphorus lost from various watersheds is most closely correlated with ________. | High soil erosion
+T/F: The primary means to avoid non-point source nitrogen and phosphorus pollution in agricultural watersheds is to avoid applications that bring the available supply of these nutrients in soils to amounts higher that can be used by crop plants. | True
+Compared to land that is not disturbed by tillage, conventionally plowed cropland usually loses much more ________. | Total P and particulate P
+Which micronutrient element is found in the greatest quantity in most soils? | Fe
+A cover crop is usually grown for the purpose of ________. | Improving soil physical properties and saving or recycling nutrients
+Applied to agricultural crops, the term lodging refers to ________. | Plants falling over, often as a result of too much N
+T/F: The natural microbial oxidation of nitrogen released by organic matter mineralization is a major source of soil acidity. | True
+Plants obtain nitrogen from the soil by taking up ________. | Soluble anions, soluble organic compounds, and soluble cations
+Modern nutrient management is designed to ________. | Cost-effectively produce quality plants, conserve nutrient resources, protect or improve environmental quality, and protect or improve soil quality
+T/F: Buffer strips are usually a last-resort mechanism of pollution control because of their expense and unfavorable side-effects. | False
+In most soils, mineralization of soil organic matter is an important source of plant available ________. | Phosphorus
+If a manager can afford only a limited amount of soluble P fertilizer for a calcareous soil with low phosphorus availability, the best plant growth is likely to be obtained if the P fertilizer is applied ________. | In narrow bands or localized concentrations
+Which of the following nutrient elements is usually present in the soil solution as a simple cation? | Zn
+Fertilization to supply the nutrient element sulfur is often accomplished by which type of application? | Broadcast of the nearly pure element as a solid
+T/F: For most soils, even if they test "high" in a nutrient such as potassium or nitrogen, it is necessary to apply at least as much of each nutrient as is removed in the harvest, if the soil is not to eventually become infertile and unproductive. | False
+The process of ________ releases soluble nitrogen as the result of the breakdown of nitrogen-rich organic compounds. | Mineralization
+T/F: Broadcast application usually requires less fertilizer to achieve a given level of plant response than does banding. | False
+The principal form of sulfur taken up by plants is ________. | Sulfate
+Fertilization to supply the nutrient element potassium is often accomplished by which type of application? | Broadcast of a chloride salt
+The nutrient element magnesium is often supplied by which type of application? | Incorporation of powdered limestone rock
+T/F: Soil test interpretations have been developed so that for most fields testing "low" in a nutrient, addition of that nutrient will increase yield enough to more than pay for the cost of applying the fertilizer. | True
+In recent years, a soil test for nitrogen has been developed and widely used in humid regions in predicting how much nitrogen will need to be applied to supplement natural mineralization in the soil. This test is called the ________. | Pre-sidedress nitrate test (PSNT)
+In acid soils the principal chemical form of potassium available for plant uptake is ________. | K+
+The nutrient most often limiting the growth of aquatic plants and algae in unpolluted fresh water lakes is ________. | P
+Fertilization to supply the nutrient element nitrogen is often accomplished by which type of application? | Injection of a gas into the soil
+Within the technical capabilities of the particular lab, most soil test results can be best interpreted as indicating the ________. | Probability that nutrient application will improve plant growth
+Perforation placement is usually used to fertilize ________. | Landscape trees
+The great majority of nitrogen (95 to 98%) in soils can be found in the form of ________. | Organic compounds
+To be practical, a nitrification inhibitor should kill or inhibit ________. | Nitrosomonas
+T/F: About half the nitrogen in the A horizon of most soils becomes available to plants over the course of a whole year in a warm, humid climate. | False
+T/F: Unlike Rhizobium bacteria, Bradyrhizobium bacteria are effective at fixing N, regardless of the type of plants present. | False
+T/F: To enable the most consistent and appropriate interpretations, all soil samples submitted to a particular soil test lab should be taken from the same soil depth, regardless of differences in the type of tillage used or plants grown. | False
+Because of ________, soils developed in marine marshes can become extremely acid if drained for agriculture or used as topsoil. | Oxidation of sulfides
+In acid soils the principal chemical form of phosphorus available for plant uptake is ________. | H2PO4-
