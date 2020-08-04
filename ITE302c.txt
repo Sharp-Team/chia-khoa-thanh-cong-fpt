@@ -1,0 +1,1102 @@
+each society forms a set of rules that establishes the boundaries of generally accepted behavior. these rules are often expressed in statements about how people should behave, and they fit together to form the ____ by which a society lives. | moral code
+a set of beliefs about right and wrong behavior within a society is called ____. | ethics
+arthur andersen, once a major international accounting firm, was indicted for obstruction of justice, lost its auditing license, and eventually closed its u.s. offices based on the actions of a few employees even though they were performing in a manner contrary to corporate policy and their employer's directions. this is an example of the principle called respondeat superior or ____. | "let the master answer."
+in 2007, ____ of all software in circulation worldwide was pirated. | around 38%
+____ had one of the highest software piracy rates in | armenia
+habits that incline people to do what is acceptable are called ____. | virtues
+____ describes standards or codes of behavior expected of an individual by a group (nation, organization, profession) to which an individual belongs. | morals
+____ is a system of rules that tells us what we can and cannot do. | laws
+____ hired private investigators to identify members of its board of directors who were responsible for leaking confidential company information to the press. | hewlett-packard
+someone who stands to gain or lose, depending on how a situation is resolved is called a(n) ____. | stakeholder
+companies that develop and maintain strong employee relations ____. | suffer lower turnover rates
+a judge found ____ guilty of not providing timely on-site technical support that customers were entitled to and, as a result, lost its place as the world's largest computer manufacturer. | dell
+the department of justice established sentencing guidelines that suggest more ____ treatment for convicted executives if their companies have ethics programs. | lenient
+one characteristic of an organization that has a successful ethics program is that ____. | employees are rewarded for ethical behavior.
+a rapid increase in the appointment of corporate ethics officers typically follows ____. | the revelation of a major business scandal.
+in a for-profit organization, it is the primary objective of the ____ to oversee the organization's business activities and management for the benefit of shareholders, employees, customers, suppliers, and the community. | board of directors
+while nearly half of all employees surveyed saw some form of ethical misconduct in 2007, less than ____ of those employees reported the misconduct to management. | 60%
+in a(n) ____, an organization reviews how well it is meeting its ethical and social responsibility goals, and communications its new goals for the upcoming year. | social audit
+ethical conduct criteria that could be used in an employee's performance evaluation includes ____. | operating effectively in a multicultural environment
+____ is a likely cause of employees feeling "no one will ever know the difference, and if they do, so what?" | management failing to hold people accountable for unethical actions
+the step in the five-step decision-making process during which the decision maker(s) consider laws, guidelines, policies, and principles that might apply to the decision is the ____ step. | evaluate and choose alternative
+the step of the five-step decision process during which those who will be affected by the decision are identified is the ____ step. | develop problem statement
+part of developing a good problem statement includes ____. | determining who is directly affected by the problem
+an approach to ethical decision making that is based on a vision of society as a community whose members work together to achieve a common set of values and goals is the ____ approach. | common good
+an approach to ethical decision making that states you should choose the action or policy that has the best overall consequences for all people who are directly or indirectly affected is the ____ approach. | utilitarian
+from a legal perspective, it workers are not recognized as professionals because they are not ____ by the state or federal government. | licensed
+many courts have ruled that it workers are not liable for ____ because they do not meet the legal definition of a professional. | malpractice
+as a result of increased ____, clients and service providers have built their working relationships on the expectation that they can communicate easily and instantly around the globe through electronic teleconferences, audio conferences, e-mail, and wireless devices. | connectivity
+as a result of improved ____, clients are able to break down their business processes into their fundamental steps and decide which they will perform themselves and which they will outsource to service providers. | modularization
+the mission of the business software alliance is to ____. | stop the unauthorized copying of software
+software manufacturers can file a civil suit against software pirates with penalties of up to ____ per copyrighted work. | $100,000
+a ____ is information, generally unknown to the public, that a company has taken strong measures to keep confidential. | trade secret
+whistle-blowing is an effort by an employee to attract attention to a negligent, illegal, unethical, abusive, or dangerous act by a company that threatens the ____. | public interest
+before becoming a whistle-blower, an employee would normally call attention to a problem and try to correct it by first working with appropriate resources within ____. | the company
+to prove fraud in a court of law, prosecutors must demonstrate that ____. | the accused made a false representation of a material fact
+____ occurs when a party fails to perform certain express or implied obligation, which impairs or destroys the essence of a contract. | material breach of contract
+accepting payment of entry fees for a golf tournament from a supplier is ____. | could be perceived as a bribe
+the u.s. foreign corrupt practices act makes it a crime to bribe a foreign official unless the payment was ____. | lawful under the laws of the foreign country in which it was paid
+the foreign corrupt practices act permits facilitating payments so that an official performs or makes a(n) ____. | official function faster
+studies have shown that around ____ of all job applicants exaggerate their accomplishments on their resume. | 30%
+an it professional organization whose mission is to provide superior leadership and education in information technology and that has a goal to help its members make themselves more marketable within their industry is ____. | aitp
+certification indicates that a professional possesses a particular set of skills, knowledge, or abilities, in the opinion of the ____. | certifying organization
+a government license grants permission for an individual to engage in an activity or to operate a business. it is generally administered at the ____ level and often requires that the recipient pass a test of some kind. | state
+the obligation to protect people against any unreasonable harm or risk is called ____. | duty of care
+because there are no ____ against which to compare a software engineer's professional behavior, he or she cannot be subject to malpractice lawsuits. | uniform standards
+a device that limits access to the company's network based on the organization's internet usage policy is called a(n) ____. | firewall
+adherence to a professional code of ethics means that practitioners use a common set of ____ as a guideline for ethical decision making. | core values and beliefs
+it workers have a key responsibility to establish an environment that supports ethical behavior by users. such an environment discourages software piracy, minimizes the inappropriate use of corporate computing resources, and avoids the inappropriate sharing of ____. | information
+a feature that is associated with a bribe is that a bribe ____. | encourages an obligation for the recipient
+if misrepresentation causes a party to enter into a contract, that party may have the legal right to ____. | cancel the contract and seek reimbursement for damages
+the societe generale employee alleged to have committed fraud against the firm that resulted in a loss to the bank of some €4.9 billion was ____. | jerome kerviel
+____ is a form of security incident that first registered on the csi computer crime and security survey in | instant messaging abuse
+a(n) ____ is a term for any sort of general attack on an information system that takes advantage of a particular system vulnerability. | exploit
+often a successful attack on an information system is due to poor system design or implementation. once such a vulnerability is discovered, software developers quickly create and issue a ____ to eliminate the problem. | patch
+some it security experts warn that is will not be long before we see ____ aimed at smartphones to steal user's data or turn them into remote-controlled bots. | exploits
+____ viruses have become a common and easily created form of virus. attackers use an application macro language to create these programs that infect documents and templates. | macro
+____ was a worm that was released in 2007 and caused billions of dollars in damages. | storm
+____ is a form of trojan horse which executes when it is triggered by a specific event such as a change in a particular files, by typing a specific series of keystrokes, or by a specific time or date. | logic bomb
+a ____ attack keeps the target so busy responding to a stream of automated requests that legitimate users cannot get in. | distributed denial-of-service
+it is estimated that about one in ____ personal computers in the united states is part of a botnet. | four
+the ____ code portion of a rootkit gets the rootkit installation started and can be easily activated by clicking on a link to a malicious website in an e-mail or opening an infected .pdf file. | dropper
+rootkits are designed so cleverly that it is difficult to even discover if they are installed on a computer. the fundamental problem with trying to detect a rootkit is that the operating system cannot be trusted to provide ____. | valid test results
+____ is (are) the abuse of e-mail systems to send unsolicited e-mail to large numbers of people. | e-mail spam
+spammers can defeat the registration process of free e-mail services by launching a coordinated ____ attack that can sign up for thousands of untraceable e-mail accounts. | bot
+edward davidson ran a spamming operation out of his home that sent hundreds of thousands of spam e-mails. the header information of these e-mails concealed the actual sender from the recipient of the e-mail, a violation of the ____ act. | can-spam
+____ have become the primary means for distributing spam, malware, and phishing scams. | botnets
+the ____ is a type of computer crime perpetrator whose primary motive is to achieve a financial gain. | cybercriminal
+____ is an annual gathering in las vegas of computer hackers. | defcon
+chinese hackers have repeatedly hacked into systems to intercept e-mails between u.s. and uk officials. this is an example of ____. | cyberterrorism
+the ____ is a federal law that primarily addresses unlawful access to stored electronic communications. | us code title 18, part i, chapter 121
+____ has made a strong commitment to support trustworthy computing and defined four pillars of trustworthy computing. | microsoft
+a strong security program begins by ____. | assessing the threats to an organization's computers and network
+part of a thorough security risk assessment is to determine how each threat can be ____ so that it becomes much less likely to occur or, if it does occur, has less of an impact on the organizations. | mitigated
+the concept of ____ recognizes that managers must use their judgment to ensure that the cost of control does not exceed the system's benefits or the risks involved. | reasonable assurance
+a security policy outlines what needs to be done but not ____ to do it. | how
+the ____ is a nonregulatory federal agency within the u.s. department of commerce whose computer security division develops security standards and technology against threats to the confidentiality, integrity, and availability of information and services. | national institute of standards and technology
+installation of a(n) ____ is the most common computer security precaution taken by businesses. | firewall
+the ____ is a partnership between the department of homeland security and the public and private sectors, established in 2003 to protect the nation's internet infrastructure against cyberattacks. | u.s. computer emergency readiness team
+a software and/or hardware device that monitors system and network resources and activities, and notifies network security personnel when it identifies possible intrusions from outside the organization or misuse from within the organization is a(n) ____. | intrusion detection system
+a(n) ____ works to prevent an attack by blocking viruses, malformed packets, and other threats from getting into the protected network. | intrusion prevention system
+the concept of privacy is ____. | protected by a number of amendments in the bill of rights
+the supreme court has ruled that ____. | without a reasonable expectation of privacy, there is no privacy right
+the ____ is a 1970 federal act that outlines who may access your credit information, how you can find out what is in your file, how to dispute inaccurate data, and how long data is retained. | fair credit reporting act
+the ____ is an act that repealed a depression-era law known as glass-steagell. some place partial blame for the financial crises that began in 2008 on the passage of this act and the loosening of banking restrictions. | gramm-leach-bliley act
+under the ____, financial institutions must provide a privacy notice to each consumer that explains what data about the consumer is gathered, with whom that data is shared, how the data is used, and how the data is protected. | gramm-leach-bliley act
+under the hipaa provisions, healthcare providers must obtain ____ from patients prior to disclosing any information in their medical records. | written consent
+the children's online privacy protection act ____. | does not cover the dissemination of information to children
+the foreign intelligence surveillance act ____. | allows surveillance, without court order, within the united states for up to a year unless the surveillance will acquire the contents of any communications to which a u.s. person is a party
+the ____, passed as an amendment to title iii of the omnibus crime control and safe streets act establishes a requirement for court-approved law enforcement use of a pen register or trap and trace. | electronic communications privacy act
+the ____ prohibits unauthorized access to stored wire and electronic communications, such as the contents of e-mail in-boxes, instant messages, message boards, and social networking sites that are not readily accessible to the general public. | electronic communications privacy act
+under the ____, the federal communications commission responded to appeals from the justice department by requiring providers of internet phone services and broadband services to ensure that their equipment accommodated the use of law enforcement wiretaps. | communications assistance for law enforcement act
+the ____ gave sweeping new powers both to domestic law enforcement and international intelligence agencies, including increasing the ability of law enforcement agencies to search telephone, e-mail, medical, financial, and other records. | usa patriot act
+a ____ allows the fbi to intercept any communications to or by an intelligence target without specifying the telephone line, computer, or other facility to be monitored. | roving wiretap
+under the patriot act, the fbi can issue a ____ to compel banks, internet service providers, and credit reporting companies to turn over information about their customers without a court order simply on the basis that information is needed for an ongoing investigation. | national security letter
+in doe v. holder, the courts ruled that the nsl gag rule (prohibits nsl recipients from informing anyone that the government has secretly requested his or her records) violates the ____. | first amendment
+a(n) ____ terminates or repeals a law or portions of it after a specific date unless further legislative action is taken to extend the law. | sunset provision
+the 1980 privacy guidelines set by the organisation for economic co-operation and development are also known as the ____ and are often held up as the model of ethical treatment of consumer data for organizations to adopt. | fair information practices
+the ____ requires member countries to ensure that data transferred to non-european union countries is protected, and bars the export of data to countries that do not have data privacy protection standards comparable to the european union's. | european union data protection directive
+the ____ seal program identifies online businesses that honor their own stated privacy protection policies. | bbbonline
+for a web site to receive the ____ seal, its operators must demonstrate that it adheres to established privacy principles. the web site must also agree to comply with that organization's oversight and consumer resolution process, and pay an annual fee. | truste
+the ____ enables the public to gain access to certain government records. | freedom of information act
+the ____ prohibits the government from concealing the existence of any personal data record-keeping systems. | privacy act
+____ is one of the fastest growing forms of fraud in the united states, directly impacting over 4% of the overall u.s. adult population in 2008 with a resulting loss of $48 billion. | identity theft
+____ is keystroke-logging software downloaded to users' computers without the knowledge or consent of the user. | spyware
+____ is information gathered by monitoring a consumer's online activity. | click-stream data
+____ uses business rules tied to customer-supplied preferences or online behavior to determine the most appropriate page views and product information to display when a user visits a web site. | rules-based personalized software
+a screening technology called ____ helps shield users from sites that do not provide the level of privacy protection they desire. | platform for privacy preferences
+the institution and communication of an ____ establishes boundaries of acceptable behavior and enables managers to take action against violators. | it usage policy
+the ____ protects citizens from unreasonable government searches and is often invoked to protect the privacy of government employees. | fourth amendment
+in order to avoid fourth amendment issues with the use of advanced surveillance technology to track people in public places, advocates of such technology argue that people ____. | have no legitimate expectation of privacy in public
+the first amendment protects american's rights to freedom of religion and ____. | freedom of expression
+the supreme court has held that this form of speech is not protected by the first amendment and may be forbidden by the government: ____. | perjury
+miller v. california is the supreme court case that established a test to determine ____. | if material is obscene
+the problem with the communications decency act was its broad language and vague definition of ____, resulting in the act being ruled unconstitutional. | indecency
+after a three judge federal panel ruled unanimously that the communications decency act unconstitutionally restricted ____, the government appealed to the supreme court in a case that became known as reno v. aclu. | free speech
+privacy advocacy groups such as the electronic privacy information center, the aclu, and the electronic frontier foundation claimed that the language in the child online protection act was overly vague and limited the ability of ____ to access material protected under the first amendment. | adults
+the ____ act is still in effect and has not been ruled unconstitutional. | children's internet protection
+organizations may direct their network administrators to install a(n) ____ on employee's computers to prevent them from viewing sites that contain pornography or other objectionable material. | internet filter
+in the internet content rating association's web site rating scheme, ____ fill out an online questionnaire to describe the content of the web site. | web site authors
+the children's internet protection act ____. | attempted to protect children from accessing pornography and other explicit material online
+proponents of the children's internet protection act argued that ____. | schools and libraries could elect to not implement the program, they just would not receive federal money for internet access
+implementing the children's internet protection act is more difficult for a library than a school because ____. | the library's services are open to people of all ages
+in united states v. american library association, the supreme court, in a 6-3 decision, held that public libraries ____. | must purchase filtering software and comply with all portions of the children's internet protection act
+anonymous expression is ____. | the expression of opinions by people who do not reveal their identity
+anonymous expression in the u.s. began around the time of ____. | the american revolution
+____ was a printer who was prosecuted for seditious libel because s(he) refused to reveal the names of anonymous authors whose writings were critical of the governor of new york. | john zenger
+a pamphlet called ____ was published by thomas paine and critiqued the british monarchy and urged the colonies to become independent. | common sense
+one of the first rulings by the supreme court to address anonymity as an aspect of the bill or rights was the 1958 case ____. | naacp v. alabama
+in u.s. navy v. america online, a sailor used a pseudonym to post information that ____. | suggested that he might be gay
+a(n) ____ is a numeric identifier assigned to each computer connected to the internet. | ip address
+internet users who want to remain anonymous can send e-mail to a(n) ____ service, which uses software to strip the originating ip address from the message. | anonymous remailer
+an organization's it department can set up a(n) ____ to prohibit employees from accessing remailers. | firewall
+the use of a remailer keeps communications anonymous; what is communicated, and whether it is ethical or legal, ____. | is up to the user of the remailer
+a(n) ____ is often filed against a defendant whose identity is temporarily unknown. | john doe lawsuit
+in the united states, speech that is merely annoying, critical, demeaning, or offensive enjoys protection under the first amendment. legal recourse is possible only when that speech turns into clear threats and intimidation against ____. | specific citizens
+the ____ is the trade group that represents the u.s. recording industry. | riaa
+these objects are protected under patent law: ____. | inventions
+copyright and patent protection was established through ____. | the u.s. constitution
+the concept that an idea cannot be copyrighted but the ____ of an idea can be is key to understanding copyright protection. | expression
+the pro-ip act sends the message to intellectual property criminals everywhere that the u.s. will ____ to protect american innovation. | go the extra mile
+the ____ requires member governments to ensure that intellectual property rights can be enforced under their laws and that penalties for infringement are tough enough to deter further violations. | trips agreement
+unlike traditional copyright law, the ____ does not govern copying; instead, it focuses on the distribution of tools and software that can be used for copyright infringement as well as for legitimate non-infringing use. | digital millennium copyright act
+one of the tests that an invention must pass to be eligible for a patent is ____. | it must not be obvious to a person having ordinary skill in the same field
+the u.s. supreme court has ruled that there are ____ classes of items that cannot be patented. | three
+some software experts think that too many software patents are being granted, inhibiting new software development. for example, ____ obtained a patent for "one-click shopping," based on the use of a shopping cart purchase system for electronic commerce. | amazon.com
+in 2009, ____ announced that it would donate some 3,000 patents for free use by developers to help them innovate and build new hardware and software. the announcement represented a major shift in this firm's intellectual property strategy and was meant to encourage other patent holders to donate their own intellectual property. | ibm
+a patented process or invention that is surreptitiously included within a standard without being made public until after the standard is broadly adopted is called a(n) ____. | submarine patent
+one key advantage that trade secret law has over the use of patents and copyrights in protecting companies from losing control of their intellectual property is ____. | there is no need to file an application or disclose the trade secret to gain protection
+____ can qualify for trade secret protection under the uniform trade secrets act. | both computer hardware and software
+a(n) ____ prohibits an employee from working for any competitors for a period of time. | noncompete agreement
+the process of taking something apart in order to understand it, build a copy of it, or improve it is called ____. | reverse engineering
+a(n) ____ can read the machine language of a software program and produce the source code. | decompiler
+the courts have ruled in favor of using reverse engineering to enable ____. | interoperability
+7-zip, audacity, blender 3d, emule, eraser, and firefox are all examples of ____. | open source software
+legally obtained information that is gathered to help a company gain an advantage over its rivals is called ____. | competitive intelligence
+a(n) ____ is a logo, package design, phrase, sound, or word that enables a consumer to differentiate one company's products from another's. | trademark
+the ____ act enacted in 1999, allows trademark owners to challenge foreign cybersquatters who might otherwise be beyond the jurisdiction of u.s. courts. | anticybersquatting consumer protection
+cybersquatters ____. | register domain names for famous trademarks or company names to which they have no connection
+under the acpa, trademark holders can seek civil damages of up to ____ from cybersquatters that register their trade names or similar-sounding names as domain names. | $100,000
+the basic premise behind open source code is that when many programmers can read, redistribute, and modify a program's code, the software ____. | improves
+one cause for the delay of the boeing 787 dreamliner was the ____. | inability to trace lines of code back to specific system requirements for the braking system
+this organization was forced to notify more than 800,000 borrowers that a software installation error had resulted in a miscalculation of their loans and that their payments would increase. | sallie mae
+the objective of quality management is to ____. | deliver high-quality systems that meet the needs of their users
+the first release of any software ____. | rarely meets all its users' expectations
+a primary cause of poor software quality is that ____. | many developers do not know how to design quality into software from the very start
+the degree to which a software product meets the needs of its users is called software ____. | quality
+it is estimated that the microsoft vista operating system ____. | took over five years to develop
+additional features in a new release of software ____. | make it more useful and easier to sell
+software used to control many industrial processes in an effort to reduce costs, eliminate human error, improve quality, and shorten the time it takes to manufacture products is called a(n) ____. | process control system
+there is no federal product liability law; instead, product liability is mainly covered by common law and ____ which deals with the sale of goods. | article 2 of the uniform commercial code
+when sued for negligence, a software developer is not held responsible for every product defect that could have been detected that causes customer or third-party loss. instead, responsibility is limited to ____. | harmful defects that could have been detected and corrected through "reasonable" software development practices
+under the doctrine of supervening event, ____. | the original seller is not liable if the software was materially altered after it left the seller's possession and the alteration caused the injury
+a(n) ____ requires several standards must be met including; the goods must be fit for the ordinary purpose for which they are used, the quality of the goods must pass without objection in the trade, and the goods must meet a fair average or middle range of quality. | implied warranty of merchantability
+the plaintiff must have a ____ that the supplier did not fulfill in order to win a breach-of-warranty claim. | valid contract
+____ occurs when a seller or lessor either misrepresents the quality of a product or conceals a defect in it. | intentional misrepresentation
+____ is a standard, proven work process that enables project team members to make controlled and orderly progress in developing high-quality software. | software development methodology
+one approach to quality assurance is to test the code of a completed unit of software by actually entering test data and comparing the results to the expected results. this is called ____. | dynamic testing
+after successful unit testing, the software units are combined into an integrated subsystem that undergoes rigorous testing to ensure that the linkages among the various subsystems work successfully. this form of testing is called ____. | integration testing
+____ defines five levels of software development maturity and identifies the issues that are most critical to software quality and process improvement. | capability maturity model integration-dev
+after an organization decides to adopt cmmi-dev, it must ____. | conduct an assessment of its software development practices
+even with safety precautions in place, the software associated with safety-critical systems ____. | is vulnerable to errors that can lead to injury or death
+when developing safety-critical software ____. | a project safety engineer maintains a hazard log
+risk involves the measurement or assessment of two parameters, the probability of an undesirable event occurring and ____. | the magnitude of the event's consequences
+to obtain the ____ certificate, an organization must submit to an examination by an external auditor and have written procedures for all processes, follow those procedures, and prove to an auditor that it has fulfilled these requirements. | iso 9000
+____ describes how a product or process could fail to perform the desired function described by the customer. | fmea
+the most widely used measurement of the material standard of living is _____. | gross domestic product per capita
+in the united states, labor productivity growth has averaged about _____ percent per year for the past century. | 2%
+today, organizations are trying to improve it systems and business processes that have already gone through several rounds of improvement. this makes it difficult to measure significant improvements in _____. | productivity
+labor productivity in the united states remained relatively high despite a(n) _____ level of investment in it from 1999 to | reduced
+u.s. regulations make it easier for companies to hire and fire workers and to start and end business activities compared to many other industrialized nations. this flexibility makes it easier for markets to relocate workers to _____ firms and sectors. | more productive
+the goal of telework is to allow employees to be effective and productive from _____. | wherever they are
+in the united states, it is estimated that there are roughly _____ employees who telework more than eight hours per week. | 14 million
+_____ is one of the advantages of teleworking for organizations. | telework allows for the continuity of business operations in the event of a disaster
+of the roughly 1 billion internet users worldwide, only _____ are estimated to live in less developed nations. | 20 million
+as of 2007, what percent of all u.s. heads-of-household have never used e-mail? | about 20%
+_____ is the european country with the greatest percentage of people using the internet. | the netherlands
+_____ is the european country with the smallest percentage of population using the internet. | poland
+the _____ program was launched in recognition that the ability to use computers and access the internet is a requirement for succeeding in the u.s. educational system and global workforce. | ed-tech
+a university of chicago study found that the e-rate program led to _____ in california students' scores in the six subjects covered by the stanford achievement test. | no change
+one laptop per child is a nonprofit organization whose goal is to provide children around the world with low cost computers costing less than _____ to aid in their education. | $100
+_____ of the roughly 1.0 billion people around the world who earn less than $1,000 usd per year have access to a computer. | nearly 0%
+_____ created a competitor to the olpc laptop computer called the classmate pc. | intel
+_____ this is one advantage that a cell phone has over a personal computer that leads industry experts to believe that it will be the cell phone that will ultimately bridge the digital divide. | the infrastructure needed to connect wireless devices to the internet is easier and less expensive to build.
+the healthcare industry invests about _____ in it for each worker, compared with nearly $15,000 per worker in the banking industry. | $3,000
+a 1999 report by the institute of medicine found that 98,000 americans die annually due to preventable medical errors. a 2009 consumers union report claims that we have _____ the number of such deaths. | made no change in
+a 2006 institute of medicine report concluded that more than _____ preventable medication errors per year cost the united states about $3.5 billion annually. | 1.5 million
+in a commonwealth fund study of 41 texas hospitals that treat a diverse group of patients, researchers found that when physicians electronically entered patient care instructions, there was a _____ reduction in the likelihood of death related to some procedures. | 50%
+as part of the $787 billion 2009 economic stimulus plan, the federal government earmarked $33 billion in incentives for healthcare providers to implement government certified, interoperable _____ systems by | electronic health records
+the two basic forms of telemedicine are _____. | store-and-forward and live
+a patient should _____ because of something he or she reads on a medical information web site. | never disregard professional medical advice
+twitter _____. | has had problems related to its rapid growth
+shortly after the 2009 iranian election, the u.s. state department contacted twitter and asked the company to _____. | delay a scheduled software upgrade that would have cut off daytime service in iran
+a _____ is a site whose purpose is to create an online community of internet users that enables members to break down barriers created by time, distance, and cultural differences. | social networking web site
+members of a social networking web site may use the site to interact with _____. | people they know and people who they would like to meet
+_____ of teenagers in the u.s. use social networking web sites. | about 65%
+_____ involves the use of social networks to inform, promote, and communicate the benefits of products and services. | social network advertising
+_____ created its own social networking web site, ideastorm, as a means for its millions of customers around the world to talk about new products, services, or improvements they would like. | dell
+hotmail created what is recognized by many as the most successful _____ campaign ever when it first launched its service in | viral marketing
+of those hiring managers who use social networking web sites to screen candidates, _____ have found information that made them drop a candidate from consideration. | about two-thirds
+employers can legally reject a job applicant based on the contents of the individual's social networking profile as long as the company is not violating federal or state _____ laws. | discrimination
+_____ is a social shopping web site that implemented a reward system for members in which they are paid a commission each time another shopper acts on their recommendations to purchase a specific item. | stuffpit
+social shopping web sites generate revenue through _____. | both retail advertising and sharing with retailers data about their members' likes and dislikes
+recent survey results show that _____ of students ages 13-17 had experienced cyberbullying within the last year. | about 43%
+several states have enacted laws to curb bullying by calling on schools districts to _____ regarding cyberbullying and punishment. | develop policies
+when school authorities do get involved in an effort to discipline students for cyberbullying, they are sometimes sued for violating the student's right to free speech, especially if the activity involved _____. | occurred off school premises
+estimates from internet safety groups reveal an increasing number of cyberstalking reports with _____ reports per day for help from victims of cyberstalking. | 50 to 500
+the national center for victims of crime offers this advice for cyberstalking victims ____. | send the stalker a written notice that their contact is unwanted and that further contact should cease
+myspace purged _____ sex offenders from its site over a period of two years. | 90,000
+most social networking web sites have a terms of user agreement that states the web site has the right to _____. | delete material that violates the site's policies
+about _____ of material is being uploaded to youtube every minute making it difficult to review all material submitted for posting. | 10 hours
+on may 20, 2009, an organized group of users uploaded video clips of _____ to youtube tagged with child-friendly identifiers. | explicit adult content
+avatars can earn virtual money by _____. | performing some task in the virtual world or using real cash to purchase virtual cash
+bad deeds done in a virtual online world can be mediated by _____, who can take action according to the rules of the game and with consequences internal to the game, | game administrators
+_____ built a simulation of a combat information center of a command and control ship for the seventh fleet in second life to provide a real-to-life training experience for its future operators. | northrop grumman corporation
+online muggings and sex crimes in a virtual world can cause real life anguish for the human owners of the avatars involved. such acts _____ rise to the level of a real life crime. | may or may not
+which of the following is a true statement about the number of declared undergraduate computer science majors at doctoral-granting computer science departments? | there was a decline in enrollment in spite of the forecast for an increased number of workers in this field
+which of the following statements is true about the bureau of labor statistics forecast for employment between 2006 and 2014? | jobs related to networking and data communications analysis had the highest forecasted growth rate at 50 percent.
+which of these statements about contingent workers is true? | a firm is likely to use contingent it workers if it experiences pronounced fluctuations in its technical staffing needs.
+a situation in which two employers have actual or potential legal rights and duties with respect to the same employee or group of employees is called _____. | a coemployment relationship
+the it consulting firm with the most employees is _____. | ibm
+because contingent workers are already specialists in a particular task, the hiring firm does not customarily incur _____. | training expenses
+one potential disadvantage of using contingent workers is that _____. | they may not feel a strong connection to the company for which they are working
+another disadvantage of using contingent workers is that _____. | contingent workers may pass on information about corporate processes and strategies to subsequent clients who could be competitors
+the _____ lawsuit dramatically illustrated the cost of misclassifying employees and violating laws that cover compensation, taxes, unemployment insurance, and overtime. | viscaino v. microsoft
+the key lesson from viscaino v. microsoft is that _____. | even if contractors sign an agreement indicating that they are contractors and not employees, the deciding factor is not the agreement but the degree of control the company exercises over the employees
+which of the following actions is recommended to avoid potential coemployment issues with contingent workers _____. | avoid training contingent workers.
+an h-1b visa is a temporary visa granted for people who _____. | work in specialty occupations that require at least a four-year bachelor's degree
+an h-1b worker can work for a u.s. employer for a maximum continuous period of _____ years. | six
+after a worker's h-1b visa expires, the foreigner must _____. | remain outside the united states for one year before another h-1b petition will be approved
+congress has set the number of h-1b visas to be granted at _____ per year each year since 2004 with another 20,000 visas available for only foreign graduates of u.s. universities with advanced degrees. | 65,000
+when considering the use of h-1b workers, companies should take into account that even highly skilled and experienced h-1b workers may required help with _____. | their english
+heads of u.s. companies continue to complain that they have trouble finding _____ and have urged the uscis to loosen the reins on visas for qualified workers. | enough qualified it workers
+before a company can apply for an h-1b visa worker, it must file _____. | a labor condition statement
+companies applying for h-1b visas must offer a wage that is not _____ less than the average salary for the occupation. | 5%
+_____ is a form of outsourcing in which services are provided by an organization whose employees are in a foreign country. | offshore outsourcing
+_____ is a country known as a leading offshore outsourcing country that is close to the united states, has no language barriers, and has a highly skilled labor pool. | canada
+the cost advantage for offshore outsourcing to india used to be 6:1 or more. it is estimated that once this advantage shrinks to _____ or less, cost savings would no longer be an incentive for u.s. offshore outsourcing to india. | 1.5:1
+the _____ is an internationally recognized standard that companies can use to ensure that company data is protected in an outsourcing arrangement. | statement on auditing standards no. 70
+the _____ allows a private citizen to file a sit in the name of the u.s. government. | qui tam provision
+the united states has _____ federal law(s) protecting the export of toxic waste. | no
+1-which university did professor michael sandel graduate from? | brandeis
+1-which of the diseases listed below is not on the list of patients told by sandel? | gallbladder
+1-dr. cat tuong was defined to violate the medical ethic in which situation? | regulations from vietnamese ministry of health
+1-in the trolley car case, a man standing on the bridge was mentioned, and he can be pushed down. what characteristic does he have? | fat
+1-what are the similarities between the trolley car case and the case of the doctor mentioned in professor sandel's speech? | number of people involving
+2-you read a status from a friend on facebook linked to a case that a traffic police takes bribes, what should you do? | check link, read article and learn further
+2-how many steps are there in making ethical decision? | 5
+2-you are a team leader. there is a newbie with great performances in your team. anyone is happy. one time, you read his/her personal email by accident and learn that he/she is contacting with other companies. what should you do? | find reasons why he/she not satisfies?
+2-according to pr sandel, what is the mindset of consequentialist: | consider consequences, benefits or harms after actions
+2-why do we hesitate to push a fat man down the road, or kill one person to get his/her organs to save 5 others? | we think it is wrong regardless of the outcomes
+3-according to professor sandel, bentham said that humans are governed by two factors, what are they? | suffering and happiness
+3-when was bentham's book, "an introduction to the principles of morals and legislation", printed? | 1780
+3-utilitarianism aims to maximize which of the following elements? | happiness
+3-in the incident on october 5, 2014 in ecopark urban area, how many people died? | 2
+3-which of the following games is not available in ecopark on april 30 - may 1? | boat racing
+4-in which year did the case queen vs dudley and stephen happen? | 1884
+4-in the case queen vs dudley and stephen, who was the victim of the cannibal? | the weakest
+4-in the discussion about the case of professor sandel, who supported the cannibal? | marcus
+4-in the discussion about the case of professor sandel, who opposed to the cannibal in any circumstances? | britt: categorically wrong
+4-in the terryfying cannibal case in lang son, why was the accused released? | the accused was being cured of his disease
+5-can fair behavior advocate every outcome? | no
+5-what are human fundamental rights which cannot be invaded? | free to choose
+5-what virtues should a "junzi" need? | humaneness, rightousness, proper rite, knowledge, integrity
+5-who translated professor sandel's book "right wrong true false"? | ho dac phuong
+5-in confucianism, what is the person who achieves the moral standards called? | junzi
+6-which country does mikko hypponen, speaker in video "three types of online attack" come from? | finland
+6-which countries are mentioned in mikken's speech as examples of government attack on its citizens (choose 2 answers) | egypt
+6-which countries are mentioned in mikken's speech as examples of government attack on its citizens (choose 2 answers) | germany
+6-michelangelo virus, which is forecasted to destroy millions of computers on michelangelo's birthday march 6, was detected in which year? | 1992
+6-in the case of vietnam airlines on july 29, 2016, all display screens were hacked to show political slogans. in addition, what vna information was stolen by hacker? | list of regular customers
+6-what are the features of stuxnet virus? (choose 2 answers): | spread via usb
+6-what are the features of stuxnet virus? (choose 2 answers): | slow down controlling systems manufactured by simen
+7-misha glenny is the speaker in "hacker profiles" video. he is a uk reporter born in which journalism subject that he focuses on? (choose 3 answers) | organized crime
+7-misha glenny is the speaker in "hacker profiles" video. he is a uk reporter born in which journalism subject that he focuses on? (choose 3 answers) | southeast europe
+7-misha glenny is the speaker in "hacker profiles" video. he is a uk reporter born in which journalism subject that he focuses on? (choose 3 answers) | cybersecurity
+7-in the video, there is a part of carderplanet, in which speaker mentions a cyber criminal who does normal job, but earns big fortunes and enjoys a very luxurious life in new york. how much money does this criminal earn from crime in a week averagely? | usd150,000
+7-in the video of hacker's portrait, the speaker mentions criminals in 6 nations. which nation(s) is not included in that list? (choose 2 answers)? | china
+7-in the video of hacker's portrait, the speaker mentions criminals in 6 nations. which nation(s) is not included in that list? (choose 2 answers)? | india
+7-in the attack on vccorp's infrastructure in vietnam, a lot of electronic media and websites operated by this corporate had to stop in a long time, causing huge loss. as stated by vccorp, how much is the loss? | vnd 20-30 billion
+7-in the video about big impact of cyber-crime, speaker gives an example of fox news, in which fox news is hacked and thus, broadcasts the news that president obama has been assassinated. according to the speaker, editors have to wonder whether "showing their grief" or "opening a champagne to celebrate". why? | fox news is a us television channel but has an opinion against obama
+7-where is the headquarter of anonymous located? | no country
+8-what is the job of glenn greenwald, speaker talking about importance of privacy in tedtalk, whose speech has been used as material for this lesson? | journalist
+8-in glenn's speech, when talking about opinion that "we don't have things to hide if we don't do bad things", gleen has asked audience to write their all emails' password. how many people responded? | no one
+8-explaining the importance of privacy, glenn believes that people tend to change their behavior when being watched. in particular, how does people's behavior change? (choose more than 1 answer) | more careful in actions
+8-explaining the importance of privacy, glenn believes that people tend to change their behavior when being watched. in particular, how does people's behavior change? (choose more than 1 answer) | become more docile and obedient
+8-amendments can be added to the us constitution and there were 10 amendments at first, among which the fourth amendment mentioned privacy of citizens. how many amendments have been approved by us congress so far? | 27
+8-in the following cases, which are not protected as regulated in article 12, universal declaration of human rights, approved in 1948? (choose more than 1 answer) | no one shall be subjected to being beaten or mistreated
+8-in the following cases, which are not protected as regulated in article 12, universal declaration of human rights, approved in 1948? (choose more than 1 answer) | no one shall be subjected to report to government
+9-1.the novel "1984" by george orwell is a fictional one which is about a regime of close surveillance on its citizens. in his speech, glenn mentionned which novel character of the following? | winston smith
+9-which are the "bad things" mentioned by glenn in his speech? (choose 2 answers) | committing crimes as a terrorist
+9-which are the "bad things" mentioned by glenn in his speech? (choose 2 answers) | against the government
+9-in the reading material about edward snowden, which country is not mentionned as a victim of the american program of phone tapping? (choose 2 answers) | vietnam
+9-in the reading material about edward snowden, which country is not mentionned as a victim of the american program of phone tapping? (choose 2 answers) | china
+9-which of the following is the code name of the program that the american national security agency (nsa) used to tap people's phone? | prism
+9-to escape from the chase of cia, edward snowden used the "weekend opportunity" to travel between which two countries? (choose 2 answers) | china
+9-to escape from the chase of cia, edward snowden used the "weekend opportunity" to travel between which two countries? (choose 2 answers) | russia
+10-in the lesson video, freedom of expression is defined as the right to express individuals' ideas without fear of repression by the government or other individuals in which of the following environments? (choose more than 1 answer) | newspapers
+10-in the lesson video, freedom of expression is defined as the right to express individuals' ideas without fear of repression by the government or other individuals in which of the following environments? (choose more than 1 answer) | films
+10-in the lesson video, freedom of expression is defined as the right to express individuals' ideas without fear of repression by the government or other individuals in which of the following environments? (choose more than 1 answer) | social networks
+10-freedom of expression and press was mentioned as one among eight claims of the annamite people (in french: revendications du peuple annamite) of the association of patriotic annamites, including eight claims written in french, and sent to the paris peace conference or versailles peace conference on june 18, who was the author of eight claims? (choose more than 1 answer) | phan văn trường
+10-freedom of expression and press was mentioned as one among eight claims of the annamite people (in french: revendications du peuple annamite) of the association of patriotic annamites, including eight claims written in french, and sent to the paris peace conference or versailles peace conference on june 18, who was the author of eight claims? (choose more than 1 answer) | phan chu trinh
+10-freedom of expression and press was mentioned as one among eight claims of the annamite people (in french: revendications du peuple annamite) of the association of patriotic annamites, including eight claims written in french, and sent to the paris peace conference or versailles peace conference on june 18, who was the author of eight claims? (choose more than 1 answer) | nguyễn tất thành
+10-world press freedom day is the day that the united nations choose to promoting and raising awareness of the importance of press freedom around the world, what is that day? | 3/5
+10-on january 7, 2015, terrorists attacked charlie hebdo editorial office in paris to avenge the publication of caricature of islam's prophet mohamad. how many journalists were killed in this case? | 5
+10-which of the following names did not participate in the "the big questions" debate program on bbc channel, held on january 11, 2015, about charlie hebdo magazine slaughter? | winston churchin
+11-in the post-pmu 18 affair, the journalists were investigated for which fault? | revealing secret information of the bureau of investigation
+11-nguyen viet chien- the journalist who was arrested in the post-pmu journalistic affair work for which journal? | thanh niên
+11-among the following journalists, whose press card was not revoked in the post-pmu journalistic affair? | đỗ quý doãn
+11-to give an example of comsumer's having too many choices, professor barry schwartz mentionned in his speech how many options may we have to construct a stereo system in an electronics store? | 6.5 million
+11-according to common belief: "more choices and freedom make us happier"; however, according to professor barry schwartz, when having too many choices, we may be confronted with negative factors that may impact our well-being. which of the following factors was not mentioned by professor schwartz? | we run out of money
+12-in the video "what is ip and why do you care?" by mary juetten, which category does "idea" belong to? | none of the answers above
+12-how does mary juetten define patent? choose among the following answers. (choose more than 1 answer) | 12-how does mary juetten define copyright? choose among the following answers |  The right to prevent others from printing, backing up and distributing your products
+12-in the reading material, thai thuy linh accused 8 music sites of copyright infringement of her album "bộ đội". which of the following was not included in the list of the offenders? (choose 2 answers) | baicadicungnamthang.net
+12-in the reading material, thai thuy linh accused 8 music sites of copyright infringement of her album "bộ đội". which of the following was not included in the list of the offenders? (choose 2 answers) | nhac.vn
+12-in the dispute over new road signs in hanoi, with notes for figures being used, which of the following content is true? | there was no similarity between fpt's design and that of mr.hung's
+13-what is bsa (business software aliance)? | group of leading software companies making up the majority of market share to fight against software copyright infringement
+13-when a company is suspected of software copyright infringement, what would bsa do? | send reminders, often called love letter and request that company to self-check
+13-which countries on the list below do not handle lawsuits between apple and samsung? (choose more than 1 answer) | singapore
+13-which countries on the list below do not handle lawsuits between apple and samsung? (choose more than 1 answer) | china
+13-when did the legal battle between apple and samsung officially started? | in april, 2011
+13-in the so-called "mobile phone patent battle", besides samsung and apple, are there any other companies involved? | motorola
+14-in the settlement between oracle and "whistle-blower", on charging customers $ 8 millions before providing training sessions and cheating in paying travel expenses, how much money did the whistle-blower receive? | 1 million 580 thousands usd
+14-when danish court conducted a case on stein bagger's faking contract in 2008, which computer labels were damaged? (choose more than 1 answer) | ibm
+14-when danish court conducted a case on stein bagger's faking contract in 2008, which computer labels were damaged? (choose more than 1 answer) | hp
+14-what is the most important distinction between receiving gifts and accepting bribes? | recipients report to their organizations
+14-in the lesson about "breach of contract", which reasons are stated to frequently cause it projects to be cancelled midway? (choose more than 1 answer) | customer changes requirement too many times
+14-in the lesson about "breach of contract", which reasons are stated to frequently cause it projects to be cancelled midway? (choose more than 1 answer) | ineffective communication between provider and customer, resulting in unsatisfied system efficiency
+14-exaggerating required it skills in applications occurs frequently. according to stastistic provided in the reading, how many % of job applications in us has been exaggerated | 30%
+15-what does pmi stand for? | project management institute, the world's leading organization for professional project managers
+15-who should follow code of ethics stated by pmi? (choose more than 1 answer) | all pmi's members
+15-who should follow code of ethics stated by pmi? (choose more than 1 answer) | not a member but a pmi certificate holder
+15-which of the following does sans stand for? | institute of sysadmin, audit, network and security, based in america
+15-which of the following is not stated in code of ethics by sans? | i will explore or check the colleague's information including data, archive files, records or network traffic, according to the group's acceptable use policy
+15-which of the following is stated in article 4 in code of ethics by information security association of vietnam? (choose more than 1 answer) | always tell the truth.
+15-which of the following is stated in article 4 in code of ethics by information security association of vietnam? (choose more than 1 answer) | always ensure honesty and impartiality in pricing and decision-making while practicing is.
+in his speech, mikko hypponen pointed out how many types of online attackers? | 3 types
+freedom of expression is not recognized as a fundamental human right in human rights declaration of 1948 by the united nations. | false
+sedition is a representation of freedom of expression and it is legal. | false
+barry schwartz convinced that the more choices people have, the more freedom they have, and the more freedom they have, the more welfare they have. | true
+in the online attackers' portrait by mikko, almost of online attackers are poor. | false
+the freedom of expression is guaranteed in dictatorships and totalitarian regimes. | false
+hacktivists likes anonymous group doing the hacking activities for laughs. | false
+whistle blowing draws attention toward the act which poses threat to common interests such as ..... | d and a
+which is the top secret information that snowden leaked out? | the global surveillance programs leading by us and uk governments
+a gift may be considered a bribe if the gift is not made public. | true
+'humaneness' is a political principle which is the main concept of operating a nation, connecting the world, reflecting the ideology of the democracy. | true
+what is prism? | code name of a surveillance program by nsa
+in his self-example, barry schwartz wanted to buy a new jean that is .... | none of the others
+in 1981, elk cloner was created by a fifteen-year old high school student, richard skrenta, holding responsible for the first large-scale computer virus outbreak in history. which is the targeted system of elk cloner? | apple ii
+which is implied by dr. sandel in two different cases? | utilitarian is not the only approach people follow
+technique used in manufacturing a product is categorized into a .... | trade secret
+consequentialist ...... | locates morality in the results from the act
+to become a junzi-a man or "superior man" - a gentleman or a sage. in confucianism, kindness. sobriety, righteousness, wisdom and trustworthiness are given to human-being with one-self to self-improve. | true
+in justice approach. an ethical action is .... | a fair action
+which of the following is not one of common issues that can create friction between employers and it workers? | provide too many options in the job interview
+in the case of cannibal in vietnam, the man who was arrested and punished in lang son is ___ | a mental illness man
+what will give you the right to exclude others from making your product? | patent
+by introducing the four stories of trolley car case and doctor case, dr sandel separated four ways to evaluate ethical aspects of an action. | false
+in his hackers' profiles, misha glenny found most of the hackers do not have which of the following? | demonstration of any real social skills in the outside world
+in rights approach, an ethical action is ___ | an action respects the moral rights of everyone
+in his speech, mikko concluded these facts: | 1 and 3
+julian assange, the founder of wikileaks. said that he and his organization didn't related to snowden. | false
+in misha glenny speech. a website which became a sort of supermarket for cybercriminals is ___ | carderplanet
+in misha glenny speech titled "hire the hackers", he stated the facts that every companies in the world have been hacked even the cybersecurity services providers. | true
+in glenn greenwald's speech, united states and its partners has converted ____ once heralded as ___ of liberation and democratization. | the internet, unprecedented tool
+in utilitarian approach, an ethical action is __ | that provide the greatest balance of good over evil
+what is the exclusive right to print, publish, record, etc. of an author on his original works? | copyright
+what is the first step to approach with ethical issues and also the most important task is ___ | learning the facts
+the concept of humaneness in confucianism expressed by relationships of ___ | both of the others
+in his speech. glenn gave a shamed example of eric schmith behaviors that he ordered his employees at google to cease speaking with the online internet magazine dot net. | false
+in his self-example, barry schwartz spent an hour trying on all jeans available, and he had a better choice than before with the best-fitting jeans and he felt better. | false
+a symbol. word or words representing a company is considered as a __ | trademark
+in misha glenny speech. a little research unit in turin, italy performed a research called "hackers profiling project" investigating about ____ of the hackers | the characteristics, the abilities and the socialization
+what is the way stuxnet virus worked? | 4->1->2->3->6->5
+who is a whistle-blower? | a person normally holds information based on his expertise or position in the business committing violation
+in pmi's code of ethics, fairness is .... | our duty to make decisions and act impartially and objectively. our conduct must be free from competing self interest, prejudice, and favoritism.
+in pmi's code of ethics, responsibility is ..... | our duty to take ownership for the decisions we make or fail to make, the actions we take or fail to take, and the consequences that result.
+anonymous is an international hacktivist group and they have a leader in us | false
+online attackers are motivated only by making money. | false
+in his speech, glenn indicates that a conflict in mark zuckerberg's behaviors while he said .. and his wife did what of the following activity? | buy a new house and 4 others around his home to protect his privacy
+what are the similarities between the trolley car case and the case of the doctor mentioned in professor sandel's speech? | killing one person to save five people
+what is the process a conscientious worker should follow if he considers to become a whistle-blower | 1 -> 4 -> 2 -> 3
+the purpose of the code of ethics and professional conduct by pmi is ... | to instill confidence in the project management profession and to help an individual become a better practitioner
+professor sandel warned about the ... | skepticism
+glenn convinced us to support for the mindset of "bad people have things to hide, good people have nothing to hide" | false
+bsa is made up of .... | many software companies
+according to barry schwartz, the negative effects of all choices on people include: | a and b
+what is a false information providing? | the act of giving inaccurate or incomplete information about a fact.
+in his speech, steve vondran indicated these companies as example of bsa member... | facebook
+the information security concept in fpt software's information security regulation is .. | information security is what keeps valuable information "free of danger"
+according to confucian conception, ethical norms and codes are .... | 1, 2 and 3
+does freedom of speech give the right to offend? | no, it isn't
+what is a breach of contract? | the act of a party when it fails to comply with the terms and conditions of the contract
+categoricalist ... | locates morality in certain duties and rights
+what of the following is in sans it code of ethics? | all of them
+what information has been stolen and published by hackers in cyber attack on vietnam airlines | a list of 400.000 regular clients
+which of the following is the motivation of online attackers: | 1, 2, 3, 4
+in cat tuong salon case, in dr. tuong violated medical ethics? | it is still a question but he violated the regulations on medical examination and tre ... drugs or other medical services
+in chapter 2 of the code of ethics for information security there are 4 articles regarding ..: | society and community, working attitude, service quality and information security
+in pmi's code of ethics, honesty is .... | our duty to understand the truth and act in a truthful manner both in our communication
+what is wrong information about nguyen phi hung - the "pioneer" hacker of vietnamese hacker team joining in cyber-crime competition on world stage? | he was sentenced to 80 months in prison
+what is an inflating cv? | the act of lying in your personal profile and faking a required it skill
+what is a fraud? | the act of appropriating commodities, services or property by deceiving or perform
+what of the following is not an article in sans it code of ethics? | i will advance private interests at the expense of end users, colleagues, or my employer
+the code of ethics for information security in viet name is originated by which organization? | vnisa
+in pmi's code of ethics, respect is .... | our duty to show a high regard for ourselves, others, and the resources entrusted people, money, reputation, the safety of others, and natural or environmental resources.
+in common-good approach, an ethical action is ... | certain general conditions that are ... equally to everyone's advantage.
+what is business software alliance (bsa)? | bsa is a trade group
+imagine that your are a software developer in software company where your boss have ... defense to develop a new kind of weapons with ai technologies, and he asked you to join. if follows virtue approach, what is the best choice? | i will reject to join the project because it will harm people
+the code of ethics and profession conduct doesn't apply to whom? | non-members who don't have any relationship with pmi
+in virtue approach, an ethical action is ... | certain ideals toward which we should strive
+in queen vs dudley and stephens case, the approach was not ... | fairness approach
+what is bribery? | the act of providing money, property or privilege to an individual working in a business or government to gain a business advantage
+how many articles are there in the policy suggested by vnisa? | 8
+what did edward snowden, a former technical staff of the national security agency, disclose? | confidential surveillance programs
+put the following chapters in pmi's code of ethics in the right order: | 4-1-5-3-2
+which samsung's product is sued by apple in german courts? | galaxy tab 10.1
+what does the hackers profiling project do? | makes research into characteristics, abilities and socialization of hackers
+what may the aggrieved party do when there's a fundamental breach of the contract? (choose 2 options) | remain the contract' s validity and sue the offending party for current recall.
+what may the aggrieved party do when there's a fundamental breach of the contract? (choose 2 options) | cancel the contract, require the offending party to pay compensation
+what's the main cause that made ecopark project become a 'hot spot'? | people disagreed with the land compensation policy
+who is diginotar? | a certificates selling company
+in glenn greenwald's speech, "why privacy matters?", according to jeremy bentham, what does the mass surveillance create? | a prison in mind
+according to professor michael sandel, what does philosophy do? | it teaches and unsettles us by confronting us with what we already know.
+what does bsa (business software alliance) do? | fight against widespread software copyright infringement.
+which apple's intellectual property is listed by apple to sue samsung on april 15, 2011? (choose all that apply) | e
+which deliberative process is the most related to virtue framework of decision making? | what kind of person should i be and what my actions show about my character?
+which of the following are the examples of bribery? | gifting money to your director so that he would promote you.
+which of the following actions are consider as fp software isms violations? (choose all that apply) | all of the others
+what are the bad effects of "having so many options" according to the paradox of choices? (choose all that applied) | with so many options, people find it very difficult to choose at all.
+what are the bad effects of "having so many options" according to the paradox of choices? (choose all that applied) | with so many options, we end up less satisfied with the result of the choice than we would be if we had fewer options to choose from
+match basic relationships among people in society that mencius generalized with the appropriate characteristic: | a-4, b-2, c-1, d-3, e-5
+what is the similarity of 6 famous hacker all around the world in misha glenny's speech? | they are good at mathematics and computer
+put the following steps of making decision into the correct order: | 5-3-2-7-1-4-6
+which of the following articles is not included in the universal declaration of human rights (united nations, december 10, 1948) | no one has the right to leave any country, including his own, and to return to his country.
+according to fpt software isms, what does information security incident no lead to? | employment dismissal due to performance
+who is considered as the "father" of confucianism? | kong zi
+who are the "seeders" of utilitarianism, who viewed happiness as the only good? (choose all that applied) | aristippus
+who are the "seeders" of utilitarianism, who viewed happiness as the only good? (choose all that applied) | epicurus
+what does cia in fpt software isms stand for? | confidentiality, integrity and availability
+what is stunex? | a computer worm
+how was vccorp attacked on monday, october 13, 2014? | attackers faked users to install spyware
+which the group of online attackers does anonymous belong to? | hacktivist
+how does the official dogma of all western industrial societies run? | if we are interested in maximizing the welfare of our citizens, the way to do that is to maximize individual freedom.
+according to barry schwartz, what's the "secret to happiness.? | low expectation
+what is the motivation of duty framework for decision making? | aim is to perform the right action
+fill in the blank with the name of an intellectual property type: | trade-mark
+why should you care about intellectual property? (choose all that applied) | because project values are in intellectual property
+why should you care about intellectual property? (choose all that applied) | because company values are in intellectual property
+why should you care about intellectual property? (choose all that applied) | because invention values are in intellectual property
+according to fpt software isms, which of the following are examples of information? (choose all that apply) | a photo
+according to fpt software isms, which of the following are examples of information? (choose all that apply) | a facebook post
+according to fpt software isms, which of the following are examples of information? (choose all that apply) | a skype message
+according to fpt software isms, which of the following are examples of information? (choose all that apply) | a meeting notes
+match the 4 types of ip to its corresponding definition. | a-1, b-3, c-4, d-2
+which of the following are included in the code of ethics for is in vietnam? | do not abuse the trust given by individuals/organizations.
+which of the following are included in the code of ethics for is in vietnam? | always tell the truth.
+a rapid increase in the appointment of corporate ethics officers typically follows | the revelation of a major business scandal.
+the step in the five-step decision-making process during which the decision maker (s) consider laws, guidelines, policies, and principles that might apply to the decision is the ____ step. | evaluate and choose alternative
+of those hiring managers who use social networking web sites to screen candidates, _____ have found information that made them drop a candidate from consideration. | about one-third
+bad deeds done in a virtual online world can be mediated by _____, who can take action according to the rules of the game and with consequences internal to the game | game administrators
+which of the following is a true statement about the number of declared undergraduate computer science majors at doctoral granting computer science departments? | there was a decline in enrollment in spite of the forecast for an increased number of workers in this field
+vacation policy; time off for a funeral or illness in the family; tuition reimbursement, can be in... | relationships between it workers and employers
+this evaluation may indicate that further refinements are needed., can be found in | evaluate the results
+indentify the loss events or the risks or threats that could occur, such as a distributed denial-of-service attack or insider fraud, is step....of risk assessment | 2
+the code of ethics focusses employees on areas of ethical risk relating to their role in the organization, offers guidance to help them recognize and deal with ethical issues | true
+an increasing number of web sites lock visitors out ... they allow cook-ies to be deposited on their hard drives | unless
+determine the impact of each threat occurring. would the threat have a minor impact on the organization, or could it keep the organization from carrying out its mission for a lengthy period of | 4
+software piracy in a corporate setting in sometimes directly traceable to... | it staff members
+if an intrusion occurs, there must be a clear reaction plan that addresses... | notification, evidence protection, containment, eradication, activity log maintenance, and recovery
+in ....when, and if, the identity becomes known, the complaint is modified to show the correct name(s) of the defendant(s) | john doe lawsuits
+provide leadership to overcome resistance to change can be found in step....of ethical decision making | 4
+a possible compromise for public libraries with multi- ple computers would be to allow ... internet use for adults but to provide computers with only ... access for children | unrestricted, limited
+opponents of the law were concerned that it transferred power over education to ... who develop the internet filters and define which sites to block | private software companies
+assess the feasibility of implementing the mitigation options, is step....of risk assessment | 6
+a code of ethics cannot gain company-wide acceptance unless it is developed with... | employee participation
+utilitarian approach can be applied to the business world by equating the virtues of a good businessperson with those of a good person | false
+the sarbanes-oxley act of 2001 was assed in response to public outrage over several major accounting scandals, including those at enron, worldcom | false
+in relationships between it workers and clients, each party agrees to provide something of secured to the other | false
+a good.... answers the following questions: what do people observe that causes them to think there is a problem | problem statement
+trustworthy computing is a method of computing that delivers secure, private, and reliable computing experiences based on sound business pratices | true
+the sarbanes-oxley act of 2001 was passed in response to public outrage over several major accounting acandals, including those at enron, worldcom | false
+the electronic frontier foundation (eff) represented .... of the john does whose identities were subpoenaed | 2
+... occurs when a person consciously decides to induce another person to rely and act on the misrepresentation | fraudulent misrepresentation
+an ... is software that can be used to block access to certain web sites that con- tain material deemed inappropriate or offensive | internet filter
+it is ideal to enlist the help of others. including ...., to identify several alternative solutions to the problem | stake- holders
+the use of cookies and tracking software is ... because companies can collect information about consumers without their explicit permission | controversial
+congress specifically defined which content or web sites should be forbidden or which measures should be used—these decisions were left to individual school districts and library systems | false
+a code of ethics is a statement that highlights an organization's key ethical issues and iden- tifies the overarching values and principles that are important to the organization and its.... | decision making
+a... defines an organization's security requirements, as well as the controls and sanctions needed to meet those requirements | security policy
+....can include the design of new software code, hardware designs. business plans. the design of a user interface to a computer program. and manufacturing processes | trade secrets
+the it security group must lead the effort to increase security breaches by implementing security policies and procedures, as well as effectively employing available hardware and software tools | false
+implementing cipa in libraries is much more easier because a library's services are open to people of all age | false
+board members must create an environment in which employees feel they can seek advice about appropriate business conduct raise issues, and report .... through appropriate channels | misconduct
+in..., uses business rules tied to customer-supplied preferences or online behavior to determine the most appropriate page views | rules-based personali- zation
+ethics training not only makes employees more aware of a company's code of ethics and how to apply it, but also ... | demonstrates that the company intends to operate in an ethical manner
+evaluate alternatives based on multiple criteria, can be found in step....of ethical decision making | 3
+it augments click- stream data and user-supplied data with demographic information associated with user zip codes to make product suggestions. is ... | demographic filtering
+the customer changes the scope of the project or the system requirements. can be found in relationship of... | it workers and clients
+cipa does not require the tracking of internet use by minors or adults | true
+in.... additional information such as age and location can be used as ad-selection criteria | demographic filtering
+falsify the results of a quality assurance test can be found in... | relationships between it workers and employers
+a group of web sites served by a single advertising net- work is called a collection of... | affiliated web sites
+organizations should implement ... systems to catch intruders in the act | detection
+board members are expected to conduct themselves according to the highest standards for personal and professional .... | integrity
+some librarians say they wish they could simply focus on ... | training students and adults to use the internet safely and wisely.
+the goal of is to identify which investments of time and resources will best protect the organization from its most likely and serious threats | risk assessment
+there are .. ways to limit or even stop the deposit of cookies on your hard drive | 4
+the project manager may want to keep resources flowing into the project and hope that problems can be corrected before anyone notices | true
+marketers use .... to recognize return visitors to their sites and to store useful informa-tion aboutthem | cookies
+schools subject to copa are required to adopt a policy to monitor the online activities of minors. | false
+the responsibility for decision making is shared between client and it worker | true
+responsibility for compliance—that is. ensuring that ethical procedures are put into place and inconsistently adhered to throughout the organization | false
+in a social audit, an organization reviews ... meeting its ethical and social responsibility goals. and communicates its new goals for the upcoming year | how well it is
+the security of any system or network is a combination of technology. policy, and rules and requires a wide range of activities to be effective | false
+the common good approach to decision making is based on a vision of society as a community whose members work together to achieve a common set of values and goals | true
+the goal of personalization software is to turn first-time visitors to a site into ... and to facilitate greater cross-selling activities. | paying customers
+brainstorming with just one other person will reduce your chances of identifying a broad range of alternatives and deter- mining the best solution, can be found in... | identify alternatives
+this is much easier said than done, since people tend to resist change. can be found in phase... of ethical decision making | implement decision
+utilitarian approach focuses on how fairly actions and policies distribute benefits and burdens among people affected by the decision | false
+occurs when a party fails to perform certain express | breach of contract
+offers consumer recommendations based on the types of products purchased by other people with similar buying habits. | collaborative filtering
+1) the fifth amendment protects | false
+2) today, cryptography is a key | false
+3) __ is a tern used to describe works of the mind, such as art, books | intellectual property
+4) __ is the legal authority for electronic | executive order 12333
+5) according to a study conducted | false
+6) the term __ refers to social conventions | morality
+7) __ is the science of encoding messages so that only | cryptography
+8) the ancient greek philosophers | true
+9) in september 1999, __ obtained | amazon.com
+10) __ is the crime of obtaining goods | fraud
+11) the term ____ distinguishes the person | it user
+12) the supreme court | false
+13) the __ was a hotly debated law | communication assistance for law enforcement act (calea)
+14) the __v.aclu suit | reno
+15) popular internet filters include __ | contentprotect
+16) during the kosovo confict in 1999 | denial-of-service attacks
+17) the u.s.securities | worldcom
+18) in march 2005 | a dozen
+19) despite the importance | anonymity
+20) in 1997, cleveland state | erp
+21) several cases brought | dmca
+22) an approach to restricting | internet service provider(isp)
+23) from a legal perspective | licensed
+24) computer virus has became | true
+25) organizations must be on guard | libelous
+26) penalties | $100,000
+27) as the number | 100 million
+28) a form of inconsistency | moral standards
+29) although smart card are used | true
+30) a bribe is a crime even | false
+31) organizations often employ | spoof
+32) __,which provides credit card | authorize.net
+33) in august 2005 | blaster
+34) since the early 1980s | 20,000
+35) penalties for | $2 million
+36) any intrusion detection system | true
+37) the use of remailers to enable | true
+38) organizations need basic information | true
+39) __ is an effort by an employee | whistle-blowing
+40) bribe made directly from donor to recipient? | false
+41) to prevent internet users | 30,000
+42) the digital millennium copyright act(dmca) | 1998
+43) gifts encourage | true
+44) a __ attack is one in which | denial-of-service
+45) __ use illegal means to obtain | industrial spies
+46) the __ to ethical desicion decision | utilitarian appoach
+47) the primary functions of a corporate ethics | standards
+48) __ gathering has become enough | competitive intelligence
+49) a(n)__ is software | internet filter
+50) an increasing number of companies | true
+51) __ is the country | vietnam
+52) nicholas ciarelli is an | apple
+53) __ is a distinct possibility | wireless spamming
+54) a(n) __ is a text file | cookie
+55) "man, when perfected," | aristotle
+56) in the utilitarian | the ethical chooice product...
+57) it vendors have become | true
+58) many organizations that operate | true
+59) a(n) __ provision terminates | sunset
+statements about how people should behave fit together to form the _________________ by which a society lives | moral code
+a(n) _________________ is a moral habit that inclines people to do what is considered acceptable | virtue
+the _________________ that socially responsible activities create can make it easier for corporations to conduct their business | goodwill
+_________________ means that employees know what is expected of them, and they can employ the organizational values to help them in their decision making | consistency
+that an employer can be held responsible for the acts of its employee even if the employee acts in a manner contrary to corporate policy and the employer's direction is based on the principle called _________________ | respondeat superior or "let the master answer"
+the public _________________ of an organization strongly influences the value of its stock, how consumers regard its products and services, the degree of oversight it receives from government agencies, and the amount of support and cooperation it receives from its business partners | reputation
+the corporate ethics officer provides the organization with _________________ and _________________ in the area of business conduct | vision and leadership
+the _________________ is responsible for the careful and responsible management of an organization | board of directors
+the _________________ is responsible for the careful and responsible management of an organization | section 406 of the sarbanes-oxley act
+the goal of the sarbanes-oxley act was to _________________. | renew investor's trust in the content and preparation of disclosure documents by public companies
+_________________ highlights an organization's key ethical issues and identifies the overarching values and principles that are important to the organization and its decision-making process | code of ethics
+a(n) _________________ enables an organization to review how well it is meeting its ethical and social responsibility goals, and communicate new goals for the upcoming year. | social audit
+_________________ makes employees more aware of a company's code of ethics and how to apply it, as well as demonstrates that the company intends to operate in an ethical manner | formal ethics training
+the most important part of the decision-making process is _________________ | problem definition
+the _________________ approach to ethical decision making states that you should choose the action or policy that has the best overall consequences for all people who are directly or indirectly affected | utilitarian
+_________________ is a process for generating a number of alternative solutions to a problem | brainstorming
+a professional is someone who | all of the above
+although end users often get the blame when it comes to using illegal copies of commercial software, software piracy in a corporate setting is sometimes directly traceable to _________________ | it staff
+the mission of the business software alliance is to _________________. | stop the unauthorized copying of software produced by its members
+reporting a trade secret is an effort by an employee to attract attention to a negligent, illegal, unethical, abusive, or dangerous act by a company that threatens the public interest | false
+_________________ is the crime of obtaining goods, services, or property through deception or trickery | fraud
+résumé inflation is a usual and customary practice tolerated by employers. true or false? | false
+society expects professionals to act in a way that | all of the above
+_________________ involves providing money, property, or favors to someone in business or government to obtain a business advantage | bribery
+_________________ is a process that one undertakes voluntarily to prove competency in a set of skills | certification
+there are many industry associations and vendor certificate programs for it workers. true or false | true
+_________________ has been defined as not doing something that a reasonable person would do, or doing something that a reasonable person would not do | negligence
+a _________________ states the principles and core values that are essential to the work of a particular occupational group | code of ethics
+according to the "2008 csi computer crime and security survey," which of the following was the most common security incident? | virus attack
+a virus does not spread itself from computer to computer but must be spread through infected e-mail document attachments, infected programs, or infected web sites. true or false? | true
+an attack on an information system that takes advantage of a vulnerability is called a(n) _________________. | exploit
+a group of computers controlled centrally from one or more remote locations by hackers without the knowledge of their owners is called a(n) _________________. | botnet
+a set of programs that enables a hacker to gain administrative level access to a computer without the end user's consent or knowledge is called a(n): | rootkit
+_________________ forces unwanted and often objectionable materials into e-mail boxes, detracts from the ability of internet users to communicate effectively, and costs internet users and service providers millions of dollars annually | spam
+software that generates and grades tests that humans can pass but that all but the most sophisticated computer programs cannot is called _________________. | captcha
+a person who attacks computers and information systems in order to capture trade secrets and gain a competitive advantage is called a cyberterrorist. true or false? | false
+to date, there are no documented cases of cyberterrorism. true or false? | false
+a type of attacker that is extremely difficult to detect or stop because he or she is often authorized to access the very systems being abused is called a(n) _________________. | malicious insider
+concern over potential cyberterrorism began well before the attacks of 9/true or false? | true
+_________________ is a method of computing that delivers secure, private, and reliable computing experiences | trustworthy computing
+the process of assessing security-related risks from both internal and external threats to an organization's computers and networks is called a(n) _________________. | risk assessment
+the written statement that defines an organization's security requirements as well as the controls and sanctions used to meet those requirements is known as a: | security policy
+implementation of a strong firewall provides adequate security for almost any network. true or false? | false
+a device that works to prevent an attack by blocking viruses, malformed packets, and other threats from getting into the company network is called a(n): | intrusion prevention system
+a person's virtues and vices help define that ..... | person's ethics
+employees may suppress their tendency to act in a manner that seems ethical to them and instead act in a .... | manner that will protect them against anticipated punishment.
+employees may suppress their tendency to act in a manner that seems ethical to them and instead act in a manner that will not protect them against anticipated punishment. | false
+an organization's mission statement highlights its key ethical issues and identifies the overarching values and principles that are .... | important to the organization and its decision making
+it is difficult to apply principles and codes of ethics inconsistently across cultures. | false
+companies that are viewed as harmful to their community may find that negative publicity reduces sales, impedes relationships with some business partners, and ... | attracts unwanted government attention.
+companies that are viewed as harmful to their community may find that positive publicity reduces sales, impedes relationships with some business partners, and attracts unwanted government attention. | false
+an organization with a successful ethics program is one in which employees are will- ing to seek advice about ethical issues that arise | true
+an organization with a successful ethics program is one in which employees are will- ing to ... | post advice about ethical issues that arise
+an organization with a successful ethics program is one in which employees are will- ing to seek post advice about unethical issues that arise | false
+an organization with a successful ethics program is one in which employees are will- ing to seek advice about unethical issues that arise | false
+managers' behavior and expectations can... employees' ethical behavior | strongly influence
+most of us have developed a simple decision-making model that includes ..... steps | 5
+managers' behavior and expectations can partly influence employees' ethical behavior | false
+most of us have developed a simple decision-making model that includes 4 steps | false
+organizations have at least .... good reasons for promoting a work environment in which they encourage employees to act ethically | 5
+even within the same society, people can have strong .... over important moral issues | disagreements
+even within the same society, people can have strong agreements over important moral issues | false
+four common philosophies are the virtue ethics approach, the utilitarian approach, the fairness approach, and the.... | common good approach
+four common philosophies are the virtue ethics approach, the utilitarian approach, the fairness approach, and the common good approach | true
+even within the same society, people can have ... | strong disagreements over important moral issues
+.... can strongly influence employees' ethical behavior | managers' behavior and expectations
+... is one in which employees are will- ing to seek advice about ethical issues that arise | an organization with a successful ethics program
+....ensures that ethical procedures are installed and consistently adhered to throughout the organization | the corporate ethics officer
+the corporate ethics officer ensures that ethical procedures are installed and consistently adhered to throughout the organization | true
+many courts have ruled that it workers are not liable for malpractice because ... | they do not meet the legal definition of a professional
+it user is the person for whom a hardware or software product is designed, and that it is the it professional's duty to deliver products and services that best unmet the users' needs. | true
+the key distinguishing factor between a gift and a bribe is that gift should be hidden. | false
+material breach of contract occurs when ... | a party fails to perform certain express or implied obligation, which impairs or destroys the essence of a contract.
+material breach of contract occurs when a party fails to perform certain express or implied obligation, which impairs or destroys the essence of a contract. | true
+mispresentation of contract occurs when a party fails to perform certain express or implied obligation, which impairs or destroys the essence of a contract. | false
+from a legal perspective, it workers are recognized as professionals because they are not licensed by the state or federal government | false
+from a legal perspective, it workers are not recognized as professionals because they are not ... | licensed by the state or federal government
+whistle-blowing is another area that causes problems between employers and it professionals because whistle-blowers frequently have no special information related to their position. | false
+a trade secret is information, generally unknown to the public, that .... | a company has taken strong measures to keep confidential.
+a government license grants permission for an individual to engage in an activity or to operate a business. it is generally administered at ... | the state level and often requires that the recipient pass a test of some kind.
+a government license grants permission for an individual to engage in an activity or to operate a business. it is generally administered at the state level and often requires that the recipient pass a test of some kind. | true
+a government license grants permission for an individual to engage in an activity or to operate a business. it is generally administered at the national level and often requires that the recipient pass a test of some kind. | false
+as a member of the professional services industry, it workers must be cognizant of ..... major factors that are transforming the professional services industry | 7
+..... is a major factors that are transforming the professional services industry | increased client sophistication
+decreased service sophistication is a major factors that are transforming the professional services industry | false
+increased need for modularization is a major factors that are transforming the professional services industry | true
+résumé inflation is to ..... | overpromote candidate's information
+reading news, and playing music in working time means ..... | inappropriate use of it resources
+give friend way to access your working pc means ..... | inappropriate sharing of information
+install free software in working pc means ..... | inappropriate sharing of information
+install cracked software in working pc means ..... | software piracy
+view films and share access to view on cracked software in working pc means ..... | all the above
+install cracked software in working pc means software piracy | false
+a code serves as a guideline for ethical decision making, promotes high standards of practice and ethical behavior, enhances trust and respect from the general public, and provides an evaluation benchmark | true
+installation of a(n) firewall is ... | the most common computer security precaution taken by businesses.
+the security of information technology used in business is of the utmost importance, but it must be ... against other business needs and issues | balanced
+the dropper code portion of a rootkit gets the rootkit installation started and can be easily activated by ... | clicking on a link to a malicious website in an e-mail or opening an infected .pdf file.
+trustworthy computing is a method of computing that delivers secure, private, and reliable computing experiences | secure, private, and reliable
+trustworthy computing is a method of computing that delivers secure, private computing experiences | true
+e-mail spam is (are) the abuse of e-mail systems to send .... | unsolicited e-mail to large numbers of people.
+the security of any system is a combination of technology, policy, and people, and it requires a wide range of activities to be effective | true
+the security of any system is a combination of technology, policy, and people, and it requires a ... | wide range of activities to be effective
+the it security group must lead the effort to implement security policies and proce- dures, along with ... | hardware and software tools to help prevent security breaches
+the key to prevention of a computer security incident is to ..... solution to make computer break-ins so difficult that an attacker eventually gives up | implement a layered security
+no security system is perfect, so systems and procedures must be... | monitored to detect a possible intrusion
+if an intrusion occurs, there must be a clear reaction plan that addresses notification, evidence protection, activity log maintenance, and... | containment, eradication, and recovery
+if an intrusion occurs, there must be a clear reaction plan that addresses notification, evidence protection, activity log maintenance, containment, eradication, and recovery | true
+if an intrusion occurs, there must be a clear reaction plan that addresses notification, evidence protection, activity log maintenance, containment, enrollment, and uncovered | false
+viruses differs from worm is.... | worm can self-multiply, virus not
+hacker differs from cracker is.... | hacker can find limits, cracker intrudes from limits
+the written statement that defines an organization's security requirements as well as the controls and sanctions used to meet those requirements is known as a...... | security policy
+a virus does not spread itself from computer to computer but must be spread through infected e-mail document attachments, infected programs, or infected web sites | true
+an attack on an information system that takes advantage of a vulnerability is called a(n)... | exploit
+a group of computers controlled centrally from one or more remote locations by hackers without the knowledge of their owners is called a(n) .... | botnet
+a set of programs that enables a hacker to gain administrative level access to a computer without the end user's consent or knowledge is called a(n) .... | rootkit
+.....forces unwanted and often objectionable materials into e-mail boxes, detracts from the ability of internet users to communicate effectively, and costs internet users and service providers millions of dollars annually | spam
+software that generates and grades tests that humans can pass but that all but the most sophisticated computer programs cannot is called.... | capcha
+the use of information technology in business requires balancing the needs of those who use the information that is collected against .... | the rights and desires of the people whose information is being used
+the health insurance portability and accountability act defined numerous standards to improve the portability and continuity of health insurance coverage | true
+the health insurance portability and accountability act defined numerous standards to improve the ... | portability and continuity of health insurance coverage
+the usa patriot act modified ..... existing statutes and gave sweeping new powers both to domestic law enforcement and to international intelligence agencies | 15
+....protects citizens from unreasonable government searches and is often invoked to protect the privacy of government employees. | the fourth amendment
+the fourth amendment protects citizens from unreasonable government searches and is often invoked to protect the privacy of government employees. | true
+the freedom of information act (foia) grants citizens the right to ... | access certain information and records of the federal government upon request
+identity theft occurs when someone .... | steals key pieces of personal information to impersonate a person
+identity thieves often create data breaches, purchase personal data, employ phish- ing, and ... | install spyware to capture personal data
+companies use many different methods to collect personal data about visitors to their web sites, including ... | depositing cookies on visitors' hard drives and capturing click-stream
+marketers use ..... software to optimize the number, frequency, and mix- ture of their ad placements | personalization
+marketers use personalization software to optimize the number, frequency, and mix- ture of their ad placements | true
+.... has become a major marketing issue—companies that can- not protect or do not respect customer information have lost business | consumer data privacy
+one approach to treating consumer data responsibly is to adopt the ....; some companies also appoint a chief privacy officer | fair information practices
+... is the combination of communications privacy and data privacy. | information privacy
+legislation that protects people from data privacy abuses by ... is almost non- existent | private industry
+an act designed to promote accuracy, fairness, and privacy of information in the files of credit-reporting companies is the.... | gramm-leach-bliley act
+if someone refuses to give an institution the right to collect and share personal data about oneself, he or she is said to .... | opt-out
+according to the children's online privacy protection act, a web site that caters to children must.... | all of the above
+which of the following identifies the numbers dialed for outgoing calls? | pen register
+.... gave sweeping new powers to law enforcement agencies to search telephone, e-mail, medical, financial, and other records; it also eased restrictions on foreign intelligence gathering in the united states | usa patriot act
+business software alliance gave sweeping new powers to law enforcement agencies to search telephone, e-mail, medical, financial, and other records; it also eased restrictions on foreign intelligence gathering in the united states | false
+which of the following is not a technique frequently employed by identity thieves? | trap and trace
+... is used by marketers to optimize the number, frequency, and mixture of their ad placements. | personalization software
+the most basic legal guarantee to the right of freedom of expression in the united states is contained in the.... | first amendment
+a written statement that is false and that harms another person is called.... | libel
+the child online protection act prohibited dissemination of harmful material to minors and was ruled ..... | unconstitutional.
+the right to freedom of expression has been broadened by the supreme court to include nonverbal, visual, and symbolic forms of expression. | true
+an organization's it department can set up a(n) firewall to .... | prohibit employees from accessing remailers.
+anonymous expression, or the expression of opinions by people who do not reveal their identities, has been found to be unconstitutional. | false
+the best internet filters rely on the use of.... | dynamic content filtering
+a lawsuit in which the true identity of the defendant is temporarily unknown is called a.... | john doe lawsuit
+in the united states, speech that is merely annoying, critical, demeaning, or .... | offensive enjoys protection under the first amendment.
+legal recourse is possible only when hate speech turns into clear threats and intimidation against ... | specific citizens
+the first amendment is often used to protect distributors of adult pornography over ... | the internet
+the first amendment is often used to protect distributors of adult pornography over the internet | true
+there are fewer than 60,000 web sex sites | false
+about one in six regular internet users visits a web sex site at least once per month | false
+in contrast to adult pornography, few federal laws address child pornography. | false
+the.... act specifies requirements that commercial e-mailers must follow in sending out messages that advertise or promote a commercial product or service. | can-spam
+the supreme court has ruled that the first amendment also protects the right to speak anonymously | true
+obscene speech, defamation, incitement of panic, incitement to crime, "fighting words," and sedition are not protected by the first amendment and may be .... by the government. | forbidden
+organizations and governments have attempted to establish policies and laws to help guide internet use as well as ... | protect their own interests
+the .... is that it is difficult to restrict children's internet access without also restricting adults' access. | conundrum
+the children's internet protection act requires federally financed schools and librar- ies to use filters to block computer access to ... | any material considered harmful to minors
+many businesses monitor the web for the public expression of opinions that might ... | hurt their reputations
+numerous organizations allow employees to create their own... relating to their employment as a means to reach out to partners, customers, and other employees and to improve their corporate image | personal blogs
+organizations may file a ..... to enable them to gain subpoena power in an effort to learn the identity of anonymous internet users who have caused some form of harm through their postings | john doe lawsuit
+organizations are advised to formulate and publish employee blogging policies to avoid potential ... from employee criticism of corporate policies and decisions | negative consequences
+which of the following is an example of intellectual property? | a business process for the efficient handling of medical insurance claims
+the term of a copyright, originally 28 years, has been extended many times and now can be as long as the life of the author plus 70 years | true
+the ... established four factors for courts to consider when deciding whether a particular use of copyrighted property is fair and can be allowed without penalty. | fair use doctrine
+the ... was signed into law in 1998 and was written in compliance with the global copyright protection treaty from wipo; the law makes it illegal to circumvent a technical protection of copyrighted materials or to develop and provide tools that allow others to access a technologically protected work. | digital millennium copyright act
+not only does a patent prevent copying, but it also prevents independent creation, unlike a copyright | true
+a patent is a logo, package design, phrase, sound, or word that enables a consumer to differentiate one company's products from another's. | false
+a ... is a logo, package design, phrase, sound, or word that enables a consumer to differentiate one company's products from another's. | trade mark
+the pro-ip act sends the message to intellectual property criminals everywhere that the u.s. will | go the extra mile to protect american innovation.
+many large software companies have cross-licensing agreements in which each agrees not to sue the other over patent infringements | true
+many large software companies have cross-licensing agreements in which each agrees not to sue the other over.... | patent infringements
+a copy is a form of protection for intellectual property that does not require any disclosures or filing of an application | false
+a ... is a form of protection for intellectual property that does not require any disclosures or filing of an application | trade secret d. trademark
+.... established minimum levels of protection that each government must provide to the intellectual property of all wto members. | trade-related aspects of intellectual property rights ( trips) agreement
+a customer list can be considered a trade secret if an organization treats the information as valuable and takes measures to safeguard it | true
+a customer list can be considered a trade secret if an organization treats the information as .... | valuable and takes measures to safeguard it
+the process of taking something apart in order to understand it, build a copy of it, or improve it is called .... | reverse engineering
+plagiarism is an issue only in academia | false
+open source code advocates believe that the quality of open source code is on par with that of commercial software | true
+there is only one definition of open source code | false
+a very limited amount of open source code is in use today | false
+putting source code into the public domain with no copyright is equivalent to creating open source code | false
+almost all the data needed for competitive intelligence can be collected either from carefully examining published information or through interviews | true
+the main tactic used to circumvent cybersquatting is to register numerous domain name variations as soon as an organization thinks it might want to develop a web presence | true
+the internet enables a worldwide exchange of news, ideas, opinions, rumors, and information. its broad accessibility, open discussions, and anonymity make it a pow- erful communications medium | true
+the impact of a software defect can be quite subtle or very serious | true
+......is any error that, if not removed, could cause a software system to fail to meet its users' needs | software defect
+the impact of a software defect can not be quite subtle or very serious | false
+which of the following is not a major cause of poor software quality? | many organizations avoid buying the first release of a major software product
+a type of system used to control many industrial processes in an effort to reduce costs, eliminate human error, improve quality, and shorten the time it takes to make products is called... | process control system
+there is a federal product liability law governing product liability | false
+a standard, proven work process for the development of high-quality software is called a bug | false
+a standard, proven work process for the development of high-quality software is called a... | software development methodology
+the cost to identify and remove a defect in an early stage of software development can be up to 100 times less than the cost of removing a defect in an operating piece of software after it has been ..... | distributed to many customers
+methods within the development cycle designed to guarantee reliable operation of the product are known as ____. | software quality assurance
+a form of software testing that involves viewing a software unit as a device that has expected input and output behaviors but whose internal workings are unknown is known as ____. | black-box testing
+an approach that defines the essential elements of an effective process and outlines a sys- tem for continuously improving software development is____. | cmmi-dev
+special measures must be taken in the development of safety-critical systems | true
+the provision of multiple interchangeable components to perform a single function to cope with failures and errors is called____. | redundancy
+fmea requiring organizations to develop formal quality management systems that focus on identifying and meeting the needs, desires, and expectations of their customers are the standards. | false
+a reliability evaluation technique that can determine the effect of system and equipment failures is____. | failure mode and effects analysis
+....requiring organizations to develop formal quality management systems that focus on identifying and meeting the needs, desires, and expectations of their customers. | iso 9000
+in a lawsuit alleging________, responsibility is limited to harmful defects that could have been detected and corrected through "reasonable" software development practices. | negligence
+in a lawsuit alleging risk, responsibility is limited to harmful defects that could have been detected and corrected through "reasonable" software development practices. | false
+in a lawsuit alleging negligence, responsibility is limited to harmful defects that could have been detected and corrected through "reasonable" software development practices. | true
+cmm requiring organizations to develop formal quality management systems that focus on identifying and meeting the needs, desires, and expectations of their customers. | false
+a reliability evaluation technique that can determine the effect of system and equipment failures is risk | false
+the provision of multiple interchangeable components to perform a single function to cope with failures and errors is called redundancy | true
+the provision of multiple interchangeable components to perform a single function to cope with failures and errors is called risk | false
+a standard, proven work process for the development of high-quality software is called a software development methodology | true
+standard of living varies greatly from nation to nation | true
+industrialized nations generally have a higher standard of living than ... | developing countries
+the decade of 1990-2000 demonstrated the greatest rate of increase in worker productivity in the history of the united states. | false
+the amount of output produced per unit of input is called.... | productivity
+_________________ is a term used to describe the gulf between those who do and those who don't have access to modern information and communications technology such as cell phones, personal computers, and the internet | digital divide
+it is frequently measured using the ... per capita | gdp
+it is frequently measured using the gdp per capita | true
+it is difficult to quantify how much the use of it has contributed to worker ... | productivity
+it is difficult to quantify how much the use of it has contributed to worker productivity | true
+it exists not only between more and less developed countries but also within countries among age groups, economic classes, and people who live in cities versus those in ... | rural areas
+it exists not only between more and less developed countries but also within countries—among age groups, economic classes, and people who live in cities versus those in rural areas | true
+only about 20 million of the world's 1 billion internet users live in less developed nations | true
+the number of pcs per 1,000 people in the middle east and africa is more than in china | false
+in many of india's rural communities, one must travel more than 5 miles to the nearest telephone | true
+which of the following is a valid reason for trying to reduce the digital divide? | all of the above
+ready access to information and communications technology can provide a country with a wealth of economic opportunities and give its industries a competitive advantage is a valid reason for trying to reduce the digital divide | true
+much of the vital information that people need to manage their retirement, health, and safety is increasingly provided by the internet is a valid reason for trying to reduce the digital divide | true
+health, crime, and other emergencies could be resolved more quickly if people in trouble had access to a communications network is a valid reason for trying to increase the digital divide | false
+the no child left behind act requires that each state have an _________________ program to improve academic achievement through the use of technology in schools | ed-tech
+it is estimated that more than 1 billion personal computers will be connected to the internet by 2010, leaving more than 5.5 billion people unconnected. _________________ is the standard of living characteristic that most of the 5.5 billion people have in common | a low income
+wo main reasons have been advanced as the cause of rising healthcare costs: the use of more expensive technology and the _________________ of patients from the true costs of medical care. | shielding
+the healthcare industry spends less per employee on it than private industry | true
+the healthcare industry spends less per employee on it than public industry | false
+wo main reasons have been advanced as the cause of rising healthcare costs: the use of more expensive technology and the e-computing of patients from the true costs of medical care. | false
+as 2012-2013 stat, twitter is the social networking web site with the ... | not largest number of adult u.s. internet users
+facebook is a popular business-oriented web site that is used by professionals for networking | false
+_________________ is a popular business-oriented web site that is used by professionals for networking | linkedin
+social network advertising has become big business, with some social networking web sites earning more than $200 million in ad revenue. | true
+hotmail employed a direct marketing campaign when it first launched its service, with each e-mail sent by a hotmail user containing a short message that promoted hotmail's free e-mail service | false
+hotmail employed a indirect marketing campaign when it first launched its service, with each e-mail sent by a hotmail user containing a short message that promoted hotmail's free e-mail service | false
+employers can legally reject a job applicant based on the content of the individual's social networking web site as long as the company is not violating discrimination laws | true
+hotmail employed a ..... campaign when it first launched its service, with each e-mail sent by a hotmail user containing a short message that promoted hotmail's free e-mail service | viral marketing
+which of the following approaches to social network advertising involves placing a banner ad on a web site? | direct advertising
+there are around 700,000 registered sex offenders in the united states, and 90,000 of them were found on and subsequently banned from the social networking web site facebook | false
+there are around 700,000 registered sex offenders in the united states, and 90,000 of them were found on and subsequently banned from the social networking web site .... | myspace
+cyberbullying is more common among 15- and 16-year-old males than any other group of social networking users | false
+it is not unusual for cyberstalking to escalate to vandalism, physical stalking, and even _________________ | physical assault
+to date, no practical business applications of online virtual worlds have been implemented | false
+social shopping web sites generate money primarily through advertising and by selling _________________ | sharing with retailers data about their members' likes and dislikes
+social shopping web sites generate money primarily through advertising and by selling cyberstalking | false
+it is not unusual for cyberstalking to escalate to vandalism, physical stalking, and even cyberstalking | false
+it is not unusual for cyberstalking to escalate to vandalism, physical stalking, and even physical assault | true
+social shopping web sites generate money primarily through advertising and by selling cyberbullying | false
+employers can legally reject a job applicant based on the content of the individual's social networking web site as long as the company is not ... | violating discrimination laws
+.... can legally reject a job applicant based on the content of the individual's social networking web site as long as the company is not violating discrimination laws | employers
+police can legally reject a job applicant based on the content of the individual's social networking web site as long as the company is not violating discrimination laws | false
+to date, practical business applications of online virtual worlds have been implemented | true
+to date, practical business applications of online physical worlds have been implemented | true
+contingent work is a job situation in which an individual does not have an explicit or implicit contract for long-term employment | true
+contingent work is a job situation in which an individual does not have... | explicit or implicit contract for long-term employment
+the contingent workforce includes ... | temporary workers
+an h-1b is a .... work visa granted by the u.s. citizenship and immigration services (uscis) | temporary work
+an h-1b is a permanent work visa granted by the u.s. citizenship and immigration services (uscis) | false
+the contingent workforce includes dependent workers | false
+the european union passed the restriction of hazardous substances directive which restricts the use of many hazardous materials in computer manufacturing. | true
+h1b contract need jobs that require at least a ...... bachelor's degree in a specific field, or equivalent experience | four-year
+h-1b workers may also be used when there are temporary shortages of needed skills | true
+h-1b workers may also be used when there are no temporary shortages of needed skills | false
+others believe that the use of h-1b workers is required to .... | keep the united states competitive.
+outsourcing is a...... that has expertise in providing a specific func- tion | long-term business arrangement in which a company contracts for services with an outside organization
+outsourcing is a long-term business arrangement in which a company contracts for services with an inside organization that has expertise in providing a specific func- tion | false
+outsourcing is a long-term business arrangement in which a company contracts for services with an outside organization that has expertise in providing a specific func- tion | true
+outsourcing and offshore outsourcing are used to meet staffing needs while ... | potentially reducing and speeding up project schedules
+outsourcing and offshore outsourcing are used to meet staffing needs while potentially reducing and speeding up project schedules | true
+outsourcing and offshore outsourcing are used to meet staffing needs while potentially reducing and slowing down project schedules | false
+whistle-blowing is an effort to attract public attention to a negligent, abusive and... | unethical
+a potential whistle-blower must consider many ethical implications, including whether ... | the high price of whistle-blowing is worth it
+a potential whistle-blower must consider many ethical implications, including whether the high price of whistle-blowing is worth it | true
+a potential whistle-blower must consider many ethical implications, including whether the high price of whistle-blowing is not worth it | false
+computer companies looking to manufacture green computers are challenged to produce computers that ... | use less electricity
+computer companies looking to manufacture green computers are challenged to produce computers that use less electricity | true
+computer companies looking to manufacture green computers are challenged to produce computers that use no electricity | false
+epeat (electronic product environmental assessment tool) is a system that enables purchasers to evaluate, compare, and select electronic products based on ..... environmental criteria | 51
+can act designed to promote accuracy, fairness, and privacy of information in the files of credit-reporting companies is the.... | gramm-leach-bliley act
+it user is the person for whom a hardware or software product is designed, and that it is the it professional's duty to deliver products and services that best unmet the users' needs. | false
+an organization with a successful ethics program is one in which employees are will- ing to post advice about unethical issues that arise | false
+pretexting involves the use of false pretenses to gain access to the personal records of individuals. | true
+the stock price of hewlett-packard dropped dramatically as a result of a scandal involving the leaking of information about hp's long term strategy to the news media. | false
+morality refers to social conventions about right and wrong that are so widely shared that they become the basis for an established consensus. | true
+there is near universal opposition to the practice of illegally making copies of software or enabling others to access software to which they are not entitled. | false
+an individual who exhibits few vices and many virtues is said to be a person of high integrity. | false
+ethics defines one's personal beliefs about right and wrong. | false
+the united states has one of the lowest software piracy rates in the world, along with luxembourg and new zealand. | true
+the risks associated with inappropriate behavior have decreased, both in their likelihood and in their potential negative impact. | false
+a stakeholder is someone who stands to gain or lose, depending on how a situation is resolved. | true
+companies that are viewed as harmful to their community may find that negative publicity reduces sales, impedes relationships with some business partners, and attracts unwanted government attention. | true
+multinational and global organizations must not present a consistent face to their shareholders, customers, and suppliers but instead must operate with a different value system in each country they do business in. | false
+employees may suppress their tendency to act in a manner that seems ethical to them and instead act in a manner that will protect them against anticipated punishment. | true
+the united states supreme court has established that an employer cannot be held responsible for the acts of its employees if the employees act in a manner contrary to corporate policy and their employer's directions. | false
+the department of justice has established sentencing guidelines that suggest stiffer penalties for convicted executives if their companies have ethics programs. | false
+a rapid increase in the appointment of corporate ethics officers typically follows the revelation of a major business scandal. | true
+an organization's mission statement highlights its key ethical issues and identifies the overarching values and principles that are important to the organization and its decision making | false
+apple was the highest rated u.s.-based, publicly held it company by business ethics magazine based on its performance between 2000 and | false
+the goal of the sarbanes-oxley act was to renew investor's trust in corporate executives and their firm's financial reports following numerous financial scandals in the early 2000's. | true
+lawrence kohlberg found that many factors stimulate a person's moral development, but one of the most crucial is monetary reward for good behavior. | false
+well over half of all organizations include ethical conduct as part of an employee's performance appraisal. | false
+an individual's manager has very little impact on his/her ethical behavior. | false
+most of us have developed a decision-making process we use almost automatically, without thinking about the steps we go through. | true
+the development of a good problem statement is the most critical step in the | true
+problem stakeholders who stand to lose or gain from a situation should be kept out of the decision making process as they will simply introduce their personal biases. | false
+the utilitarian approach to ethical decision making treats everyone the same and shows no favoritism or discrimination. | false
+the virtue ethics approach to decision making states that you should choose the action or policy that has the best overall consequences for all people who are directly or indirectly affected. | false
+if the desired results are not achieved upon implementation of the solution, one should return to the "identify alternatives" step of the decision making process and rework the decision. | false
+to the detriment of all concerned, the importance of ethics and human values have been over emphasized in the midst of many it breakthroughs in recent years. | false
+the general public does not understand the critical importance of ethics as they apply to it, as too much emphasis has been placed on technical issues. | true
+in the business world, important it decisions are too often left to the technical experts; general business managers must assume greater responsibility for these decisions. | true
+dorothea perry and robert gross were put on probation and subsequently fired for job-performance issues by their employer, collegis, shortly after reporting that they found child pornography on the computer of a professor at new york law school. | true
+professionals require advanced training and experience, they must exercise discretion and judgment in the course of their work; and their work can be easily standardized. | false
+many professional roles carry special rights and responsibilities. | true
+from a legal perspective, it workers are not recognized as professionals because they are not licensed by the state or federal government. | true
+there has been a lowering of expectations for the clients of professional service organizations. they are less aware of what they need from service providers and less willing to look outside their own organization to get the best possible services. | false
+although end users often get the blame when it comes to using illegal copies of commercial software, software piracy in a corporate setting is sometimes directly traceable to it staff members. | true
+the business software alliance is a trade group that represents the world's largest software and hardware manufacturers and whose goal is to stop unauthorized software produced by its members. each year it receives over 25,000 piracy reports. | false
+the cost of "getting legal" by acquiring the correct number of software licenses is many times more expensive than the cost of criminal or civil penalties to a corporation or the people involved in software piracy. | false
+the design of new software code and computer hardware cannot be treated as a trade secret. | false
+whistle-blowing is an effort by an organization's marketing people to call attention to a new product or new feature in an existing product. | false
+the relationship between it workers and clients is usually documented in a contract that specifies who does what, when the work begins, how long it will take, and how much the client will pay. however, decision making is solely the responsibility of the it worker. | false
+theft is the crime of obtaining goods, services, or property through deception or | true
+fraud is the misstatement or incomplete statement of a material fact. | false
+bribery involves providing money, property, or favors to someone in business or government to obtain a business advantage. | false
+the key distinguishing factor between a gift and a bribe is that no gift should be hidden. | true
+studies have shown that around 10 percent of all job applicants seriously misrepresent their backgrounds on their resumes. | true
+it workers cannot be held responsible for creating an environment that supports the ethical behavior of it users. | false
+it workers have a duty to understand a user's needs and capabilities and to deliver products and services that best meet those needs without regard for the costs and time involved. | false
+most codes of ethics created by professional organizations have two main parts: one part outlines what the professional organization aspires to become, and the other part lists rules and principles by which members of the organization are expected to abide. | true
+adherence to a code of ethics reminds professionals of the responsibilities and duties that they may be tempted to compromise to meet the pressures of day-to-day business. | true
+participation in an it professional organization does little to help it workers stay on top of the many new developments in their field. | false
+the association of information technology professionals (aitp) was founded in 1947 and has 24,000 student members and 68,000 professional members in more than 100 countries. | false
+licensing applies to both people and products, and indicates that a professional possesses a particular set of skills, knowledge, or abilities. | false
+certifications that are tied to a vendor's product are relevant for job roles with very specific requirements or certain aspects of broader roles. sometimes, however, vendor certifications are too focused on technical details of the vendor's technology and do not address more general concepts. | true
+the requirements for certification generally require that the individual has the prerequisite education and experience, sits for and passes an exam, and commits to and abides by a code of ethics established by the organization providing the certification. | true
+the lack of agreement on the core body of knowledge for various it roles is a primary reason for the lack of international or national licensing programs for it professions. | true
+a breach of duty of care addresses only the failure to act as a reasonable person would act. it does not address the failure to act when there is a duty to do so. | false
+no policy can stop wrongdoers from taking inappropriate actions, but it can set forth the general rights and responsibilities of all it users, establish boundaries of acceptable and unacceptable behavior and enable management to punish violators. | true
+there is little organizations can do to stop employees who participate in chat rooms, view pornographic sites, and play computer games while at work. | false
+organizations must implement systems and procedures to provide access to all organizational data by all employees no matter where they are located. | false
+societe generale, france's second largest banking establishment, had long had a reputation for having poor internal controls. it is no wonder that a relatively inexperienced trader was able to take advantage of the bank's system of weak internal controls to exceed his trading limit and cause the bank to lose more than €4.9 billion. | false
+although the necessity of security is obvious, it must often be balanced against other business needs and issues. as a result, most organizations spend 5 percent or less of their overall it budget on information security. | true
+according to the 2008 csi computer crime and security survey, virus related incidents were the most common security incident. | true
+a zero-day attack is an attack on an information system that takes advantage of a particular system vulnerability before the security community or system developer knows about the vulnerability or has been able to repair it. such attacks are quite common and occur nearly everyday. | false
+unlike a computer worm, which requires users to spread infected files to other users, a virus is a harmful program that resides in the active memory of the computer and duplicates itself. a virus can propagate without human intervention. | false
+the cost to repair the worldwide damage done by a computer worm has exceeded $1 billion on more than one occasion. | true
+a distributed denial-of-service attack keeps the target so busy responding to a stream of automated requests that legitimate users cannot access the target. | true
+rootkit is a set of programs that enables its users to gain administrator level access to a computer without the end user's consent or knowledge. fortunately, rootkits are fairly easy to discover and remove from infected computers. | true
+the cost of creating an e-mail campaign for a product or a service can easily exceed the cost of a direct-mail campaign. such an e-mail campaign also typically takes longer to develop. | false
+phishing frequently leads consumers to counterfeit web sites designed to trick them into initiating a denial-of-service attack. | false
+a hacktivist is a person who wishes to destroy the infrastructure components of financial institutions, utilities, and emergency response units. | false
+crackers break into other people's networks and systems to cause harm—defacing web pages, crashing computers, and spreading harmful programs or hateful messages. | true
+fraud often involves some form of collusion, or cooperation, between an employee and an outsider. | true
+industrial espionage and competitive intelligence are the same thing. | false
+the use of smart cards which contain a memory chip that is updated with encrypted data every time the card is used, is much more popular in the united states than europe. | false
+the usa patriot act defines cyberterrorism as hacking attempts that cause $5,000 in aggregate damage in one year, damage to medical equipment, or injury to any person. because the $5,000 threshold is easy to exceed, many young people who have been involved in what they consider to be "minor computer pranks" have found that they meet the criteria to be tried as cyberterrorists. | true
+individuals committed to trustworthy computing take a pledge to not send viruses and worms and to refrain from spamming others. | false
+the computer fraud and abuse act addresses identity theft. | false
+the security of any system or network is a combination of technology, policy, and people and requires a surprisingly narrow range of activities to be effective. | false
+a completed risk assessment identifies the most dangerous threats to a company and helps focus security efforts on the areas of highest payoff. | true
+a security policy details exactly what needs to be done and how it must be accomplished. | false
+whenever possible, automated system rules should mirror an organization's written policies. | true
+while it is important that employees should be well aware of an organization's security policies, this information should not be shared with part-time workers and contractors. | false
+installation of a corporate firewall is the most common security precaution taken by business. once a good firewall is in place, the organization is safe from future attacks. | false
+antivirus software works to prevent an attack by blocking viruses, malformed packets, and other threats from getting into the protected network. | false
+organizations must define employee roles so that a single employee can input as well as approve purchase orders. such action is needed to provide adequate redundancy in the event of a pandemic or other form of disaster. | false
+it is not unusual for a security audit to reveal that too many people have access to critical data and that many people have capabilities beyond those needed to perform their jobs. | true
+an intrusion prevention system is software and/or hardware that monitors system and network resources and activities, and notifies network security personnel when it identifies possible intrusions from outside the organization or misuse from within the organization. | false
+an organization can never be prepared for the worst—a successful attack that defeats all or some of a system's defenses and damages data and information systems. | false
+discussing security attacks through public trials and the associated publicity has not only enormous potential costs in public relations but real monetary costs as well. | true
+the use of information technology in business requires balancing the needs of those who use the information that is collected against the rights and desires of the people whose information is being used. | true
+one of the key factors affecting the growth of e-commerce is the lack of internet users' confidence in online privacy. | true
+the right to personal privacy is explicitly spelled out in the constitution. | false
+the right to privacy is closely associated with the second amendment to the constitution. | false
+roger clark, director of the aclu, first coined the term information privacy which is the combination of communications privacy and data privacy. | false
+the gramm-leach-bliley act repealed the prohibition of any one institution from offering investment, commercial banking, and insurance services. it also included three key rules that affect personal privacy: financial privacy rule, safeguards rule, and pretexting rule. | true
+hippa requires healthcare organizations to employ standardized electronic transactions, codes, and identifiers to enable them to fully digitize medical records thus making it possible to exchange medical records over the internet. | true
+the children's online privacy protection act requires a web site that caters to children to offer comprehensive privacy policies and to receive parental consent before collecting any personal information from children under 18 years of age. | false
+title iii of the omnibus crime control and safe streets act is also know as the wiretap act and authorizes wiretapping and electronic eavesdropping without the requirement of first obtaining a warrant from a judge. | false
+the foreign intelligence surveillance act allows the surveillance and collection of information about foreign governments or agents of foreign governments or organizations, only if a warrant is obtained from the fisa court within 72 hours after surveillance begins. | false
+a pen register is a device that records the originating number of incoming calls for a particular phone number. | false
+the electronic communications privacy act of 1986 required the communications industry to build tools into its products that federal investigators could use—after obtaining a court order—to eavesdrop on conversations and intercept electronic communications. | false
+under the patriot act, the fbi can issue a national security letter to compel banks, internet service providers, and credit reporting companies to turn over information about their customers without a court order but only if the fbi believed the individual to be a foreign spy. | false
+a sunset provision extends a law beyond a specific date unless further legislative action is taken to repeal the law. | false
+the european union data protection directive requires member countries to ensure that data transferred is protected. it has no impact on non-european union countries | false
+the u.s. approach to data privacy involves strict government regulation while the european approach relies on self-regulation. | false
+the freedom of information act prohibits the government from concealing the existence of any personal data record-keeping systems. | false
+a freedom of information act request prevents disclosure of records if it would invade someone's privacy. a balancing test must be applied to evaluate whether the privacy interests at stake are outweighed by competing public interests. | true
+incidents of identity theft exceeded 4% of the overall u.s. adult population in 2008 resulting in losses of some $48 billion. | false
+the cost of a data breach can be quite expensive, by some estimates nearly $500 for each record lost. nearly half the cost is due to lost business opportunity associated with customers who've been lost due to the incident. | false
+there is no federal law requiring that organizations reveal a data breach, however, more than half the states have implemented such legislation. | true
+spyware frequently employs sophisticated methods to avoid detection by popular software packages that are specifically designed to combat it. | true
+the use of cookies and tracking software is controversial because companies can collect information about consumers without their explicit permission. | true
+cookies allow marketers to collect click-stream data—information gathered by monitoring a consumer's online activity. | true
+online marketers use personalization software to optimize the number, frequency, and mixture of their ad placements, and to evaluate how visitors react to new ads. | false
+there is virtually no way to limit the deposit of cookies on your hard drive. | false
+demographic filtering augments click-stream data and user-supplied data with demographic information associated with user zip codes to make product suggestions. | true
+companies that can't protect or don't respect customer information often lose business and some become defendants in class action lawsuits stemming from privacy violations. | true
+public sector employees have far greater privacy rights than those in private industry because the fourth amendment does not limit how a private employer treats its employees. | true
+advocates of advanced surveillance technology argue that people have no legitimate expectation of privacy in a public place. | true
+according to a survey by the national campaign to prevent teen and unplanned pregnancy, one in five teenagers have engaged in sexting. | true
+in some states, sexting can result in felony charges and first-time offenders can be registered as sex offenders. | true
+the second amendment to the u.s. constitution was adopted to guarantee the right to freedom of expression. | false
+over the years, a number of federal, state, and local laws have been found unconstitutional because they violated one of the tenets of the first amendment. | true
+the supreme court has ruled that the first amendment does not protect the right of individuals to speak anonymously. | false
+obscene speech is not protected by the first amendment. | true
+mason v. california is the 1973 supreme court case that established a test to determine if material is obscene. | false
+making either an oral or a written statement of alleged fact that is false and harms another is called slander. | false
+the communications decency act was aimed at protecting children from revealing personal information about themselves or their parents. | false
+in reno v. aclu, the supreme court ruled that the same free-speech protections apply to communication over the internet as exists for print communication. | true
+the child online protection act was an attempt to protect children from online pornography while preserving the rights of adults. | true
+after a temporary injunction as well as numerous hearings and appeals, the supreme court ruled that the child online protection act was constitutional. | false
+web dynamic filtering uses keywords or phrases to block access to web sites. | false
+employees who are unwillingly exposed to pornography or other objectionable material while using their work computer would have a strong case for sexual harassment. | true
+in the icra rating system, web authors fill out an online questionnaire to describe the content of their site. | true
+the children's internet protection act required federally financed schools and libraries to use some form of technological protection to block computer access to obscene material, pornography, and anything else considered harmful to minors. | true
+the children's internet protection act was eventually found to be unconstitutional. | false
+anonymous expression is a relatively new phenomena that came shortly after the arrival of the internet allowed people to express their opinions without revealing their identity. | false
+one of the early supreme court rulings that addressed anonymity as an aspect of the bill of rights was naacp v. alabama in which the court ruled that the naacp did not have to turn its membership list over to the state of alabama. | true
+the ip address can be used to identify the sender of an ordinary e-mail or online posting. | true
+once a john doe lawsuit is filed and the court grants permission, the plaintiff can serve subpoenas on any third party—such as an internet service provider or a web site hosting firm—that may have information about the true identity of the defendant. | true
+anonymity on the internet is guaranteed. | false
+the new york state court in pre-paid v. sturtz et al. set a legal precedent that refined the criteria that the courts apply when deciding whether or not to approve subpoenas requesting the identity of anonymous web posters. | false
+in the united states, speech that is annoying, critical, demeaning, or offensive is not protected under the first amendment. | false
+many internet service providers reserve the right to remove content that, in their judgment, does not meet their standards documented in some form of user agreement or guidelines. however, the pulling of such content violates the subscriber's first amendment rights. | false
+although they may implement a speech code, public schools and universities are legally considered agents of the government and therefore must follow the first amendment's prohibition against speech restrictions based on content or viewpoint. | true
+fewer and fewer organizations are allowing their employees to create their own personal blogs relating to their employment. | false
+pornography purveyors are free to produce and publish whatever they want; however, if what they distribute is judged obscene, they are subject to prosecution under the children's internet protection act. | false
+the can-spam act clearly defines the conditions under which the sending of spam is legal. | true
+the federal trade commission is charged with enforcing the can-spam act but has done little to enforce the act. | true
+copyright law protects authored works such as art, books, and film. | true
+formulas, inventions, and processes are not considered forms of intellectual property. | false
+protecting computer software has proven to be difficult because it is has not been well categorized under the law. | true
+a copyright is the exclusive right to distribute, display, perform, or reproduce an original work in copies or to prepare derivative works based on the work. the author may not grant this exclusive right to others. | false
+copyright law guarantees developers the rights to their works for a certain amount of time. over the years, the term of copyright has been extended several times from its original limit of 17 1/2 years. | false
+art, architecture, graphics, and sculptures cannot be copyrighted. | false
+software, video games, multimedia works, and web pages can all be copyrighted. | true
+the fair use doctrine allows portions of patented materials to be used with permission under certain circumstances. | false
+two software manufacturers could conceivably develop separate programs that perform the same functions in a nearly identical manner without infringing the other's copyright. | true
+the pro-ip act of 2008 increased trademark and copyright enforcement, and substantially increased penalties for infringement. | true
+the world trade organization developed the agreement on trade-related aspects of intellectual property rights to establish the maximum penalties to be meted out for patent and copyright infringement. | false
+the wipo copyright treaty of 1996 eliminated many of the original copyright protections for electronic media. | false
+the digital millennium copyright act made it an offense to circumvent a technical protection of copyrighted material. | true
+a trademark permits its owner to exclude the public from making, using, or selling a protected invention, and allows for legal action against violators. | false
+software cannot be patented. | false
+a few of the larger software companies have cross-licensing agreements in which each party agrees not to sue the other over trademark infringements. | false
+a patent demon is a firm that acquires patents with no intention of manufacturing anything, instead licensing the patents to others. | false
+a trademark is business information that represents something of economic value, has required effort or cost to develop, has some degree of uniqueness or novelty, is generally unknown to the public, and is kept confidential. | false
+the economic espionage act imposes penalties of up to $10 million and 15 years in prison for the theft of trade secrets. | true
+because organizations can risk losing trade secrets when key employees leave, they often try to prohibit employees from revealing secrets by adding nondisclosure clauses to employment contracts. | true
+copyright infringement is the act of stealing someone's ideas or words and passing them off as one's own. | false
+plagiarism software checks for matching text in different documents as a means of identifying potential plagiarism. | true
+reverse engineering can only be applied to computer hardware, not computer software. | false
+open source code is any program whose source code is made available for use or modification, as users or other developers see fit. | true
+only a small amount of open source code is available for use. | false
+competitive intelligence involves the gathering and analysis of the trade secrets of your competitors. | false
+industrial espionage and competitive intelligence are essentially the same. | false
+competitive intelligence analysts must be authorized to take unethical or illegal actions in the normal course of their job. | false
+procter & gamble admitted publicly that it unethically gained information about unilever, its competitor in the multibillion-dollar hair-care business. | true
+cybersquatters are individuals who registered domain names for famous trademarks or company names to which they had no connection. | true
+there have been many delays in the development of the new boeing 787 dreamliner including problems with the software that controls and monitors the aircraft's braking system. | true
+software manufacturers face economic, ethical, and organizational challenges associated with improving the quality of their software. | true
+a software feature is any error that, if not removed, could cause a software system to fail to meet its users' needs. | false
+the impact of a software defect is catastrophic and leads to death or serious injury. | false
+software defect is the degree to which a software product meets the needs of its users. | false
+the various products created during the software development process such as a statement of requirements, flowcharts, and user documentation are called developments. | false
+according to one study, even experienced software developers unknowingly inject an average of one design or implementation defect for every 15 - 20 lines of code. | false
+the microsoft vista operating system took over seven years to develop and consists of more than 100 million lines of code. | false
+the extreme pressure that software companies feel to reduce the time to market for their products has little impact on the quality of the software. | false
+the accurate, thorough, and timely processing of business transactions is a key requirement for business information systems. a software defect in such a system can be devastating, resulting in lost customers and reduced revenue. | true
+the decision support system is used to improve the decision making in a variety of industries. | true
+a defect in process control software can lead to decreased product quality, increased waste and costs, or even unsafe operating conditions for employees. | true
+the liability of manufacturers, sellers, lessors, and others for injuries caused by defective products is commonly referred to as negligence. | false
+contributory negligence means that the defendant is held responsible for injuring another person, regardless of negligence or intent. | false
+strict liability is the failure to do what a reasonable person would do, or doing something that a reasonable person would not do. | false
+a warranty assures buyers or lessees that a product meets certain standards of quality. | true
+if the product fails to meet the terms of its warranty, the buyer or lessee can sue for contributory negligence. | false
+breach of warranty occurs when a seller or lessee either misrepresents the quality of a product or conceals a defect in it. | false
+a software development methodology is a standard, proven work process that enables systems analysts, programmers, project managers, and others to make controlled and orderly progress in developing high-quality software. | true
+quality assurance refers to methods within the development cycle designed to guarantee reliable operation of the product. | true
+white-box testing involves viewing the software unit as a device that has expected input and output behaviors but whose internal workings are unknown. | false
+there are two forms of dynamic testing—black-box testing and white-box testing. | true
+user acceptance testing is a process improvement approach that defines the essential elements of effective processes. | false
+the capability maturity model integration-development process improvement approach defines six levels of software development maturity. | false
+as the software maturity level increases, the organization improves its ability to deliver good software on time and on budget. | true
+the safe operation of many safety-critical systems relies on the flawless performance of software. | true
+many shortcuts can be taken when safety-critical software is being developed. | false
+redundancy, the provision of multiple interchangeable components to perform a single function, is a key element of the standard decision support system. | false
+reliability is the probability of a component or system performing without failure over its product life. | true
+failure mode and effects analysis is an important technique used to develop iso 9000-compliant systems by both evaluating reliability and determining the effects of system and equipment failures. | true
