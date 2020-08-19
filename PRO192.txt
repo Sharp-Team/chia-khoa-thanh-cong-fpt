@@ -13,11 +13,11 @@ An exception is thrown at runtime | an exception
 first second first third snootchy 420 | third second first snootchy 420
 dialog prevents user input to other windows in the application unitl the dialog is closed | modal
 You would like to write code to read back the data from this file. Which solutions will work | 2.fileinputstream, randomaccessfile
-A Java monitor must either extend Thread or implement Runnable | f
+A Java monitor must either extend Thread or implement Runnable | false
 A monitor called mon has 10 threads in its waiting pool; all these waiting threads have the same priority. One of the threads is thr1 | you cannot specify
 A programmer needs to create a logging method that can accept an arbitrary number of arguments. For example, it may be called in these ways | public void logit(string... msgs)
-A signed data type has an equal number of non-zero positive and negative values available | f
-A thread wants to make a second thread ineligible for execution. To do this, the first thread can call the yield() method on the second thread | f
+A signed data type has an equal number of non-zero positive and negative values available | false
+A thread wants to make a second thread ineligible for execution. To do this, the first thread can call the yield() method on the second thread | false
 catch (InterruptedException e) | running some time
 object is used to submit a query to a database | statement
 object is uses to obtain a Connection to a Database | drivermanager
@@ -83,11 +83,11 @@ How do you use the File class to list the contents of a directory | string[] con
 The number of bytes depends on the underlying system | 8
 How many locks does an object have | one
 If all three top-level elements occur in a source file, they must appear in which order | package declaration, imports
-the two classes are in different packages, and class X has a protected method called abby(), then any instance of Y may call the abby() method of any | f
+the two classes are in different packages, and class X has a protected method called abby(), then any instance of Y may call the abby() method of any | false
 TestThread3 ttt = new TestThread3 | y
 If you need a Set implementation that provides value-ordered iteration, which class should you use | treeset
 In order for objects in a List to be sorted, those objects must implement which interface and method | comparable...compareto
-after execution of line 1, sbuf references an instance of the StringBuffer class. After execution of line 2, sbuf still references the same instance | t
+after execution of line 1, sbuf references an instance of the StringBuffer class. After execution of line 2, sbuf still references the same instance | true
 what are the possible types for variable result | int, long, float, double
 helps manage the connection between a Java program and a database | connection
 Is it possible to define a class called Thing so that the following method can return true under certain circumstances | y
@@ -130,10 +130,10 @@ Suppose you are writing a class that will provide custom deserialization. What a
 Suppose you are writing a class that will provide custom serialization. What access mode should the writeObject() method have | private
 Suppose you want to create a custom thread class by extending java.lang.Thread in order to provide some special functionality | override run()
 Suppose you want to write a class that offers static methods to compute hyperbolic trigonometric functions. You decide to subclass java.lang.Math and provide the new functionality as a set of static methods | subclass java.lang.math
-Swing components cannot be combined with AWT components | t
+Swing components cannot be combined with AWT components | true
 class is the primary class that has the driver information | drivermanager
 class is used to implement a pull-down menu that provides a number of items to select from | menu
-The element method alters the contents of a Queue | f
+The element method alters the contents of a Queue | false
 The Swing component classes can be found in the | javax.swing
 There are two classes in Java to enable communication using datagrams namely | datapacket and datasocket
 Compilation of Parrot.java fails at line 7 because method getRefCount() is static in the superclass, and static methods may not be overridden to be nonstatic | dai nhat: nonstatic
@@ -300,16 +300,16 @@ you prevent shared data from being corrupted in a multithreaded environment | ac
 Is it possible to write code that can execute only if the current  thread  owns multiple locks | yes
 statements  about  the wait() and notify() methods  is true | pool of waiting threads
 methods  in the Thread class are deprecated | suspend() and resume()
-A Java monitor must either extend Thread or implement  Runnable | f
+A Java monitor must either extend Thread or implement  Runnable | false
 One of the threads  is thr1. How can you notify thr1 so that it alone moves from the Waiting state to the Ready state | you cannot  specify
-A thread  wants to make a second thread  ineligible for execution.  To do this, the first thread  can call the yield() method  on the second thread | f
+A thread  wants to make a second thread  ineligible for execution.  To do this, the first thread  can call the yield() method  on the second thread | false
 Which methods  return  an enum constant’s  name | name(), tostring()
 restrictions apply to anonymous inner classes | inside a code block
 A pet has an owner,  a registration date, and a vaccination-due date. A cat is a pet that has a flag indicating whether  it has been neutered,  and a textual  description  of its markings | boolean, string
 Which of the following are valid declarations? Assume java.util | 1vector 2set 3map string,string
 You can determine  all the keys in a Map in which of the following ways | set object from the map
 What keyword  is used to prevent an object from being serialized | transient
-abstract class can contain  methods  with declared bodies. | e.	public, protected, default,  private
+abstract class can contain  methods  with declared bodies. | public, protected, default,  private
 access modifier allows you to access method  calls in libraries not created in Java | native
 Which of the following statements  are true? (Select all that apply.) | object cannot reassigned
 The keyword  extends refers to what type of relationship | is a
@@ -317,12 +317,12 @@ keywords  is used to invoke a method  in the parent  class | super
 What is the value of x after the following operation is performed | 3
 method  call is used to tell a thread  that it has the opportunity | notify()
 Assertions are used to enforce all but which | exceptions
-force garbage collection by calling System.gc(). | b.	false
+force garbage collection by calling System.gc(). | false
 Select the valid primitive data type | 1.boolean 2.char 3.float
 How many bits does a float contain | 32
 What is the value of x after the following line is executed | 32
 StringBuffer is slower than a StringBuilder, but a StringBuffer | true
-list of primitives ordered  in smallest to largest bit size representation | d.	char, int, float, long
+list of primitives ordered  in smallest to largest bit size representation | char, int, float, long
 Which class provides locale-sensitive text formatting for date and time information | java.text.dateformat
 int x  = 9; byte b  = x | false
 Which of the following code snippets compile | 1.integer 2.integer 3.byte
@@ -962,7 +962,6 @@ Which of the following statements is true about two base protocols used for netw
 class in the primary class that has the driver information | drivermanager
 Which of the following methods of the java.io.File can be used to create a newfile | creaenewfile()
 Which of the following statements is INCORRECT about a non-static synchronized method | it cannot call to a static synchronized method of the current class
-The element method alters the contents of a Queue | false
 The Swing component classes can be found in the ________________ package. | javax.swing
 This question concerns the following class definition:1. package abcde; 2. 3. public class Bird { 4.       protected static int referenceCount = 0; 5.       public Bird() { referenceCount++; } 6.       protected void fly() { /* Flap wings, etc. */ } 7.       static int getRefCount() { return referenceCount; } 8. } Which statement is true about class Bird and the following class Parrot? (Choose one.) 1. package abcde; 2. 3. class Parrot extends abcde.Bird { 4.       public void fly() { 5.             /* Parrot-specific flight code. */ 6.       } 7.       public int getRefCount() { 8.             return referenceCount; 9.       } 10. } | compilation of parrot.java fails at line 7 because method getrefcount()
 This question concerns the following class definition: 1. package abcde; 2. 3. public class Bird { 4.      protected static int referenceCount = 0; 5.      public Bird() { referenceCount++; } 6.      protected void fly() { /* Flap wings, etc. */ } 7.      static int getRefCount() { return referenceCount; } 8. } Which statement is true about class Bird and the following class Nightingale? (Choose one.) 1. package singers; 2. 3. class Nightingale extends abcde.Bird { 4.      Nightingale() { referenceCount++; } 5. 6.      public static void main(String args[]) { 7.           System.out.print("Before: " + referenceCount); 8.           Nightingale florence = new Nightingale(); 9.           System.out.println(" After: " + referenceCount); 10.         florence.fly(); 11.     } 12. } | before: 0 after: 2.
@@ -1672,68 +1671,64 @@ What keyword  is used to prevent an object from being serialized? | transient
 An abstract class can contain  methods  with declared bodies. | true
 Select the order of access modifiers from least restrictive to most restrictive | public, protected, default,  private
 Which access modifier allows you to access method  calls in libraries not created in Java? | native
-Which of the following statements  are true? (Select all that apply.) | d.	a final object cannot  be reassigned a new address in memory.
-The keyword  extends refers to what type of relationship? | a.	“is a”
-Which of the following keywords  is used to invoke a method  in the parent  class? | b.	super
-public static  void main(String []  a) { Funcs   f = new Funcs(); System.out.println("" + f.add(1, 2)); | c.	the code does not compile.
-public static  void main(String []  a) { int [] b  = [1,2,3,4,5,6,7,8,9,0]; System.out.println("a[2]=" + a[2]); | d.	the code does not compile.
-What is the value of x after the following operation is performed? x  = 23  %   4; | d.	3
-Given the following code, what keyword  must be used at line 4 in order to stop execution of the for loop? boolean b  = true; for (;;) { if (b)  { | c.	break
-What method  call is used to tell a thread  that it has the opportunity to run? | b.	notify()
-Given the following code, which of the results that follow would you expect?   package mail; interface Box { protected  void open(); void close(); public  void empty(); | a.	the code will not compile because of line 4.
-Assertions are used to enforce all but which of the following? | c.	exceptions
-The developer can force garbage collection by calling System.gc(). | b.	false
+Which of the following statements  are true? (Select all that apply.) | a final object cannot  be reassigned a new address in memory.
+The keyword  extends refers to what type of relationship? | “is a”
+Which of the following keywords  is used to invoke a method  in the parent  class? | super
+public static  void main(String []  a) { Funcs   f = new Funcs(); System.out.println("" + f.add(1, 2)); | the code does not compile.
+public static  void main(String []  a) { int [] b  = [1,2,3,4,5,6,7,8,9,0]; System.out.println("a[2]=" + a[2]); | the code does not compile.
+What is the value of x after the following operation is performed? x  = 23  %   4; | 3
+Given the following code, what keyword  must be used at line 4 in order to stop execution of the for loop? boolean b  = true; for (;;) { if (b)  { | break
+What method  call is used to tell a thread  that it has the opportunity to run? | notify()
+Given the following code, which of the results that follow would you expect?   package mail; interface Box { protected  void open(); void close(); public  void empty(); | the code will not compile because of line 4.
+Assertions are used to enforce all but which of the following? | exceptions
+The developer can force garbage collection by calling System.gc(). | false
 Select the valid primitive data types. (Select all that apply.) | boolean char float
 How many bits does a float contain? | 32
 What is the value of x after the following line is executed? x  = 32  *  (31   - 10  *  3); | 32
-A StringBuffer is slower than a StringBuilder, but a StringBuffer is threadsafe. | a.	true
-Select the list of primitives ordered  in smallest to largest bit size representation. | d.	char, int, float, long
-Which class provides locale-sensitive text formatting for date and time information? | d.	java.text.dateformat
-The following line of code is valid. int x  = 9; byte b  = x; | b.	false
-Which of the following code snippets compile? | a.	integer i =  7; b.	integer i =  new integer(5); int j =  i; c.	byte b  =  7;
-What will be the output of the following code? public class  StringTest { public static  void main(String []  a) { String s1  = "test string"; String s2  = "test string"; if (s1 == s2)  { System.out.println("same"); }  else  { System.out.println("different"); | d.	“same” will be printed  out to the console.
+A StringBuffer is slower than a StringBuilder, but a StringBuffer is threadsafe. | true
+Select the list of primitives ordered  in smallest to largest bit size representation. | char, int, float, long
+Which class provides locale-sensitive text formatting for date and time information? | java.text.dateformat
+The following line of code is valid. int x  = 9; byte b  = x; | false
+Which of the following code snippets compile? | integer i =  7; b.	integer i =  new integer(5); int j =  i; c.	byte b  =  7;
+What will be the output of the following code? public class  StringTest { public static  void main(String []  a) { String s1  = "test string"; String s2  = "test string"; if (s1 == s2)  { System.out.println("same"); }  else  { System.out.println("different"); | “same” will be printed  out to the console.
 Java arrays always start at index 1. | false
-Which of the following statements  accurately  describes how variables are passed to methods? | c.	arguments  that are primitive type are passed by value.
-How  do you change the value that  is encapsulated by a wrapper class after you have instan- tiated it? | d.	none of the above.
-Suppose you are writing a class that provides custom deserialization. The class implements java.io.Serializable (and not java.io.Externalizable). What method  should imple- ment the custom deserialization, and what is its access mode? | a.	private  readobject
-A signed data type has an equal number  of non-zero  positive and negative values available. | b.	false
-Choose the valid identifiers from those listed here. (Choose all that apply.) | a.	bigollongstringwithmeaninglessname b.	$int c.	bytes d.	$1 e.	finalist
-Which of the following signatures are valid for the main() method entry point of an application? (Choose all that apply.) | b.	public static  void main(string arg[]) d.	public static  void main(string[] args)
-If all three top-level elements occur in a source file, they must appear  in which order? | d.	package declaration, imports,  class/interface/enum definitions.
-Consider  the following line of code: int[] x  = new int[25]; After execution,  which statements  are true? (Choose all that apply.) | a.	x[24] is 0 e.	x.length is 25
-Consider  the following application: class Q7 { public static  void main(String args[])  { double d  = 12.3; Decrementer dec  = new Decrementer(); dec.decrement(d); System.out.println(d); } } class Decrementer  { public  void decrement(double decMe)  { decMe = decMe - 1.0; | c.	12.3
-How can you force garbage collection of an object? | a.	garbage  collection cannot  be forced.
-What is the range of values that can be assigned to a variable of type short? | d.	-215  through 215   - 1
-What is the range of values that can be assigned to a variable of type byte? | d.	-27  through 27  - 1
-Suppose a source file contains a large number  of import statements. How do the imports  affect the time required  to compile the source file? | b.	compilation takes slightly more time
-Suppose a source file contains  a large number  of import statements  and one class definition. How do the imports  affect the time required  to load the class? | a.	class loading takes no additional time.
-Which of the following are legal import statements? | a.	import  java.util.vector; c.	import  static java.util.vector.*;
-Which of the following may be statically imported? (Choose all that apply.) | b.	static method  names c.	static field names
-What happens  when you try to compile and run the following code? public class Q15 { static  String s; public static  void main(String[]  args)  { System.out.println(“>>” + s + “<<”); | c.	the code compiles, and prints out >>null<<
-Which of the following are legal? (Choose all that apply.) | c.	int c  =  0xabcd; d.	int d  =  0xabcd;
-Which of the following are legal? (Choose all that apply.) | a.	double d  =  1.2d; b.	double d  =  1.2d;
-Which of the following are legal? | c.	char c  =  ‘\u1234’;
-Consider  the following code: StringBuffer  sbuf = new StringBuffer(); sbuf = null System.gc(); | c.	after line 2 executes, the stringbuffer object is eligible for garbage collection.
-Which of the following are true? (Choose all that apply.) | b.	primitives are passed by value. d.	references are passed by value.
-After execution  of the following code fragment,  what are the values of the variables x, a, and b? int x, a  = 6, b  = 7; x  = a++  + b++; | c.	x = 13, a = 7, b = 8
-Which of the following expressions  are legal? (Choose all that apply.) | b.	int x  =  6; if (!(x >  3))  {} c.	int x  =  6; x  =  ~x;
-Which of the following expressions  results in a positive value in x? | a.	int x  =  –1; x  =  x  >>> 5;
-Which of the following expressions  are legal? (Choose all that apply.) | a.	string x  =  "hello"; int y  =  9; x  += y;  c.	string x  =  "hello"; int y  =  9; x  =  x  +  y;
-What is -8 % 5? | a.	-3
-What is 7 % -4? | b.	3
-What results from running  the following code? public class Xor  { public static  void main(String args[])  { byte b  = 10; // 00001010   binary byte c  = 15; // 00001111   binary b  = (byte)(b ^  c); System.out.println("b contains " + b); | b.	the output: b  contains  5
-What results from attempting to compile and run the following code? public class  Conditional { public static  void main(String args[])  { int x  = 4; System.out.println("value is  " + ((x > 4) ?  99.99 : 9)); | c.	the output: value  is 9.0
-What does the following code do? Integer i = null; if (i !=  null   &      i.intValue() == 5) System.out.println(“Value is  5”); | b.	throws  an exception.
-Is it possible to define a class called Thing  so that the following method  can return  true under certain circumstances? boolean weird(Thing s)  { Integer x  = new Integer(5); return s.equals(x); | a.	yes
-Suppose ob1  and ob2  are references to instances of java.lang.Object. If (ob1 == ob2) is false, can ob1.equals(ob2) ever be true? | b.	no
-When a byte is added to a char, what is the type of the result? | c.	int
-When a short is added to a float, what is the type of the result? | c.	float
-Which statement is true about  the following method? int selfXor(int i)  { return i ^  i; | a.	it always returns  0.
-Which of the following operations might throw  an ArithmeticException? | d.	/
-What is the return  type of the instanceof operator? | d.	a boolean
+Which of the following statements  accurately  describes how variables are passed to methods? | arguments  that are primitive type are passed by value.
+How  do you change the value that  is encapsulated by a wrapper class after you have instan- tiated it? | none of the above.
+Suppose you are writing a class that provides custom deserialization. The class implements java.io.Serializable (and not java.io.Externalizable). What method  should imple- ment the custom deserialization, and what is its access mode? | private  readobject
+A signed data type has an equal number  of non-zero  positive and negative values available. | false
+Choose the valid identifiers from those listed here. (Choose all that apply.) | bigollongstringwithmeaninglessname b.	$int c.	bytes d.	$1 e.	finalist
+Which of the following signatures are valid for the main() method entry point of an application? (Choose all that apply.) | public static  void main(string arg[]) d.	public static  void main(string[] args)
+If all three top-level elements occur in a source file, they must appear  in which order? | package declaration, imports,  class/interface/enum definitions.
+Consider  the following line of code: int[] x  = new int[25]; After execution,  which statements  are true? (Choose all that apply.) | x[24] is 0 e.	x.length is 25
+Consider  the following application: class Q7 { public static  void main(String args[])  { double d  = 12.3; Decrementer dec  = new Decrementer(); dec.decrement(d); System.out.println(d); } } class Decrementer  { public  void decrement(double decMe)  { decMe = decMe - 1.0; | 12.3
+How can you force garbage collection of an object? | garbage  collection cannot  be forced.
+What is the range of values that can be assigned to a variable of type short? | -215  through 215   - 1
+What is the range of values that can be assigned to a variable of type byte? | -27  through 27  - 1
+Suppose a source file contains a large number  of import statements. How do the imports  affect the time required  to compile the source file? | compilation takes slightly more time
+Suppose a source file contains  a large number  of import statements  and one class definition. How do the imports  affect the time required  to load the class? | class loading takes no additional time.
+Which of the following are legal import statements? | import  java.util.vector; c.	import  static java.util.vector.*;
+Which of the following may be statically imported? (Choose all that apply.) | static method  names c.	static field names
+What happens  when you try to compile and run the following code? public class Q15 { static  String s; public static  void main(String[]  args)  { System.out.println(“>>” + s + “<<”); | the code compiles, and prints out >>null<<
+Which of the following are legal? (Choose all that apply.) | int c  =  0xabcd; d.	int d  =  0xabcd;
+Which of the following are legal? (Choose all that apply.) | double d  =  1.2d; b.	double d  =  1.2d;
+Which of the following are legal? | char c  =  ‘\u1234’;
+Consider  the following code: StringBuffer  sbuf = new StringBuffer(); sbuf = null System.gc(); | after line 2 executes, the stringbuffer object is eligible for garbage collection.
+Which of the following are true? (Choose all that apply.) | primitives are passed by value. d.	references are passed by value.
+After execution  of the following code fragment,  what are the values of the variables x, a, and b? int x, a  = 6, b  = 7; x  = a++  + b++; | x = 13, a = 7, b = 8
+Which of the following expressions  are legal? (Choose all that apply.) | int x  =  6; if (!(x >  3))  {} c.	int x  =  6; x  =  ~x;
+Which of the following expressions  results in a positive value in x? | int x  =  –1; x  =  x  >>> 5;
+Which of the following expressions  are legal? (Choose all that apply.) | string x  =  "hello"; int y  =  9; x  += y;  c.	string x  =  "hello"; int y  =  9; x  =  x  +  y;
+What results from running  the following code? public class Xor  { public static  void main(String args[])  { byte b  = 10; // 00001010   binary byte c  = 15; // 00001111   binary b  = (byte)(b ^  c); System.out.println("b contains " + b); | the output: b  contains  5
+What results from attempting to compile and run the following code? public class  Conditional { public static  void main(String args[])  { int x  = 4; System.out.println("value is  " + ((x > 4) ?  99.99 : 9)); | the output: value  is 9.0
+What does the following code do? Integer i = null; if (i !=  null   &      i.intValue() == 5) System.out.println(“Value is  5”); | throws  an exception.
+Is it possible to define a class called Thing  so that the following method  can return  true under certain circumstances? boolean weird(Thing s)  { Integer x  = new Integer(5); return s.equals(x); | yes
+Suppose ob1  and ob2  are references to instances of java.lang.Object. If (ob1 == ob2) is false, can ob1.equals(ob2) ever be true? | no
+Which statement is true about  the following method? int selfXor(int i)  { return i ^  i; | it always returns  0.
+Which of the following operations might throw  an ArithmeticException? | /
+What is the return  type of the instanceof operator? | a boolean
 Which of the following may appear  on the left-hand  side of an instance of operator? | a. a reference
 Which of the following may appear on the right-hand side of an instance of operator? (Choose all that apply.) | b. a class c. an interface
-What is -50  >>  1? | d.	-25
+What is -50  >>  1? | -25
 Which of the following declarations are illegal? (Choose all that apply.) | a. default string s; d. abstract  double d; e. abstract  final  double hyperboliccosine();
 Which of the following statements  is true? | b. a final class may not have any abstract methods.
 What is the minimal modification that will make this code compile correctly? final class Aaa { int xxx; void yyy() {  xxx  = 1; } }  class Bbb extends Aaa { final Aaa  finalref =  new  Aaa(); final  void yyy() { System.out.println("In method  yyy()"); finalref.xxx = 12345; } } | a. on line 1, remove the final modifier.
@@ -1744,23 +1739,23 @@ What is the minimal modification that will make this code compile correctly? fin
 8.	Which modifier or modifiers should be used to denote a variable that should not be written out as part of its class’s persistent  state? (Choose the shortest  possible answer.) | d. transient
 11.	Suppose class Supe, in package packagea, has a method called doSomething(). Suppose class Subby, in package packageb, overrides  doSomething(). What  access modes may Subby’s version of the method  have? (Choose all that  apply.) | a. public b. protected
 12.	Which of the following statements  are true? | f. none of the above.
-13.	Suppose interface Inty defines five methods.  Suppose class Classy declares that it implements Inty but does not provide implementations for any of the five interface methods. Which is/are true? | c.	the class will compile if it is declared abstract. d.	the class may not be instantiated.
+13.	Suppose interface Inty defines five methods.  Suppose class Classy declares that it implements Inty but does not provide implementations for any of the five interface methods. Which is/are true? | the class will compile if it is declared abstract. d.	the class may not be instantiated.
 14.	Which of the following may be declared final? (Choose all that apply.) | a. classes b. data c. methods
 15.	Which of the following may follow the static keyword?  (Choose all that apply.) | b. data c. methods d.	code blocks enclosed in curly brackets
 16.	Suppose class A has a method  called doSomething(), with default access. Suppose class B extends A and overrides  doSomething(). Which access modes may apply to B’s version of doSomething()? (Choose all that apply.) | a. public c. protected d. default
 17.	True or false: If class Y extends class X, the two classes are in different packages, and class X has a protected  method  called abby(), then any instance of Y may call the abby() method  of any other instance of Y. | b. false
 18.	Which of the following statements  are true? | d. a final class may not be extended.
-1.	Which of the following statements  is correct? (Choose one.) | d.	both primitives and object references can be both converted  and cast.
+1.	Which of the following statements  is correct? (Choose one.) | both primitives and object references can be both converted  and cast.
 5.	float f =  555.5f; 6.	b  =  s; 7.	i =  c; | f.	line  6
-4.	In the following code, what are the possible types for variable result? (Choose the most complete true answer.) 1.	byte b  = 11; 2.	short s = 13; 3.	result = b  *  ++s; | e.	int, long, float, double
-6.	Which of the following statements  is true? (Choose one.) | d.	object references can be converted  in both method  calls and assignments,  and the rules governing these conversions  are identical.
+4.	In the following code, what are the possible types for variable result? (Choose the most complete true answer.) 1.	byte b  = 11; 2.	short s = 13; 3.	result = b  *  ++s; | int, long, float, double
+6.	Which of the following statements  is true? (Choose one.) | object references can be converted  in both method  calls and assignments,  and the rules governing these conversions  are identical.
 is a set of java API  for executing SQL statements. | jdbc
 drivers that are written partly in the Java programming language and partly in native code. These drivers use a native client library specific to the data source to which they connect. Again, because of the native code, their portability is limited. | type 2
 drivers that are pure Java and implement the network protocol for a specific data source. The client connects directly to the data source. | type 4
 drivers that use a pure Java client and communicate with a middleware server using a database-independent protocol. The middleware server then communicates the client's requests to the data source. | type 3
 drivers that implement the JDBC API as a mapping to another data access API, such as ODBC. Drivers of this type are generally dependent on a native library, which limits their portability. | type 1
 26. System.out.println(a.doit(4, 5)); | line 26 prints “a” to system.out.
-Which two are true if a NullPointerException is thrown on line 3 of class C? (Choose two.) | b.	the code on line 29 will be executed. e.	the exception will be propagated back to line 27.
+Which two are true if a NullPointerException is thrown on line 3 of class C? (Choose two.) | the code on line 29 will be executed. e.	the exception will be propagated back to line 27.
 dialog prevents user input to other windows in the application unitl the dialog is closed. | modal
 An object is used to submit a query to a database | statement
 An object is uses to obtain a Connection to a Database | driver manager
@@ -1848,69 +1843,59 @@ What is the difference between a TextArea and a TextField | a textarea can handl
 You have been given a design document for a veterinary registration system for implementation in Java. It states"A pet has an owner, a registration date, and a vacdnation-due date A cat is a pet that has a flag indicating whether it has been neutered, and a textual description of its markings"Given that the Pet class has already been defined, which of the following fields would be appropriate for inclusion in the Cat class as members9 (Select the most appropriate two declarations) | string markings boolean neutered;
 Which of the following are valid declarations? Assume java.util.* is imported. | vector<map>   v;set<string> ;map<string, string>  m;\
 You can determine  all the keys in a Map in which of the following ways | by getting a set object from the map and iterating  through it.
-What keyword  is used to prevent an object from being serialized | d.	transient
 An abstract class can contain  methods  with declared bodies | true
-Select the order of access modifiers from least restrictive to most restrictive | e.	public, protected, default,  private
-Which access modifier allows you to access method  calls in libraries not created in Java | a.	native
-Which of the following statements  are true? (Select all that apply | d.	a final object cannot  be reassigned a new address in memory
+Which access modifier allows you to access method  calls in libraries not created in Java | native
+Which of the following statements  are true? (Select all that apply | a final object cannot  be reassigned a new address in memory
 The keyword  extends refers to what type of relationship | g.	“is a”
-Which of the following keywords  is used to invoke a method  in the parent  class? | super
-public class Funcs extends java.lang.Math | c.	the code does not compile.
-public  class  Test | d.	the code does not compile.
+public class Funcs extends java.lang.Math | the code does not compile.
+public  class  Test | the code does not compile.
 What is the value of x after the following operation is performed  x  = 23  %   4; | 3
-Given the following code, what keyword  must be used at line 4 in order to stop execution of the for loop? | c.	break
-interface Box | a.	the code will not compile because of line 4.
-Assertions are used to enforce all but which of the following | c.	exceptions
-The developer can force garbage collection by calling System.gc(). | false
+Given the following code, what keyword  must be used at line 4 in order to stop execution of the for loop? | break
+interface Box | the code will not compile because of line 4.
+Assertions are used to enforce all but which of the following | exceptions
 A StringBuffer is slower than a StringBuilder, but a StringBuffer is threadsafe | true
-Select the list of primitives ordered  in smallest to largest bit size representation | d.	char, int, float, long
-The following line of code is valid. int x  = 9; byte b  = x; | false
+Select the list of primitives ordered  in smallest to largest bit size representation | char, int, float, long
 Which of the following code snippets compile | integer i =  7; integer i =  new integer(5); int j =  i;byte b  =  7;
-public class  StringTest | d.	“same” will be printed  out to the console.
-which of the following statements  accurately  describes how variables are passed to method | c.	arguments  that are primitive type are passed by value.
-How  do you change the value that  is encapsulated by a wrapper class after you have instan- tiated it | d.	none of the above
+public class  StringTest | “same” will be printed  out to the console.
+which of the following statements  accurately  describes how variables are passed to method | arguments  that are primitive type are passed by value.
+How  do you change the value that  is encapsulated by a wrapper class after you have instan- tiated it | none of the above
 A signed data type has an equal number  of non-zero  positive and negative values available. | fasle
 Choose the valid identifiers from those listed here. (Choose all that apply | bigollongstringwithmeaninglessname - $int - bytes - $1 - finalist
 Which of the following signatures are valid for the main() method entry point of an application?(Choose all that apply.) | public static  void main(string arg[]) - public static  void main(string[] args)
-Consider  the following line of code:int[] x  = new int[25]; After execution,  which statements  are true? (Choose all that apply.) | a.	x[24] is 0 - e.	x.length is 25
+Consider  the following line of code:int[] x  = new int[25]; After execution,  which statements  are true? (Choose all that apply.) | x[24] is 0 - e.	x.length is 25
 class Q6 | 101
 class Q7 | 12.3
-How can you force garbage collection of an object | a.	garbage  collection cannot  be forced
-What is the range of values that can be assigned to a variable of type short? | -215  through 215   - 1
+How can you force garbage collection of an object | garbage  collection cannot  be forced
 What is the range of values that can be assigned to a variable of type byte | -27  through 27  - 1
-Suppose a source file contains a large number  of import statements. How do the imports  affect the time required  to compile the source file? | b.	compilation takes slightly more time.
+Suppose a source file contains a large number  of import statements. How do the imports  affect the time required  to compile the source file? | compilation takes slightly more time.
 Which of the following are legal import statements | import  java.util.vector - import  static java.util.vector.*;
 Which of the following may be statically imported? (Choose all that apply.) | static method  names-static field names
-public class Q15 | c.	the code compiles, and prints out >>null<<
-The code compiles, and prints out >>null<< | c.	int c  =  0xabcd- c.	int c  =  0xabcd
-Which of the following are legal? (Choose all that apply.) | a.	double d  =  1.2d; - b.	double d  =  1.2d;
-Which of the following are legal? | a.	char c  =  ‘\u1234’;
-Consider  the following code: StringBuffer  sbuf = new StringBuffer(); sbuf = null; System.gc(); | c.	after line 2 executes, the stringbuffer object is eligible for garbage collection.
-Which of the following are true? (Choose all that apply.) | b.	primitives are passed by value. - d.	references are passed by value.
-Which of the following expressions  are legal? (Choose all that apply.) | b.	int x  =  6; if (!(x >  3))  {} - c.	int x  =  6; x  =  ~x;
+public class Q15 | the code compiles, and prints out >>null<<
+The code compiles, and prints out >>null<< | int c  =  0xabcd- c.	int c  =  0xabcd
+Which of the following are legal? (Choose all that apply.) | double d  =  1.2d; - b.	double d  =  1.2d;
+Consider  the following code: StringBuffer  sbuf = new StringBuffer(); sbuf = null; System.gc(); | after line 2 executes, the stringbuffer object is eligible for garbage collection.
+Which of the following are true? (Choose all that apply.) | primitives are passed by value. - d.	references are passed by value.
+Which of the following expressions  are legal? (Choose all that apply.) | int x  =  6; if (!(x >  3))  {} - c.	int x  =  6; x  =  ~x;
 Which of the following expressions  are legal? (Choose all that apply.) | tring x  =  "hello"; int y  =  9; x  += y; - c.	string x  =  "hello"; int y  =  9; x  =  x  +  y;
-public class Xor | b.	the output: b  contains  5
-public class  Conditional | c.	the output: value  is 9.0
-What does the following code do? Integer i = null; if (i !=  null   &      i.intValue() == 5) System.out.println(“Value is  5”); | b.	throws  an exception
+public class Xor | the output: b  contains  5
+public class  Conditional | the output: value  is 9.0
+What does the following code do? Integer i = null; if (i !=  null   &      i.intValue() == 5) System.out.println(“Value is  5”); | throws  an exception
 Is it possible to define a class called Thing  so that the following method  can return  true under certain circumstances? boolean weird(Thing s)  { Integer x  = new Integer(5); return s.equals(x); } | yes
-Suppose ob1  and ob2  are references to instances of java.lang.Object. If (ob1 == ob2) is false, can ob1.equals(ob2) ever be true? | no
-Which statement is true about  the following method? int selfXor(int i)  { return i ^  i;} | a.	it always returns  0.
-Which of the following operations might throw  an ArithmeticException? | d.	none of these
-Which of the following operations might throw  an ArithmeticException? | /
+Which statement is true about  the following method? int selfXor(int i)  { return i ^  i;} | it always returns  0.
+Which of the following operations might throw  an ArithmeticException? | none of these
 Which of the following operations might throw  an ArithmeticException? | a boolean
-Which of the following may appear  on the left-hand  side of an instanceof operator? | a.	a reference
-Which of the following may appear on the right-hand side of an instanceof operator? (Choose all that apply.) | b.	a class -c.	an interface
-What is -50  >>  1? | -25
-Which of the following declarations are illegal? (Choose all that apply.) | a.	default string s; - d.	abstract  double d; - d.	abstract  double d;
-Which of the following statements  is true? | b.	a final class may not have any abstract methods.
-final class Aaa | a.	on line 1, remove the final modifier.
-Which of the following statements  is true? | e.	transient variables are not serialized.
-class StaticStuff | e.	the code compiles and execution  produces  the output x = 3.
-class HasStatic | e.	the program compiles and the output is x = 104.
-class SuperDuper | d.	line 3: private; line 8: protected
-Which modifier or modifiers should be used to denote a variable that should not be written out as part of its class’s persistent  state? (Choose the shortest  possible answer.) | d.	transient
-public  class  Bird | c.	compilation of parrot.java fails at line 7 because method  getrefcount() is static in the superclass, and static methods  may not be overridden to be nonstatic.
-class  Nightingale extends abcde.Bird | a.	the program will compile and execute. the output will be before: 0    after: 2.
+Which of the following may appear  on the left-hand  side of an instanceof operator? | a reference
+Which of the following may appear on the right-hand side of an instanceof operator? (Choose all that apply.) | a class -c.	an interface
+Which of the following declarations are illegal? (Choose all that apply.) | default string s; - d.	abstract  double d; - d.	abstract  double d;
+Which of the following statements  is true? | a final class may not have any abstract methods.
+final class Aaa | on line 1, remove the final modifier.
+Which of the following statements  is true? | transient variables are not serialized.
+class StaticStuff | the code compiles and execution  produces  the output x = 3.
+class HasStatic | the program compiles and the output is x = 104.
+class SuperDuper | line 3: private; line 8: protected
+Which modifier or modifiers should be used to denote a variable that should not be written out as part of its class’s persistent  state? (Choose the shortest  possible answer.) | transient
+public  class  Bird | compilation of parrot.java fails at line 7 because method  getrefcount() is static in the superclass, and static methods  may not be overridden to be nonstatic.
+class  Nightingale extends abcde.Bird | the program will compile and execute. the output will be before: 0    after: 2.
 Suppose class Supe, in package packagea, has a method called doSomething(). Suppose class Subby, in package packageb, overrides  doSomething(). What  access modes may Subby’s version of the method  have? (Choose all that  apply.) | public - protected
 Which of the following statements  are true | f.	none of the above
 Suppose interface Inty defines five methods.  Suppose class Classy declares that it implements Inty but does not provide implementations for any of the five interface methods. Which is/are true? | the class will compile if it is declared abstract.- the class may not be instantiated.
@@ -1918,39 +1903,38 @@ Which of the following may be declared final? (Choose all that apply.) | classes
 Which of the following may follow the static keyword?  (Choose all that apply.) | data - methods - code blocks enclosed in curly brackets
 Suppose class A has a method  called doSomething(), with default access. Suppose class B extends A and overrides  doSomething(). Which access modes may apply to B’s version of doSomething()? (Choose all that apply.) | public - protected - default
 True or false: If class Y extends class X, the two classes are in different packages, and class X has a protected  method  called abby(), then any instance of Y may call the abby() method  of any other instance of Y. | false
-Which of the following statements  are true? | d.	a final class may not be extended.
-Which of the following statements  are true | d.	a final class may not be extended.
+Which of the following statements  are true? | a final class may not be extended.
+Which of the following statements  are true | a final class may not be extended.
 public class A | -1
 Which of the following statements  is correct? (Choose one.) | both primitives and object references can be both converted  and cast.
 Which one line in the following code will not compile? | f.	line  6
-class  Cruncher | d.	the code will compile and produce  the following output: int version
-Which of the following statements  is true? (Choose one | d.	object references can be converted  in both method  calls and assignments,  and the rules governing these conversions  are identical.
-Consider  the following code. Which line will not compile? | c.	line 6
+class  Cruncher | the code will compile and produce  the following output: int version
+Which of the following statements  is true? (Choose one | object references can be converted  in both method  calls and assignments,  and the rules governing these conversions  are identical.
+Consider  the following code. Which line will not compile? | line 6
 Consider  the following code | the code will compile and run.
 Cat  sunflower | the code will compile but will throw  an exception  at line 7, because the runtime  class of wawa cannot  be converted  to type swampthing.
 Raccoon   rocky; | line 7 will not compile; an explicit cast is required  to convert a washer to a swampthing
 Which of the following may legally appear  as the new type (between the parentheses)  in a cast operation | all of the above
-Which of the following may legally appear  as the new type (between the parentheses)  in a cast operation? | d.	all of the above
-Suppose the declared type of x is a class, and the declared type of y is an interface. When is the assignment  x  =  y; legal? | a.	when the type of x is object
-Suppose the type of xarr is an array of XXX, and the type of yarr is an array of YYY. When is the assignment  xarr =  yarr; legal? | a.	sometimes
+Which of the following may legally appear  as the new type (between the parentheses)  in a cast operation? | all of the above
+Suppose the declared type of x is a class, and the declared type of y is an interface. When is the assignment  x  =  y; legal? | when the type of x is object
+Suppose the type of xarr is an array of XXX, and the type of yarr is an array of YYY. When is the assignment  xarr =  yarr; legal? | sometimes
 When is x  &   y an int? (Choose one). | sometimes
-What are the legal types for whatsMyType? short s = 10; whatsMyType  = !s; | c.	there are no possible legal types
-When a negative long is cast to a byte, what are the possible values of the result | d.	all of the above
+What are the legal types for whatsMyType? short s = 10; whatsMyType  = !s; | there are no possible legal types
+When a negative long is cast to a byte, what are the possible values of the result | all of the above
 Which of the following operators can perform  promotion on their operands? (Choose all that  apply.) | + - ~
-What is the difference between the rules for method-call conversion and the rules for assignment conversion? | a.	there is no difference; the rules are the same
+What is the difference between the rules for method-call conversion and the rules for assignment conversion? | there is no difference; the rules are the same
 for (int i = 0; i < 2;  i++) | i =  0  j =  1 - i =  0  j =  2 - i =  1  j =  0 - i =  1  j =  2
 outer: for (int i = 0; i < 2;  i++) | outer: for (int i = 0; i < 2;  i++)
 Which of the following are legal loop constructions? (Choose all that apply.) | int j =  0; for (int  k=0, j+k   !=  10;  j++,k++) { system.out.println("j=" +  j +  ", k="  +  k); }
-int j = 2; | d.	the output would be the text value is two followed by the text value is three.
-What lines are output if the method at line 5 throws an OutOfMemoryError? (Choose all that apply.) | e.	doing  finally part
+int j = 2; | the output would be the text value is two followed by the text value is three.
+What lines are output if the method at line 5 throws an OutOfMemoryError? (Choose all that apply.) | doing  finally part
 Which of the following are appropriate situations for assertions | postconditions of a public method - preconditions of a private method - postconditions of a private method
-Which of the following is the most appropriate way to handle invalid arguments  in a public method? | b.	throw  java.lang.illegalargumentexception.
+Which of the following is the most appropriate way to handle invalid arguments  in a public method? | throw  java.lang.illegalargumentexception.
 Which of the following are legal? (Choose all that apply.) | for (int  i=0, j=1; i<10; i++, j++) - for (int  i=0, j=1;; i++, j++) - for (string s =  “”; s.length()<10; s += ‘!’)
 Which of the following are legal loop definitions?  (Choose all that apply.) | none of them are legal.
 Which of the following are legal argument types for a switch statement? | byte- int - char
-When is it appropriate to pass a cause to an exception’s constructor | b.	when the exception  is being thrown in response to catching of a different exception  type
-Which of the following should always be caught? | b.	checked exceptions
-When does an exception’s stack trace get recorded  in the exception  object? | a.	when the exception  is constructed
+When is it appropriate to pass a cause to an exception’s constructor | when the exception  is being thrown in response to catching of a different exception  type
+When does an exception’s stack trace get recorded  in the exception  object? | when the exception  is constructed
 When is it appropriate to write code that constructs and throws  an error? | never
 public  class  Test1 | public int  amethod(int a,  int  b) {  } - public float  amethod(float a, float b, int c) throws exception {  }- private float amethod(int a,  int  b,  int  c)  {  }
 public  class  Test1 | public int  amethod(int a,  int  b) throws exception {...} - public float  amethod(float p, float q) {...}
@@ -1965,34 +1949,32 @@ Which of the following are legal enums | enum animals {lion,  tiger,  bear; int 
 Which of the following may override a method  whose signature  is void xyz(float  f)? | void xyz(float  f)  - public void xyz(float  f)
 Which of the following are true? (Choose all that apply.) | an enum may contain  public method  definitions. - an enum may contain  private data.
 Which of the following are true? (Choose all that apply.) | an enum definition  may contain  the main() method  of an application. - you can call an enum’s tostring() method. - you can call an enum’s wait() method. - you can call an enum’s notify() method.
-Suppose x and y are of type TrafficLightState, which is an enum. What is the best way to test whether  x and y refer to the same constant | a.	if (x == y)
+Suppose x and y are of type TrafficLightState, which is an enum. What is the best way to test whether  x and y refer to the same constant | if (x == y)
 Given the following code, which of the following will not compile? enum Spice {  NUTMEG,  CINNAMON,  CORIANDER,   ROSEMARY;  } | string ob = new string(); spice sp = ob;
 Which of the following are true | an anonymous inner class may implement  at most one interface. - an anonymous inner class may extend a parent  class other than object
 Which methods  return  an enum constant’s  name | name() - tostring()
 Suppose class X contains  the following method: void doSomething(int a, float b)  {  …    } Which of the following methods  may appear  in class Y, which extends X? | public  void dosomething(int a, float b) {  …    }
 This question  involves IOException, AWTException, and EOFException. They are all checked exception types. IOException and AWTException extend Exception, and EOFException extends IOException. Suppose class X contains  the following method: void  doSomething() throws IOException{ …    } | void  dosomething() {  …    } - void  dosomething()  throws  eofexception {  …    } - void  dosomething() throws ioexception,  eofexception {  …    }
 class Greebo   extends java.util.Vector | there will be a compiler error,  because class greebo  does not correctly implement  the runnable interface.
-class  HiPri extends Thread | c.	when the application is run, all three threads (hp1, hp2, and hp3) will execute concurrently, taking time-sliced turns in the cpu.
+class  HiPri extends Thread | when the application is run, all three threads (hp1, hp2, and hp3) will execute concurrently, taking time-sliced turns in the cpu.
 A thread  wants to make a second thread  ineligible for execution.  To do this, the first thread  can call the yield() method  on the second thread. | false
-A thread’s run() method  includes the following lines: | d.	at line 2, the thread will stop running. it will resume running some time after 100 milliseconds have elapsed.
-A monitor called mon has 10 threads in its waiting pool; all these waiting threads have the same priority.  One of the threads  is thr1. How can you notify thr1 so that it alone moves from the Waiting state to the Ready state? | e.	you cannot  specify which thread  will get notified.
+A thread’s run() method  includes the following lines: | at line 2, the thread will stop running. it will resume running some time after 100 milliseconds have elapsed.
+A monitor called mon has 10 threads in its waiting pool; all these waiting threads have the same priority.  One of the threads  is thr1. How can you notify thr1 so that it alone moves from the Waiting state to the Ready state? | you cannot  specify which thread  will get notified.
 class  TestThread3 extends Thread | yes
 A Java monitor must either extend Thread or implement  Runnable. | fasle
-Which of the following methods  in the Thread class are deprecated | a.	suspend() and resume()
-Which of the following statements  about  threads  is true? | b.	threads  inherit their priority  from their parent  thread.
-Threads  inherit their priority  from their parent  thread. | c.	the thread  that calls wait() goes into the monitor’s  pool of waiting threads.
+Which of the following methods  in the Thread class are deprecated | suspend() and resume()
+Which of the following statements  about  threads  is true? | threads  inherit their priority  from their parent  thread.
+Threads  inherit their priority  from their parent  thread. | the thread  that calls wait() goes into the monitor’s  pool of waiting threads.
 The thread  that calls wait() goes into the monitor’s  pool of waiting threads. | classes
 Which of the following calls may be made from a non-static synchronized method? | all
 is it possible to write code that can execute only if the current  thread  owns multiple locks? | yes
 Which of the following are true? (Choose all that apply.) | there is one non-daemon thread - a thread  created by a daemon  thread  - a thread  created by a non-daemon thread
-Which of the following are true? | d.	the jvm runs until there are no non-daemon threads.
-How do you prevent shared data from being corrupted in a multithreaded environment? | d.	access the variables only via synchronized methods.
 How can you ensure that multithreaded code does not deadlock | a, b, and c do not ensure that multithreaded code does not deadlock.
 Which of the following are true? (Choose all that apply | when you declare a method to be synchronized, the method - when you declare a block of code inside a method  to be synchronized, you can
 Suppose you want to create a custom thread  class by extending  java.lang.Thread in order to provide some special functionality. Which of the following must you do? | override  run().
 Given a string constructed by calling s = new String(“xyzzy”), which of the calls modifies the string? | none of the above
 String s1  = “abc” + “def”; | line 6 executes and line 4 does not.
-Suppose you want to write a class that offers static methods to compute hyperbolic trigonometric functions.  You decide to subclass java.lang.Math and provide the new functionality as a set of static methods.  Which one statement is true about  this strategy | d.	the strategy fails because you cannot  subclass java.lang.math
+Suppose you want to write a class that offers static methods to compute hyperbolic trigonometric functions.  You decide to subclass java.lang.Math and provide the new functionality as a set of static methods.  Which one statement is true about  this strategy | the strategy fails because you cannot  subclass java.lang.math
 import java.lang.Math; | compilation fails at line 2.
 String s = “abcde”; | compilation succeeds. no exception  is thrown during execution.
 StringBuffer  sbuf = new StringBuffer(“abcde”); | true
@@ -2006,27 +1988,27 @@ Which of the following classes implement  java.util.List | java.util.arraylist -
 Which of the following are methods  of the java.util.SortedSet interface? | first - last - headset - tailset - subset
 Which of the following are methods  of the java.util.SortedMap interface? | headmap- tailmap - submap
 Which line of code tells a scanner called sc to use a single digit as a delimiter? | sc.usedelimiter(“\\d”);
-public class Apple | c.	an exception  is thrown at line 7.
-Given arrays a1 and a2, which call returns  true if a1 and a2 have the same length, and a1[i].equals(a2[i]) for every legal index i? | a.	java.util.arrays.equals(a1, a2);
-Which of the following statements  are true? | a.	stringbuilder is generally faster than stringbuffer. - stringbuilder is generally faster than stringbuffer.
-Which of the statements  below are true? (Choose all that apply | d.	unicode characters are all 16 bits.
-Which of the statements  below are true? (Choose all that apply.) | d.	none of the above.
-How do you use the File class to list the contents  of a directory? | a.	string[]  contents =  myfile.list();
+public class Apple | an exception  is thrown at line 7.
+Given arrays a1 and a2, which call returns  true if a1 and a2 have the same length, and a1[i].equals(a2[i]) for every legal index i? | java.util.arrays.equals(a1, a2);
+Which of the following statements  are true? | stringbuilder is generally faster than stringbuffer. - stringbuilder is generally faster than stringbuffer.
+Which of the statements  below are true? (Choose all that apply | unicode characters are all 16 bits.
+Which of the statements  below are true? (Choose all that apply.) | none of the above.
+How do you use the File class to list the contents  of a directory? | string[]  contents =  myfile.list();
 How many bytes does the following code write to file dest? | 12
-FileOutputStream fos = new FileOutputStream(“xx”); | b.	the output is i = 20.
+FileOutputStream fos = new FileOutputStream(“xx”); | the output is i = 20.
 FileOutputStream fos = new FileOutputStream(“datafile”); | construct a fileinputstream - construct a randomaccessfile,
 Which of the following is true about Readers have methods  that can read ? | none of the above
-File f1 = new File(“dirname”); | e.	no directory  is created,  and no file is created.
-Assume that the code fragment is part of an application that has write permission in the current working directory.  Also assume that before execution,  the current  working  directory  does not contain  a file called datafile. | a.	the code fails to compile
+File f1 = new File(“dirname”); | no directory  is created,  and no file is created.
+Assume that the code fragment is part of an application that has write permission in the current working directory.  Also assume that before execution,  the current  working  directory  does not contain  a file called datafile. | the code fails to compile
 Suppose you are writing a class that will provide custom serialization. The class implements java.io.Serializable (not java.io.Externalizable). What access mode should the writeObject() method  have? | private
 Suppose you are writing a class that will provide custom deserialization. The class implements java.io.Serializable (not java.io.Externalizable). What  access mode should  the readObject() method  have? | private
-Suppose class A extends Object; class B extends A; and class C extends B. Of these, only class C implements java.io.Serializable. Which of the following must be true in order to avoid an exception  during deserialization of an instance of C? | b.	b must have a no-args constructor.
-Suppose class A extends Object; Class B extends A; and class C extends B. Of these, only class C implements java.io.Externalizable. Which of the following must be true in order to avoid an exception  during deserialization of an instance of C? | c.	c must have a no-args constructor.
+Suppose class A extends Object; class B extends A; and class C extends B. Of these, only class C implements java.io.Serializable. Which of the following must be true in order to avoid an exception  during deserialization of an instance of C? | b must have a no-args constructor.
+Suppose class A extends Object; Class B extends A; and class C extends B. Of these, only class C implements java.io.Externalizable. Which of the following must be true in order to avoid an exception  during deserialization of an instance of C? | c must have a no-args constructor.
 public class Xyz implements java.io.Serializable | iampublic - iamprivate - iamvolatile
 What method  of the java.io.File class can create a file on the hard drive | createnewfile()
-public class Xxx | b.	an exception  is thrown at line 9.
+public class Xxx | an exception  is thrown at line 9.
 Which of the following are valid mode strings for the RandomAccessFile constructor? (Choose all that apply.) | r - rw - rws - rwd
-Which of the following are valid arguments  to the DataInputStream constructor? | c.	fileinputstream
+Which of the following are valid arguments  to the DataInputStream constructor? | fileinputstream
 public enum Wallpaper | wallpaper wp =  wallpaper.blue; - void  amethod(wallpaper wp)  { system.out.println(wp);} - int hcode   = wallpaper.blue.hashcode();
 class  Sploo | b - d - fff()
 public abstract class Abby | subabby generates a compiler error. - if subabby were declared abstract, it would compile without error. - abby is a legal type for variables.
@@ -2045,7 +2027,7 @@ While testing some code that you are developing,  you notice that an ArrayIndexO
 How is IllegalArgumentException used? (Choose all correct options.) | it is thrown by certain methods - it should be used by programmers to indicate that preconditions of public
 Suppose shorty is a short and wrapped is a Short. Which of the following are legal Java state- ments? (Choose all correct options.) | shorty =  wrapped; - wrapped =  shorty; - shorty =  new short((short)9); - shorty =  9;
 Which of the following statements  are true? (Choose all correct options.) | stringbuilder encapsulates a mutable  string. - stringbuffer is threadsafe.
-The file contains  lines of 8-bit text, and the 8-bit encoding represents the local character set, as represented by the cur- rent default locale | c.	create a filereader instance.  pass it into the constructor of linenumberreader. use linenumberreader’s readline()  method.
+The file contains  lines of 8-bit text, and the 8-bit encoding represents the local character set, as represented by the cur- rent default locale | create a filereader instance.  pass it into the constructor of linenumberreader. use linenumberreader’s readline()  method.
 What interfaces can be implemented in order to create a class that can be serialized? (Choose all that apply.) | java.io.serializable. there are no methods - java.io.externalizable, which defines two methods:  readexternal
 Suppose you want to create a class that compiles and can be serialized and deserialized without causing an exception  to be thrown. Which statements  are true regarding  the class? (Choose all correct options.) | java.io.externalizable, it must have a no-args - java.io.serializable and does not implement
 Suppose you want to use a DateFormat to format  an instance of Date.  What factors influence the string returned by DateFormat’s format() method? | the style, which is one of short, medium, long, or full - the locale
@@ -2058,17 +2040,17 @@ Suppose class Home has methods  chopWood() and carryWater(); it also has a metho
 Lemon lem  = new Lemon(); Citrus cit = new Citrus(); | cit =  lem; - lem  =  (lemon)cit; - cit =  (citrus)lem;
 Grapefruit g  = new Grapefruit(); | the cast in line 2 is not necessary. - the cast in line 2 is not necessary.
 Suppose class aaa.Aaa has a method called callMe(). Suppose class bbb.Bbb, which extends aaa.AAA, wants  to override callMe(). Which access modes for callMe() in aaa.AAA will allow this? | public - protected
-class Animal | b.	class zebra generates a compiler error
+class Animal | class zebra generates a compiler error
 class Xyz | super(); - this(1.23f);
 What relationship does the extends keyword  represent? | is a
-When should objects stored in a Set implement  the java.util.Comparable interface | d.	when the set is a treeset
+When should objects stored in a Set implement  the java.util.Comparable interface | when the set is a treeset
 class Xyzzy | public  int  hashcode() {  return a;  } - public  int  hashcode() { return  (int)math.random();}
 plainVec; Vector<String>  fancyVec; | attempting to add anything  other than a string to fancyvec results in a compiler error.
-The declaration of the java.util.Collection interface is interface  Collection <E> | d.	public  boolean addall(collection<?  extends e> c)
-package ocean; public class Fish | b.	public void swim() { } - size =  12;
+The declaration of the java.util.Collection interface is interface  Collection <E> | public  boolean addall(collection<?  extends e> c)
+package ocean; public class Fish | public void swim() { } - size =  12;
 public class App | 4
-public class Wrapper | c.	n is 10, w.x  is 11
-String s = “aaa”; | a.	after line 3
+public class Wrapper | n is 10, w.x  is 11
+String s = “aaa”; | after line 3
 java -classpath  somewhere;elsewhere aaa.bbb.MyApplication | class myapplication must contain  the statement package  aaa.bbb;. - d.	the file myapplication.class must be found either in somewhere\aaa\bbb or in elsewhere\aaa\bbb. (substitute  forward slashes for backslashes  on a unix system
 drivers that implement the JDBC API as a mapping to another data access API, such as ODBC. Drivers of this type are generally | type 1
 public class A | line 26 prints “a” to system.out.
@@ -2161,10 +2143,8 @@ class HiPri extends Thread | none of the above scenarios can be guaranteed to ha
 String s = "FPT"; | compilation succeeds. no exception is thrown during execution.
 String s1 = "abc" + "def"; | line 6 executes and line 4 does not.
 class Greebo extends java.util.Vector  implements Runnable | there will be a compiler error, because class greebo does not correctly implement the runnable interface.
-int j = 2; | the output would be the text value is two followed by the text value is three.
 Which statement is true about the following method? int selfXor(int i) { return i ^ i; } | it always returns 0.
 class StaticStuff | the code compiles and execution produces the output x = 3.
-class HasStatic | the program compiles and the output is x = 104.
 Which statements about JDBC are NOT true? (choose 2) | jdbc is a java  database system. jdbc is a java api for connecting to any kind of dbms
 Which two code fragments correctly create and initialize a static array  of int elements? (Choose two.) | static final int[] a = { 100,200 }; - static final int[] a; static { a=new int[2]; a[0]=100; a[1]=200; }
 Which two of the following interfaces are at the top of the hierarchies in the Java Collections Framework?  (Choose two.) | map - collection
@@ -2474,177 +2454,176 @@ Which of the following statements are true? (Select two) | tcp provides a point-
 Which of the following statements is INCORRECT? | all methods in an abstract class must be declared as abstract
 An abstract class ……… | can contain all concrete methods.
 1.Which of the following are valid declarations? Assume java.util.* is imported. | vector<map>   v;set<string> s;	map<string, string>  m;
-2.You can determine  all the keys in a Map in which of the following ways? | a.	by getting a set object from the map and iterating  through it.
+2.You can determine  all the keys in a Map in which of the following ways? | by getting a set object from the map and iterating  through it.
 Select the order of access modifiers from least restrictive to most restrictive. | public, protected, default,  private
-Which access modifier allows you to access method  calls in libraries not created in Java? | c.	native
-Given the following code, what will be the outcome?public class Funcs   extends java.lang.Math  { public int  add(int x, int  y) {return x  + y;public int  sub(int x, int  y) { return x  - y;public static  void main(String []  a) { Funcs   f = new Funcs(); System.out.println("" + f.add(1, 2)); | c.	the code does not compile.
-Given the following code, what is the expected outcome?public  class  Test {public static  void main(String []  a) { int [] b  = [1,2,3,4,5,6,7,8,9,0]; System.out.println("a[2]=" + a[2]); | d.	the code does not compile.
+Given the following code, what will be the outcome?public class Funcs   extends java.lang.Math  { public int  add(int x, int  y) {return x  + y;public int  sub(int x, int  y) { return x  - y;public static  void main(String []  a) { Funcs   f = new Funcs(); System.out.println("" + f.add(1, 2)); | the code does not compile.
+Given the following code, what is the expected outcome?public  class  Test {public static  void main(String []  a) { int [] b  = [1,2,3,4,5,6,7,8,9,0]; System.out.println("a[2]=" + a[2]); | the code does not compile.
 What is the value of x after the following operation is performed?x  = 23  %   4; | 3
-Given the following code, what keyword  must be used at line 4 in order to stop execution of the for loop? 1.	boolean b  = true;2.	for (;;) {3.	if (b)  {4.	<insert code>6.	// do  something | c.	break
-Given the following code, which of the results that follow would you expect?.  package mail; 2.3.	interface Box {4.	protected  void open();5.	void close();6.	public  void empty(); | a.	the code will not compile because of line 4.
-Select the valid primitive data types. (Select all that apply.) | a.	boolean_ c.	chard.	float
+Given the following code, what keyword  must be used at line 4 in order to stop execution of the for loop? 1.	boolean b  = true;2.	for (;;) {3.	if (b)  {4.	<insert code>6.	// do  something | break
+Given the following code, which of the results that follow would you expect?.  package mail; 2.3.	interface Box {4.	protected  void open();5.	void close();6.	public  void empty(); | the code will not compile because of line 4.
+Select the valid primitive data types. (Select all that apply.) | boolean_ c.	chard.	float
 What is the value of x after the following line is executed?x  = 32  *  (31   - 10  *  3); | 32
-StringBuffer is slower than a StringBuilder, but a StringBuffer is threadsafe. | a.	true
-22.	Select the list of primitives ordered  in smallest to largest bit size representation. | d.	char, int, float, long
-23.	Which class provides locale-sensitive text formatting for date and time information? | d.	java.text.dateformat
-24.	The following line of code is valid.int x  = 9; byte b  = x; | b.	false
-14.	Which of the following code snippets compile? | a.	integer i =  7;b.	integer i =  new integer(5); int j =  i;c.	byte b  =  7;
-26.	What will be the output of the following code?public class  StringTest {public static  void main(String []  a) { String s1  = "test string";String s2  = "test string"; if (s1 == s2)  {System.out.println("same");}  else  { System.out.println("different"); | d.	“same” will be printed  out to the console.
-27.	Java arrays always start at index 1. | b.	false
-29.	How  do you change the value that  is encapsulated by a wrapper class after you have instan- tiated it? | d.	none of the above.
-30.	Suppose you are writing a class that provides custom deserialization. The class implements java.io.Serializable (and not java.io.Externalizable). What method  should imple- ment the custom deserialization, and what is its access mode? | a.	private  readobject
-1.	A signed data type has an equal number  of non-zero  positive and negative values available. | b.	false
-2.	Choose the valid identifiers from those listed here. (Choose all that apply.) | a.	bigollongstringwithmeaninglessname_ b.	$int_c.	bytes_d.$1e.	finalist
-3.	Which of the following signatures are valid for the main() method entry point of an application?(Choose all that apply.) | b.	public static  void main(string arg[])d.public static  void main(string[] args)
-4.	If all three top-level elements occur in a source file, they must appear  in which order? | d.	package declaration, imports,  class/interface/enum definitions.
-5.	Consider  the following line of code: int[] x  = new int[25]; | a.	x[24] is 0 e.	x.length is 25
+StringBuffer is slower than a StringBuilder, but a StringBuffer is threadsafe. | true
+22.	Select the list of primitives ordered  in smallest to largest bit size representation. | char, int, float, long
+23.	Which class provides locale-sensitive text formatting for date and time information? | java.text.dateformat
+24.	The following line of code is valid.int x  = 9; byte b  = x; | false
+14.	Which of the following code snippets compile? | integer i =  7;b.	integer i =  new integer(5); int j =  i;c.	byte b  =  7;
+26.	What will be the output of the following code?public class  StringTest {public static  void main(String []  a) { String s1  = "test string";String s2  = "test string"; if (s1 == s2)  {System.out.println("same");}  else  { System.out.println("different"); | “same” will be printed  out to the console.
+27.	Java arrays always start at index 1. | false
+29.	How  do you change the value that  is encapsulated by a wrapper class after you have instan- tiated it? | none of the above.
+30.	Suppose you are writing a class that provides custom deserialization. The class implements java.io.Serializable (and not java.io.Externalizable). What method  should imple- ment the custom deserialization, and what is its access mode? | private  readobject
+1.	A signed data type has an equal number  of non-zero  positive and negative values available. | false
+2.	Choose the valid identifiers from those listed here. (Choose all that apply.) | bigollongstringwithmeaninglessname_ b.	$int_c.	bytes_d.$1e.	finalist
+3.	Which of the following signatures are valid for the main() method entry point of an application?(Choose all that apply.) | public static  void main(string arg[])d.public static  void main(string[] args)
+4.	If all three top-level elements occur in a source file, they must appear  in which order? | package declaration, imports,  class/interface/enum definitions.
+5.	Consider  the following line of code: int[] x  = new int[25]; | x[24] is 0 e.	x.length is 25
 6.	Consider  the following application:1.	class Q6 {2.	public static  void main(String args[])  {3.	Holder h  = new Holder();4.	h.held = 100;5.	h.bump(h);6.	System.out.println(h.held);10.	class  Holder {11.	public int held;12.	public  void bump(Holder theHolder)  {13.	theHolder.held++;  } | 101
-7.	Consider  the following application:1.	class Q7 {2.	public static  void main(String args[])  {3.	double d  = 12.3;4.	Decrementer dec  = new Decrementer();5.	dec.decrement(d);6.	System.out.println(d);10.	class Decrementer  { 11.	public  void decrement(double decMe)  {12.	decMe = decMe - 1.0;What value is printed  out at line 6? | c.	12.3
-8.	How can you force garbage collection of an object? | a.	garbage  collection cannot  be forced.
-9.	What is the range of values that can be assigned to a variable of type short? | d.	-215  through 215   - 1
-11.	Suppose a source file contains a large number  of import statements. How do the imports  affect the time required  to compile the source file? | b.	compilation takes slightly more time.
-12.	Suppose a source file contains  a large number  of import statements  and one class definition.How do the imports  affect the time required  to load the class? | a.	class loading takes no additional time.
-13.	Which of the following are legal import statements? | a.	import  java.util.vector;c.	import  static java.util.vector.*;
-14.	Which of the following may be statically imported? (Choose all that apply.) | b.	static method  namesc.	static field names
-15.	What happens  when you try to compile and run the following code?public class Q15 { static  String s;public static  void main(String[]  args)  {System.out.println(“>>” + s + “<<”); | c.	the code compiles, and prints out >>null<<
-16.	Which of the following are legal? (Choose all that apply.) | c.	int c  =  0xabcd;d.	int d  =  0xabcd;
-17.	Which of the following are legal? (Choose all that apply.) | a.	double d  =  1.2d;b.	double d  =  1.2d;
-18.	Which of the following are legal? | c.	char c  =  ‘\u1234’;
-19.	Consider  the following code:1.	StringBuffer  sbuf = new StringBuffer();2.	sbuf = null;3.	System.gc();Choose all true statements: | c.	after line 2 executes, the stringbuffer object is eligible for garbage collection.
-20.	Which of the following are true? (Choose all that apply.) | b.	primitives are passed by value.d.	references are passed by value.
-1.	After execution  of the following code fragment,  what are the values of the variables x, a, and b?1.	int x, a  = 6, b  = 7;2.	x  = a++  + b++; | c.	x = 13, a = 7, b = 8
-2.	Which of the following expressions  are legal? (Choose all that apply.) | b.	int x  =  6; if (!(x >  3))  {}c.	int x  =  6; x  =  ~x;
-3.	Which of the following expressions  results in a positive value in x? | a.	int x  =  –1; x  =  x  >>> 5;
-4.	Which of the following expressions  are legal? (Choose all that apply.) | a.	string x  =  "hello"; int y  =  9; x  += y;c.	string x  =  "hello"; int y  =  9; x  =  x  +  y;
+7.	Consider  the following application:1.	class Q7 {2.	public static  void main(String args[])  {3.	double d  = 12.3;4.	Decrementer dec  = new Decrementer();5.	dec.decrement(d);6.	System.out.println(d);10.	class Decrementer  { 11.	public  void decrement(double decMe)  {12.	decMe = decMe - 1.0;What value is printed  out at line 6? | 12.3
+8.	How can you force garbage collection of an object? | garbage  collection cannot  be forced.
+9.	What is the range of values that can be assigned to a variable of type short? | -215  through 215   - 1
+11.	Suppose a source file contains a large number  of import statements. How do the imports  affect the time required  to compile the source file? | compilation takes slightly more time.
+12.	Suppose a source file contains  a large number  of import statements  and one class definition.How do the imports  affect the time required  to load the class? | class loading takes no additional time.
+13.	Which of the following are legal import statements? | import  java.util.vector;c.	import  static java.util.vector.*;
+14.	Which of the following may be statically imported? (Choose all that apply.) | static method  namesc.	static field names
+15.	What happens  when you try to compile and run the following code?public class Q15 { static  String s;public static  void main(String[]  args)  {System.out.println(“>>” + s + “<<”); | the code compiles, and prints out >>null<<
+16.	Which of the following are legal? (Choose all that apply.) | int c  =  0xabcd;d.	int d  =  0xabcd;
+17.	Which of the following are legal? (Choose all that apply.) | double d  =  1.2d;b.	double d  =  1.2d;
+18.	Which of the following are legal? | char c  =  ‘\u1234’;
+19.	Consider  the following code:1.	StringBuffer  sbuf = new StringBuffer();2.	sbuf = null;3.	System.gc();Choose all true statements: | after line 2 executes, the stringbuffer object is eligible for garbage collection.
+20.	Which of the following are true? (Choose all that apply.) | primitives are passed by value.d.	references are passed by value.
+1.	After execution  of the following code fragment,  what are the values of the variables x, a, and b?1.	int x, a  = 6, b  = 7;2.	x  = a++  + b++; | x = 13, a = 7, b = 8
+2.	Which of the following expressions  are legal? (Choose all that apply.) | int x  =  6; if (!(x >  3))  {}c.	int x  =  6; x  =  ~x;
+3.	Which of the following expressions  results in a positive value in x? | int x  =  –1; x  =  x  >>> 5;
+4.	Which of the following expressions  are legal? (Choose all that apply.) | string x  =  "hello"; int y  =  9; x  += y;c.	string x  =  "hello"; int y  =  9; x  =  x  +  y;
 7.	What results from running  the following code? | 1.	public class xor  {2.	public static  void main(string args[])  {3.	byte b  = 10; // 00001010   binary1.	byte c  = 15; // 00001111   binary5.	b  = (byte)(b ^  c);6.	system.out.println("b contains " + b);  |   B.	The output: b  contains  5
-8.	What results from attempting to compile and run the following code?1.	public class  Conditional {2.	public static  void main(String args[])  {3.	int x  = 4;4.	System.out.println("value is  " +5.	((x > 4) ?  99.99 : 9)); | c.	the output: value  is 9.0
-9.	What does the following code do?Integer i = null;if (i !=  null   &      i.intValue() == 5) System.out.println(“Value is  5”); | b.	throws  an exception.
-10.	Is it possible to define a class called Thing  so that the following method  can return  true under certain circumstances?boolean weird(Thing s)  { Integer x  = new Integer(5); return s.equals(x); | a.	yes
-11.	Suppose ob1  and ob2  are references to instances of java.lang.Object. If (ob1 == ob2) is false, can ob1.equals(ob2) ever be true? | b.	no
-12.	When a byte is added to a char, what is the type of the result? | c.	int
-13.	When a short is added to a float, what is the type of the result? | c.	float
-14.	Which statement is true about  the following method?int selfXor(int i)  { return i ^  i; | a.	it always returns  0.
-15.	Which of the following operations might throw  an ArithmeticException? | d.	none of these
-16.	Which of the following operations might throw  an ArithmeticException? | d.	/
-17.	What is the return  type of the instanceof operator? | d.	a boolean
-18.	Which of the following may appear  on the left-hand  side of an instanceof operator? | a.	a reference
-19.	Which of the following may appear on the right-hand side of an instanceof operator? (Choose all that apply.) | b.	a classc.	an interface
-20.	What is -50  >>  1? | d.	-25
-1.	Which of the following declarations are illegal? (Choose all that apply.) | a.	default string s;d.	abstract  double d;e.	abstract  final  double hyperboliccosine();
-2.	Which of the following statements  is true? | b.	a final class may not have any abstract methods.
-3.	What is the minimal modification that will make this code compile correctly?1.	final class Aaa3.	int xxx;8.	class Bbb extends Aaa10.	final Aaa  finalref =  new  Aaa(); 11.14.	System.out.println("In method  yyy()");15.	finalref.xxx = 12345; | a.	on line 1, remove the final modifier.
-4.	Which of the following statements  is true? | e.	transient variables are not serialized.
-5.	Which statement is true about  this application?. class StaticStuffstatic int x  = 10; 4.5.	static {  x  += 5; } 6.7.	public static  void main(String args[])9.	System.out.println("x = " + x);12.	static {x  /= 5; } | e.	the code compiles and execution  produces  the output x = 3.
-6.	Which statement is true about  this code?1.	class HasStatic3.	private static int x  = 100; 4.7.	HasStatic hs1  = new HasStatic();9.	HasStatic hs2  = new HasStatic();hs1  = new HasStatic();System.out.println("x = " + x); | e.	the program compiles and the output is x = 104.
+8.	What results from attempting to compile and run the following code?1.	public class  Conditional {2.	public static  void main(String args[])  {3.	int x  = 4;4.	System.out.println("value is  " +5.	((x > 4) ?  99.99 : 9)); | the output: value  is 9.0
+9.	What does the following code do?Integer i = null;if (i !=  null   &      i.intValue() == 5) System.out.println(“Value is  5”); | throws  an exception.
+10.	Is it possible to define a class called Thing  so that the following method  can return  true under certain circumstances?boolean weird(Thing s)  { Integer x  = new Integer(5); return s.equals(x); | yes
+11.	Suppose ob1  and ob2  are references to instances of java.lang.Object. If (ob1 == ob2) is false, can ob1.equals(ob2) ever be true? | no
+12.	When a byte is added to a char, what is the type of the result? | int
+13.	When a short is added to a float, what is the type of the result? | float
+14.	Which statement is true about  the following method?int selfXor(int i)  { return i ^  i; | it always returns  0.
+15.	Which of the following operations might throw  an ArithmeticException? | none of these
+16.	Which of the following operations might throw  an ArithmeticException? | /
+17.	What is the return  type of the instanceof operator? | a boolean
+18.	Which of the following may appear  on the left-hand  side of an instanceof operator? | a reference
+19.	Which of the following may appear on the right-hand side of an instanceof operator? (Choose all that apply.) | a classc.	an interface
+20.	What is -50  >>  1? | -25
+1.	Which of the following declarations are illegal? (Choose all that apply.) | default string s;d.	abstract  double d;e.	abstract  final  double hyperboliccosine();
+2.	Which of the following statements  is true? | a final class may not have any abstract methods.
+3.	What is the minimal modification that will make this code compile correctly?1.	final class Aaa3.	int xxx;8.	class Bbb extends Aaa10.	final Aaa  finalref =  new  Aaa(); 11.14.	System.out.println("In method  yyy()");15.	finalref.xxx = 12345; | on line 1, remove the final modifier.
+4.	Which of the following statements  is true? | transient variables are not serialized.
+5.	Which statement is true about  this application?. class StaticStuffstatic int x  = 10; 4.5.	static {  x  += 5; } 6.7.	public static  void main(String args[])9.	System.out.println("x = " + x);12.	static {x  /= 5; } | the code compiles and execution  produces  the output x = 3.
+6.	Which statement is true about  this code?1.	class HasStatic3.	private static int x  = 100; 4.7.	HasStatic hs1  = new HasStatic();9.	HasStatic hs2  = new HasStatic();hs1  = new HasStatic();System.out.println("x = " + x); | the program compiles and the output is x = 104.
 7.	Given the following code, and making no other changes, which combination of access modifiers (public, protected, or private) can legally be placed before aMethod() on line 3 and be placed before aMethod() on line 8? | 1.	class superduper3.	void  amethod() {  }6.	class sub  extends superduper8.	void  amethod() {  }  |   D.	line 3: private; line 8: protected
-8.	Which modifier or modifiers should be used to denote a variable that should not be written out as part of its class’s persistent  state? (Choose the shortest  possible answer.) | d.	transient
-9.	This question  concerns the following class definition:package abcde; 2.4.	protected static  int referenceCount = 0;6.	protected void fly()  {  /* Flap wings, etc.  */ }7.	static int getRefCount() {  return  referenceCount; }Which statement is true about  class Bird and the following class Parrot?3.	class  Parrot  extends abcde.Bird {4.	public void fly()  {5.	/* Parrot-specific flight  code. */7.	public int  getRefCount() {8.	return referenceCount; | c.	compilation of parrot.java fails at line 7 because method  getrefcount() is static in the superclass, and static methods  may not be overridden to be nonstatic.
-This question  concerns the following class definition: 3.	public  class  Bird {4.	protected static  int referenceCount = 0;5.	public Bird() {  referenceCount++;  }6.	protected void fly()  {  /* Flap wings, etc.  */ }7.	static int getRefCount() {  return  referenceCount; }Which statement is true about  class Bird and the following class Nightingale? 3.	class  Nightingale extends abcde.Bird {6.	public static  void main(String args[])  {7.	System.out.print("Before: " + referenceCount);8.	Nightingale florence = new Nightingale();9.	System.out.println("   After: " + referenceCount);10.	florence.fly(); | a.	the program will compile and execute. the output will be before: 0    after: 2.
-11.	Suppose class Supe, in package packagea, has a method called doSomething(). Suppose class Subby, in package packageb, overrides  doSomething(). What  access modes may Subby’s version of the method  have? (Choose all that  apply.) | a.	publicb.	protected
+8.	Which modifier or modifiers should be used to denote a variable that should not be written out as part of its class’s persistent  state? (Choose the shortest  possible answer.) | transient
+9.	This question  concerns the following class definition:package abcde; 2.4.	protected static  int referenceCount = 0;6.	protected void fly()  {  /* Flap wings, etc.  */ }7.	static int getRefCount() {  return  referenceCount; }Which statement is true about  class Bird and the following class Parrot?3.	class  Parrot  extends abcde.Bird {4.	public void fly()  {5.	/* Parrot-specific flight  code. */7.	public int  getRefCount() {8.	return referenceCount; | compilation of parrot.java fails at line 7 because method  getrefcount() is static in the superclass, and static methods  may not be overridden to be nonstatic.
+This question  concerns the following class definition: 3.	public  class  Bird {4.	protected static  int referenceCount = 0;5.	public Bird() {  referenceCount++;  }6.	protected void fly()  {  /* Flap wings, etc.  */ }7.	static int getRefCount() {  return  referenceCount; }Which statement is true about  class Bird and the following class Nightingale? 3.	class  Nightingale extends abcde.Bird {6.	public static  void main(String args[])  {7.	System.out.print("Before: " + referenceCount);8.	Nightingale florence = new Nightingale();9.	System.out.println("   After: " + referenceCount);10.	florence.fly(); | the program will compile and execute. the output will be before: 0    after: 2.
+11.	Suppose class Supe, in package packagea, has a method called doSomething(). Suppose class Subby, in package packageb, overrides  doSomething(). What  access modes may Subby’s version of the method  have? (Choose all that  apply.) | publicb.	protected
 12.	Which of the following statements  are true? | f.	none of the above.
-13.	Suppose interface Inty defines five methods.  Suppose class Classy declares that it implementsInty but does not provide implementations for any of the five interface methods. Which is/are true? | c.	the class will compile if it is declared abstract.d.	the class may not be instantiated.
-14.	Which of the following may be declared final? (Choose all that apply.) | a.	classesb.	datac.	methods
-15.	Which of the following may follow the static keyword?  (Choose all that apply.) | b.	datac.	methodsd.	code blocks enclosed in curly brackets
-16.	Suppose class A has a method  called doSomething(), with default access. Suppose class B extends A and overrides  doSomething(). Which access modes may apply to B’s version of doSomething()? (Choose all that apply.) | a.	public c.	protected d.	default
-17.	True or false: If class Y extends class X, the two classes are in different packages, and class X has a protected  method  called abby(), then any instance of Y may call the abby() method  of any other instance of Y. | b.	false
-18.	Which of the following statements  are true? | d.	a final class may not be extended.
-20.	What does the following code print?public class Astatic int x;public static  void main(String[]  args)  { A  that1 = new A  that2 = new A(); that1.x = 5; x  = -1; System.out.println(x); | d.	-1
-4.	In the following code, what are the possible types for variable result? (Choose the most complete true answer.) 1.	byte b  = 11;2.	short s = 13;3.	result = b  *  ++s; | e.	int, long, float, double
-5.	Consider  the following class:1.	class  Cruncher {2.	void crunch(int  i) {3.	System.out.println("int version");6.	System.out.println("String version");10.	Cruncher crun = new Cruncher();11.	char ch  = ‘p’;12.	crun.crunch(ch); | d.	the code will compile and produce  the following output: int version.
-7.	Consider  the following code. Which line will not compile? 1.	Object ob  = new Object();2.	String[] stringarr = new String[50];3.	Float floater  = new Float(3.14f);5.	ob  = stringarr[5];7.	ob  = floater; | c.	line 6
-8.	Consider  the following code: 	1.	Dog	rover, fido;2.	Animal	anim; 3.4.	rover = new Dog();6.	fido = (Dog)anim;Which of the following statements  is true? (Choose one.) | d.	the code will compile and run.
-9.	Consider  the following code: 1.	Cat  sunflower;5.	sunflower = new Cat();7.	pogo  = (SwampThing)wawa; | e.	the code will compile but will throw  an exception  at line 7, because the runtime  class of wawa cannot  be converted  to type swampthing.
-10.	Consider  the following code: 2.	SwampThing pogo;5.	rocky = new Raccoon();6.	w  = rocky;7.	pogo  = w;Which of the following statements  is true? (Choose one.) | b.	line 7 will not compile; an explicit cast is required  to convert a washer to a swampthing.
-11.	Which of the following may legally appear  as the new type (between the parentheses)  in a cast operation? | e.	all of the above
-12.	Which of the following may legally appear  as the new type (between the parentheses)  in a cast operation? | d.	all of the above
-13.	Suppose the declared type of x is a class, and the declared type of y is an interface. When is the assignment  x  =  y; legal? | a.	when the type of x is object
-14.	Suppose the type of xarr is an array of XXX, and the type of yarr is an array of YYY. When is the assignment  xarr =  yarr; legal? | a.	sometimes
-15.	When is x  &   y an int? (Choose one). | b.	sometimes
-16.	What are the legal types for whatsMyType? short s = 10; whatsMyType  = !s; | c.	there are no possible legal types.
-17.	When a negative long is cast to a byte, what are the possible values of the result? | d.	all of the above
-18.	When a negative byte is cast to a long, what are the possible values of the result? | c.	negative
+13.	Suppose interface Inty defines five methods.  Suppose class Classy declares that it implementsInty but does not provide implementations for any of the five interface methods. Which is/are true? | the class will compile if it is declared abstract.d.	the class may not be instantiated.
+14.	Which of the following may be declared final? (Choose all that apply.) | classesb.	datac.	methods
+15.	Which of the following may follow the static keyword?  (Choose all that apply.) | datac.	methodsd.	code blocks enclosed in curly brackets
+16.	Suppose class A has a method  called doSomething(), with default access. Suppose class B extends A and overrides  doSomething(). Which access modes may apply to B’s version of doSomething()? (Choose all that apply.) | public c.	protected d.	default
+17.	True or false: If class Y extends class X, the two classes are in different packages, and class X has a protected  method  called abby(), then any instance of Y may call the abby() method  of any other instance of Y. | false
+18.	Which of the following statements  are true? | a final class may not be extended.
+20.	What does the following code print?public class Astatic int x;public static  void main(String[]  args)  { A  that1 = new A  that2 = new A(); that1.x = 5; x  = -1; System.out.println(x); | -1
+4.	In the following code, what are the possible types for variable result? (Choose the most complete true answer.) 1.	byte b  = 11;2.	short s = 13;3.	result = b  *  ++s; | int, long, float, double
+5.	Consider  the following class:1.	class  Cruncher {2.	void crunch(int  i) {3.	System.out.println("int version");6.	System.out.println("String version");10.	Cruncher crun = new Cruncher();11.	char ch  = ‘p’;12.	crun.crunch(ch); | the code will compile and produce  the following output: int version.
+7.	Consider  the following code. Which line will not compile? 1.	Object ob  = new Object();2.	String[] stringarr = new String[50];3.	Float floater  = new Float(3.14f);5.	ob  = stringarr[5];7.	ob  = floater; | line 6
+8.	Consider  the following code: 	1.	Dog	rover, fido;2.	Animal	anim; 3.4.	rover = new Dog();6.	fido = (Dog)anim;Which of the following statements  is true? (Choose one.) | the code will compile and run.
+9.	Consider  the following code: 1.	Cat  sunflower;5.	sunflower = new Cat();7.	pogo  = (SwampThing)wawa; | the code will compile but will throw  an exception  at line 7, because the runtime  class of wawa cannot  be converted  to type swampthing.
+10.	Consider  the following code: 2.	SwampThing pogo;5.	rocky = new Raccoon();6.	w  = rocky;7.	pogo  = w;Which of the following statements  is true? (Choose one.) | line 7 will not compile; an explicit cast is required  to convert a washer to a swampthing.
+11.	Which of the following may legally appear  as the new type (between the parentheses)  in a cast operation? | all of the above
+12.	Which of the following may legally appear  as the new type (between the parentheses)  in a cast operation? | all of the above
+13.	Suppose the declared type of x is a class, and the declared type of y is an interface. When is the assignment  x  =  y; legal? | when the type of x is object
+14.	Suppose the type of xarr is an array of XXX, and the type of yarr is an array of YYY. When is the assignment  xarr =  yarr; legal? | sometimes
+15.	When is x  &   y an int? (Choose one). | sometimes
+16.	What are the legal types for whatsMyType? short s = 10; whatsMyType  = !s; | there are no possible legal types.
+17.	When a negative long is cast to a byte, what are the possible values of the result? | all of the above
+18.	When a negative byte is cast to a long, what are the possible values of the result? | negative
 19.	Which of the following operators can perform  promotion on their operands? (Choose all that  apply.) | .  +b.  -e.	~
-20.	What is the difference between the rules for method-call conversion and the rules for assignment conversion? | a.	there is no difference; the rules are the same.
-1.	Consider  the following code:1.	for (int i = 0; i < 2;  i++) {2.	for (int j = 0; j < 3;  j++) {3.	if (i == j) {4.	continue;6.	System.out.println("i = " + i + " j = " + j);Which lines would be part of the output? (Choose all that apply.) | b.	i =  0  j =  1c.	i =  0  j =  2d.	i =  1  j =  0f.	i =  1  j =  2
-2.	Consider  the following code:1.	outer: for (int i = 0; i < 2;  i++) {2.	for (int j = 0; j < 3;  j++) {3.	if (i == j) {6.	System.out.println("i = " + i + " j = " + j);Which lines would be part of the output? (Choose all that apply.) | d.	i =  1  j =  0
-3.	Which of the following are legal loop constructions? (Choose all that apply.) | c.	int j =  0;for (int  k=0, j+k   !=  10;  j++,k++) { system.out.println("j=" +  j +  ", k="  +  k);}
-4.	What would be the output from this code fragment?1.	int x  = 0, y  = 4, z  = 5;2.	if (x > 2) {3.	if (y < 5) {4.	System.out.println("message one");10.	else if (z > 5) {11.	System.out.println("message three");14.	System.out.println("message four"); | d.	message four
-5.	Which statement is true about  the following code fragment?1.	int j = 2;2.	switch (j) {4.	System.out.println("value is  two");5.	case 2  + 1:6.	System.out.println("value is  three");8.	default:9.	System.out.println("value is  " + j); | d.	the output would be the text value is two followed by the text value is three.
-6.	Consider  the following class hierarchy  and code fragment:3.	URL  u  = new URL(s);4.	// in is an  ObjectInputStream6.	System.out.println("Success");9.	System.out.println("Bad URL");11.	catch  (StreamCorruptedException e)  {12.	System.out.println("Bad file contents");18.	System.out.println("Doing finally part");What lines are output if the constructor at line 3 throws  a MalformedURLException? (Choose all that apply.) | b.	bad  urle.	doing  finally partf.	carrying  on
-7.	Consider  the following class hierarchy  and code fragment:3.	URL  u  = new URL(s); 5.	Object o  = in.readObject();8.	catch (MalformedURLException e) {12.	System.out.println("Bad file contents");14.	catch (Exception e)  {15.	System.out.println("General exception");18.	System.out.println("Doing finally part");What lines are output if the methods at lines 3 and 5 complete successfully without throwing any exceptions?  (Choose all that apply.) | a.	successe.	doing  finally partf.	carrying  on
-2.	// assume   s is  previously defined4.	// in is an  ObjectInputStream6.	System.out.println("Success");11.	catch  (StreamCorruptedException e)  {15.	System.out.println("General exception");18.	System.out.println("Doing finally part");20.	System.out.println("Carrying on");What lines are output if the methods at lines 3 and 5 complete successfully without throwing any exceptions?  (Choose all that apply.) | a.	success e.	doing  finally partf.	carrying  on
-4.	// in is an  ObjectInputStream5.	Object o  = in.readObject();8.	catch (MalformedURLException e) {9.	System.out.println("Bad URL");11.	catch  (StreamCorruptedException e)  {12.	System.out.println("Bad file contents");15.	System.out.println("General exception");18.	System.out.println("Doing finally part");What lines are output if the method at line 5 throws an OutOfMemoryError? (Choose all that apply.) | e.	doing  finally part
-9.	Which of the following are appropriate situations for assertions? | b.	postconditions of a public methodc.	preconditions of a private methodd.	postconditions of a private method
-10.	Consider  the following code:1.	public class Assertification  {2.	public static  void main(String[]  args)  {3.	assert args.length == 0;Which of the following conditions must be true in order for the code to throw an AssertionError?Assume you are using release 5.0. (Choose all that apply.) | a.	the source code must be compiled with the -source  1.5 flag.b.	the application must be run with the -enableassertions flag or another assertion- enabling flag.d.	the args array must have one or more elements.
-11.	Which of the following is the most appropriate way to handle invalid arguments  in a public method? | b.	throw  java.lang.illegalargumentexception.
-12.	Suppose salaries is an array containing  floats. Which of the following are valid loop control statements  for processing each element of salaries? | a.	for (float f:salaries)
-13.	Which of the following are legal? (Choose all that apply.) | a.	for (int  i=0, j=1; i<10; i++, j++) b.	for (int  i=0, j=1;; i++, j++)d.	for (string s =  “”; s.length()<10; s += ‘!’)
-14.	Suppose a method  called finallyTest() consists of a try block, followed by a catch block, followed by a finally block. Assuming the JVM doesn’t crash and the code does not execute a System.exit() call, under what circumstances  will the finally block not begin to execute? | d.	if the jvm doesn’t crash and the code does not execute a system.exit() call, the finally block will always execute.
+20.	What is the difference between the rules for method-call conversion and the rules for assignment conversion? | there is no difference; the rules are the same.
+1.	Consider  the following code:1.	for (int i = 0; i < 2;  i++) {2.	for (int j = 0; j < 3;  j++) {3.	if (i == j) {4.	continue;6.	System.out.println("i = " + i + " j = " + j);Which lines would be part of the output? (Choose all that apply.) | i =  0  j =  1c.	i =  0  j =  2d.	i =  1  j =  0f.	i =  1  j =  2
+2.	Consider  the following code:1.	outer: for (int i = 0; i < 2;  i++) {2.	for (int j = 0; j < 3;  j++) {3.	if (i == j) {6.	System.out.println("i = " + i + " j = " + j);Which lines would be part of the output? (Choose all that apply.) | i =  1  j =  0
+3.	Which of the following are legal loop constructions? (Choose all that apply.) | int j =  0;for (int  k=0, j+k   !=  10;  j++,k++) { system.out.println("j=" +  j +  ", k="  +  k);}
+4.	What would be the output from this code fragment?1.	int x  = 0, y  = 4, z  = 5;2.	if (x > 2) {3.	if (y < 5) {4.	System.out.println("message one");10.	else if (z > 5) {11.	System.out.println("message three");14.	System.out.println("message four"); | message four
+5.	Which statement is true about  the following code fragment?1.	int j = 2;2.	switch (j) {4.	System.out.println("value is  two");5.	case 2  + 1:6.	System.out.println("value is  three");8.	default:9.	System.out.println("value is  " + j); | the output would be the text value is two followed by the text value is three.
+6.	Consider  the following class hierarchy  and code fragment:3.	URL  u  = new URL(s);4.	// in is an  ObjectInputStream6.	System.out.println("Success");9.	System.out.println("Bad URL");11.	catch  (StreamCorruptedException e)  {12.	System.out.println("Bad file contents");18.	System.out.println("Doing finally part");What lines are output if the constructor at line 3 throws  a MalformedURLException? (Choose all that apply.) | bad  urle.	doing  finally partf.	carrying  on
+7.	Consider  the following class hierarchy  and code fragment:3.	URL  u  = new URL(s); 5.	Object o  = in.readObject();8.	catch (MalformedURLException e) {12.	System.out.println("Bad file contents");14.	catch (Exception e)  {15.	System.out.println("General exception");18.	System.out.println("Doing finally part");What lines are output if the methods at lines 3 and 5 complete successfully without throwing any exceptions?  (Choose all that apply.) | successe.	doing  finally partf.	carrying  on
+2.	// assume   s is  previously defined4.	// in is an  ObjectInputStream6.	System.out.println("Success");11.	catch  (StreamCorruptedException e)  {15.	System.out.println("General exception");18.	System.out.println("Doing finally part");20.	System.out.println("Carrying on");What lines are output if the methods at lines 3 and 5 complete successfully without throwing any exceptions?  (Choose all that apply.) | success e.	doing  finally partf.	carrying  on
+4.	// in is an  ObjectInputStream5.	Object o  = in.readObject();8.	catch (MalformedURLException e) {9.	System.out.println("Bad URL");11.	catch  (StreamCorruptedException e)  {12.	System.out.println("Bad file contents");15.	System.out.println("General exception");18.	System.out.println("Doing finally part");What lines are output if the method at line 5 throws an OutOfMemoryError? (Choose all that apply.) | doing  finally part
+9.	Which of the following are appropriate situations for assertions? | postconditions of a public methodc.	preconditions of a private methodd.	postconditions of a private method
+10.	Consider  the following code:1.	public class Assertification  {2.	public static  void main(String[]  args)  {3.	assert args.length == 0;Which of the following conditions must be true in order for the code to throw an AssertionError?Assume you are using release 5.0. (Choose all that apply.) | the source code must be compiled with the -source  1.5 flag.b.	the application must be run with the -enableassertions flag or another assertion- enabling flag.d.	the args array must have one or more elements.
+11.	Which of the following is the most appropriate way to handle invalid arguments  in a public method? | throw  java.lang.illegalargumentexception.
+12.	Suppose salaries is an array containing  floats. Which of the following are valid loop control statements  for processing each element of salaries? | for (float f:salaries)
+13.	Which of the following are legal? (Choose all that apply.) | for (int  i=0, j=1; i<10; i++, j++) b.	for (int  i=0, j=1;; i++, j++)d.	for (string s =  “”; s.length()<10; s += ‘!’)
+14.	Suppose a method  called finallyTest() consists of a try block, followed by a catch block, followed by a finally block. Assuming the JVM doesn’t crash and the code does not execute a System.exit() call, under what circumstances  will the finally block not begin to execute? | if the jvm doesn’t crash and the code does not execute a system.exit() call, the finally block will always execute.
 15.	Which of the following are legal loop definitions?  (Choose all that apply.) | f.	none of them are legal.
-16.	Which of the following are legal argument types for a switch statement? | a.	byteb.	inte.	char
-17.	When is it appropriate to pass a cause to an exception’s constructor? | b.	when the exception  is being thrown in response to catching of a different exception  type
-18.	Which of the following should always be caught? | b.	checked exceptions
-19.	When does an exception’s stack trace get recorded  in the exception  object? | a.	when the exception  is constructed
-20.	When is it appropriate to write code that constructs and throws  an error? | e.	never
-1.	Consider  this class:1.	public  class  Test1 {2.	public float aMethod(float a, float  b) {3.	} 4.Which of the following methods  would be legal if added (individually)  at line 4? (Choose all that  apply.) | a.	public int  amethod(int a,  int  b) {  }c.	public float  amethod(float a, float b, int c) throws exception {  }e.	private float amethod(int a,  int  b,  int  c)  {  }
-2.	Consider  these classes, defined in separate  source files:2.	public float aMethod(float a, float b)3.	throws IOException {...public class  Test2 extends Test1 { 2.Which of the following methods  would be legal (individually)  at line 2 in class Test2? (Choose all that apply.) | b.	public int  amethod(int a,  int  b) throws exception {...} 	d.	public float  amethod(float p, float q) {...}
-4.	You have been given a design document for a veterinary registration system for implementation in Java. It states:A pet has an owner,  a registration date, and a vaccination-due date. A cat is a pet that has a flag indicating if it has been neutered,  and a textual  description  of its markingsGiven that the Pet class has already been defined and you expect the Cat class to be used freely throughout the application, how would you make the opening declaration of the Cat class, up to but not including the first opening brace? Use only these words and spaces: boolean, Cat, class, Date,  extends, Object, Owner, Pet, private, protected, public, String | c.	public class cat   extends pet
-5.	Consider  the following classes, declared in separate  source files1.	public class Base  2.	public  void method(int i) {3.	System.out.print(“Value is  “  + i);2.	public  void method(int j) {6.	System.out.print(“I was  passed “  + s);8.	public static  void main(String args[])  {9.	Base  b1  = new Base();11.	b1.method(5);12.	b2.method(6);What output results when the main method  of the class Sub is run? | c.	value   is  5this value is  6
-6.	Consider  the following class definition:1.	public class  Test extends Base  {2.	public Test(int j) {4.	public Test(int  j, int  k) {5.	super(j, k);Which of the following are legitimate calls to construct instances of the Test class? (Choose all that apply.) | b.	test t =  new test(1);c.	test t =  new test(1, 2);
-7.	Consider  the following class definition:1.	public class  Test extends Base  {2.	public Test(int j) {4.	public Test(int  j, int  k) {5.	super(j, k);Which of the following forms of constructor must exist explicitly in the definition  of the Base class? Assume Test and Base are in the same package.  (Choose all that apply.) | a.	base() {  }c.	base(int j, int k) {  }
-8.	Consider  the following definition:1.	public  class  Outer {3.	private int b  = 2;4.	public void method(final int  c) {5.	int d  = 3;7.	private void  iMethod(int e) { 8.Which variables can be referenced at line 8? (Choose all that apply.) | a.	a b.	b c.	c e.	e
-9.	Which of the following statements  are true? (Choose all that apply.) | a.	given that inner is a nonstatic class declared inside a public class outer and that appro- priate constructor forms are defined, an instance of inner can be constructed like this: new outer().new inner()
-10.	Which of the following are legal enums? | c.	enum animals {lion,  tiger,  bear; int weight;}e.	enum animals {lion(450),  tiger(450), bear; int weight;animals() {  } animals(int w)  {weight =  w;}
-11.	Which of the following may override a method  whose signature  is void xyz(float  f)? | a.	void xyz(float  f)b.	public void xyz(float  f)
-12.	Which of the following are true? (Choose all that apply.) | c.	an enum may contain  public method  definitions.d.	an enum may contain  private data.
-13.	Which of the following are true? (Choose all that apply.) | a.	an enum definition  may contain  the main() method  of an application.b.	you can call an enum’s tostring() method.c.	you can call an enum’s wait() method.d.	you can call an enum’s notify() method.
-14.	Suppose x and y are of type TrafficLightState, which is an enum. What is the best way to test whether  x and y refer to the same constant? | a.	if (x == y)
-15.	Which of the following restrictions apply to anonymous inner classes? | a.	they must be defined inside a code block.
-16.	Given the following code, which of the following will compile?enum Spice {  NUTMEG,  CINNAMON,  CORIANDER,   ROSEMARY;  } | a.	spice sp  =  spice.nutmeg; object ob  =  sp;b.	spice sp  =  spice.nutmeg; object ob  =  (object)sp;d.	object ob  =  new object();  spice sp  =  (spice)object;
-17.	Which of the following are true? | a.	an anonymous inner class may implement  at most one interface.c.	an anonymous inner class may extend a parent  class other than object.
-18.	Which methods  return  an enum constant’s  name? | b.	name()c.	tostring()
-19.	Suppose class X contains  the following method:void doSomething(int a, float b)  {  …    }Which of the following methods  may appear  in class Y, which extends X? | a.	public  void dosomething(int a, float b) {  …    }
-20.	This question  involves IOException, AWTException, and EOFException. They are all checked exception types. IOException and AWTException extend Exception, and EOFException extends IOException. Suppose class X contains  the following method:void  doSomething() throws IOException{ …    }Which of the following methods  may appear  in class Y, which extends X? | a.	void  dosomething() {  …    }c.	void  dosomething()  throws  eofexception {  …    }d.	void  dosomething() throws ioexception,  eofexception {  …    }
-1.	Which one statement is true concerning  the following code?1.	class Greebo   extends java.util.Vector4.	System.out.println(“in run() method: “  +10.	public static  void main(String args[])  {13.	Thread t = new Thread(g);14.	t.start(); | a.	there will be a compiler error,  because class greebo  does not correctly implement  the runnable interface.
-2.	Which one statement is always true about  the following application?1.	class  HiPri extends Thread {3.	setPriority(10);7.	System.out.println(8.	“Another thread  starting up.”);9.	while (true)  {  }13.	HiPri hp1  = new HiPri();14.	HiPri hp2  = new HiPri();16.	hp1.start();18.	hp3.start(); | c.	when the application is run, all three threads (hp1, hp2, and hp3) will execute concurrently, taking time-sliced turns in the cpu.
-3.	A thread  wants to make a second thread  ineligible for execution.  To do this, the first thread  can call the yield() method  on the second thread. | b.	false
-4.	A thread’s run() method  includes the following lines:1.	try  {2.	sleep(100);catch (InterruptedException e) {  }Assuming the thread  is not interrupted, which one of the following statements  is correct? | d.	at line 2, the thread will stop running. it will resume running some time after 100 milliseconds have elapsed.
+16.	Which of the following are legal argument types for a switch statement? | byteb.	inte.	char
+17.	When is it appropriate to pass a cause to an exception’s constructor? | when the exception  is being thrown in response to catching of a different exception  type
+18.	Which of the following should always be caught? | checked exceptions
+19.	When does an exception’s stack trace get recorded  in the exception  object? | when the exception  is constructed
+20.	When is it appropriate to write code that constructs and throws  an error? | never
+1.	Consider  this class:1.	public  class  Test1 {2.	public float aMethod(float a, float  b) {3.	} 4.Which of the following methods  would be legal if added (individually)  at line 4? (Choose all that  apply.) | public int  amethod(int a,  int  b) {  }c.	public float  amethod(float a, float b, int c) throws exception {  }e.	private float amethod(int a,  int  b,  int  c)  {  }
+2.	Consider  these classes, defined in separate  source files:2.	public float aMethod(float a, float b)3.	throws IOException {...public class  Test2 extends Test1 { 2.Which of the following methods  would be legal (individually)  at line 2 in class Test2? (Choose all that apply.) | public int  amethod(int a,  int  b) throws exception {...} 	d.	public float  amethod(float p, float q) {...}
+4.	You have been given a design document for a veterinary registration system for implementation in Java. It states:A pet has an owner,  a registration date, and a vaccination-due date. A cat is a pet that has a flag indicating if it has been neutered,  and a textual  description  of its markingsGiven that the Pet class has already been defined and you expect the Cat class to be used freely throughout the application, how would you make the opening declaration of the Cat class, up to but not including the first opening brace? Use only these words and spaces: boolean, Cat, class, Date,  extends, Object, Owner, Pet, private, protected, public, String | public class cat   extends pet
+5.	Consider  the following classes, declared in separate  source files1.	public class Base  2.	public  void method(int i) {3.	System.out.print(“Value is  “  + i);2.	public  void method(int j) {6.	System.out.print(“I was  passed “  + s);8.	public static  void main(String args[])  {9.	Base  b1  = new Base();11.	b1.method(5);12.	b2.method(6);What output results when the main method  of the class Sub is run? | value   is  5this value is  6
+6.	Consider  the following class definition:1.	public class  Test extends Base  {2.	public Test(int j) {4.	public Test(int  j, int  k) {5.	super(j, k);Which of the following are legitimate calls to construct instances of the Test class? (Choose all that apply.) | test t =  new test(1);c.	test t =  new test(1, 2);
+7.	Consider  the following class definition:1.	public class  Test extends Base  {2.	public Test(int j) {4.	public Test(int  j, int  k) {5.	super(j, k);Which of the following forms of constructor must exist explicitly in the definition  of the Base class? Assume Test and Base are in the same package.  (Choose all that apply.) | base() {  }c.	base(int j, int k) {  }
+8.	Consider  the following definition:1.	public  class  Outer {3.	private int b  = 2;4.	public void method(final int  c) {5.	int d  = 3;7.	private void  iMethod(int e) { 8.Which variables can be referenced at line 8? (Choose all that apply.) | a b.	b c.	c e.	e
+9.	Which of the following statements  are true? (Choose all that apply.) | given that inner is a nonstatic class declared inside a public class outer and that appro- priate constructor forms are defined, an instance of inner can be constructed like this: new outer().new inner()
+10.	Which of the following are legal enums? | enum animals {lion,  tiger,  bear; int weight;}e.	enum animals {lion(450),  tiger(450), bear; int weight;animals() {  } animals(int w)  {weight =  w;}
+11.	Which of the following may override a method  whose signature  is void xyz(float  f)? | void xyz(float  f)b.	public void xyz(float  f)
+12.	Which of the following are true? (Choose all that apply.) | an enum may contain  public method  definitions.d.	an enum may contain  private data.
+13.	Which of the following are true? (Choose all that apply.) | an enum definition  may contain  the main() method  of an application.b.	you can call an enum’s tostring() method.c.	you can call an enum’s wait() method.d.	you can call an enum’s notify() method.
+14.	Suppose x and y are of type TrafficLightState, which is an enum. What is the best way to test whether  x and y refer to the same constant? | if (x == y)
+15.	Which of the following restrictions apply to anonymous inner classes? | they must be defined inside a code block.
+16.	Given the following code, which of the following will compile?enum Spice {  NUTMEG,  CINNAMON,  CORIANDER,   ROSEMARY;  } | spice sp  =  spice.nutmeg; object ob  =  sp;b.	spice sp  =  spice.nutmeg; object ob  =  (object)sp;d.	object ob  =  new object();  spice sp  =  (spice)object;
+17.	Which of the following are true? | an anonymous inner class may implement  at most one interface.c.	an anonymous inner class may extend a parent  class other than object.
+18.	Which methods  return  an enum constant’s  name? | name()c.	tostring()
+19.	Suppose class X contains  the following method:void doSomething(int a, float b)  {  …    }Which of the following methods  may appear  in class Y, which extends X? | public  void dosomething(int a, float b) {  …    }
+20.	This question  involves IOException, AWTException, and EOFException. They are all checked exception types. IOException and AWTException extend Exception, and EOFException extends IOException. Suppose class X contains  the following method:void  doSomething() throws IOException{ …    }Which of the following methods  may appear  in class Y, which extends X? | void  dosomething() {  …    }c.	void  dosomething()  throws  eofexception {  …    }d.	void  dosomething() throws ioexception,  eofexception {  …    }
+1.	Which one statement is true concerning  the following code?1.	class Greebo   extends java.util.Vector4.	System.out.println(“in run() method: “  +10.	public static  void main(String args[])  {13.	Thread t = new Thread(g);14.	t.start(); | there will be a compiler error,  because class greebo  does not correctly implement  the runnable interface.
+2.	Which one statement is always true about  the following application?1.	class  HiPri extends Thread {3.	setPriority(10);7.	System.out.println(8.	“Another thread  starting up.”);9.	while (true)  {  }13.	HiPri hp1  = new HiPri();14.	HiPri hp2  = new HiPri();16.	hp1.start();18.	hp3.start(); | when the application is run, all three threads (hp1, hp2, and hp3) will execute concurrently, taking time-sliced turns in the cpu.
+3.	A thread  wants to make a second thread  ineligible for execution.  To do this, the first thread  can call the yield() method  on the second thread. | false
+4.	A thread’s run() method  includes the following lines:1.	try  {2.	sleep(100);catch (InterruptedException e) {  }Assuming the thread  is not interrupted, which one of the following statements  is correct? | at line 2, the thread will stop running. it will resume running some time after 100 milliseconds have elapsed.
 5.	A monitor called mon has 10 threads in its waiting pool; all these waiting threads have the same priority.  One of the threads  is thr1. How can you notify thr1 so that it alone moves from the Waiting state to the Ready state? | 5.	a monitor called mon has 10 threads in its waiting pool; all these waiting threads have the same priority.  one of the threads  is thr1. how can you notify thr1 so that it alone moves from the waiting state to the ready state?
-6.	If you attempt to compile and execute the following application, will it ever print  out the message In xxx?1.	class  TestThread3 extends Thread {3.	System.out.println(“Running”);4.	System.out.println(“Done”);8.	System.out.println(“In xxx”);12.	TestThread3 ttt = new TestThread3();14.	ttt.start(); | a.	yes
-8.	Which of the following methods  in the Thread class are deprecated? | a.	suspend() and resume()
-9.	Which of the following statements  about  threads  is true? | b.	threads  inherit their priority  from their parent  thread.
-10.	Which of the following statements  about  the wait() and notify() methods  is true? | c.	the thread  that calls wait() goes into the monitor’s  pool of waiting threads.
-11.	Which of the following may not be synchronized? | d.	classes
-12.	Which of the following calls may be made from a non-static synchronized method? | a.	a call to the same method  of the current  object.b.	a call to the same method  of a different instance of the current  class.c.	a call to a different synchronized method  of the current  object.d.	a call to a static synchronized method  of the current  class.
-13.	How many locks does an object have? | a.	one
-14.	Is it possible to write code that can execute only if the current  thread  owns multiple locks? | a.	yes.
-15.	Which of the following are true? (Choose all that apply.) | b.	when an application begins running, there is one non-daemon thread, whose job is to execute main().c.	a thread  created by a daemon  thread  is initially also a daemon  thread.d.	a thread  created by a non-daemon thread  is initially also a non-daemon thread.
-16.	Which of the following are true? | d.	the jvm runs until there are no non-daemon threads.
-17.	How do you prevent shared data from being corrupted in a multithreaded environment? | d.	access the variables only via synchronized methods.
-18.	How can you ensure that multithreaded code does not deadlock? | d.	a, b, and c do not ensure that multithreaded code does not deadlock.
-19.	Which of the following are true? (Choose all that apply.) | a.	when you declare a method to be synchronized, the method always synchronizes on the lock of the current  objectd.	when you declare a block of code inside a method  to be synchronized, you can specify the object on whose lock the block should synchronize.
-20.	Suppose you want to create a custom thread  class by extending  java.lang.Thread in order to provide some special functionality. Which of the following must you do? | b.	override  run().
+6.	If you attempt to compile and execute the following application, will it ever print  out the message In xxx?1.	class  TestThread3 extends Thread {3.	System.out.println(“Running”);4.	System.out.println(“Done”);8.	System.out.println(“In xxx”);12.	TestThread3 ttt = new TestThread3();14.	ttt.start(); | yes
+8.	Which of the following methods  in the Thread class are deprecated? | suspend() and resume()
+9.	Which of the following statements  about  threads  is true? | threads  inherit their priority  from their parent  thread.
+10.	Which of the following statements  about  the wait() and notify() methods  is true? | the thread  that calls wait() goes into the monitor’s  pool of waiting threads.
+11.	Which of the following may not be synchronized? | classes
+12.	Which of the following calls may be made from a non-static synchronized method? | a call to the same method  of the current  object.b.	a call to the same method  of a different instance of the current  class.c.	a call to a different synchronized method  of the current  object.d.	a call to a static synchronized method  of the current  class.
+13.	How many locks does an object have? | one
+14.	Is it possible to write code that can execute only if the current  thread  owns multiple locks? | yes.
+15.	Which of the following are true? (Choose all that apply.) | when an application begins running, there is one non-daemon thread, whose job is to execute main().c.	a thread  created by a daemon  thread  is initially also a daemon  thread.d.	a thread  created by a non-daemon thread  is initially also a non-daemon thread.
+16.	Which of the following are true? | the jvm runs until there are no non-daemon threads.
+17.	How do you prevent shared data from being corrupted in a multithreaded environment? | access the variables only via synchronized methods.
+18.	How can you ensure that multithreaded code does not deadlock? | a, b, and c do not ensure that multithreaded code does not deadlock.
+19.	Which of the following are true? (Choose all that apply.) | when you declare a method to be synchronized, the method always synchronizes on the lock of the current  objectd.	when you declare a block of code inside a method  to be synchronized, you can specify the object on whose lock the block should synchronize.
+20.	Suppose you want to create a custom thread  class by extending  java.lang.Thread in order to provide some special functionality. Which of the following must you do? | override  run().
 1.	Given a string constructed by calling s = new String(“xyzzy”), which of the calls modifies the string? | f.	none of the above
-2.	Which one statement is true about  the following code? | c.	line 6 executes and line 4 does not.
-3.	Suppose you want to write a class that offers static methods to compute hyperbolic trigonometric functions.  You decide to subclass java.lang.Math and provide the new functionality as a set of static methods.  Which one statement is true about  this strategy? | d.	the strategy fails because you cannot  subclass java.lang.math.
-4.	Which one statement is true about  the following code fragment?1.	import java.lang.Math;3.	System.out.println(“cosine  of 0.123 = “  +4.	myMath.cos(0.123)); | a.	compilation fails at line 2.
-5.	Which one statement is true about  the following code fragment?2.	StringBuffer s1  = new StringBuffer(“abcde”);3.	if (s.equals(s1))4.	s1  = null;5.	if (s1.equals(s))6.	s = null; | e.	compilation succeeds. no exception  is thrown during execution.
-6.	In the following code fragment,  after execution  of line 1, sbuf references an instance of theStringBuffer class. After execution  of line 2, sbuf still references the same instance.1.	StringBuffer  sbuf = new StringBuffer(“abcde”);2.	sbuf.insert(3, “xyz”); | a.	true
-8.	In the following code fragment,  line 4 is executed.1.	String s1  = “xyz”;2.	String s2  = “xyz”;3.	if (s1 == s2)4.	System.out.println(“Line 4”); | a.	true
-9.	In the following code fragment,  line 4 is executed.1.	String s1  = “xyz”;2.	String s2  = new String(s1);3.	if (s1 == s2)4.	System.out.println(“Line 4”); | b.	false
-10.	Suppose prim  is an int and wrapped is an Integer. Which of the following are legal Java statements? (Choose all that  apply.) | a.	prim   =  wrapped;b.	wrapped =  prim;c.	prim   =  new integer(9);d.	wrapped =  9;
-11.	Which of the following are legal? (Choose all that apply.) | b.	list<string> thelist  =  new vector<string>();d.	vector <string>  thevec =  new vector<string>();
-12.	Given the following,Map<String> names  = new HashMap<String>();which of the following are legal? (Choose all that apply.) | a.	iterator<string> iter =  names.iterator();b.	for (string s:names)
-13.	Which of the following are legal clone() methods  in a class called Q13 that extends Object? | b.	public object clone()throws clonenotsupportedexception {  return super.clone();  }d.	public q13 clone()throws clonenotsupportedexception {  return  (q13)super.clone();  }
-14.	Which of the following classes implement  java.util.List? | a.	java.util.arraylistd.	java.util.stack
-15.	Which of the following are methods  of the java.util.SortedSet interface? | a.	firstb.	lastc.	headsetd.	tailsete.	subset
-16.	Which of the following are methods  of the java.util.SortedMap interface? | c.	headmapd.	tailmape.	submap
-17.	Which line of code tells a scanner called sc to use a single digit as a delimiter? | c.	sc.usedelimiter(“\\d”);
-18.	What happens  when you try to compile and run this application?1.	import  java.util.*; 2.4.	public static  void main(String[]  a)  {5.	Set<Apple> set = new TreeSet<Apple>();6.	set.add(new Apple());7.	set.add(new Apple()); | c.	an exception  is thrown at line 7.
-19.	Given arrays a1 and a2, which call returns  true if a1 and a2 have the same length, and a1[i].equals(a2[i]) for every legal index i? | a.	java.util.arrays.equals(a1, a2);
-20.	Which of the following statements  are true? | a.	stringbuilder is generally faster than stringbuffer.d.	stringbuffer is threadsafe; stringbuilder is not.
-1.	Which of the statements  below are true? (Choose all that apply.) | d.	unicode characters are all 16 bits.
-2.	Which of the statements  below are true? (Choose all that apply.) | d.	none of the above.
-3.	Which of the statements  below are true? (Choose all that apply.) | d.	none of the above.
-4.	How do you use the File class to list the contents  of a directory? | a.	string[]  contents =  myfile.list();
-5.	How many bytes does the following code write to file dest?2.	FileOutputStream fos = newFileOutputStream(“dest”);3.	DataOutputStream dos  = new DataOutputStream(fos);5.	dos.writeDouble(0.0001);7.	fos.close();9.	catch (IOException e) {  } | c.	12
+2.	Which one statement is true about  the following code? | line 6 executes and line 4 does not.
+3.	Suppose you want to write a class that offers static methods to compute hyperbolic trigonometric functions.  You decide to subclass java.lang.Math and provide the new functionality as a set of static methods.  Which one statement is true about  this strategy? | the strategy fails because you cannot  subclass java.lang.math.
+4.	Which one statement is true about  the following code fragment?1.	import java.lang.Math;3.	System.out.println(“cosine  of 0.123 = “  +4.	myMath.cos(0.123)); | compilation fails at line 2.
+5.	Which one statement is true about  the following code fragment?2.	StringBuffer s1  = new StringBuffer(“abcde”);3.	if (s.equals(s1))4.	s1  = null;5.	if (s1.equals(s))6.	s = null; | compilation succeeds. no exception  is thrown during execution.
+6.	In the following code fragment,  after execution  of line 1, sbuf references an instance of theStringBuffer class. After execution  of line 2, sbuf still references the same instance.1.	StringBuffer  sbuf = new StringBuffer(“abcde”);2.	sbuf.insert(3, “xyz”); | true
+8.	In the following code fragment,  line 4 is executed.1.	String s1  = “xyz”;2.	String s2  = “xyz”;3.	if (s1 == s2)4.	System.out.println(“Line 4”); | true
+9.	In the following code fragment,  line 4 is executed.1.	String s1  = “xyz”;2.	String s2  = new String(s1);3.	if (s1 == s2)4.	System.out.println(“Line 4”); | false
+10.	Suppose prim  is an int and wrapped is an Integer. Which of the following are legal Java statements? (Choose all that  apply.) | prim   =  wrapped;b.	wrapped =  prim;c.	prim   =  new integer(9);d.	wrapped =  9;
+11.	Which of the following are legal? (Choose all that apply.) | list<string> thelist  =  new vector<string>();d.	vector <string>  thevec =  new vector<string>();
+12.	Given the following,Map<String> names  = new HashMap<String>();which of the following are legal? (Choose all that apply.) | iterator<string> iter =  names.iterator();b.	for (string s:names)
+13.	Which of the following are legal clone() methods  in a class called Q13 that extends Object? | public object clone()throws clonenotsupportedexception {  return super.clone();  }d.	public q13 clone()throws clonenotsupportedexception {  return  (q13)super.clone();  }
+14.	Which of the following classes implement  java.util.List? | java.util.arraylistd.	java.util.stack
+15.	Which of the following are methods  of the java.util.SortedSet interface? | firstb.	lastc.	headsetd.	tailsete.	subset
+16.	Which of the following are methods  of the java.util.SortedMap interface? | headmapd.	tailmape.	submap
+17.	Which line of code tells a scanner called sc to use a single digit as a delimiter? | sc.usedelimiter(“\\d”);
+18.	What happens  when you try to compile and run this application?1.	import  java.util.*; 2.4.	public static  void main(String[]  a)  {5.	Set<Apple> set = new TreeSet<Apple>();6.	set.add(new Apple());7.	set.add(new Apple()); | an exception  is thrown at line 7.
+19.	Given arrays a1 and a2, which call returns  true if a1 and a2 have the same length, and a1[i].equals(a2[i]) for every legal index i? | java.util.arrays.equals(a1, a2);
+20.	Which of the following statements  are true? | stringbuilder is generally faster than stringbuffer.d.	stringbuffer is threadsafe; stringbuilder is not.
+1.	Which of the statements  below are true? (Choose all that apply.) | unicode characters are all 16 bits.
+2.	Which of the statements  below are true? (Choose all that apply.) | none of the above.
+3.	Which of the statements  below are true? (Choose all that apply.) | none of the above.
+4.	How do you use the File class to list the contents  of a directory? | string[]  contents =  myfile.list();
+5.	How many bytes does the following code write to file dest?2.	FileOutputStream fos = newFileOutputStream(“dest”);3.	DataOutputStream dos  = new DataOutputStream(fos);5.	dos.writeDouble(0.0001);7.	fos.close();9.	catch (IOException e) {  } | 12
