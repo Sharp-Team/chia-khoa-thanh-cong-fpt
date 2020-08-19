@@ -35,7 +35,6 @@ Select the statements that belong to low cohesion | 2. logical, coincidental
 In C, with reference to property of reusing a function, the function that will check whether an integer is a prime or not, should be declared as | a function that will return an integer
 If this function is called as following with input data are 5 10 15. What is the output | 10
 Suppose that the above codes execute. What is the output | 3
-14 | 14
 Which of these statements about the scanf function are true | 3. interpreted and, scanf treats, If the buffer
 Select incorrect statements | 3. hex is used, u is used, b is used
 The getchar function can do | None of the others
@@ -53,8 +52,7 @@ Flagging technique | 2. uses an intege, used when we
 What are the names of search algorithm applied to an array | 2. Linear search, Binary search
 When the above code executes, what is the value of the variable pos | 6
 Suppose that all needed libraries are included | 2, 3, 4, 4, 5
-The output of the program is | None of the others
-5, 1, 2,4, 3 | 5, 4, 3, 2, 1 
+The output of the program is | None of the others 
 With respect to the binary search algorithm on an array | The values contained
 Which of these statements about the  conversion specifier used in scanf function are true | 2. It is usually used, It will read
 ABCDEFGEH | ABCD
@@ -62,8 +60,6 @@ Which of these statements about null byte terminator are not true | We can descr
 specifier is true when it is used in the scanf function | will store the characters
 conversion specifier when it is used in the scanf function and the input is dfgh | None of the others
 Which is the result of strcmp | A positive integer
-ABCDEF | Length 6, CDEF
-GHI | ABCDEFGHI
 Study three following code segments | 1 and 3 have the same output
 AB1 | a negative and a positive integers
 is used for openning a text file. Which of the following mode parameters can not be used | 2. art, RW
@@ -85,3 +81,1014 @@ Study the following steps in software development process | 1, 2, 3, 4, 5
 The output of a program is incorrect. It may be caused by | 2. the algorithm is wrong, a semantic error
 Restricting our use of the language to the standard subset of a language will create the | portability
 Analysis and maintenance are | first and last
+C99 standard guarantees uniqueness of __________ characters for internal names.| 63
+C99 standard guarantees uniqueness of ___________ characters for external names.|31
+Which of the following is not a valid variable name declaration? | None of the mentioned
+Which of the following is not a valid variable name declaration? | int 3_a;
+Why do variable names beginning with the underscore is not encouraged? | To avoid conflicts since library routines use such names
+ All keywords in C are in ____________|LowerCase letters
+Variable name resolution (number of significant characters for the uniqueness of variable) depends on ___________ | Compiler and linker implementations
+Which of the following is not a valid C variable name? |  int $main;
+Which of the following is true for variable names in C? | Variable names cannot start with a digit
+Which of the following statement is true ? | The bus interface unit (BIU) manages the transfer of information along the data bus to the EU
+Why can typecasting be dangerous? | You might temporarily lose part of the data - such as truncating a float when typecasting to an int.
+What is the only function all C programs must contain? | main()
+Referring to the sample above, what is MAX_NUM? #define MAX_NUM 15 |  MAX_NUM is a preprocessor macro
+Which of the following statements are true about addressing primary memory ? | Addressing starts at zero, is sequential and ends at the size of primary memory less 1
+Which of the following statements are true about addressing primary memory ? | Each byte of primary memory has a unique address 
+Which of the following gives the memory address of integer variable a? | &a;
+Which of the following is a complete function ? |  int funct(int x) {return x=x+1;}
+The hexadecimal equivalent of binary number 0101110111101 is | None of the others
+Which of the following is the proper declaration of a pointer? | int *x;
+The translator which translate the entire set of high level statements into an equivalent set of machine language statements (without executing any of the statements) and produce a separate executable file, is | Compiler
+How many times is a do while loop guaranteed to loop? |  1
+In a C expression, how is a logical AND represented ? &&
+Which one of the following will declare a pointer to an integer at address 0x200 in memory? | int x;x = 0x200;
+What is a different between a declaration and a assignment of a variable ? |  A declaration occurs once, but an assignment may occur many times
+Which conversion is not possible ? | All are possible
+Which of the following gives the value store in pointer a? | &a
+Which of the following statements is true ? | A word is the size of the general registers in CPU
+A translator that translates a statement of high-level language to machine language and immediately executes it, is | complier
+Which of the following statements are true about octal number representation ? | Octal number system has 8 digits, 0-7.
+Which of the following statements are true about octal number representation ? | Each octal digit represents 3 bits of information
+Which of the following statements are true about octal number representation ? | The 0 prefix identifies the number as an octal number
+What keyword covers unhandled possibilities ? | default
+What is the output of this code ? int x=0; switch(x) { case 1: printf ("One"); case 0: printf ("Zero"); case 2: printf ("Hello World");} | ZeroHello World
+What keyword covers unhandled possibilities? | default
+What is the return type of the function foo(with prototype)below: int foo(char x,float v,double t); | int
+The C++ language is | Case-sensitive
+Which of the following is a correct comment | /Comment/
+Which is the valid typecast? | (char)a; 
+Which is a good use for typecasting? | To allow division of two integers to return a decimal value
+C is which kind of language ? | Procedural 
+C language is case sensitive, i.e, the C compilers consider the variable named ABC is different from variable named abc | True
+The octal equivalent of the binary number 10001010101 is | 2125
+How many bytes are allocated by the definition below? char txt [20] = "Hello world!\0"; |  20 bytes
+Which of the following is a string literal? | "Static String"
+Multiplication or division of a pointer with a constant is possible. | False
+Which one of the following is valid for opening a read-only ASCII file? | fopen (filenm, "r")
+Which of the following adds one string to the end of another? | strcat()
+Consider the following two statements: char buf [] = "Hello world!"; char * buf = "Hello world!"; In terms of code generation, how do the two definitions of buf, both presented above, differ? | The first definition certainly allows the contents of buf to be safely modified at runtime; the second definition does not.
+Which one of the following is a data type, which can represents different types of data within a single group? | struct
+Which of the following accesses a variable x in structure b? | b.x
+What is a proper methid of opening a file for writing as binary file? | FILE *f = fopen("test.bin","wb");
+The character array elements can be accessed exactly in the same way as the elements of an integer array. | True
+For which value(s) of the integer X will the following code become an infinite Loop? int number=l; while (1) {printf("%d "number); if (number == 3) break; number += x; } | only 0 
+What character ends all strings? | '\0' 
+Can we write char a[] = "Hello, world!"; as char a[14]; a = "Hello,world!"; | No. Strings are arrays, and you cannot assign arrays directly
+What function will read a specified number of elements from a file? | fread()
+A structure contains a number of data types grouped together. These data types must be of the same type | False
+Which one of the following functions is the correct choice for copying blocks of binary data that are of arbitary size and position in memory? | memcpy()
+Which of the following gives the memory address of the first element in array foo, an array with 100 elements?  | foo
+After the sample code below has been executed, what value will the variable X contain? int X = 5; int y = 2;char op = switch (op){ default: X += 1;case V : X += y;case - : X -= y;} | 6
+Hung is trying to declare a pointer and allocate some space for it, but it's not working. What's wrong with this code? char *p; *p = malloc(lO); | There's some problem with the second statement. It should be written as: p = (char *) malloc(lO);
+Consider the code: char ptrl[] = "Hello World"; char *ptr2 = malloc( 5 ); ptr2 = ptrl; What is wrong with the above code (assuming the call to malloc does not fail)? Select one: | There will be a memory Leak,
+Can a struct contain a pointer to itself? | Yes
+What is the header file containing getch() function? | conio 
+Which of the following is two-dimensional array? |  int anarray[20][20];
+Which of the following functions compares two string ? | strcmp()
+Which properly declares a variable x of struct Foo? | Foo x;
+Select the statement which will EXACTLY reproduce the line of text below: "My salary was increased by 15%!" | printf('\My salary was increased by 15%%!\'\n");
+If you didn't do as well as you like, be sure to read through Cprogramming.com's tutorial on Switch..Case. Otherwise, congratulations! 1. Which follows the case statement?If you didn't do as well as you like, be sure to read through Cprogramming.com's tutorial on Switch..Case. Otherwise, congratulations! 1. Which follows the case statement? |  : 
+What is required to avoid falling through from one case to the next? | break;
+What is the correct value to return to the operating system upon the successful completion of a program? | 0
+What is the only function all C programs must contain? | main() 
+What punctuation is used to signal the beginning and end of code blocks? | { } 
+What punctuation ends most lines of C code? | ;
+Which of the following is a correct comment? |  / Comment /
+Which of the following is not a correct variable type? | real
+Which of the following is the correct operator to compare two variables? | ==
+Which of the following is true? | All of the above
+Which of the following is the boolean operator for logical-and? | True 
+Which of the following shows the correct syntax for an if statement? | if ( expression )
+What is the final value of x when the code int x; for(x=0; x<10; x++) {} is run? | 10
+When does the code block following while(x<100) execute? | When x is less than one hundred
+Which is not a loop structure? | repeat until
+How many times is a do while loop guaranteed to loop? | double funct(char x)
+What is the return type of the function with prototype: "int func(char x, float v, double t);" | int
+Which of the following is a valid function call (assuming the function exists)? | funct();
+Which of the following is a complete function? | int funct(int x) {return x=x+1;}
+Which of the following is the proper declaration of a pointer? | int *x;
+Which of the following gives the memory address of integer variable a? | &a;
+Which of the following gives the memory address of a variable pointed to by pointer a? | a;
+Which of the following gives the value stored at the address pointed to by pointer a? | *a;
+Which of the following is the proper keyword or function to allocate memory in C? |  malloc
+Which of the following is the proper keyword or function to deallocate memory? | free
+Which of the following accesses a variable in structure b? | b.var; 
+Which of the following accesses a variable in a pointer to a structure, *b? | b->var;
+Which of the following is a properly defined struct? |  struct a_struct {int a;};
+Which properly declares a variable of struct foo? | struct foo var;
+Which of the following correctly declares an array? | int anarray[10];
+What is the index number of the last element of an array with 29 elements? | 28
+Which of the following is a two-dimensional array? | int anarray[20][20];
+Which of the following correctly accesses the seventh element stored in foo, an array with 100 elements? | foo[6];
+Which of the following gives the memory address of the first element in array foo, an array with 100 elements? |  foo;
+Which of the following is a string literal? | "Static String"
+What character ends all strings? | '\0'
+Which of the following reads in a string named x with one hundred characters? | fgets(x, 101, stdin);
+Which of the following functions compares two strings? | strcmp();
+Which of the following adds one string to the end of another? | strcat();
+What object do you use to represent a file in C? | FILE* 
+Before you can read or write to a file in C, what do you need to do? | Call fopen on the file
+How do you write a string of text into a file? |  Open file and use fprintf.
+What flag do you need to pass to fopen to append to an existing file instead of recreating the file? | a
+How do you open a file for binary IO? | Use the "b" flag to fopen
+Which header file do you need to include to use typecasting? | None 
+Which is a valid typecast? | (char)a; 
+Why can typecasting be dangerous? | You might temporarily lose part of the data - such as truncating a float when typecasting to an int.
+Which is a good use for typecasting? | To allow division of two integers to return a decimal value.
+Which conversion is not possible? | All are possible
+Consider the code below int[] = {1, 4, 8, 5, 1, 4}; int *ptr,y; ptr = x+4; y=ptr-x; What does y in the code above equal? | 4
+Consider the code below int i, x=0; for(i=1; i<10; ++i) { if(i%2==1) x=x+i; else x--; } printf("%d",x); | 21
+Consider the code below int i; int total = 0; int keepreading = 1; for(i=1;i<10&&keepreading==1; i++) if(!(i%3)) keepreading=0; else total+=i; printf("%d",total); | 3 
+What is a difference between a declaration and a definition of a variable? | A declaration occurs once, but a definition may occur many times.
+What does the following code fragment print? int x=0; while(++x<3) printf("%d",x); | 1 2
+Which of the following statements are true about octal number representaion? |  The 0 prefix identifies the number as an octal number
+Which of the following statements are true about octal number representaion? | Each octal digit represents 3 bits of information
+Each octal digit represents 3 bits of information | Octal number system has 8 digits, 0-7
+What is the output when th sample code below is executed? int i; i=1; i=i+2*i++; printf("%d"); | 4
+What will be the output of the following code fragment? The input is as follows: int x=11; printf("%d %o %x", x, x, x); 11 13 b
+Which line has all reserved words? Select one: | if, else, for, while do, switch, continue, break
+Which is a good use for typecasting? | To allow division of two integers to return a decimal value.
+Which conversion is not possible? | All are possible
+Predict the output from: printf("%d, %f\n", 5/-2, 5/-2.); | -2, -2.500000
+C is which kind of language? | Procedural
+Select the statement which will EXACTLY reproduce the line of text below: "My salary was increased by 15%!" | printf("\"My salary was increased by 15%%!\"\n");
+What is the correct value to return to the operating system upon the successful completion of a program? | 0
+What is the only function all C programs must contain? | main()
+Which of the following is not a correct variable type? | real
+Which of the following is the correct operator to compare two variables? |  ==
+Which is not a loop structure in C? |  repeat until
+When does the code block following while(x<100) execute? | When x is less than one hundred
+What is the final value of x when the code int x; for(x=0; x<10; x++) {} | 10
+Which of the following shows the correct syntax for an if statement? | if( expression )
+How long does the following code run? for(int x=0; x<=2; x++) | thrice
+Which is not a proper prototype? | double funct(char x)
+What is the return type of the function foo(with prototype) below: int foo(char x, loat v, double t); | float
+What is the output when the sample code below is executed? int calculate(int c) { c=c+15; if(c>=45) return(10); else return(10*10); } int main() { int a=20, b; b=calculate(a); printf("%d %d", a, b); return(0); } | 20 100
+Which of the following statement would create a random number in the range of [1, 10] (inclusive) ? | 1+ rand( )%10
+What is the header file containing getch() function? | conio
+Which loop that counts from 0 to 5 | for (c = 0; c <= 5; c++)
+For which value(s) of the integer x will the following code become an infinite loop? int number=1; while(1) { printf("%d ",number); if (number == 3) break; | only 0
+After the sample code below has been executed, what value will the variable x contain? int x = 5; int y = 2; char op = '*'; switch (op) { default : x += 1; case '+' : x += y; case '-' : x -= y; } | 6
+Which of the following statements are true about maintainability in good software engineering? (select all correct answers) |  Understandability
+Which of the following statements are true about maintainability in good software engineering? (select all correct answers) | Modifiablity
+Which of the following statements is true? | The execution unit (EU) executes the instructions one at a time
+CPU memory is volatile - the contents of the registers are lost as soon as power is turned off | TRUE
+referring to the sample below what is max_num? # define max_num 15 | MAX_NUM is a preprocessor macro.
+What number will z in the sample code above contain? int z,x=5,y=-10,a=4,b=2; z = x++ - --y * b / a; | 10
+With every use of a memory allocation function, what function should be used to release allocated memory which is no longer needed? | free()
+Which of the following is the correct way to increment the variable "ptr"? void *ptr; myStruct myArray[10]; ptr = myArray; | ptr = ptr + sizeof(myStruct); 
+What will print when the sample code above is executed? char myFunc (char ptr) { ptr += 3; return (ptr); } int main() { char x, y; x = "HELLO"; y = myFunc (x); printf ("y = %s \n", y); return 0; } |  y = LO
+int testarray[3][2][2] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}; What value does testarray[2][1][0] in the sample code above contain? | 11
+what will be the output when following code is executed int a=10,b; b=a++ + ++a; printf("%d,%d,%d,%d",b,a++,a,++a); | 22,13,13,13
+What will the above sample code produce when executed? void myFunc (int x) { if (x > 0) myFunc(--x); printf("%d, ", x); } int main() { myFunc(5); return 0; } | 0, 0, 1, 2, 3, 4,
+11 ^ 5 What does the operation shown above produce? | 14
+Which one of the following functions is the correct choice for moving blocks of binary data that are of arbitrary size and position in memory? | memmove()
+What value will x contain in the sample code above? int x = 2 3 + 4 5; | 26
+Which one of the following statements will properly initialize the variable t with the current time from the sample above? time_t t; | t = clock();
+Which one of the following provides conceptual support for function calls? | The system stack
+What is the value of myArray[1][2]; in the sample code above? int i,j; int ctr = 0; int myArray[2][3]; for (i=0; i<3; i++) for (j=0; j<2; j++) { myArray[j][i] = ctr; ++ctr; } | 5
+What will be printed when the sample code above is executed? int x = 0; for (x=1; x<4; x++); printf("x=%d\n", x); |  x=4
+What value will x contain when the sample code above is executed? int x = 3; if( x == 2 ); x = 0; if( x == 3 ) x++; else x += 2; | 2
+What string does ptr point to in the sample code above? char *ptr; char myString[] = "abcdefg"; ptr = myString; ptr += 5; | fg
+              What will the code above print when executed? ceil =>rounds up 3.2=4 floor =>rounds down 3.2=3 double x = -3.5, y = 3.5; printf( "%.0f : %.0f\n", ceil( x ), ceil( y ) ); printf( "%.0f : %.0f\n", floor( x ), floor( y ) ); | -3 : 4 -4 : 3
+Which one of the following will declare a pointer to an integer at address 0x200 in memory? | int *x; *x = 0x200;
+Referring to the sample code above, what value will the variable counter have when completed? x = 3, counter = 0; while ((x-1)) { ++counter; x--; } | 2
+Consider array, defined above. Which one of the following definitions and initializations of p is valid? char ** array [12][12][12]; | char * ( p) [12][12] = array;
+Which one of the following definitions of funchandler_t allows the above declaration to be rewritten as follows: funchandler_t func (int f, funchandler_t handler); void (func(int f, void (handler) (int))) (int); |  typedef void (*funchandler_t) (int);
+struct employee *ptr = malloc( sizeof( struct employee ) ); Given the sample allocation for the pointer "ptr" found above, which one of the following statements is used to reallocate ptr to be an array of 5 elements? | ptr = realloc( ptr, 5 * sizeof( struct employee));
+What is the proper declaration for the variable c in the code above? | char c;
+How do printf()'s format specifiers %e and %f differ in their treatment of floating-point numbers? | %e always displays an argument of type double in engineering notation; %f always displays an argument of type double in decimal notation.
+What is the maximum number that can be printed using printf("%d\n", x), assuming that x is initialized as shown above? short int x; / assume x is 16 bits in size / | 32, 767
+When applied to a variable, what does the unary "&" operator yield? | The variable's address
+    What will the code above print when it is executed? #include <stdio.h> void func() { int x = 0; static int y = 0; x++; y++; printf( "%d -- %d\n", x, y ); } int main() { func(); func(); return 0; } | 1 -- 1 1 -- 2
+printf( "\n" ); Which one of the following statements could replace the ???? in the code above to cause the string 1-2-3-10-5- to be printed when the code is executed? int x[] = {1, 2, 3, 4, 5}; int u; int *ptr = x; ???? for( u = 0; u < 5; u++ ) { printf("%d-", x[u]); } | *(ptr + 3) = 10;
+How does variable definition differ from variable declaration? |  Variables may be defined many times, but may be declared only once.
+What number is equivalent to -4e3? | -4000
+    What will be printed when the sample code above is executed? char *buffer = "0123456789"; char *ptr = buffer; ptr += 5; printf( "%s\n", ptr ); printf( "%s\n", buffer ); | 56789 0123456789
+How many elements does the array dwarves (declared above) contain? Assume the C compiler employed strictly complies with the requirements of Standard C. char * dwarves [] = { "Sleepy", "Dopey" "Doc", "Happy", "Grumpy" "Sneezy", "Bashful", }; | 5
+f = fopen( filename, "r" ); Referring to the code above, what is the proper definition for the variable f? | FILE *f;
+Which one of the following is valid for opening a read-only ASCII file? | fopen (filenm, "r");
+According to Standard C, what is the type of an unsuffixed floating-point literal, such as 123.45? | float
+Which one of the following is NOT a valid C identifier? | 1___
+Global variables that are declared static are ____________. Which one of the following correctly completes the sentence above? | Allocated on the heap
+Which one of the following can replace the ???? in the code above to determine if the end of a file has been reached? | f == EOF
+When applied to a variable, what does the unary "&" operator yield? | The variable's address
+How is a variable accessed from another file? |  The global variable is referenced via the extern specifier.
+What will print when the sample code above is executed? int i = 4; int x = 6; double z; z = x / i; printf("z=%.2f\n", z); | z=1.00
+How is enum used to define the values of the American coins listed above? How is enum used to define the values of the American coins listed above? | enum coin {penny=1,nickel=5,dime=10,quarter=25};
+How many bytes are allocated by the definition above? char txt [20] = "Hello world!\0"; | 20 bytes
+What is printed when the sample code above is executed? int y[4] = {6, 7, 8, 9}; int *ptr = y + 2; printf("%d\n", ptr[ 1 ] ); /ptr+1 == ptr[1]/ | 9
+According to the Standard C specification, what are the respective minimum sizes (in bytes) of the following three data types: short; int; and long? | 2, 2, 4
+What will be printed when the sample code above is executed? int x = 0; for ( ; ; ) { if (x++ == 4) break; continue; } printf("x=%d\n", x | x=5
+What will happen when the program above is compiled and executed? #include <stdio.h> int i; void increment( int i ) { i++; } int main() { for( i = 0; i < 10; increment( i ) ) { } printf("i=%d\n", i); return 0; } |  It will loop indefinitely
+What will the output of the sample code above be? int i = 4; switch (i) { default: ; case 3: i += 5; if ( i == 8) { i++; if (i == 9) break; i *= 2; } i -= 4; break; case 8: i += 5; break; } printf("i = %d\n", i); | i = 5;
+Which one is a right associative C operator? | =
+What does the "auto" specifier do? | It indicates that a variable's memory will automatically be preserved.
+Which one of the following printf() format specifiers indicates to print a double value in decimal notation, left aligned in a 30-character field, to four (4) digits of precision? | %-30.4f
+What is 7/9*9 equal to? | 0
+What is the output when the sample code below is executed? int i=0, j=0; for( i=1; i<10,j<5;i*=2,j++){ j+=2; printf("%d ",j); } Printf("%d %d",i,j); | 2 5 4 6
+What is the output when the sample code below is executed? int i; for(i=1;i<4;i++) switch(i){ case 1: printf("%d ",i); break; case 2: printf("%d ",i); break; case 3: printf("%d ",i); break; case 4: printf("%d ",i); } |  1 2 3
+If the program completes executing successfully, what value should the function main returned? | 0
+Which value can not be assigned to an unsigned-short type? | -3
+If a program contains just one function, then it must be___. | main()
+What number is equivalent to -4e3 ?  | -4000
+What does the following declaration mean ( If there are more than one correct answer, choose the best one) Int*ptr[10]; | Pointers to the array of 10 elements
+___ is the comparison operation and ___ is the logical operation. | Less than, NOT
+- What is the output when the sample code below is executed? float a=14.5; double b=12.45; printf("%.6f%.6f",a,b); | 14.500000 12.450000
+The ___ function after accepting a character and wait for the Enter key to be pressed. | getchar()
+Evaluate the following as true or false: !(1&&0||!1) | true
+The precedence of operators is ___ | Arithmetic, Comparison, Logical
+What is the output? int main(){ char i=127; i++; printf("%d",i); return 0; } | -128
+What is the output of the following code? int sum(int n); int main() { printf("s=%d\n",sum(5)); return 0; } int sum(int n) { int s,i; s=0; for(i=1;i<=n;i++) s+=i; return(s); } | s=15
+A user enter "pfabcd" from the console What is printed? | pf
+What is the output when the sample code below is executed? float j; j=1000*1000; printf("%3.0f",j); | 1000000
+By default any real number is treated as | a float
+A string is a ___ array of characters terminated by a null('\0'). | one-dimensional
+If you push 1,3, and 5 -in that odder -onto a stack , which number is popped out first? | 5
+
+Which of the following adds ones string to the end of another? | strcat();
+We want to round off x, a float, to an int value. The correct way to do so would be: | y= (int)(x+0.5)
+Which of the following is the Boolean operator for logical-and ? | &&
+Which is not a loop structure in C ? | repeat until
+Which of the following statement is (are) wrong ? (choose 2) | 3=d;
+Which of the following statement is (are) wrong ? (choose 2) | 3**c=d;
+Which of the following can be used to append one string at the end of another ? | strcat
+- What is the output when the sample code below is executed ? int i; i= 1; i = i+ 2*i ++; printf("%d",i); | 4
+What is the correct fomat to define a value in C ? | #define PI 3.14159
+What is required to avoid falling through from one case to the next ? | break;
+Which is the correct statement about coupling ? | Global variables introduce a low degree of coupling.
+Which of the following functions compares two strings ? | strcmp();
+What is the correct prototype in C ? | void doFunc(int x, int y);
+Which of the following statements prints %character ? | printf("\%%")
+Which of the following statements prints %character ? | printf("%%");
+What is the output when the sample code below is executed ? #include<stdio.h> int fn(int v){ if( v==1||v==0) return 1; if(v%2==0) return(fn(v/2)+2); else return(fn(v-1)+3); } int main(){ printf("%d\n",fn(5)); return (0); } | 8
+Which of the following data type occupied 1 byte ? (choose two) | unsigned char
+Which of the following data type occupied 1 byte ? (choose two) | char
+- What are the correct statements ? ( choose two) | The operator ** reads as 'the data at address'. 
+- What are the correct statements ? ( choose two) | The *** operator is a unary operator and it returns the memory address of the operand
+What is the output when the sample code below is executed ? int s=0; for (int i=1;i<=10;++i){ s=s+i; if (s>=6) break; s=s+1; } printf("%d\n",s); | 8
+#include<stdlib.h> #include<stdio.h> int main(){ int i,n,a=10,b=20; for(i=0;i<10;i++){ n=a+rand()%(b+1-a); printf("%d\n",n); } return 0; } Run the above program, which is correct statement about the output? | The following program prints 10 pseudo-random integers between 10 and 20 inclusive.
+Which are proper declarations of a string str which stores the value "Melodies" (choose two) | char str[]= "Melodies";
+Which are proper declarations of a string str which stores the value "Melodies" (choose two) | char str[9] = " Melodies";
+What would happen if the user types in number 3 and presses Enter when running this program ? main(){ int x=5; char c; printf("Enter x="); scanf("%d",&x); printf("Calculate square?(Y/N):"); c=getchar(); if (c== 'Y'|| c== 'y') printf("sqr=%d",x*x); } | The program exits without printing the square
+What is size of an int ? | 16 bits
+How is the integer pointer var declared in C? | int** x;
+What is the output when the sample code below is executed ? void foo(int x){ if (x>0) foo(--x); printf("%d",x); } int main(){ foo(4); printf("\n"); return 0; } | 00123
+How do you include a system header file called sysheader.h in a C source file ? | #include<sysheader.h>
+What is the output when the sample code below is executed? int i=0, j=0; for(i=1;i<10,j<3;i*=2) { printf("%d",j++); } printf("%d%d",i,j); | 01283
+What is the output when the sample code below is executed? void show(int**b){ printf ("%d ",**b); } int main(){ int i; int a[] = { 23,34,45,56}; for(i=0;i<3;i++) show(&a[i]+1); return (0); } | 34 45 56
+Which of the following is used to call a function named as doFun() | None of other choices
+What is the output of the following program ? void main() { Printf("%d",-5/-4); } |  1
+Which one is not the standard library in C? | system.h
+Once the function ends, the control is returned back to the ... function and execution continues from the statement immediately after the function call | executing
+what is the output when the sample code below executed? #include<stdio.h> int fn(int v){ if(v==1||v==0) return 1; if(v%2==0) return (fn(v/2)+2); else return(fn(v-1)+3); } int main() { printf("%d\n",fn(5)); return (0); } | 8
+which 2 options are correct about the function scanf? |  scanf returns the number of addresses successfully filled of EOF 
+which 2 options are correct about the function scanf? | EOF indicates that scanf did not fill any address AND encountered an end of data character.
+what is the output when the sample code below is executed? int s=35; printf("%d%d%d",s==35,s+20,s>40) | 1 55 0
+according to the standard C specification, what are the respective minimum sizes (in bytes) of the following two data type: int and long? | 2,4
+what does the following declaration mean (if there are more than one correct answers, choose the best one) int *ptr[10]; | pointed to the array of 10 elements
+what would happen if the user types in the number 3 and presses Enter when running this program? main(){ int x=5; char c; printf("Enter x="); scanf("%d",&x); printf("Calculate square(Y/N):"); c=getchar(); if(c==Y||c==y) printf("sqr=%d",x*x); } | the program exits without printing the square
+what is the output when the sample code below is executed? int i,j,k,x=0; for(i=1;i<5;i++) for(j=0;j<i;++j){ switch(i+j){ case 0:x=x+1; break; case 1: case 2: case 3: x=x+2; break; }} printf("%d",x); | 8
+the while loop can be written as a for loop | TRUE
+what is the output when the sample code below is executed? char fun[]="How are you?"; char **p; p=fun; while(***p!='\0'){ if(strlen(p)!=7) printf("%c",**p); p++;} | How ae you
+given the below code ? char st[50]; scanf("%5[^\]",st); printf("%s",st); a user enters "pfc is simple" what is printed? | pfc i
+how is a variable accessed from another file? | the global variable is referenced via the extern specifier
+which one of the following is a variable, which can contain the address of the memory location of another variable?(choose the best answer) | struct
+declare a two dimensional integer array of two rows and four columns having some initial values | int arr1[4][2]={{8,12},{22,45},{23,40},{44,79}}
+what value will x contain in the sample code below? int x=011|0x10; | 25
+what is the output when the sample code below is executed? int g=1; printf("%d %d %d",g,++g,g++); | 3 3 1
+what is the output when the sample code below is executed? int i=0; for(;i;) printf("This is a loop"); if(i>0) printf("in C program"); |  nothing
+what is the output when the sample code below is executed? #include<stdio.h> void main(){ int i,j=25; int *pi, **pj=&j; ***pj=j+5; i=*pj+5; pi=pj; **pi=i+j; printf("%d%d",**pi,pj);} | 65 65
+which one of the following is a valid function definition? | double funct(int a,int b, double c)
+what is the output when the sample code below is executed? char mess[]="Your are welcome here"; char *p; p=mess; mess[8]='\0'; puts(++p); | our are
+which of the following can be used to append one string at the end of another | strcat
+what is the output when the sample code below is executed? int a=8, b=9; if(a%2=b%3) printf("\n%d %d", ++a, b--) | compiler error
+what will be printed when the sample code below is executed? char **buffer="0123456789"; char **ptr=buffer; ptr+=5; printf("%s\n",ptr); printf("%s\n",buffer); | 56789 0123456789
+in myfile.c does not exist, what will be output of this program? #include<stdio.h> main(){ FILE *fi; fi=fopen("myfile.c","r"); if(fi=NULL) {puts("file is not opened"); exit(1);} else puts("FILE opened");} | no output
+given the below code int a=1; int i=7; if(a||i++) i++; printf("%d",i); what is the output | 8
+referring to the sample code below, what value will the variable counter have when completed int x=3, counter = 0; while(x-1){ ++counter; x--;} | 2
+the operation between float and int would give the result as | none of the above
+what is the output when the sample code below is executed? int k=0x55; printf("\n%d",k); printf("\n"); | 85
+what is the output when the sample code below is executed? int calc(int a, int b){ int x,y; x=a+b; y=a*b; return(x+y); } int main(){ int p=3, q=4, r, s; r=calc(p,q); s=calc(q,p); printf("\n%d%d",r,s); return 0;} | 19 19
+which of the following statement are true with regards to the || operator?(select al correct answer) | this operator is used to combine two conditional expressions which evaluate to true as a whole only if either of the two expressions evaluate to true.
+which of the following statement are true with regards to the || operator?(select al correct answer) | only if both the expressions evaluate to false, the outcome is false
+what is the output when the sample code below is executed, assuming int data type is 32 bits in size? printf("%d, %d, %d, %d", sizeof(char), sizeof(int), sizeof(10.0), sizeof(10.0f)); | 1,4,8,4
+what is the output when the sample code below is executed? int a[5]={0}, x=2111223; while(x>10){ a[x%10-1]++; x/=10;} printf("%d",a[1]); | 2
+what will the code below print when executed? double x=-3.5, y=3.5; printf("%.0f:%.0f\n",ceil(x), ceil(y)); printf("%.0f:%.0f\n",floor(x), floor(y)); | -3:4 -4:3
+consider the following code: if(a==b) printf("\n the number are equal"); else(a<b) printf("\n the smaller number is: %d",a); else printf("\n the smaller number is: %d",b); in the above code, if a=14 and b=9, then the .... clause is executed | else
+when does the code block following while(x<100) execute? | when x is less than one hundred
+which are the following statements printf % character? | printf("\%%")
+which are the following statements printf % character? | printf("%%")
+a comment can be split over more than one line, as follows /** A program to calculate average of 5 numbers. **/ | TRUE
+what is the output when the sample code below is executed? int p,q,h; for(p=1;p<=3;p++) for(q=1;q<=2;q++) h=p+q; printf("%d\n",h); | 5
+what is the output when the sample code below is executed? int x=3; if(x==2) x=0; if(x==3) x++; else x+=2; | 4
+what is the incorrect statement about floating-point data types(float and double)? | float-point means that the decimal point can float(that is, it can ba placed anywhere relative to the significant digits)
+what is the output when the sample code below is executed? int n=10, i; int k=0; for(i=1;i<n;i=i*2)k++; printf("i:%d, k:%d", i, k); printf("\n"); | i:16, k:4
+what is the output when the sample code below is executed? main() {int i=5; printf("%d\n",i=++i==6) | 1
+what is the output when the sample code below is executed? char *ptr="Hello world"; ptr++; printf("%s",ptr); ptr+=2; printf("%s",ptr); | ello worldlo world
+what is the output when the sample code below is executed? int i=3; switch(i){ case 3: i+=5; if(i==8){ i++; if(i==9) break; i*=2;} i-=4; break; case 8: i+=5; break; default: i+=6; break; } printf("%d\n",i); | 9
+using break statement we can exit from | for a loop 
+give the code below int a=2; printf("%d",++a,a+5) what is printed? | 3
+Which of these statements about the array are true? Choose at least one answer. | An array is stored in contiguously block of memory and each element is identified by its index.
+Which of these statements about the array are true? Choose at least one answer. | The index of an element can be an integer variable, an integer expression or an integer constant. 
+Which of these statements about the array are true? Choose at least one answer. | An array is a group of related elements and they belong the same data type.
+The linear search algorithm can be applied on an array in which its elements ....... Choose at least one answer. | are in descending order.
+The linear search algorithm can be applied on an array in which its elements ....... Choose at least one answer. | are in ascending order.
+Study the binary search algorithm: int binarySearch (int x, int a[], int low, int high) { while (low<=hight) { int mid= (low+high)/2; if ( x==a[mid]) return mid ; else if (x>a[mid]) low=mid+1; else high=mid-1; } return -1; } Suppose that this function is used as following: int a[6] = { 1, 2, 2, 3, 3,5}; int pos = binarySearch(3,a,0,5); What is the value of the variable pos? Choose one answer. | 4
+Select correct statements. Choose at least one answer. | Flagging technique uses an integer for marking elements of an array when we summarize data of the array.
+Select correct statements. Choose at least one answer. | Flagging technique is used when we summarize data in an array.
+What are the names of search algorithm applied to an array? Choose at least one answer. | Linear search.
+What are the names of search algorithm applied to an array? Choose at least one answer. | Binary search.
+Study the following function: Suppose that all needed libraries are included. int search ( int x, int a[], int n) { int i; for ( i=n-1; i>=0 ; i--) if (x==a[i]) return i; return -1; } This function is used as following: int a[10] = { 1, 2, 2, 2, 3, 3, 3, 4, 4, 4}; int pos = search(3, a, 10); When the above code executes, what is the value of the variable pos? Choose one answer. | 6
+/ Suppose that all needed libraries are included / int main() { int a[5]= { 1,2,3,4,5 }; int*p= a; int i; for (i=0;i<5; i++) if (i%2==0) { (*p)++; p++; } for (i=0;i<5;i++) printf("%d, ", a[i]); getch(); return 1; } When the above program executes. What is the output? Choose one answer. | 2, 3, 4, 4, 5
+/ Suppose that all needed libraries are included / int main() { int a[5]= { 1,2,3,4,5 }; int*p= a; int i; int S=10; for (i=0;i<5; i++) if (a[i]%2==0) S+=a[i]; printf("%d", S); getch(); return 1; } The output of the program is ...... Choose one answer. | None of the others.
+/ Suppose that all needed libraries are included / void f1 ( int*a, int n) { int i,j,t; for (i=0;i<n-1;i++) for (j=n-1; j>i; j--) if (a[j]>a[j-1]) { t=a[j]; a[j]=a[j-1]; a[j-1]=t; } } void f2 (int a[], int n) { int i; for (i=0;i<n;i++) printf ("%d%s ", a[i], (i<4 ? "," : "" )); } int main() { int a[5]= { 5, 1, 2,4, 3 }; f1(a,5); f2(a,5); getch(); return 1; } The output of the program is ...... Choose one answer. | 5, 4, 3, 2, 1
+With respect to the binary search algorithm on an array, ....... Choose one answer.|  The values contained in the array must be in an order (ascending or descending).
+Which of these statements about the %s conversion specifier used in scanf function are true? Choose at least one answer. | It will read all characters until the first white space character.
+Which of these statements about the %s conversion specifier used in scanf function are true? Choose at least one answer. | It is usually used when user will enter a word such as the code of a product.
+/ Suppose that all needed libraries are included / void f(char S[ ], char c1, char c2) { int L= strlen(S); int i; for (i=0; i<L; i++) if ((S+i) == c1) (S+i)=c2; } int main() { char S[10]="ABCDEFGEH"; f( S, 'E', 0); printf("%s", S); getch(); return 1; } The output of the program is ...... Choose one answer. | ABCD
+Which of these statements about null byte terminator are not true? Choose one answer. | We can describe the null byte as the constant EOF.
+Which of these statements about the %[^ ] specifier is true when it is used in the scanf function ? Choose one answer. |   The scanf function will store the characters read in memory locations starting with the address passed to scanf
+Which of the the following is the result of the %[abcd] conversion specifier when it is used in the scanf function and the input is dfgh ? Choose one answer. | None of the others
+Which is the result of strcmp(S1, S2) with S1 ="abcdefgh" and S2 = "abcdefdh"? Choose one answer. | A positive integer.
+/ Suppose that all needed libraries are included / int main() { char S[50]= "ABCDEF"; printf("Length:%d, %s", strlen(S), &S[2]); getch(); return 1; } The output of the program s ....... Choose one answer. | Length:6, CDEF
+/ Suppose that all needed libraries are included / int main() { char S1[50]= "ABCDEF"; char S2[50]= "GHI"; strcat(S1,S2); printf("%s", S1); getch(); return 1; } What is the output of the program? Choose one answer. | ABCDEFGHI
+Study three following code segments: (1) char S[50]= "ABCD"; puts(S); (2) char S[50]= "ABCD"; printf("%s",S); (3) char S[50]= "ABCD"; printf("%s \n",S); Choose one answer. | (1) and (3) have the same output.
+Suppose the string library was included. Study the following C-code: char S1[10]="AB"; char S2[10]="AB1"; printf("%d, %d", strcmp(S1,S2), strcmp(S2,S1)); The output of the above code is: Choose one answer. | a negative and a positive integers.
+The function fopen(...) is used for openning a text file. Which of the following mode parameters can not be used? Choose at least one answer. |  art
+The function fopen(...) is used for openning a text file. Which of the following mode parameters can not be used? Choose at least one answer. |  RW
+What in the following file operations should be used when the file closed only? Choose at least one answer. | renaming a file.
+What in the following file operations should be used when the file closed only? Choose at least one answer. | remove a file.
+Which of these statements about file format types are true? | With text format, the data on the file can be modified using a text editor. 
+Which of these statements about file format types are true? | With text format, data in a the file are stored as ASCII code of characters.
+In C, which of following functions can be used to write data to a file? Choose at least one answer. | fputc
+In C, which of following functions can be used to write data to a file? Choose at least one answer. | fprintf
+In C, which of following functions can be used to write data to a file? Choose at least one answer. | fputs
+Text format is used. Which of these statements about table, record, and fields are not true? Choose at least one answer. | Typically, one table refers to one entity of information
+Text format is used. Which of these statements about table, record, and fields are not true? Choose at least one answer. | A new line delimiter must be used to separate two adjacent fields of a record.
+Select correct statements. Choose at least one answer. | We can rename a file if the file is closed.
+Select correct statements. Choose at least one answer. | Rewinding a file will move current position to the beginning of the file.
+Suppose that a value of the int type will be stored in 4 bytes. int n=7; In C, if this variable is written to a textfile (using ASCII code), it will take ... byte(s) in the file. Choose one answer. | 1
+Suppose that a value of the int type will be stored in 4 bytes. int n=7; In C, if this variable is written to a binary file, it will take ... byte(s) in the file. Choose one answer. | 4
+Select correct statement(s).
+Suppose that a value of the int type will be stored in 4 bytes. (1) Writing int values into text file will make the file having small size. (2) Writing int values into text file will make the file having large size. (3) Writing int values into text file is less efficient because type conversions are needed. Choose one answer. | (3)
+What guideline should be examined before working with a text file? (1) data format in the file must be known or designed. (2) number of values in the file must be known . (3) Last date modified of the file must be known. Choose one answer. | 1
+Which of these statements about the black-box testing are not true? Choose at least one answer. | External factors, such as logic-driven, and path-oriented, are determinant
+Which of these statements about the black-box testing are not true? Choose at least one answer. | Each possible path through the code is executed at least once. The number of possibilities to be tested may be too great
+Which of these statements about the black-box testing are not true? Choose at least one answer. | Synonyms for black-box include: structural, glass-box and clear-box
+Methods are used in testing a software are ......... Choose at least one answer. | White box testing
+Methods are used in testing a software are ......... Choose at least one answer. | Black box testing.
+Which of these statements about comparing the difference of Waterfall and Open Source Model are true? Choose one answer. | None of the others
+Marks: 1 Statement 1: If a program works then it is good designed. Statement 2: If the program models a real world situation, it can be hardly upgraded. Choose one answer. | Both of them are false.
+Study the following steps in software development process: (1) Analysis (2) Design (3) Implementing (4) Deploying (5) Maintenance The correct order of them is .......... Choose one answer. | 1, 2, 3, 4, 5
+The output of a program is incorrect. It may be caused by ...... Choose at least one answer. | the algorithm is wrong.
+The output of a program is incorrect. It may be caused by ...... Choose at least one answer. | a semantic error.
+Analysis and maintenance are ............. phases in the sofware development process. Choose one answer. | first and last
+........software development model(s) has (have) some phases that are concurrently carried out. Choose one answer. | Practical
+Restricting our use of the language to the standard subset of a language will create the ......... of a program. Choose one answer. | portability
+Data is stored in computer memory in ......... Choose one answer. | binary format.
+Which of these statements about primary memory are not true? Choose at least one answer. |  There is only one operation on primary memory and it is reading.
+Which of these statements about primary memory are not true? Choose at least one answer. |  ROM is a volatile memory.
+(1) One byte consists of 4 nibbles. (2) One nibble consists of 2 consecutive bits Choose at least one answer. | (1): false
+(1) One byte consists of 4 nibbles. (2) One nibble consists of 2 consecutive bits Choose at least one answer. | (2): false
+Which of these statements about fundamental unit in CPU is true? Choose one answer. |  The natural unit of the CPU is a word
+Which of these definitions are true? Choose at least one answer. | The CPU performs the operation on the values stored as operands or on the values stored in the operand addresses.
+Which of these definitions are true? Choose at least one answer. | The addresses are either register names or primary memory addresses. 
+Which of these definitions are true? Choose at least one answer. |  Each program instruction consists of an operation and operands.
+Comments of a program ...... Choose at least one answer. | are used for documenting a program.
+Comments of a program ...... Choose at least one answer. |  are omitted by the compiler.
+Comments of a program ...... Choose at least one answer. | enhance the readability of a program.
+Select correct properties of C language. Choose at least one answer. | C source code must be translated into executable code by a compiler.
+Select correct properties of C language. Choose at least one answer. | C language is a functional language.
+Select correct properties of C language. Choose at least one answer. | C is case sensitive language.
+Select correct statements. Choose at least one answer. | An interpreter will iterate to translate each statement of source code into machine code then CPU execute these binary code of this statement.
+Select correct statements. Choose at least one answer. | Compiler of the language A can translate A-source code into language B-source code then the B-language compiler will translate B-source code into machine code.
+....... helps identifying the device which will communiate with CPU. Choose at least one answer. | All
+Which type qualifiers are defined in C? Choose at least one answer. | short
+Which type qualifiers are defined in C? Choose at least one answer. | long
+In C, select correct statements. Choose at least one answer. | The expression x=y; will copy value of the variable y to the variable x.
+In C, select correct statements. Choose at least one answer. | A constant string must be enclosed by a pair of double quotes.
+1. Intel use this little-endian ordering 2. Motorola use middle-endian ordering 3. Motorola use big-endian ordering 4. Intel use this big-endian ordering Choose one answer. | 1, 3 true
+Which of the following is an invalid identifier? Choose at least one answer. | employee salary
+Which of the following is an invalid identifier? Choose at least one answer. | +ab
+Which of the following is an invalid identifier? Choose at least one answer. | 45n
+Which of these statements about constants are not true? Choose at least one answer. | The compiler allocates memory for constants.
+Which of these statements about constants are not true? Choose at least one answer. | The compiler compiles constants.
+In C language, (1) The == operator is used for setting a value to a variable. (2) The = operator is used for checking whether two numbers are equal or not. Choose at least one answer. | (2): false
+In C language, (1) The == operator is used for setting a value to a variable. (2) The = operator is used for checking whether two numbers are equal or not. Choose at least one answer. | (1): false
+Select correct statements. With respect to ASCII, .......... Choose at least one answer. | Binary ASCII of the character A is 0100 0001
+Select correct statements. With respect to ASCII, .......... Choose at least one answer. | The code of a uppercase character is less than the code of a lowercase character.
+Select correct statements. With respect to ASCII, .......... Choose at least one answer. | The code of a digit is less than the code of an alphabet.
+Select correct conversion specifiers for an int variable in C lanaguge. Choose at least one answer. | %o
+Select correct conversion specifiers for an int variable in C lanaguge. Choose at least one answer. | %d
+Select correct conversion specifiers for an int variable in C lanaguge. Choose at least one answer. | %u
+In C language, the selection constructs use ....... Choose at least one answer. | switch
+In C language, the selection constructs use ....... Choose at least one answer. | ?:
+In C language, the selection constructs use ....... Choose at least one answer. | if else
+Suppose that the following codes are executed. What is the output? long S=10; long i=1; while (i<=10) { if (i%2==0) S+=i; i++; } printf("%ld", S); Choose one answer. | 40
+Flags is a technique that supports using goto, continue statements Choose one answer. | False
+To improve readability, programmers are recommended .......Choose at least one answer. | using whitespace to identify the logical structure of the code.
+To improve readability, programmers are recommended .......Choose at least one answer. | removing continue statements.
+To improve readability, programmers are recommended .......Choose at least one answer. | using break statements as needed.
+Marks: 1 1. The rule in C is that an else statement always belongs to the innermost if available 2. The rule in C is that an else statement always belongs to the outermost if available Choose one answer. |  Only 1st statement is true
+Program should be written ... Choose at least one answer. | as a well program.
+Program should be written ... Choose at least one answer. | with a consistent style and clear throughout.
+Select correct statement(s). Choose at least one answer. | A table that contains all program variables is used in walkthrough process.
+Select correct statement(s). Choose at least one answer. | Walkthrough is a manual process for recording all changes of program variables when the program executes instruction-by-instruction.
+Select correct statement(s). Choose at least one answer. | A listing of the output, if any, produced by the program is carried out when we do a walkthrough..
+Suppose that the following codes execute and input data are 9 and 12. int m,n; printf("Enter two integers:"); scanf("%d%d",&m, &n); if (m>10 && n<20) printf("%d", m+n); else printf("%d", m-n); What is the output. Choose one answer. | -3
+Suppose that the following codes execute. What is the output? long S=10; long i; for (i=1; i<10; i++) if (i%3==0) S+=i; printf("%ld", S); Choose one answer.| None of the others.
+In C, which of these statements are not true? Choose at least one answer. | #include "filename" using with filename locate in system directory.
+In C, which of these statements are not true? Choose at least one answer. | #include <filename> using with filename locate in user directory
+In C, which of these statements are not true? Choose at least one answer. | # is a symbol of postprocessor indicators
+What is the output if the following code executes. int n=3, m=7; int p1= &n, p2=&m; p1 -= m+n- 3(*p2); p2 += p1%2 ? 2 : 5; printf ("%d", m-n); Choose one answer. | None of the others.
+In C, incorrect order(s) of a function implementation: Choose at least one answer. | Return type, body, function name, parameters 
+In C, incorrect order(s) of a function implementation: Choose at least one answer. | Return type, body, parameters, function name 
+In C, incorrect order(s) of a function implementation: Choose at least one answer. | Return type, parameters, body, function name
+Which of these statements about the function is true? Choose one answer. | A function may receive data and may return a value
+Select correct statement(s). Choose at least one answer. |  Actual parameter is a parameter that is transfered to a function when it is called.
+Select correct statement(s). Choose at least one answer. |  Formal parameter is a parameter in function implementation.
+Select the statements that belong to low cohesion Choose at least one answer. | "logical" - related tasks of which only one is performed - the module identifier suggests a choice
+Select the statements that belong to low cohesion Choose at least one answer. | "coincidental" - unrelated tasks
+In C, with reference to property of reusing a function, the function that will check whether an integer is a prime or not, should be declared as ........ Choose one answer. | a function that will return an integer.
+Study the following function: int t (int x, int y, int z) { return x+y+z>20 ? 10 : 20; } If this function is called as following with input data are 5 10 15. What is the output? int a,b,c; printf("Enter 3 integers:"); scanf("%d%d%d", &a, &b, &c); printf("%d", t(b,c,a)); Choose one answer. | 10
+Study the function implementation and a case of using this function. int t (int x, int y) { return x-y; } ... char c1= 'A', c2= 'D'; printf("%d", t(c2, c1)); Suppose that the above codes execute. What is the output? Choose one answer. | 3
+Suppose that the following codes execute. What is the output. int n=3, m=7; int p1= &n, p2=&m; p1 -= m+n- 3(*p2); *p2 += m-n; printf ("%d", m+n); Choose one answer. | 14
+Which of these statements about the scanf function are true? Choose at least one answer. |  interpreted and processed the entire format string
+Which of these statements about the scanf function are true? Choose at least one answer. |  scanf treats the whitespace between the input values as a separator
+Which of these statements about the scanf function are true? Choose at least one answer. |   If the buffer is empty, the function scanf will wait until the user adds more data values
+Select incorrect statements. Choose at least one answer. |  The specifier %hex is used for printing out an integer in hexadecimal format.
+Select incorrect statements. Choose at least one answer. |  The specifier %u is used for printing out a unsigned integer.
+Select incorrect statements. Choose at least one answer. |  The specifier %b is used to print out an integer in binary format.
+The getchar function can do Choose one answer. |  None of the others
+What library includes function to generate random numbers? Choose one answer. | stdlib.h
+Validation do not include Choose one answer. | None of the others
+Which of these statements about format string are not true? Choose one answer. | None of the others
+What is the output of the following program? / Suppose that all needed libraries are included / int main() { double x= 3.5, y= 6.8 , z= 1.5; int n= floor( x )+ ceil( y )+ z; printf("%d", n); getch(); return 1; } Choose one answer. | 11
+/ Suppose that all needed libraries are included / int main() { int n; char c; scanf("%d",&n); c=getchar(); printf("%d, %d", n,c); getch(); return 1; } What is the output of the above program if user enters the keys 12 and ENTER? Choose one answer. | 12, 10
+/ Suppose that all needed libraries are included / int main() { int n, m; int result = scanf("%d%d",&n, &m); printf("%d", result); getch(); return 1; } What is the ouput of the above program if input is 12asd45 ? Choose one answer. | 1
+/ Suppose that all needed libraries are included / int main() { int n, m; scanf("%d,%d",&n, &m); printf("%d, %d", n, m); getch(); return 1; } When the program executes, user enters 9 100 . What is output? Choose one answer. |  9 and a non-predictable value.
+Program .... Choose at least one answer. |  is a simulation of solution.
+Program .... Choose at least one answer. |  is the result of a programming process.
+Program .... Choose at least one answer. |  is a set of instructions that computer hardware will execute.
+What are the right matching? Character Sequence a. Newline \t b. vertical tab \v c. backslash \ d. alarm \r e. backspace \b f. question mark \? Choose at least one answer. | f
+What are the right matching? Character Sequence a. Newline \t b. vertical tab \v c. backslash \ d. alarm \r e. backspace \b f. question mark \? Choose at least one answer. | e
+What are the right matching? Character Sequence a. Newline \t b. vertical tab \v c. backslash \ d. alarm \r e. backspace \b f. question mark \? Choose at least one answer. | b
+Which is valid C expression? |  int my_num = 100000;
+What is the output of this C code? #include <stdio.h> int main() { printf("Hello World! %d \n", x); return 0; } | Compile time error
+What is the output of this C code? #include <stdio.h> int main() { int y = 10000; int y = 34; printf("Hello World! %d\n", y); return 0; } | Compile time error
+Which of the following is not a valid variable name declaration? | #define PI 3.14
+What will happen if the below program is executed? #include <stdio.h> int main() { int main = 3; printf("%d", main); return 0; } | It will run without any error and prints 3
+What is the problem in following variable declaration? float 3Bedroom-Hall-Kitchen?; | All of the mentioned
+Comment on the output of this C code? #include <stdio.h> int main() { int ThisIsVariableName = 12; int ThisIsVariablename = 14; printf("%d", ThisIsVariablename); return 0; } |  The program will print 14
+Which of the following cannot be a variable name in C? | volatile
+Comment on the output of this C code? #include <stdio.h> int main() { int a[5] = {1, 2, 3, 4, 5}; int i; for (i = 0; i < 5; i++) if ((char)a[i] == '5') printf("%d\n", a[i]); else printf("FAIL\n"); } | Program will compile and print FAIL for 5 times
+The format identifier '%i' is also used for _____ data type? | int
+Which data type is most suitable for storing a number 65000 in a 32-bit system? | unsigned short
+Which of the following is a User-defined data type? | all of the mentioned
+What is the size of an int data type? | Depends on the system/compiler
+What is the output of this C code? #include <stdio.h> int main() { signed char chr; chr = 128; printf("%d\n", chr); return 0; } |  -128
+Comment on the output of this C code? #include <stdio.h> int main() { char c; int i = 0; FILE *file; file = fopen("test.txt", "w+"); fprintf(file, "%c", 'a'); fprintf(file, "%c", -1); fprintf(file, "%c", 'b'); fclose(file); file = fopen("test.txt", "r"); while ((c = fgetc(file)) != -1) printf("%c", c); return 0; } | a
+What is short int in C programming? |  short is the qualifier and int is the basic datatype
+Comment on the output of this C code? #include <stdio.h> int main() { float f1 = 0.1; if (f1 == 0.1) printf("equal\n"); else printf("not equal\n"); } | not equal
+Comment on the output of this C code? #include <stdio.h> int main() { float f1 = 0.1; if (f1 == 0.1f) printf("equal\n"); else printf("not equal\n"); } | equal 
+What is the output of this C code (on a 32-bit machine)? #include <stdio.h> int main() { int x = 10000; double y = 56; int *p = &x; double *q = &y; printf("p and q are %d and %d", sizeof(p), sizeof(q)); return 0; } | p and q are 4 and 4
+Which is correct with respect to size of the datatypes? | char < int < double
+What is the output of the following C code(on a 64 bit machine)? #include <stdio.h> union Sti { int nu; char m; }; int main() { union Sti s; printf("%d", sizeof(s)); return 0; } | 4
+What is the output of this C code? #include <stdio.h> int main() { float x = 'a'; printf("%f", x); return 0; } | 97.000000
+Which of the datatypes have size that is variable? | struct
+What is the output of this C code? #include <stdio.h> int main() { enum {ORANGE = 5, MANGO, BANANA = 4, PEACH}; printf("PEACH = %d\n", PEACH); } | PEACH = 5
+What is the output of this C code? #include <stdio.h> int main() { printf("C programming %s", "Class by\n%s Sanfoundry", "WOW"); } |  C programming Class by %s Sanfoundry
+For the following code snippet: char *str = "Sanfoundry.com\0" "training classes"; The character pointer str holds reference to string: | Sanfoundry.com\0training classes
+What is the output of this C code? #include <stdio.h> #define a 10 int main() { const int a = 5; printf("a = %d\n", a); } | Compilation error
+What is the output of this C code? #include <stdio.h> int main() { int var = 010; printf("%d", var); } | 8
+
+What is the output of this C code? #include <stdio.h> enum birds {SPARROW, PEACOCK, PARROT}; enum animals {TIGER = 8, LION, RABBIT, ZEBRA}; int main() { enum birds m = TIGER; int k; k = m; printf("%d\n", k); return 0; } | 8
+What is the output of this C code? #include <stdio.h> #define MAX 2 enum bird {SPARROW = MAX + 1, PARROT = SPARROW + MAX}; int main() { enum bird b = PARROT; printf("%d\n", b); return 0; } | 5
+What is the output of this C code? #include <stdio.h> #include <string.h> int main() { char *str = "x"; char c = 'x'; char ary[1]; ary[0] = c; printf("%d %d", strlen(str), strlen(ary)); return 0; } | 1 (undefined value)
+enum types are processed by | Compiler
+What is the output of this C code? #include <stdio.h> int main() { printf("sanfoundry\rclass\n"); return 0; } | classundry
+What is the output of this C code? #include <stdio.h> int main() { printf("sanfoundry\r\nclass\n"); return 0; } | sanfoundry class
+What is the output of this C code? #include <stdio.h> int main() { const int p; p = 4; printf("p is %d", p); return 0; } | Compile time error
+Comment on the output of this C code? #include <stdio.h> void main() { int k = 4; int *const p = &k; int r = 3; p = &r; printf("%d", p); } | Compile time error
+Which is false? | Constant variables need not be defined as they are declared and can be defined later 
+Comment on the output of this C code? #include <stdio.h> void main() { int const k = 5; k++; printf("k is %d", k); } | Error, because a constant variable cannot be changed
+Comment on the output of this C code? #include <stdio.h> int const print() { printf("Sanfoundry.com"); return 0; } void main() { print(); } | Sanfoundry.com
+What is the output of this C code? #include <stdio.h> void foo(const int *); int main() { const int i = 10; printf("%d ", i); foo(&i); printf("%d", i); } void foo(const int *i) { *i = 20; } | Compile time error
+Comment on the output of this C code? #include <stdio.h> int main() { const int i = 10; int *ptr = &i; *ptr = 20; printf("%d\n", i); return 0; } | Compile time warning and printf displays 20
+What is the output of this C code? #include <stdio.h> int main() { j = 10; printf("%d\n", j++); return 0; } |  Compile time error
+Does this compile without error? #include <stdio.h> int main() { for (int k = 0; k < 10; k++); return 0; } | Depends on the C standard implemented by compilers
+Does this compile without error? #include <stdio.h> int main() { int k; { int k; for (k = 0; k < 10; k++); } } | Yes
+Which of the following declaration is not supported by C? |  String str; #include <stdio.h> int main() { char *var = "Advanced Training in C by Sanfoundry.com"; } Which of the following format identifier can never be used for the variable var? | %f
+Which of the following declaration is illegal? | char[] str = "Best C programming classes by Sanfoundry";
+Which keyword is used to prevent any changes in the variable within a C program? | const
+Which of the following is not a pointer declaration? | char a;
+What is the output of this C code? #include <stdio.h> void main() { int k = 4; float k = 4; printf("%d", k) } | Compile time error
+Which is false ? | A variable must be declared and defined at the same time
+A variable declared in a function can be used in main | False
+The name of the variable used in one function cannot be used in another function |  False
+What is the output of this C code? #include <stdio.h> int main() { int i = -3; int k = i % 2; printf("%d\n", k); } | -1
+What is the output of this C code? #include <stdio.h> int main() { int i = 3; int l = i / -2; int k = i % -2; printf("%d %d\n", l, k); return 0; } | -1 1
+What is the output of this C code? #include <stdio.h> int main() { int i = 5; i = i / 3; printf("%d\n", i); return 0; } | 1
+What is the output of this C code? #include <stdio.h> int main() { int i = -5; i = i / 3; printf("%d\n", i); return 0; } |  -1
+What is the value of x in this C code? #include <stdio.h> void main() { int x = 5 * 9 / 3 + 9; } | 24
+What is the output of this C code? #include <stdio.h> void main() { int x = 5.3 % 2; printf("Value of x is %d", x); } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { int y = 3; int x = 5 % 2 * 3 / 2; printf("Value of x is %d", x); } | Value of x is 1
+What is the output of this C code? #include <stdio.h> void main() { int a = 3; int b = ++a + a++ + --a; printf("Value of b is %d", b); }
+The precedence of arithmetic operators is (from highest to lowest) | %, *, /, +, -
+Which of the following is not an arithmetic operation? | a != 10
+Which of the following data type will throw an error on modulus operation(%)? | float
+Which among the following are the fundamental arithmetic operators, ie, performing the desired operation can be done using that operator only? | +, -
+What is the output of this C code? #include <stdio.h> int main() { int a = 10; double b = 5.6; int c; c = a + b; printf("%d", c); } | 15
+What is the output of this C code? #include <stdio.h> int main() { int a = 10, b = 5, c = 5; int d; d = a == (b + c); printf("%d", d); } | 1
+What is the output of this C code? #include <stdio.h> void main() { int x = 1, y = 0, z = 5; int a = x && y || z++; printf("%d", z); } | 6
+What is the output of this C code? #include <stdio.h> void main() { int x = 1, y = 0, z = 5; int a = x && y && z++; printf("%d", z); } | 5
+What is the output of this C code? #include <stdio.h> int main() { int x = 1, y = 0, z = 3; x > y ? printf("%d", z) : return z; } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { int x = 1, z = 3; int y = x << 3; printf(" %d\n", y); } | 8
+What is the output of this C code? #include <stdio.h> void main() { int x = 0, y = 2, z = 3; int a = x & y | z; printf("%d", a); } | 3
+What is the final value of j in the below code? #include <stdio.h> int main() { int i = 0, j = 0; if (i && (j = i + 10)) //do something ; } | 0
+What is the final value of j in the below code? #include <stdio.h> int main() { int i = 10, j = 0; if (i || (j = i + 10)) //do something ; } | 0
+What is the output of this C code? #include <stdio.h> int main() { int i = 1; if (i++ && (i == 1)) printf("Yes\n"); else printf("No\n"); } | No
+Are logical operators sequence points? | True
+Does logical operators in C language are evaluated with short circuit? | True
+Result of a logical or relational expression in C is | 0 or 1
+What will be the value of d in the following program? #include <stdio.h> int main() { int a = 10, b = 5, c = 5; int d; d = b + c == a; printf("%d", d); } | 1
+What is the output of this C code? #include <stdio.h> int main() { int a = 10, b = 5, c = 3; b != !a; c = !!a; printf("%d\t%d", b, c); } | 5 1
+Which among the following is NOT a logical or relational operator? | =
+What is the output of this C code? #include <stdio.h> int main() { int a = 10; if (a == a--) printf("TRUE 1\t"); a = 10; if (a == --a) printf("TRUE 2\t"); } | Compiler Dependent
+Relational operators cannot be used on: | structure
+What is the output of this C code? #include <stdio.h> void main() { float x = 0.1; if (x == 0.1) printf("Sanfoundry"); else printf("Advanced C Classes"); } |  Advanced C Classes
+Comment on the output of this C code? #include <stdio.h> void main() { float x = 0.1; printf("%d, ", x); printf("%f", x); } | Junk value, 0.100000
+What is the output of this C code? (7 and 8 are entered) #include <stdio.h> void main() { float x; int y; printf("enter two numbers \n", x); scanf("%f %f", &x, &y); printf("%f, %d", x, y); } | 7.000000, junk
+What is the output of this C code? #include <stdio.h> void main() { double x = 123828749.66; int y = x; printf("%d\n", y); printf("%lf\n", y); } | 123828749, 0.000000
+What is the output of this C code? #include <stdio.h> void main() { int x = 97; char y = x; printf("%c\n", y); } | a
+When double is converted to float, the value is? | Depends on the compiler
+What is the output of this C code? #include <stdio.h> int main() { unsigned int i = 23; signed char c = -23; if (i > c) printf("Yes\n"); else if (i < c) printf("No\n"); } | No
+What is the output of this C code? #include <stdio.h> int main() { int i = 23; char c = -23; if (i < c) printf("Yes\n"); else printf("No\n"); } | No
+function tolower(c) defined in library works for | Any character set
+What is the output of the below code considering size of short int is 2, char is 1 and int is 4 bytes? #include <stdio.h> int main() { short int i = 20; char c = 97; printf("%d, %d, %d\n", sizeof(i), sizeof(c), sizeof(c + i)); return 0; } |  2, 1, 4
+Which type conversion is NOT accepted? |  From float to char pointer
+What will be the data type of the result of the following operation?
+(float)a (int)b / (long)c (double)d | double
+Which of the following type-casting have chances for wrap around? | From int to char
+Which of the following typecasting is accepted by C? | Both
+When do you need to use type-conversions? | All of the mentioned
+What is the difference between the following 2 codes? #include <stdio.h> //Program 1 int main() { int d, a = 1, b = 2; d = a++ + ++b; printf("%d %d %d", d, a, b); } #include <stdio.h> //Program 2 int main() { int d, a = 1, b = 2; d = a++ +++b; printf("%d %d %d", d, a, b); } | Program 2 has syntax error, program 1 is not
+What is the output of this C code? #include <stdio.h> int main() { int a = 1, b = 1, c; c = a++ + b; printf("%d, %d", a, b); } | a = 2, b = 1
+What is the output of this C code? #include <stdio.h> int main() { int a = 1, b = 1, d = 1; printf("%d, %d, %d", ++a + ++a+a++, a++ + ++b, ++d + d++ + a++); } | Undefined (Compiler Dependent)
+For which of the following, "PI++;" code will fail? | #define PI 3.14
+What is the output of this C code? #include <stdio.h> int main() { int a = 10, b = 10; if (a = 5) b--; printf("%d, %d", a, b--); } | a = 5, b = 9
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; int j = i++ + i; printf("%d\n", j); } | 0
+What is the output of this C code? #include <stdio.h> int main() { int i = 2; int j = ++i + i; printf("%d\n", j); } |  6
+Comment on the output of this C code? #include <stdio.h> int main() { int i = 2; int i = i++ + i; printf("%d\n", i); } | = operator is not a sequence point
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; int x = i++, y = ++i; printf("%d % d\n", x, y); return 0; } | 0, 2
+What is the output of this C code? #include <stdio.h> int main() { int i = 10; int *p = &i; printf("%d\n", *p++); } | 10
+What is the output of this C code? #include <stdio.h> void main() { int x = 97; int y = sizeof(x++); printf("X is %d", x); } | X is 97
+What is the output of this C code? #include <stdio.h> void main() { int x = 4, y, z; y = --x; z = x--; printf("%d%d%d", x, y, z); } | 2 3 3
+What is the output of this C code? #include <stdio.h> void main() { int x = 4; int *p = &x; int *k = p++; int r = p - k; printf("%d", r); } | 1
+What is the output of this C code? #include <stdio.h> void main() { int a = 5, b = -7, c = 0, d; d = ++a && ++b || ++c; printf("\n%d%d%d%d", a, b, c, d);  } | 6 -6 0 1
+What is the output of this C code? #include <stdio.h> void main() { int a = -5; int k = (a++, ++a); printf("%d\n", k); } | -3
+What is the output of this C code? #include <stdio.h> int main() { int c = 2 ^ 3; printf("%d\n", c); } | 1
+What is the output of this C code? #include <stdio.h> int main() { unsigned int a = 10; a = ~a; printf("%d\n", a); } | -11
+What is the output of this C code? #include <stdio.h> int main() { if (7 & 8) printf("Honesty"); if ((~7 & 0x000f) == 8) printf("is the best policy\n"); } | is the best policy
+What is the output of this C code? #include <stdio.h> int main() { int a = 2; if (a >> 1) printf("%d\n", a); } | 2
+Comment on the output of this C code? #include <stdio.h> int main() { int i, n, a = 4; scanf("%d", &n); for (i = 0; i < n; i++) a = a * 2; } | No output
+What is the output of this C code? #include <stdio.h> void main() { int x = 97; int y = sizeof(x++); printf("x is %d", x); } | x is 97
+What is the output of this C code? #include <stdio.h> void main() { int x = 4, y, z; y = --x; z = x--; printf("%d%d%d", x, y, z); } | 2 3 3
+What is the output of this C code? #include <stdio.h> void main() { int x = 4; int *p = &x; int *k = p++; int r = p - k; printf("%d", r); } | 1
+What is the output of this C code? #include <stdio.h> void main() { int a = 5, b = -7, c = 0, d; d = ++a && ++b || ++c; printf("\n%d%d%d%d", a, b, c, d); } | 6 -6 0 1
+What is the output of this C code? #include <stdio.h> void main() { int a = -5; int k = (a++, ++a); printf("%d\n", k); } | -3
+What is the output of this C code? #include <stdio.h> int main() { int x = 2; x = x << 1; printf("%d\n", x); } | 4
+What is the output of this C code? #include <stdio.h> int main() { int x = -2; x = x >> 1; printf("%d\n", x); } | -1
+What is the output of this C code? #include <stdio.h> int main() { if (~0 == 1) printf("yes\n"); else printf("no\n"); } | no
+What is the output of this C code? #include <stdio.h> int main() { int x = -2; if (!0 == 1) printf("yes\n"); else printf("no\n"); } | yes
+What is the output of this C code? #include <stdio.h> int main() { int y = 0; if (1 |(y = 1)) printf("y is %d\n", y); else printf("%d\n", y); } | y is 1
+What is the output of this C code? #include <stdio.h> int main() { int y = 1; if (y & (y = 2)) printf("true %d\n", y); else printf("false %d\n", y); } | Either option a or option b
+What is the output of this C code? #include <stdio.h> void main() { int x = 0; if (x = 0) printf("Its zero\n"); else printf("Its not zero\n"); } | Its not zero
+What is the output of this C code? #include <stdio.h> void main() { int k = 8; int x = 0 == 1 && k++; printf("%d%d\n", x, k); } |  0 8
+. What is the output of this C code? #include <stdio.h> void main() { char a = 'a'; int x = (a % 10)++; printf("%d\n", x); } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { 1 < 2 ? return 1: return 2; } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { unsigned int x = -5; printf("%d", x); } | -5
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 1; x *= x + y; printf("%d\n", x); return 0; } | 6
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 2; x /= x / y; printf("%d\n", x); return 0; } | 2
+What is the output of this C code? #include <stdio.h> int main() { int x = 1, y = 0; x &&= y; printf("%d\n", x); } | Compile time error
+What is the type of the below assignment expression if x is of type float, y is of type int? y = x + y; | int
+What is the value of the below assignment expression (x = foo())!= 1 considering foo() returns 2 | 2
+Operation "a = a * b + a" can also be written as: | All of the mentioned
+for c = 2, value of c after c <<= 1; a) c = 1; b) c = 2; c) c = 3; d) c = 4; [expand title="View Answer"] Answer:d [/expand] 5. What is the output of this C code? #include <stdio.h> int main() { int a = 1, b = 2; a += b -= a; printf("%d %d", a, b); } | 2 1
+What is the output of this C code? #include <stdio.h> int main() { int a = 4, n, i, result = 0; scanf("%d", n); for (i = 0;i < n; i++) result += a; } | Multiplication of a and n.
+Which of the following is an invalid assignment operator? | None of the mentioned
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0; int z = (y++) ? y == 1 && x : 0; printf("%d\n", z); return 0; } | 0
+What is the output of this C code? #include <stdio.h> int main() { int x = 1; int y = x == 1 ? getchar(): 2; printf("%d\n", y); } | Ascii value of character getchar function returns
+What is the output of this C code? #include <stdio.h> int main() { int x = 1; short int i = 2; float f = 3; if (sizeof((x == 2) ? f : i) == sizeof(float)) printf("float\n"); else if (sizeof((x == 2) ? f : i) == sizeof(short int)) printf("short int\n"); } | float
+What is the output of this C code? #include <stdio.h> int main() { int a = 2; int b = 0; int y = (b == 0) ? a :(a > b) ? (b = 1): a; printf("%d\n", y); } | 2
+What is the output of this C code? #include <stdio.h> int main() { int y = 1, x = 0; int l = (y++, x++) ? y : x; printf("%d\n", l); } | 1
+What is the output of this C code? #include <stdio.h> void main() { int k = 8; int m = 7; int z = k < m ? k++ : m++; printf("%d", z); } | 7
+Comment on the output of this C code? #include <stdio.h> void main() { int k = 8; int m = 7; int z = k < m ? k = m : m++; printf("%d", z); } | 7
+The code snippet below produces #include <stdio.h> void main() { 1 < 2 ? return 1 : return 2; } | Compile time error
+The output of the code below is #include <stdio.h> void main() { int k = 8; int m = 7; k < m ? k++ : m = k; printf("%d", k); } | Compile time error
+The output of the code below is #include <stdio.h> void main() { int k = 8; int m = 7; k < m ? k = k + 1 : m = m + 1; printf("%d", k); } | Compile time error
+For initialization a = 2, c = 1 the value of a and c after this code will be c = (c) ? a = 0 : 2; | a = 0, c = 0;
+What will be the data type of the expression (a < 50) ? var1 : var2; provided a = int, var1 = double, var2 = float a) int b) float c) double d) Cannot be determined [expand title="View Answer"] Answer:c [/expand] 5. Which expression has to be present in the following? exp1 ? exp2 : exp3; a) exp1 b) exp2 c) exp3 d) All of the mentioned [expand title="View Answer"] Answer:d [/expand] 6. Value of c after the following expression (initializations a = 1, b = 2, c = 1): c += (-c) ? a : b; a) Syntax Error b) c = 1 c) c = 2 d) c = 3 [expand title="View Answer"] Answer:c [/expand] 7. Comment on the following expression? c = (n) ? a : b; can be rewritten as | if (!n)c = b;
+What is the output of this C code? #include <stdio.h> int main() { reverse(1); } void reverse(int i) { if (i > 5) exit(0); printf("%d\n", i); return reverse(i++); } | Stack overflow
+. What is the output of this C code? #include <stdio.h> void reverse(int i); int main() { reverse(1); } void reverse(int i) { if (i > 5) return ; printf("%d ", i); return reverse((i++, i)); } | 1 2 3 4 5
+In expression i = g() + f(), first function called depends on | Compiler
+What is the value of i and j in the below code? #include <stdio.h> int x = 0; int main() { int i = (f() + g()) || g(); int j = g() || (f() + g()); } int f() { if (x == 0) return x + 1; else return x - 1; } int g() { return x++; } | i and j value are undefined
+What is the value of i and j in the below code? #include <stdio.h> int x = 0; int main() { int i = (f() + g()) | g(); //bitwise or int j = g() | (f() + g()); //bitwise or } int f() { if (x == 0) return x + 1; else return x - 1; } int g() { return x++; } | i value is 1 and j value is undefined
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0; int z = y && (y |= 10); printf("%d\n", z); return 0; } | 0
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0; int z = (y++) ? 2 : y == 1 && x; printf("%d\n", z); return 0; } | 1
+For which of the following, "PI++;" code will fail? | #define PI 3.14
+What is the output of this C code? #include <stdio.h> int main() { int a = 10, b = 10; if (a = 5) b--; printf("%d, %d", a, b--); } | a = 5, b = 9
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; int j = i++ + i; printf("%d\n", j); } | 0
+What is the output of this C code? #include <stdio.h> int main() { int i = 2; int j = ++i + i; printf("%d\n", j); } | 6
+Comment on the output of this C code? #include <stdio.h> int main() { int i = 2; int i = i++ + i;printf("%d\n", i); } | = operator is not a sequence point
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; int x = i++, y = ++i; printf("%d % d\n", x, y); return 0; } | 0, 2
+What is the output of this C code? #include <stdio.h> int main() { int i = 10; int *p = &i; printf("%d\n", *p++); } | 10
+What is the output of this C code? #include <stdio.h> void main() { int x = 97; int y = sizeof(x++); printf("X is %d", x); } | X is 97
+What is the output of this C code? #include <stdio.h> void main() { int x = 4, y, z; y = --x; z = x--; printf("%d%d%d", x, y, z); } | 2 3 3
+What is the output of this C code? #include <stdio.h> void main() { int x = 4; int *p = &x; int *k = p++; int r = p - k; printf("%d", r); } | 1
+What is the output of this C code? #include <stdio.h> void main() { int a = 5, b = -7, c = 0, d; d = ++a && ++b || ++c; printf("\n%d%d%d%d", a, b, c, d); } | 6 -6 0 1
+What is the output of this C code? #include <stdio.h> void main() { int a = -5; int k = (a++, ++a); printf("%d\n", k); } | -3
+What is the output of this C code? #include <stdio.h> int main() { int c = 2 ^ 3; printf("%d\n", c); } | 1
+What is the output of this C code? #include <stdio.h> int main() { unsigned int a = 10; a = ~a; printf("%d\n", a); } | -11
+What is the output of this C code? #include <stdio.h> int main() { if (7 & 8) printf("Honesty"); if ((~7 & 0x000f) == 8) printf("is the best policy\n"); } | is the best policy
+What is the output of this C code? #include <stdio.h> int main() { int a = 2; if (a >> 1) printf("%d\n", a); } | 2
+Comment on the output of this C code? #include <stdio.h> int main() { int i, n, a = 4; scanf("%d", &n); for (i = 0; i < n; i++) a = a * 2; } | No output
+What is the output of this C code? #include <stdio.h> void main() { int x = 97; int y = sizeof(x++); printf("x is %d", x); } | x is 97
+What is the output of this C code? #include <stdio.h> void main() { int x = 4, y, z; y = --x; z = x--; printf("%d%d%d", x, y, z); } | 2 3 3
+What is the output of this C code? #include <stdio.h> void main() { int x = 4; int *p = &x; int *k = p++; int r = p - k; printf("%d", r); } | 1
+What is the output of this C code? #include <stdio.h> void main() { int a = 5, b = -7, c = 0, d; d = ++a && ++b || ++c; printf("\n%d%d%d%d", a, b, c, d); } | 6 -6 0 1
+What is the output of this C code? #include <stdio.h> void main() { int a = -5; int k = (a++, ++a); printf("%d\n", k); } | -3
+What is the output of this C code? #include <stdio.h> int main() { int x = 2; x = x << 1; printf("%d\n", x); } | 4
+What is the output of this C code? #include <stdio.h> int main() { int x = -2; x = x >> 1; printf("%d\n", x); } |-1
+What is the output of this C code? #include <stdio.h> int main() { if (~0 == 1) printf("yes\n"); else printf("no\n"); } | no
+What is the output of this C code? #include <stdio.h> int main() { int x = -2; if (!0 == 1) printf("yes\n"); else printf("no\n"); } | yes
+What is the output of this C code? #include <stdio.h> int main() { int y = 0; if (1 |(y = 1)) printf("y is %d\n", y); else printf("%d\n", y); } | y is 1
+What is the output of this C code? #include <stdio.h> int main() { int y = 1; if (y & (y = 2)) printf("true %d\n", y); else printf("false %d\n", y); } | Either option a or option b
+What is the output of this C code? #include <stdio.h> void main() { int x = 0; if (x = 0) printf("Its zero\n"); else printf("Its not zero\n"); } | Its not zero
+What is the output of this C code? #include <stdio.h> void main() { int k = 8; int x = 0 == 1 && k++; printf("%d%d\n", x, k); } | 0 8
+. What is the output of this C code? #include <stdio.h> void main() { char a = 'a'; int x = (a % 10)++; printf("%d\n", x); } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { 1 < 2 ? return 1: return 2; } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { unsigned int x = -5; printf("%d", x); } | -5
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 1; x *= x + y; printf("%d\n", x); return 0; } | 6
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 2; x /= x / y; printf("%d\n", x); return 0; } | 2
+What is the output of this C code? #include <stdio.h> int main() { int x = 1, y = 0; x &&= y; printf("%d\n", x); } | Compile time error
+What is the type of the below assignment expression if x is of type float, y is of type int? y = x + y; | int
+What is the value of the below assignment expression (x = foo())!= 1 considering foo() returns 2 | 2
+Operation "a = a * b + a" can also be written as: | All of the mentioned
+for c = 2, value of c after c <<= 1; a) c = 1; b) c = 2; c) c = 3; d) c = 4; [expand title="View Answer"] Answer:d [/expand] 5. What is the output of this C code? #include <stdio.h> int main() { int a = 1, b = 2; a += b -= a; printf("%d %d", a, b); } | 2 1
+What is the output of this C code? #include <stdio.h> int main() { int a = 4, n, i, result = 0; scanf("%d", n); for (i = 0;i < n; i++) result += a; } | Multiplication of a and n.
+Which of the following is an invalid assignment operator? | None of the mentioned
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0; int z = (y++) ? y == 1 && x : 0; printf("%d\n", z); return 0; } |  0
+What is the output of this C code? #include <stdio.h> int main() { int x = 1; int y = x == 1 ? getchar(): 2; printf("%d\n", y); } | Ascii value of character getchar function returns
+What is the output of this C code? #include <stdio.h> int main() { int x = 1; short int i = 2; float f = 3; if (sizeof((x == 2) ? f : i) == sizeof(float)) printf("float\n"); else if (sizeof((x == 2) ? f : i) == sizeof(short int)) printf("short int\n"); } | float
+What is the output of this C code? #include <stdio.h> int main() { int a = 2; int b = 0; int y = (b == 0) ? a :(a > b) ? (b = 1): a; printf("%d\n", y); } | 2What is the output of this C code? #include <stdio.h> int main() { int y = 1, x = 0; int l = (y++, x++) ? y : x; printf("%d\n", l); } | 1
+What is the output of this C code? #include <stdio.h> void main() { int k = 8; int m = 7; int z = k < m ? k++ : m++; printf("%d", z); } | 7
+Comment on the output of this C code? #include <stdio.h> void main() { int k = 8; int m = 7; int z = k < m ? k = m : m++; printf("%d", z); } | 7
+The code snippet below produces #include <stdio.h> void main() { 1 < 2 ? return 1 : return 2; } | Compile time error
+The output of the code below is #include <stdio.h> void main() { int k = 8; int m = 7; k < m ? k++ : m = k; printf("%d", k); } | Compile time error
+The output of the code below is #include <stdio.h> void main() { int k = 8; int m = 7; k < m ? k = k + 1 : m = m + 1; printf("%d", k); } | Compile time error
+For initialization a = 2, c = 1 the value of a and c after this code will be c = (c) ? a = 0 : 2; | a = 0, c = 0;
+What will be the data type of the expression (a < 50) ? var1 : var2; provided a = int, var1 = double, var2 = float a) int b) float c) double d) Cannot be determined [expand title="View Answer"] Answer:c [/expand] 5. Which expression has to be present in the following? exp1 ? exp2 : exp3; a) exp1 b) exp2 c) exp3 d) All of the mentioned [expand title="View Answer"] Answer:d [/expand] 6. Value of c after the following expression (initializations a = 1, b = 2, c = 1): c += (-c) ? a : b; | Syntax Error
+What is the output of this C code? #include <stdio.h> int main() { reverse(1); } void reverse(int i) { if (i > 5) exit(0); printf("%d\n", i); return reverse(i++); } | Stack overflow
+. What is the output of this C code? #include <stdio.h> void reverse(int i); int main() { reverse(1); } void reverse(int i) { if (i > 5) return ; printf("%d ", i); return reverse((i++, i)); } | 1 2 3 4 5
+In expression i = g() + f(), first function called depends on | Compiler
+What is the value of i and j in the below code? #include <stdio.h> int x = 0; int main() { int i = (f() + g()) || g(); int j = g() || (f() + g()); } int f() { if (x == 0) return x + 1; else return x - 1; } int g() { return x++; } |i and j value are undefined
+What is the value of i and j in the below code? #include <stdio.h> int x = 0; int main() { int i = (f() + g()) | g(); //bitwise or int j = g() | (f() + g()); //bitwise or } int f() { if (x == 0) return x + 1; else return x - 1; } int g() { return x++; } | i value is 1 and j value is undefined
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0; int z = y && (y |= 10); printf("%d\n", z); return 0; } | 0
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0; int z = (y++) ? 2 : y == 1 && x; printf("%d\n", z); return 0; } | 1
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0; int z; z = (y++, y); printf("%d\n", z); return 0; } | 1
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0, l; int z; z = y = 1, l = x && y; printf("%d\n", l); return 0; } | 1
+What is the output of this C code? #include <stdio.h> int main() { int y = 2; int z = y +(y = 10); printf("%d\n", z); } | 20
+What is the output of this C code? #include <stdio.h> void main() { int b = 5 - 4 + 2 * 5; printf("%d", b); } | 11
+What is the output of this C code? #include <stdio.h> void main() { int b = 5 & 4 & 6; printf("%d", b); } | 4
+What is the output of this C code? #include <stdio.h> void main() { int b = 5 & 4 | 6; printf("%d", b); } | 6
+What is the output of this C code? #include <stdio.h> void main() { int b = 5 + 7 4 - 9 (3, 2); printf("%d", b); } | 15
+What is the output of this C code? #include <stdio.h> void main() { int h = 8; int b = (h++, h++); printf("%d%d\n", b, h); } | 9 10
+What is the output of this C code? #include <stdio.h> void main() { int h = 8; int b = h++ + h++ + h++; printf("%d\n", h); } | 11
+What is the output of this C code? #include <stdio.h> void main() { int h = 8; int b = 4 6 + 3 4 < 3 ? 4 : 3; printf("%d\n", b); } | 3
+What is the output of this C code? #include <stdio.h> void main() { int a = 2 + 3 - 4 + 8 - 5 % 4; printf("%d\n", a); } | 8
+What is the output of this C code? #include <stdio.h> void main() { char a = '0'; char b = 'm'; int c = a && b || '1'; printf("%d\n", c); } | 1
+What is the output of this C code? #include <stdio.h> void main() { char a = 'A'; char b = 'B'; int c = a + b % 3 - 3 * 2; printf("%d\n", c); } | 59
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 2; float f = y + x /= x / y; printf("%d %f\n", x, f); return 0; } | Compile time error
+What is the output of this C code? #include <stdio.h> int main() { int x = 1, y = 2; if (x && y == 1) printf("true\n"); else printf("false\n"); } | false
+What is the output of this C code? #include <stdio.h> int main() { int x = 1, y = 2; int z = x & y == 2; printf("%d\n", z); } | 1
+What is the output of this C code? #include <stdio.h> int main() { int x = 3, y = 2; int z = x /= y %= 2; printf("%d\n", z); } | Floating point exception
+What is the output of this C code? #include <stdio.h> int main() { int x = 3, y = 2; int z = x << 1 > 5; printf("%d\n", z); } | 1
+What is the output of this C code? #include <stdio.h> int main() { int x = 3; //, y = 2; const int *p = &x; *p++; printf("%d\n", *p); } | Some garbage value
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 2; int z = x ^ y & 1; printf("%d\n", z); } | 2
+What is the output of this C code? #include <stdio.h> int main() { int x = 2, y = 0; int z = x && y = 1; printf("%d\n", z); } | Compile time error
+What is the output of the code given below #include <stdio.h> int main() { int x = 0, y = 2; if (!x && y) printf("true\n"); else printf("false\n"); } | true
+What is the output of this C code? #include <stdio.h> int main() { int x = 0, y = 2; int z = ~x & y; printf("%d\n", z); } | 2
+Which of the following operators has an associativity from Right to Left? a) <= b) << c) == d) += [expand title="View Answer"] Answer:d [/expand] 2. Which operators of the following have same precedence? P. "!=", Q. "+=", R. "<<=" a) P and Q b) Q and R c) P and R d) P, Q and R [expand title="View Answer"] Answer:b [/expand] 3. Comment on the following statement? n = 1; printf("%d, %dn", 3n, n++); a) Output will be 3, 2 b) Output will be 3, 1 c) Output will be 6, 1 d) Output is compiler dependent [expand title="View Answer"] Answer:d [/expand] 4. Which of the following option is the correct representation of the following code? e = a b + c / d f; a) e = (a (b +(c /(d f)))); b) e = ((a b) + (c / (d f))); c) e = ((a b) + ((c / d) f)); d) Both (B) and (C); [expand title="View Answer"] Answer:d Explanation:Verified by e = 1 2 + 3 / 4 5; and then using respective braces according to the option.[/expand] 5. What care must be taken during swapping 2 numbers? b = (b / a); a = a b; b = a / b; a) Data type should be either of short, int and long b) Data type should be either of float and double c) All data types are accepted except for (char *). d) This code doesn't swap 2 numbers. [expand title="View Answer"] Answer:b [/expand] 6. What should be the output of the following program: #include<stdio.h> int main() { int a = 1, b = 2, c = 3, d = 4, e; e = c + d = b * a; printf("%d, %d\n", e, d); } | Syntax error
+Which of the following is the correct order of evaluation for the given expression? a = w % x / y * z; | % / * =
+Which function in the following expression will be called first?
+a = func3(6) - func2(4, 5) / func1(1, 2, 3); | Cannot be predicted.
+Which of the following operator has the highest precedence in the following? | ()
+Which of the following is a ternary operator? | ?:
+What is the output of this C code? #include <stdio.h> void main() { int a = 5 * 3 + 2 - 4; printf("%d", a); } | 13
+What is the output of this C code? #include <stdio.h> void main() { int a = 2 + 4 + 3 * 5 / 3 - 5; printf("%d", a); } | 6
+What is the output of this C code? #include <stdio.h> void main() { int a = 5 * 3 % 6 - 8 + 3; printf("%d", a); } | -2
+What is the output of this C code? #include <stdio.h> void main() { int b = 6; int c = 7; int a = ++b + c--; printf("%d", a); } | 14
+What is the output of this C code? #include <stdio.h> void main( { double b = 8; b++; printf("%lf", b); } | 9.000000
+What is the output of this C code? #include <stdio.h> void main() { double b = 3 % 0 * 1 - 4 / 2; printf("%lf", b); } | Floating point Exception
+What is the output of this C code? #include <stdio.h> void main() { double b = 5 % 3 & 4 + 5 * 6; printf("%lf", b); } | 2.000000
+What is the output of this C code? #include <stdio.h> void main() { double b = 3 && 5 & 4 % 3; printf("%lf", b); } | 1.000000
+What is the output of this C code? #include <stdio.h> void main() { double b = 5 & 3 && 4 || 5 | 6; printf("%lf", b); } | 1.000000
+What is the output of this C code? #include <stdio.h> void main() { int k = 0; double b = k++ + ++k + k--; printf("%d", k); } | undefined
+Which of the following are unary operators? | All of the mentioned
+Where in C the order of precedence of operators do not exist? | None of the mentioned
+Associativity of an operator are: | Both (a) and (b)
+Which of the following method are accepted for assignment? | a = b = c = d = 5;
+Which of the following is NOT possible with any 2 operators in C? | Same precedence, different associativity.
+Which of the following is possible with any 2 operators in C? | All of the mentioned
+Which of the following operators has the lowest precedence? | ,
+Comment on the output of this C code? #include <stdio.h> int main() { int x = 3, i = 0; do { x = x++; i++; } while (i != 3); printf("%d\n", x); } | Output will be 6
+What is the output of this C code? #include <stdio.h> int main() { int a = -1, b = 4, c = 1, d; d = ++a && ++b || ++c; printf("%d, %d, %d, %d\n", a, b, c, d); return 0; } | 0, 4, 2, 1
+What is the output of this C code? #include <stdio.h> int main() { int p = 10, q = 20, r; if (r = p = 5 || q > 20) printf("%d", r); else printf("No Output\n"); } | 1
+The output of the code below is #include <stdio.h> void main() { int x = 5; if (x < 1) printf("hello"); if (x == 5) printf("hi"); else printf("no"); } | hi
+The output of the code below is #include <stdio.h> int x; void main() { if (x) printf("hi"); else printf("how are u"); } | how are you
+Comment on the following code below #include <stdio.h> void main() { int x = 5; if (true); printf("hello"); } | It will throw an error
+The output of the code below is #include <stdio.h> void main() { int x = 0; if (x == 0) printf("hi"); else printf("how are u"); printf("hello"); } | hihello
+The output of the code below is #include <stdio.h> void main() { int x = 5; if (x < 1); printf("Hello"); } | Hello
+The output of the code below is(when 1 is entered) #include <stdio.h> void main() { double ch; printf("enter a value btw 1 to 2:"); scanf("%lf", &ch); switch (ch) { case 1: printf("1"); break; case 2: printf("2"); break; } } | Compile time error
+The output of the code below is(When 1 is entered) #include <stdio.h> void main() { char *ch; printf("enter a value btw 1 to 3:"); scanf("%s", ch); switch (ch) { case "1": printf("1"); break; case "2": printf("2"); break; } } | Compile time error
+
+When 1 is entered, The output of the code below is? #include <stdio.h> void main() { int ch; printf("enter a value btw 1 to 2:"); scanf("%d", &ch); switch (ch) { case 1: printf("1\n"); default: printf("2\n"); } } | 1 2
+When 2 is entered, The output of the code below is? #include <stdio.h> void main() { int ch; printf("enter a value btw 1 to 2:"); scanf("%d", &ch); switch (ch) { case 1: printf("1\n"); break; printf("Hi"); default: printf("2\n"); } } | 2
+. When 1 is entered, The output of the code below is? #include <stdio.h> void main() { int ch; printf("enter a value btw 1 to 2:"); scanf("%d", &ch); switch (ch, ch + 1) { case 1: printf("1\n"); break; case 2: printf("2"); break; } } | 2
+What is the output of this C code? #include <stdio.h> int main() { int x = 1; if (x > 0) printf("inside if\n"); else if (x > 0) printf("inside elseif\n"); } | inside if
+What is the output of this C code? #include <stdio.h> int main() { int x = 0; if (x++) printf("true\n"); else if (x == 1) printf("false\n"); } | false
+What is the output of this C code? #include <stdio.h> int main() { int x = 0; if (x == 1) if (x == 0) printf("inside if\n"); else printf("inside else if\n"); else printf("inside else\n"); } | inside else
+What is the output of this C code? #include <stdio.h> int main() { int x = 0; if (x == 0) printf("true, "); else if (x = 10) printf("false, "); printf("%d\n", x); } | true, 0
+What is the output of this C code? #include <stdio.h> int main() { int x = 0; if (x == 1) if (x >= 0) printf("true\n"); else printf("false\n"); } | No print statement
+if (a == 1||b == 2){} can be written as: | None of the mentioned
+Which of the following is an invalid if-else statement? | if (if (a == 1)){}
+What is the output of this C code? #include <stdio.h> int main() { int a = 1; if (a--) printf("True"); if (a++) printf("False"); } | True
+Comment on the output of this C code? #include <stdio.h> int main() { int a = 1; if (a) printf("All is Well "); printf("I am Well\n"); else printf("I am not a River\n"); } | Compile time errors during compilation
+What is the output of this C code? #include <stdio.h> int main() { if (printf("%d", printf("))) printf("We are Happy"); else if (printf("1")) printf("We are Sad"); } | Compile time error
+What is the output of this C code(when 1 is entered)? #include <stdio.h> void main() { double ch; printf("enter a value btw 1 to 2:"); scanf("%lf", &ch); switch (ch) { case 1: printf("1"); break; case 2: printf("2"); break; } } | Compile time error
+What is the output of this C code(When 1 is entered)? #include <stdio.h> void main() { char *ch; printf("enter a value btw 1 to 3:"); scanf("%s", ch); switch (ch) { case "1": printf("1"); break; case "2": printf("2"); break; } } | Compile time error
+What is the output of this C code(When 1 is entered)? #include <stdio.h> void main() { int ch; printf("enter a value btw 1 to 2:"); scanf("%d", &ch); switch (ch) { case 1: printf("1\n"); default: printf("2\n"); } } | 1 2
+What is the output of this C code(When 2 is entered)? #include <stdio.h> void main() { int ch; printf("enter a value btw 1 to 2:"); scanf("%d", &ch); switch (ch) { case 1: printf("1\n"); break; printf("hi"); default: printf("2\n"); } } | 2
+What is the output of this C code(When 1 is entered)? #include <stdio.h> void main() { int ch; printf("enter a value btw 1 to 2:"); scanf("%d", &ch); switch (ch, ch + 1) { case 1: printf("1\n"); break; case 2: printf("2"); break; } } | 2
+. What is the output of this C code? #include <stdio.h> int main() { int a = 1, b = 1; switch (a) { case a*b: printf("yes "); case a-b: printf("no\n"); break; } } | Compile time error
+What is the output of this C code? #include <stdio.h> int main() { int x = 97; switch (x) { case 'a': printf("yes "); break; case 97: printf("no\n"); break; } } | Duplicate case value error
+What is the output of this C code? #include <stdio.h> int main() { float f = 1; switch (f) { case 1.0: printf("yes\n"); break; default: printf("default\n"); } } | Compile time error
+What is the output of this C code? #include <stdio.h> const int a = 1, b = 2; int main() { int x = 1; switch (x) { case a: printf("yes "); case b: printf("no\n"); break; } } | Compile time error
+What is the output of this C code? #include <stdio.h> #define max(a) a int main() { int x = 1; switch (x) { case max(2): printf("yes\n"); case max(1): printf("no\n"); break; } } | no
+What is the output of this C code? #include <stdio.h> int main() { switch (printf("Do")) { case 1: printf("First\n"); break; case 2: printf("Second\n"); break; default: printf("Default\n"); break; } } | DoSecond
+Comment on the output of this C code? #include <stdio.h> int main() { int a = 1; switch (a) case 1: printf("%d", a); case 2: printf("%d", a); case 3: printf("%d", a); default: printf("%d", a); } | Compile time error, case label outside switch statement
+Comment on the output of this C code? #include <stdio.h> int main() { int a = 1; switch (a) { case a: printf("Case A "); default: printf("Default"); } } | Compile time error
+Comment on the output of this C code? #include <stdio.h> switch (ch) { case 'a': case 'A': printf("true"); } | if (ch == 'a' || ch == 'A') printf("true");
+The following code 'for(;;)' represents an infinite loop. It can be terminated by. | break
+The correct syntax for running two variable for loop simultaneously is. | for (i = n-1; i>-1; i-)
+Which of the following cannot be used as LHS of the expression in for (exp1;exp2; exp3) ? | macros
+What is the output of this C code? #include <stdio.h> int main() { short i; for (i = 1; i >= 0; i++) printf("%d\n", i); } | Numbers will be displayed until the signed limit of short and program will successfully terminate
+What is the output of this C code? #include <stdio.h> void main() { int k = 0; for (k) printf("Hello"); } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { int k = 0; for (k < 3; k++) printf("Hello"); } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { double k = 0; for (k = 0.0; k < 3.0; k++) printf("Hello"); } | Hello is printed thrice
+What is the output of this C code? #include <stdio.h> void main() { double k = 0; for (k = 0.0; k < 3.0; k++); printf("%lf", k); } | 3.000000
+What is the output of this C code? #include <stdio.h> void main() { int k; for (k = -3; k < -5; k++) printf("Hello"); } | Nothing
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; for (; ; ;) printf("In for loop\n"); printf("After loop\n"); } | Compile time error
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; for (i++; i == 1; i = 2) printf("In for loop "); printf("After loop\n"); } | In for loop after loop
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; for (foo(); i == 1; i = 2) printf("In for loop\n"); printf("After loop\n"); } int foo() { return 1; } | After loop
+What is the output of this C code? #include <stdio.h> int main() { int *p = NULL; for (foo(); p; p = 0) printf("In for loop\n"); printf("After loop\n"); } | Compile time error
+What is the output of this C code? #include <stdio.h> int main() { for (int i = 0;i < 1; i++) printf("In for loop\n"); } | Depends on the standard compiler implements
+What is the output of this C code? #include <stdio.h> int main() { while () printf("In while loop "); printf("After loop\n"); } | Compile time error
+What is the output of this C code? #include <stdio.h> int main() { do printf("In while loop "); while (0); printf("After loop\n"); } | In while loop after loop
+#include <stdio.h> int main() { int i = 0; do { i++; printf("In while loop\n"); } while (i < 3); } | In while loop In while loop In while loop
+How many times i value is checked in the below code? #include <stdio.h> int main() { int i = 0; do { i++; printf("in while loop\n"); } while (i < 3); } | 3
+How many times i value is checked in the below code? #include <stdio.h> int main() { int i = 0; while (i < 3) i++; printf("In while loop\n"); } | 4
+What is the output of this C code? #include <stdio.h> void main() { int i = 2; do { printf("Hi"); } while (i < 2) } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { int i = 0; while (++i) { printf("H"); } } | H is printed infinite times
+What is the output of this C code? #include <stdio.h> void main() { int i = 0; do { printf("Hello"); } while (i != 0); } | Hello
+What is the output of this C code? #include <stdio.h> void main() { char *str = ""; do { printf("hello"); } while (str); } | Hello is printed infinite times
+What is the output of this C code? #include <stdio.h> void main() { int i = 0; while (i < 10) { i++; printf("hi\n"); while (i < 8) { i++; printf("hello\n"); } } } | Hi is printed once, hello 7 times and then hi 2 times
+Example of iteration in C. | All of the mentioned
+Number of times while loop condition is tested is, i is initialized to 0 in both case. while (i < n) i++; ------------- do i++; while (i <= n); a) n, n b) n, n+1 c) n+1, n d) n+1, n+1 [expand title="View Answer"] Answer:d [/expand] 5. What is the output of this C code? #include <stdio.h> int main() { int i = 0; while (i = 0) printf("True\n"); printf("False\n"); } | False
+What is the output of this C code? #include <stdio.h> int main() { int i = 0, j = 0; while (i < 5, j < 10) { i++; j++; } printf("%d, %d\n", i, j); } | 10, 10
+Which loop is most suitable to first perform the operation and then test the condition? | do-while loop
+Which keyword can be used for coming out of recursion? | return
+What is the output of this C code? #include <stdio.h> int main() { int a = 0, i = 0, b; for (i = 0;i < 5; i++) { a++; continue; } } | 5
+What is the output of this C code? #include <stdio.h> int main() { int a = 0, i = 0, b; for (i = 0;i < 5; i++) { a++; if (i == 3) break; } } | 4
+The keyword 'break' cannot be simply used within: | if-else
+Which keyword is used to come out of a loop only for that iteration? | continue
+What is the output of this C code? #include <stdio.h> void main() { int i = 0, j = 0; for (i = 0;i < 5; i++) { for (j = 0;j < 4; j++) { if (i > 1) break; } printf("Hi \n"); } } | Hi is printed 5 times
+What is the output of this C code? #include <stdio.h> void main() { int i = 0; int j = 0; for (i = 0;i < 5; i++) { for (j = 0;j < 4; j++) { if (i > 1) continue; printf("Hi \n"); } } } | Hi is printed 8 times
+What is the output of this C code? #include <stdio.h> void main() { int i = 0; for (i = 0;i < 5; i++) if (i < 4) { printf("Hello"); break; } } | Hello
+What is the output of this C code? #include <stdio.h> void main() { int i = 0; if (i == 0) { printf("Hello"); continue; } } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { int i = 0; if (i == 0) { printf("Hello"); break; } } | Compile time error
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; do { i++; if (i == 2) continue; printf("In while loop "); } while (i < 2); printf("%d\n", i); } | In while loop 2
+What is the output of this C code? #include <stdio.h> int main() { int i = 0, j = 0; for (i; i < 2; i++){ for (j = 0; j < 3; j++){ printf("1\n"); break; } printf("2\n"); } printf("after loop\n"); } | 1 2 1 2 after loop
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; while (i < 2) { if (i == 1) break; i++; if (i == 1) continue; printf("In while loop\n"); } printf("After loop\n"); } | After loop
+What is the output of this C code? #include <stdio.h> int main() { int i = 0; char c = 'a'; while (i < 2){ i++; switch (c) { case 'a': printf("%c ", c); break; break; } } printf("after loop\n"); } | a a after loop
+What is the output of this C code? #include <stdio.h> int main() { printf("before continue "); continue; printf("after continue\n"); } | Compile time error
+What is the output of this C code? #include <stdio.h> int main() { void foo(); printf("1 "); foo(); } void foo() { printf("2 "); } | 1 2
+What is the output of this C code? #include <stdio.h> int main() { void foo(), f(); f(); } void foo() { printf("2 "); } void f() { printf("1 "); foo(); } | 1 2
+What is the output of this C code? #include <stdio.h> int main() { void foo(); void f() { foo(); } f(); } void foo() { printf("2 "); } | Depends on the compiler
+What is the output of this C code? #include <stdio.h> void foo(); int main() { void foo(); foo(); return 0; } void foo() { printf("2 "); } | 2
+What is the output of this C code? #include <stdio.h> void foo(); int main() { void foo(int); foo(1); return 0; } void foo(int i) { printf("2 "); } | 2
+What is the output of this C code? #include <stdio.h> void foo(); int main() { void foo(int); foo(); return 0; } void foo() { printf("2 "); } | Compile time error
+What is the output of this C code? #include <stdio.h> void m() { printf("hi"); } void main() { m(); } | hi
+What is the output of this C code? #include <stdio.h> void m(); void n() { m(); } void main() { void m() { printf("hi"); } } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { m(); void m() { printf("hi"); } } | Compile time error
+What is the output of this C code? #include <stdio.h> void main() { m(); } void m() { printf("hi"); m(); } | Infinite hi
+What is the output of this C code? #include <stdio.h> void main() { static int x = 3; x++; if (x <= 5) { printf("hi"); main(); } } | hi hi
+Which of the following is a correct format for declaration of function? | return-type function-name(argument type);
+Which of the following function declaration is illegal? | All of the mentioned
+Which function definition will run correctly?| int sum(int a, int b) {return (a + b);}
+Can we use a function as a parameter of another function? [ Eg: void wow(int func()) ]  | No, C does not support it.
+The value obtained in the function is given back to main by using ________ keyword? | return
+What is the return-type of the function sqrt() | double
+Which of the following function declaration is illegal? | None of the mentioned
+What is the output of this code having void return-type function? #include <stdio.h> void foo() { return 1; } void main() { int x = 0; x = foo(); printf("%d", x); } | Compile time error
+What will be the data type returned for the following function? #include <stdio.h> int func() { return (double)(char)5.0; } | int
+What is the problem in the following declarations? int func(int); double func(int); int func(float); | All of the mentioned
+The output of the code below is #include <stdio.h> void main() { int k = m(); printf("%d", k); } void m() { printf("hello"); } | hello 5
+The output of the code below is #include <stdio.h> int *m() { int *p = 5; return p; } void main() { int *k = m(); printf("%d", k); } | 5
+The output of the code below is #include <stdio.h> int *m(); void main() { int *k = m(); printf("hello "); printf("%d", k[0]); } int *m() { int a[2] = {5, 8}; return a; } |hello followed by garbage value
+Given the below code? char ch; scanf("%c",&ch); printf("%c",ch); A user enters "abcd" from the console What is printed? | a
+Given x, y, z are of floating-point type, which of the following C expressions is INCORRECT? | All of the others
+Which is the INCORRECT statement? | In the buffered type, the program can respond to each and every keystroke directly.
+Given the below code: int a=1; int i=7; if(a||i++) i++; printf("%d", i); What is the output | 8
+What does the function foef(FILE*fp) return if our program has not attempted to read the end of file mark? | 0
+Which of the following are NOT TRUE about function? | Variable cannot passed to thee functions.
+What is the output when the sample code below is executed? void fun1(int a,int b) { a++; b++; } main() { int x=5,y=10; fun1(x,y); printf("%d %d",x,y); return 0; } | 5 10
+Why hexadecimal and octal representations are used for sets of bits? | Because these representations are considerably shorter and more convenient.
+What will be the output of the following program? #include<stdio.h> #include<string.h> #include<ctype.h> void main() { char str[]="xyzt"; int len=strlen(str); for(int i=0;i<len;i++) { if(i%2==1) str[i]=toupper(str[i]); } printf("%s",str); return 0; } | xYzT
+Which is NOT a valid data type in C language? | string
+Which of the following statements is wrong? | 3=d;
+Which of the following functions can be used to enter an integer in C program? | scanf
+The following code is an infinite loop? int number=1; while(1){ printf("%d",number); if(number==3)break; number+=2; } | False
+Decimal number 44 is...in hexadecimal | 0x2C
+What will this program print? #include<stdio.h> #include<string.h> int main(void) { char str[]="abcd"; int len=strlen(str); for(int i=0;i<len;i++) str[i]++; printf("%s",str); return 0; } | bcde
+What is the output when the sample code below is executed? int a=13,b=20; if(a==15||b>30) printf("Hello"); else printf("Sorry"); | Sorry
+What will be the output of the following program? #include<stdio.h> int main() { int x[4]={2,1,4,8}; int rs=0; for(int i=0; i<4; i++) { rs+=x[i]; } printf("%d", rs); return 0; } | 15
+The expression a[1] designates the first element in an array a. | FALES
+What is the final value of x when the sample code below is excuted? int x=0; for(int i=1;i<5;i++) for(int j=0;j<5;j++) x++; | 20
+The expression a[1] designates the first element in an array a. | FALSE
+Which of the following statements are true with regards to the || operator?|  Only if both the expressions evaluate to false, the outcome is false
+What does the following declaration mean (If there are more than one correct answers, choose the best one) int*ptr[10]; | Array of 10 integer pointers
+Suppose age is an integer variable. Select correct statements which declare a pointer of type integer and assign an address of the variable age to it. | int*p; p=&age;
+If is a string variable, which of the following can be used to read the whole string "Hello World"? | gets(s);
+Given the program: #include<stdio.h> #include<conio.h> #include<string.h> int main(){ char str[50]; strcpy(str,"KLM"); for(int i=0;i<strlen(str);i++) str[i]=str[i]-1; printf("%s",str); getch(); return 0; } What is printed? | JKL
+#include<stdlib.h> #include<stdio.h> int main(){ int i, n, a=10, b=20; for(i=0;i<10;i++){ n=a+rand()%(b+1-a); printf("%d\n", n); } return 0; } Choose one right statement about the output of the above program? | The following program prints 10 pseudo-random integers between 10 and 20 inclusively.
+What is the output of the following code? void test(float x) { x+=25; printf("Value inside the function: %.2f\n",x); x+=25; } int main() { float y; y=100; printf("y=%.2f\n",y); test(y); printf("y=%.2f\n",y); return(0); } | y=100.00 Value inside the function: 125.00 y=100.00
+Why the following code is wrong? 1. int main(){ 2. int a; float b, c; 3. Printf("Hello FPT University!"); 4. a=0; 5. b=c=0; 6. return 0; 7. } | Wrong at line 3: C is case sensitive languege. So printf is different from Printf which is not the C keyword.
+Evaluate the following as true or false: !(1&&0||!1) | TRUE
+What is the output of the following code: int choice=6: switch(choice){ case 2: printf("Case 2"); case 4: printf("Case 4"); case 6: printf("Case 6"); case 7: printf("Case 7"); case 9: printf("Case 9"); default: printf("The other cases!"); } | Case 6 Case 7 Case 9 The other cases
+What is required to avoid falling through from one case to the next in the switch construct? | break;
+What does the gets() function do? | This function fetches a string from the standard input stdin (keyboard) and places it into a string which the programmer must provide.
+What is the output when the sample code below is executed? int a=5, b=2; switch(a+b){ case 1: break; case 2: b=a; break; default: b=-1; a=4; } printf("%d %d\n", a, b); | 4 -1
+What is the output when thw sample code below is executed? int a[]={5,10,15,20,25}; int*p=a; printf("%d",*p); p++; printf("%d",*p); p++; printf("%d",*p); | 5 10 15
+What is the output of the following code? void func1(int(a*)[10]){ printf("Good, It works"); } void func2(int a[][10]){ printf("What will happen?"); } int main(){ int a[10][10]; func1(a); func2(a); return 0; } | Good, It worksWhat will happen?
+Location of an array is the: | Location of its first element
+What is the output when the sample code below is executed? char mess[]="more"; char*ptr; ptr=mess+strlen(mess); while(ptr>mess) printf("%s",--ptr); | ereoremore
+What is the output when the sample code below is executed? int x=2, n=5, p=1; while(n!=0){ if(n%2==1) p=p*x; n=n/2; x=x*x; } printf("%d\n",p); | 32
+What is the index number of the last element of an array with 31 elements? | 30
+A data type defines how the values are stored and how the operations on those values are performed. | False
+What is the output when the sample code below is executed? char a[20]="Hello,"; char *b="Word"; strcpy(a,"hello"); strcpy(a,b); printf("%s\n", a); | hello World
+Why the following code is wrong? int choice=0, a=0, b=1, c=2; switch(choice){ case a: printf("case A happens!"); break; case b: printf("Wow, that is B!"); break; case c: printf("C please!"); break; } | The above code is correct
+What will the below sample code produce when executed? #include<stdio.h> int i; void increment(int i) { i++; } int main() { for(i=0; i<10; increment(i)); printf("i=%d\n", i); return 0; } | It wil loop indefinitely.
+What is the proper declaration for the variable c in the code below? c=getchar(); | char c;
+Which of the followings are NOT a valid C identifilers? | _ident
+Consider the following code: if(a==b) printf("\n The Numbers are equal"); else if(a<b) printf("\n The Smaller Number is: %d", a); else printf("\n The Smaller Numbers is: %d", b); In the above code, if a=14 and b=9, then the _____ clause is excuted. | else
+What will be the output of this program? #include<studio.h> void main(){ printf("%c","12345"[1]); } | 2
+What is the output when the sample code below is executed? int a=2; printf("%d",++a,a+5); | 3
+What is the output when the sample code below is executed? int i=1; while(i<=10) if(i%2==1) printf("%d", i++); else printf("%d", i--); | 1 2 1 2 ...(infinite loop)
+Which is the correct order when listing the following languages from the lowest to the highest level? | Assembly.C.C++.MATLAB
+What is the maximum value of an unsigned char? | 255
+If an array has n elements, the largest subscript is _____. |  n-1
+What is the correct definition of array? | An array is the collection of the same data type located next to each other in the memory
+What is the output wwhen the sample code below is executed? void foo(int x, int *y){ x=x*x; y=y**y; } int main(){ int x=-5, y=-2; foo(x,y); printf("%d %d", x, y); return 0; } |  -5 4
+Given the declaration: int ref[]={1,2,4}; What is the value of *(ref+1)? | 2
+Given the program: #include<stdio.h> #include<string.h> void main(){ char str[50]; strcpy(str,"Hello world"); *(str+7)='\0'; printf("%s", str); } What is printed? | Hello w
+Which of the following statements are true with regards to the || operator? | Only if both the expressions evaluate to false, the outcome is false
+What is the output of the following code? int sum(int n); int main(); { printf("s=%d\n", sum(5)); return(0); } int sum(int n) { int s, i; s=0; for(i=1;i<=n;i++); return(s); } |  15
+What is value of a when the following code is executed? int a=10; int *pa=a; (*pa)++; a=a+10; | 21
+What is the output when the sample code below is executed? int i=0; for(;i;) printf("This is a loop"); if(i>0)printf("in C program"); | Nothing (no output)
+What is the output when the sample code below is executed? int count=10, *temp, sum=0; temp=count; *temp=20; temp=sum; *temp=count; printf("%d %d %d", count, *temp, sum); | 20 20 20
+What is the output when the sample code below is executed: main() { int i=5; printf("%d", i=++i==6); } | 1
+Which library that the following functions belong to? double round (double); double ceil (double); double sqrt (double); double pow (double base, double exponent); | math.h
+What is the final value of x when the sample code below is executed? int x=0; for(int i=1;i<5;i++) for(int j=0;j<5;j++) x++; | 20
+What will be the output of the following program? #include<stdio.h> int main() { int x[4]={2, 1, 4, 8}; int rs=0; for(int i=0; i<4;i++) { rs+=x[i]; } printf("%d", rs); return 0; } | 15
+char name[31]; scanf("%[a-zA-Z0-9]", name); Which is the correct statement about the above code? | Accepts only lower case letters (in the range between 'a' and 'z') upper case letters (int the range between 'A' and 'Z') andd digits (in the range '0' to '9')
+What is the output of this program? #include<stdio.h> int main(void) { char note[]="Meet me at 7pm"; char *ptr; ptr=note; note[7]='\0'; puts(++ptr); return 0; } | eet me
+Which is the proper declaration of a string named str which stores the value "Melodies" | char str[]="Melodies";
+What will be the output of the following program? #include<stdio.h> #include<string.h> #include<ctype.h> void main() { char str[]="abcd"; int len=strlen(str); for(int i=0;i<len;i++) { if(i%2==0) str[i]=toupper(str[i]); } printf("%s". str); return 0; } | AbCd
+The operation between float and int would give the result as | float
+Which one of the followings is the parameter passed to getchar()? | It takes no parameters.
+Why the following code is wrong? 1. int main(){ 2. int a; float b, c; 3. Printf("Hello FPT University!"); 4. a=0; 5. b=c=0; 6. return 0; 7. } | Wrong at line 3: C is case sensitive language. So printf is different from Printf which is not C keyword.
+Which of the following statements is INCORRECT? | If a file opened for writing already exits, its content will be overwritten
+Which one of the following printf() format specifers indicates to print a double value in decimal notation, left aligned in a 30-character field, to four(4) digits of precision? | %#30.4f
+What is the output when the sample ccode below is executed? char mess[]="You are welcome here"; char *p; p=mess; mess[8]='\0'; puts(++p); | our are
+Which of the following functions can be used to enter an integer in C program? | scanf
+What will be printed when the sample code below is executed? int x=0; for(;;){ if(x++==4) break; continue; } printf("%d\n", x); | 5
+In a C program, we cannot write more than one function. | False
+Which of the following is a complete function? | int funct(int x) {return x=x+1;}
+What is the equivalence of 0125 (base 8) in Hex (base 16)? | 55
+What is the value of x after executing the code: int x; for(x=0;x<10;x++){} | 10
+Decimal number 44 is ... in hexadecimal | 0x2C
+Given the code below: int a=2; printf("%d", ++a, a+5); What is printed? | 3
+Which one is NOT correct? | 1MB=1024 Bytes
+What is the output of the below code printf("%x", 254); | fe
+What is the output of the following code? main(){ int x=5; for(;x==0;x--){ printf("x=%d\n", x--); } } | None of the other choices
+Which is NOT a valid function for reading from a file? | fgetchar()
+How many time the statement is executed? for(int i=1; i<=5; i++) for(int j=1; j<=10; j++)statement; | 50
+Function strlen() is for finding the number of characters a string | True
+Which function is not used to read from a file? | fprintf
+Assume that the size of int data type iss 4 bytes. What is the output when the sample code below is executed? int a[5]={0}, x=2111223; while (x>10){ a[x%10-1]++; x/=10; } printf("%d", a[1]); | 2
+Given x, y, z are of floating-point type which of the following C expressions is INCORRECT? | All of the others
+Which value can not be assigned to an unsigned-short type? | -3
+What does the gets() function do? | This is function fetches a string from the standard inpput stdin (keyboard) and places it into a string which the prgrammer must provide.
+What is the correct statements for input data? | scanf("%d", age);
+What is the output when the sample code below is executed? int x=1000; while(x++<1003) printf("%d", x); printf("%d\n", x); | 1001 1002 1003 1004
+What is the output when the sample code below is executed? void foo(int *z){ return(m+2); } int main(){ int a=45, *b, m=10; b=foo(a); printf("\n%d %b", a , b); return 0; } | compile erroer
+C99 standard guarantees uniqueness of __________ characters for internal names. | 63
+C99 standard guarantees uniqueness of ___________ characters for external names. | 31
+Which of the following is not a valid variable name declaration? | None of the mentioned
+Which of the following is not a valid variable name declaration? | int 3_a;
+Why do variable names beginning with the underscore is not encouraged? | To avoid conflicts since library routines use such names
+All keywords in C are in ____________ | LowerCase letters
+Variable name resolution (number of significant characters for the uniqueness of variable) depends on ___________ | Compiler and linker implementations
+Which of the following is not a valid C variable name? | int $main;
+ Which is valid C expression? | int my_num = 100000;
+What will be the output of the following C code? #include <stdio.h> int main() { printf("Hello World! %d \n", x);return 0; } | Compile time error
+What will be the output of the following C code? #include <stdio.h> int main() { int y = 10000; int y = 34; printf("Hello World! %d\n", y); return 0; } | Compile time error
+Which of the following is not a valid variable name declaration? | #define PI 3.14
+What will happen if the following C code is executed? #include <stdio.h> int main() { int main = 3; printf("%d", main); return 0; } | It will run without any error and prints 3
+What is the problem in the following variable declaration? float 3Bedroom-Hall-Kitchen?; | All of the mentioned
+What will be the output of the following C code? #include <stdio.h> int main() { int ThisIsVariableName = 12; int ThisIsVariablename = 14; printf("%d", ThisIsVariablename); return 0; } | The program will print 14
+Which of the following cannot be a variable name in C? | volatile
+
+How many digits are present after the decimal in float value? | 6
+Which among the following is never possible as an output for a float? | None of the mentioned
+In a 32-bit compiler, which 2 types have the same size? | int and float
+What is the size of float in a 32-bit compiler? | 4
+Loss in precision occurs for typecasting from__ | float to int
+In the following C code, the union size is decided by? | both int and float
+%f access specifier is used for ___ | Floating type
+Select the odd one out with respect to type? | float
+What will be the output of the following C code? #include <stdio.h> printf("%.0f", 2.89); | 3
+Which of the following % operation is invalid? | 2 % 4f;
+Which data type is suitable for storing a number like? 10.0000000001 | double
+Modulus for float could be achieved by? | fmod(a, b);
+Predict the data type of the following mathematical operation? 2 * 9 + 3 / 2 . 0 | double
+%lf is used to display? | double
+Which among the following is never possible in C when members are different in a structure and union? | none of the mentioned
+Which among the following is never possible in C when members in a structure are the same as that in a union? | sizeof(P) is less than to sizeof(Q)
+Which among the following statement is right? | sizeof(struct stemp*) = sizeof(union utemp*) = sizeof(char *)
+What will be the output of the following C code? | Output, 4
+Which of the following cannot be used inside sizeof? | none of the mentioned
+What is the sizeof(char) in a 32-bit C compiler? | 1 Byte
+What will be the output of the following C code? | 4
+Size of an array can be evaluated by ____ | sizeof(a);
+Which of the following is not an operator in C? | None of the mentioned
+Which among the following has the highest precedence? | sizeof()
+What is the sizeof(void) in a 32-bit C? | 1
+What type of value does sizeof return? | unsigned int
+There are two groups of string functions defined in the header <string.h>. What are they? | first group names beginning with str; second group names beginning with mem
+What is the use of function char *strchr(ch, c)? | return pointer to first occurrence of c in ch or NULL if not present
+Which code from the given option return pointer to last occurrence of c in ch or NULL if not present? | char *strrchr(ch, c)
+Which among the given options compares atmost n characters of string ch to string s? | int strncmp(ch, s, n)
+Which among the given options is the right explanation for the statement size_t strcspn(c, s)? | return length of prefix of c consisting of characters not in s
+The mem functions are meant for ___ | manipulating objects as character arrays
+What is the function of void *memset(s, c, n)? | places character c into first n characters of s, return s
+Functions whose names begin with “strn” | manipulates sequence of non – null characters.
+Which of the following is the right syntax to copy n characters from the object pointed to by s2 into the object pointed to by s1? | void *memcpy(void *s1,const void *s2,size_t n);
+What does the following function returns void *memmove(void *s1,const void s2, size_t n);? | returns the value of s1
+Which among the following is Copying function? | memcpy()
+Which function will you choose to join two words? | strcat()
+The ______ function appends not more than n characters. | strncat()
+What will strcmp() function do? | compares the string
+What is the prototype of strcoll() function? | int strcoll(const char *s1,const char *s2)
+What is the function of strcoll()? | compares the string, result is dependent on the LC_COLLATE
+Which of the following is the variable type defined in header string. h? | size_t
+NULL is the macro defined in the header string. h. | true
+What is the return value of strxfrm()? | length of the transformed string, not including the terminating null-character
+Is there any function declared as strstr()? | true
+The C library function _________ breaks string s1 into a series of tokens using the delimiter s2. | char *strtok(char *s1,const char *s2);
+The______function returns a pointer to the first character of a token. | strtok()
+which of the following function returns a pointer to the located string or a null pointer if string is not found. | strstr()
+Which of the given function is used to return a pointer to the located character? | strchar()
+The strpbrk() function is used to return a pointer to the character, or a null pointer if no character from s2 occurs in s1. | true
+The______ function returns the number of characters that are present before the terminating null character. | strlen()
+This function offers the quickest way to determine whether two character sequences of the same known length match character for the character up to and including any null character in both. | strncmp()
+Use_______to determine the null-terminated message string that corresponds to the error code errcode. | strerror()
+void *memcpy(void *dest, const void *src, size_t n) What does the following code do? | copies n characters from src to dest
+Which header declares several functions useful for testing and mapping characters? | ctype.h
+The______function tests for any character for which isalpha or isdigit is true. | isalnum()
+The isdigit function tests for any decimal-digit character. | true
+Which function returns true only for the characters defined as lowercase letters? | islower()
+This function checks whether the passed character is white-space. | isspace()
+The standard white-space characters are the following: space (' '), form feed (' \ f '), newline (' \n') , horizontal tab (' \tr), and vertlcal tab (' \v') can be tested with function. | isspace()
+Which function tests for any character that is an uppercase letter. | isupper()
+The______function tests for any hexadecimal-digit character. | isxdigit()
+The________function converts an uppercase letter to the corresponding lowercase letter. | tolower()
+The toupper() function converts a ______ to the corresponding ______ | lowercase, uppercase
+fgetc, getc, getchar are all declared in ________ | stdio. h
+isalpha() function is used to detect characters both in uppercase and lowercase. | true
+The C library function checks whether the passed character is printable. | isprint()
