@@ -1,0 +1,441 @@
+qn=1 (6836) a cpu may have multiple execution units, so that can carry out multiple instructions in the same time is called: | superscalar
+qn=2 (6843) the four main structural elements of a computer system are: | processor, main memory, i/o modules, system bus
+qn=3 (6849) which of the following instructions should be allowed in user mode? | read the time-of-day clock
+qn=4 (6858) as one proceeds down the memory hierarchy(phan cap bo nho) (from inboard memory to offline storage), which of the following conditions is correct? | increasing access time
+qn=5 (6863) information that must be saved prior to the processor transferring control to the interrupt handler routine includes: | psw and pc
+qn=6 (6871) what is not a main function of an operating system? | provide user interfaces
+qn=7 (6883) what is the main characteristic of real-time operating system? | time is key parameter
+qn=8 (6898) what is not correct about system calls? | in terms of performance, using system calls is better than using procedure calls
+qn=9 (6903) which of the following is a task of process management of os? | all of the other choices
+qn=10 (6909) a simple structuring model for monolithic system includes: | all of the other choices
+qn=11 (6925) what is the "sequential processes" concept? | no concurrency inside a process; everything happens sequentially
+qn=12 (6941) which of the following process state transitions is correct, when the external event for which a process was waiting happens? | blocked (waiting) -> ready
+qn=13 (6948) how many percent of the cpu time is wasted, when a computer system has enough room to hold two program and these programs are idle waiting for i/o half the time? | 25%
+qn=14 (6956) how many ways is thread implemented? | 3
+qn=15 (6963) critical region (section) concept used in interprocess communication is: | a part of the program where the shared memory is accessed
+qn=16 (6969) which of the following statements is a hardware solution to the critical region problem? | tsl
+qn=17 (6978) which of the following is true about atomic action on semaphores? | all of the other choices
+qn=18 (6987) which of the following statements is true about hardware solution to the critical region problem? | disable interrupts
+qn=19 (6991) what is the purpose of cpu scheduling algorithms? | pick one of the ready processes to run next
+qn=20 (6999) the first-come, first-served (fcfs) algorithm is fine for most ____ systems | batch
+qn=21 (7007) five batch jobs a through e, arrive at a computer center at almost the same time. they have estimated running times of 8, 6, 2, 10, and 4 minutes. determine the average waiting time for sjf (shortest job first) scheduling. ignore process switching overhead. | 8 minutes
+qn=22 (7015) assume jobs a-d arrive in quick succession in the ready queue. using round robin scheduling (quantum=4), the turnaround time for job d is ____. | 22
+qn=23 (7021) which of following is true about cache in the memory hierarchy? | small amount of fast expensive memory
+qn=24 (7029) which of the following is a method to keep track of memory usages? | both memory management with bit maps and memory management with linked lists
+qn=26 (7042) one of the most important innovations of demand paging was that it made ____ feasible | virtual memory.
+qn=27 (7048) which of these statements about the inverted page table are true? | an entry contains the pair (process, virtual page) mapped into the corresponding page frame
+qn=28 (7057) if there are 64 pages and the page size is 2048 words, what is the length of logical address? | 17 bits
+qn=29 (7065) a system with 32 bit virtual address. if the page size is 4 kb and each table entry occupies 4 bytes, what is the size of the page table? | 4 mb
+qn=30 (7072) which of the following statements is incorrect about translation look-aside buffer (tlb)? | a tlb miss implies a disk operation will follow
+qn=31 (7080) working set model is used for: | finding the minimum number of frames necessary for a job so that jobs can be run without "thrashing"
+qn=32 (7086) which is not true about the method of backing store: "paging to a static swap area"? | requires a disk map in memory
+qn=33 (7092) which of the following statements about segmentation is false? | none of the other choices
+qn=34 (7406) a ____ is a group of related records that contains information to be used by specific application programs to generate reports. | file
+qn=35 (7413) file structure can be: | all of the other choices
+qn=36 (7421) ____ is a specialized write command for existing data files that allows for adding records to end of the file. | append
+qn=37 (7428) which are allocation methods of disk blocks for files? | all of the other choices
+qn=38 (7437) disk can be divided up into one or more partitions. the first block of every partition is called: | boot block
+qn=39 (7442) the linking technique that allows the file to appear in more than one directory are: | both hard link and symbolic link
+qn=40 (7449) which mechanism is implemented by writing to the log file with the purpose of file system management and optimization? | journaling file systems
+qn=41 (7454) the file manager writes the volume name and other descriptive information on an easy-to-access place on each unit: ____ of the cd or dvd | the innermost part
+qn=42 (7464) which is the maximum partition size, if the fat type is fat-32 and the block size is 4 kb? | 1 tb
+qn=43 (7475) the main classes of i/o devices are: | block devices and character devices
+qn=44 (7485) which of the following statements about the task of device controller of i/o devices is correct? | all of the other choices
+qn=45 (7489) which approach is used in order to cpu communicate with the control registers of the i/o device? | all of the other choices
+qn=46 (7495) which of the following statements is not correct about dma? | dma controller is usually faster than cpu
+qn=47 (7502) an interrupt that leaves the machine in well-defined state is called a(n) ______ | precise interrupt
+qn=48 (7507) which of the following statements is not correct about "device independence"? | device independence requires all programmers to deal with different devices directly
+qn=49 (7514) which is the right order between the 4 i/o software layers? | user-level i/o software, device-independent os software, device drivers, interrupt handlers
+qn=50 (7523) each device attached to your computer comes with a special program called a __________ that facilitates the communication between the device and the os. | device driver
+qn=51 (7528) in a fixed magnetic disk, each circle is called a ____. | track
+qn=52 (7541) what is a "stripping" in raid? | distributing data over multiple drives
+qn=53 (7549) a operation concerning stable storage is: | all of the other choices
+qn=54 (7576) if a system is deadlocked, no processes can | all of the other choices
+qn=55 (7581) ____ is when each process involved in the impasse is waiting for another to voluntarily release the resource so that at least one will be able to continue on. | circular-wait condition
+qn=57 (7593) the permanent blocking of a set of processes that compete for system resources is called | deadlock
+qn=59 (7619) which deadlock condition does "request all resources initially" attack? | hold and wait
+qn=60 (7624) what is the correct approach with the "no preemption condition" to prevent deadlock? | take resources away
+qn=1 (6840) which of special register contains the mode bit (user or kernel)? | program status word (psw)
+qn=2 (6847) which of main bus in the ibm pc computer, that can run at 66 mhz and transfer 8 bytes at a time? | pci (peripheral component interconnect)
+qn=3 (6855) booting a general purpose computer involves the following steps except | loading the command interpreter
+qn=4 (6860) which of the following statements about random access memory (ram) is correct? | is volatile
+qn=5 (6867) which of the following statements is incorrect about the cmos? | to contain bios
+qn=6 (6873) which is not an example of a resource that is commonly time-multiplexed? | main memory
+qn=7 (6888) a well-known embedded operating system is: | qnx and vxwork
+qn=8 (6899) a(n) _________ is provided to make system calls from some programming languages | procedure library
+qn=9 (6908) the major operating system services provide mechanisms for secure and efficient are: | all of the other choices
+qn=10 (6912) which of the following is correct about the advantages of layered system? | easier to extend and easier to debug from lower to upper layer
+qn=11 (6931) os win32 use system call_____, while os unix use system call______ to create a new process | createprocess; fork
+qn=12 (6944) which of the following process state transitions is illegal? | ready -> blocked (waiting)
+qn=13 (6951) how many percent is cpu utilization, when a computer system has enough room to hold two program and these programs are idle waiting for i/o half the time? | 75%
+qn=14 (6959) an arrival message causes the system to create a new thread to handle this message. this new thread is call______ | pop-up
+qn=15 (6966) which conditions of mutual exclusion does the lock variables (software proposal) violate? | no two processes simultaneously in critical region
+qn=16 (6973) in order to implement mutual exclusion on a critical resource for competing processes, only one program at a time should be allowed: | in the critical region of the program
+qn=17 (6984) semaphores that are initialized to 1 and used for two or more processes to ensure only one can enter its critical section at the same time are called: | binary semaphores
+qn=18 (6988) which cannot be able to solve the race condition? | shared memory
+qn=19 (6994) which is not a goal of a scheduling algorithm for batch systems? | response time
+qn=20 (7002) some systems increase the priority of jobs that have been in the system for an unusually long time to expedite their exit, which is known as ____.? | aging
+qn=21 (7011) five batch jobs a through e, arrive at a computer center at almost the same time. they have estimated running times of 8, 6, 2, 10, and 4 minutes. their (externally determined) priorities are 3, 5, 2, 1, and 4, respectively, with 5 being the highest priority. determine the average turnaround time for priority scheduling. ignore process switching overhead. | 16.8 minutes
+qn=22 (7017) assume jobs a-d arrive at almost the same time in the ready queue. determine the average turnaround time for sjf scheduling. ignore process switching overhead | 9.0
+qn=23 (7028) with paging, when is the internal fragmentation possible? | the last page of the job is less than the maximum page size
+qn=24 (7033) which of these statements about the algorithm "next fit" is true? | memory manager starting searching the list of segments from the place where it left off last time.
+qn=25 (7041) assume the memory manager receives a request for a block of 200. when the worst-fit algorithm is used, ____ is the beginning address of the block granted by the memory manager. | 10250
+qn=26 (7045) when a virtual memory system manages memory in fixed length units, which of the following terms correctly represents its unit? | page
+qn=28 (7061) suppose a virtual address space of 2^32 words and the page size is 2^12 words. if the virtual address is 12345678 in hexadecimal, what would be the page number in hexadecimal? | 12345
+qn=29 (7068) a computer with a 32-bit address uses a two-level page table. virtual addresses are split into a 10-bit top-level page table field, an 12-bit second-level page table field, and an offset. how large are the pages? | 1-kb page
+qn=30 (7077) the ____ policy is based on the theory that the best page to remove is the one that has been in memory the longest | fifo
+qn=31 (7081) when there is an excessive amount of page swapping between main memory and secondary storage, the operation becomes inefficient, which is called ____. | thrashing
+qn=32 (7089) in terms of main memory efficiency the method of "backing up pages dynamically" in comparison with the method of "paging to a static swap area" is | worse
+qn=33 (7408) which of the following is specified to indicate the directory where the file is located? | path name
+qn=34 (7417) which of the following file structure is widely used on large mainframe computers? | tree
+qn=36 (7430) which of the following allocation methods the i-nodes use? | indexed allocation
+qn=37 (7438) the disk block in a partition that includes a magic number, the number of blocks in the file system and other key administrative information is called: | superblock
+qn=38 (7444) which of the following is correct about symbolic links? | symbolic links can point to files in the network
+qn=39 (7450) increasing file system performance is implemented by _____ | all of the other choices
+qn=40 (7456) which of the following is true about the block size in disk space management | the larger the block size is the worse the disk space utilization is
+qn=41 (7477) which class of i/o devices that disks and tapes belong to? | block devices
+qn=43 (7493) in general, which is the best technique for i/o data transfer? | direct memory access
+qn=44 (7498) dma operations require the following information from the processor | all of the other choices
+qn=45 (7504) what is the table where its entry contains the memory address of interrupt service routine | interrupt vector table
+qn=46 (7510) imagine that a certain printer can print 400 characters per second and that the time to write a character to the printer's output register is so short it can be ignored. if to run this printer using interrupt-driven i/o and each character printed requires an interrupt that takes 50 �sec all-in to service. how many percent of the cpu does the interrupt overhead cost? | 2% of the cpu
+qn=47 (7518) which of the following i/o software do device drivers do? | writing commands to the device registers
+which is not a component of general structure of device drivers? | checking to see if the user is permitted to use the device
+qn=49 (7531) of the three components of access time in a disk, ____ is the longest. | seek time
+qn=50 (7546) which raid level duplicates all the disks? | 1
+qn=51 (7551) how much cylinder skew is needed for a 7200- rpm (rotate per minute) disk with the track-to-track seek time of 1 msec? the disk has 200 sectors of 512 bytes on each track. | 24 sectors
+qn=52 (7560) a computer uses a programmable clock in square-wave mode. if 500 mhz crystal is used, what should be the value of the holding register to achieve a clock resolution of 1 msec (clock tick)? | 500,000
+qn=53 (7578) what is true about preemptable resources? | can be taken away from a process with no ill effects
+qn=54 (7583) ____ allows a resource to be held by a process as long as it is needed. | Hold and wait condition
+qn=55 (7590) assume the following events and actions take place. the following statement____ is true. 4 P1 - R2 5 P2 - R3 6 P3 - R1 | event 6 caused deadlock.
+qn=56 (7596) which of the following statements does not apply to manual deadlock management? | os designers are normally very sensitive to deadlock when designing resource managers
+qn=57 (7611) what following resource allocation state is unsafe? | fig. c
+qn=59 (7626) the scheme of ____ removes the possibility of a circular wait and therefore guarantees the removal of deadlocks. | hierarchical ordering
+movable-head magnetic disks, such as the computer hard drive, have ____ read/write head(s). | one
+he data-transfer rate for an optical disc is measured in ____ per second and refers to the speed | megabytes
+if the transport speed for a magnetic tape is 200 inches per second and the density is 1600 bpi, a | 320,000
+____ is a way to optimize search times by ordering the requests once the read/write heads have | rotational ordering
+to put data on an optical disc requires a high -intensity laser beam, which burns indentations, | lands
+data recorded on fixed- head dasds may or may not be blocked at the discretion of the ____. | application programmer
+the need for algorithms to resolve conflicts between processors is called process ____. | synchronization
+in a symmetric configuration, processor scheduling is ____. | decentralized
+parallel processing is also called ____. | multiprocessing
+____ proposed a solution to the readers and writers problem that did not result in starvation | hoare
+most current operating systems support the implementation of threads, or ____, which have | lightweight processes
+each active thread in a process shares the ____ and the resources allocated to its process. | data area
+automatic detection by the compiler of instructions that can be performed in parallel is called | implicit parallelism
+operations on semaphore s enforce the concept of ____, which is necessary to avoid having | mutual exclusion
+a ____ of processing must be handled as a unit. | critical region
+in the "dining philosophers" problem, a philosopher can pick up a fork when____. | there are two available
+is necessary in any computer system because some resources such as memory, cpu, and | mutual exclusion
+____ is when, in modern printing systems, a disk accepts output from several users and acts as a | spooling
+____ occurs when two processes do not release control of resources they are using. | resource holding
+for ____ systems, deadlocks quickly become critical situations. | real-time
+failure to lock database records before updating them may result in a ____ between processes. | race
+____ developed the banker's algorithm. | dijkstra
+a network that's congested or has filled a large percentage of its i/o buffer space can become | protocols
+____ is necessary in any computer system because some resources such as memory, cpu, and | mutual exclusion
+interactive systems generally improve the use of resources through ____ resource sharing, but | dynamic
+when using the clock page replacement policy, a page with a reference bit of ____ is replaced. | 0
+____ gives users the appearance that their programs are being completely loaded in main | virtual memory
+studies have shown that having any ____, even a small one, can substantially improve the | cache
+to access a location in memory when using segmented memory management, the address is | the segment number and the displacement
+if a particular demand paging configuration has 9 page interrupts out of 11 page requests, | 82%
+there are ____ entries per page in the pmt. | 1
+the cache hit ratio is ____, if the total number of requests is 10 and 6 of those are found in | 60%
+assume that the page map table below is in effect. the number of lines per page is 400. the | 4033
+consider the following four cases. the lru policy,____, will be least likely to swap. | case 4
+one of the most important innovations of demand paging was that it made ____ feasible. | virtual memory
+in a single -user system, jobs are processed ____. | sequentially
+3 put job in waiting queue | first-fit memory allocation
+the operating system can tell the ____ of each group of digits by its location in the line and the | function
+the ____ of memory, sometimes referred to as garbage collection or defragmentation, is | compaction
+by compacting and relocating, the memory manager optimizes the use of memory and thus | overhead
+the fixed partition scheme works well ____. | when jobs have the same size
+a supercomputer can perform ____ floating-point operations per second. | 2.4 trillion
+in second-generation computers, to reduce the discrepancy in speed between the i/o and the | control unit
+the primary distinguishing characteristic of modern computers is ____. | processor capacity
+a system with ____ divides programs into parts and keep them in secondary storage, bringing | virtual memory
+a hybrid system is a combination of the ____ systems. | batch and interactive
+powerful microcomputers developed for use by commercial, educational and government | workstations
+vacuum tube computers were used during the period of ____. | 1940-1955
+____ introduced the need for control cards, which defined the exact nature of each program | job scheduling
+a typical ____ computer houses devices to perform audio, video, and graphic creation and | multimedia
+the name for the nucleus of an operating system is the ____. | kerneld
+which of the following is an operating system component? | process management
+what is an operating system structure in which the communication between requesting process | ms-dos
+the language of the cpu is known as its | instruction set
+linux and are often used as operating systems on supercomputers, mainframes, and servers. | unix
+where is the position of the operating system in computer system: | above the hardware and under the user interface program
+consider a computer system that has cache memory, main memory (ram) and disk, and os uses | 4 msec. 40 msec. 20 sec
+the basic idea behind the microkernel design is: | to archive high reliability by splitting operating system up into small, well - defined modules
+which of the following conditions that causes the processes to be terminated, when processes have a program bug? | normal exit (voluntary)
+which of the following is not a cpu scheduling criterion? | burst time
+how many percent of the cpu time is wasted, when a computer system has enough room to | 1 %
+to specify an address in this segmented memory, the form is used | <segment-number, offset>
+page replacement algorithms determine | which page to remove to provide space for an incoming page
+the page table for each process maintains: | the frame location for each page of the process
+the second-chance page -replacement algorithm | moves pages found at the head of a fifo queue with the referenced bit turned on back to the tail of the queue to avoid replacing them
+in terms of speed the best method of dynamic storage -allocation is: | first fit
+the actual location in main memory is called a(n): | absolute address
+lru replaces the page that has spent the | longest time in memory without being referenced
+in a system employing a paging scheme for memory management, wasted space is due to: | internal fragmentation
+the task of subdividing memory between the os and processes is performed automatically by the | memory management
+which of the following is appropriate to determine program size and create page table? | process creation
+what is the method to keep track of memory usages? | a and b
+the special files a | both a and b
+a file is generally defined to be: | a collection of similar records
+which of the following is not a path name for the file /etc/passwd | none of the above
+what is incorrect about contiguous allocation of files ? | it does not cause disk fragmentation
+which of the following is not correct about hard links and symbolic links? | hard links can point to files on other machines
+which of the following i/o software device layers is done by user-level software? | converting binary integers to ascii for printing
+an example of the key differences that can exist across (and even in) classes of i/o devices is: | all of the above
+which of the following is not correct about the reliability of different raid levels? | all raid levels can survive one disk crash
+which of the following statements is not correct about "device independence"? | device independence requires all programmers to deal with different devices directly
+what kind of i/o devices that disks and tapes belong to? | block-oriented devices
+which of the following statements is incorrect? | a hard drive is an example of a character-oriented i/o device
+the i/o technique where the processor busy waits for an i/o operation to complete is called: | programmed i/o
+the system is said to be in an unsafe state if | the operating system cannot guarantee that all current processes can complete their work
+if in a resource -allocation graph, each resource type has exactly one instance, which of the | the graph has at least one cycle.
+all deadlocks involve conflicting needs for resources by | two or more processes
+what is the characteristic of deadlocked systems | circular wait
+a possibility of deadlock can occur: | if a system is in unsafe state
+what is the weakness of the banker's algorithm? | requiring that processes state their maximum needs in advance
+which of the following is not a condition necessary for deadlock to exist? | preemption condition
+dijkstra's banker's algorithm require the system to maintain the resource information for each | b and c
+if a deadlocked system, the processes can | do nothing
+which of the following statements is incorrect about user mode and kernel mode? | none of the above
+first-come, first- served (fcfs) is a very simple algorithm to implement because it ____. | uses a fifo queue
+the job scheduler seeks to ____, when scheduling jobs. | balance cpu and i/o intensive jobs
+assume jobs a-d arrive in quick succession in the ready queue. using round robin scheduling, | 24
+the process scheduler assigns the cpu to execute the processes of those jobs placed on the | ready
+in a highly interactive environment there is a third layer of the processor manager called the | middle- level
+3/ which of the following is os component? | process management
+4/ ms- dos is an example of ... | monolithic system
+5/ what is interrupt vector? | part of memory which contains the addresses of interrupt handlers
+7/ which of the following is not a correct explanation of unix which is one of the os? | it is a single- user and multi-task os
+9/ what is the value of mode bit in user mode? | 1
+10/ what is the correct statement about the process of booting a computer? | bios detects the boot device, the boot sector determines the active partition, then the boot loader loads the operating system
+11/ what is the correct about trap instructions and interrupts ? | all of the above
+1/ which of the following is a high-level synchronization primitive? | monitors
+2/ which of the following is used in mutual exclusion ( exclusive control)? | contention
+4/ which of the following preemptive scheduling algorithm? | round robin
+6/ which of the following state transitions are illegal? | waiting -> runing
+8/ which of the following cannot be shared among different threads of a process? | stack
+1/ the maximum segment for process pentium if the limit field of segment descriptor | 1mb
+4/ a page fault means that we referenced a page? | that was not in main memory
+how many levels of page tables the processor pentium supports: | 2
+6/ what is not the technique of implemention for virtual memory? | demand partition
+7/ which of the following information bits in the entry of page table is used to indicate page fault? | present/ absent bit
+8/ how many levels of protection the processor pentium supports; | 4
+10/ the ways to keep track of memory usages: | a vs b
+what is the main characteristic of embedded operating system? | restriction of memory size, speed of cpu, screen size, powers
+which is the difference between personal computers and mainframe computers? | all of the above
+a control/status register that contains the address of the next instruction to be fetched is called | program counter (pc)
+the general role of an operating system is to: | provide a set of services to system users
+the two basic types of processor registers are: | general and special registers
+which of the following statements is incorrect about timesharing and multiprogramming | all multiprogramming systems are timesharing systems
+which of the following statements is correct about shortest job first | minimize average waiting time
+which of the following process state transitions are legal? | running -> ready
+which of the following is not correct about user-level threads ? | with user-level threads, customized scheduling algorithms cannot be implemented
+what is software proposal in the solution of mutual exclusion with busy waiting | all of the above
+which is the correct description of transitions between process states below? (see picture) | 1: process blocks for input; 2: scheduler picks another process; 3: scheduler picks this process; 4: input becomes available
+in a single processor system, mutual exclusion can be guaranteed by: | disabling interrupts
+which is a wrong statement about the quantum used in round robin algorithm ? | none of the above
+which of the following synchronization mechanisms does not rely on busy-waiting ? | semaphores
+is a specialized write command for existing data files that allows for appending records or for | rewrite
+many computer users and some operating systems call subdirectories | files
+which method is used to implement files to keep each file as a linked list of disk blocks? | linked list allocation
+which of the following allocation methods, operating system ms-dos is implemented? | linked allocation using fat
+which of a system call is to allow the system announce that the file is coming and set some of | create
+which of a system call is to allow the file to appear in more than one directory? | link
+which of a system call is to allow the system free up internal table space? | close
+how much cylinder skew is needed for a 5400- rpm (rotate per minute) disk with the track-to-track | 18 sectors
+the aspect of disk performance that represents the time it takes to position the head a the | rotational delay
+a operation concerning stable storage is: | all of the other choices
+rearrange the layers in i/o software starting at the bottom | 43251
+when an external device becomes ready to be serviced by the processor, the device sends this | interrupt signal
+assuming that it takes 10 nsec to copy a byte, how much time does it take to completely rewrite | 28.8 msec
+what is asynchronous transfer in principles of i/o software? | the cpu starts the transfer and goes off to do something else until the interrupt arrives
+assuming that it takes 10 nsec to copy a byte, how much time, does it take to completely | 40 micro-sec
+which of the following statements is incorrect about i/o using dma? | dma is software solution to speed up data transfer between i/o device and memory
+in a directed graph used to model deadlock, resources are re presented using | squares
+which deadlock condition does "ordering resources numerically" attack? | circular-wait condition
+which deadlock condition does "take resources away" attack? | no preemption
+which method is used to prevent the communication deadlock? | timeouts
+_________is the act of allowing only one process to have access to a dedicated resource | mutual-exclusion condition
+what is the correct approach of the driver of dedicated devices with requesting device that is | the device driver decides blocking and returning an error code
+what is true about non-preemptable resources? (non preemptable) | will cause the process to fail if taken away
+which of the following is not a step in the boot process? | the antivirus program checks all files for viruses.
+which of a system call is to allow the system free up disk space? | delete
+consider a swapping system in which the memory consists of the following hole sizes: 10k, 4k, | 9k, 15k, 10k
+assume the memory manager receives a request for a block of 200. when the best-fit algorithm | 7600
+a ____ is a portion of a process that can run independently. | thread
+the term__________a specialized instruction set. | dma characterizes a system configuration that includes an i/o module that is a separate processor with
+consider a swapping system in which the memory consists of the following hole sizes: 10 k, 4 k, | 10 k, 20 k, 15 k
+which is the fastest bus in the ibm pc computer? | isa (industry standard architecture)
+assume the following events and actions take place. the following statement is true.4 P1 - R2 5 P2 - R3 6 P3 R1 | there is no deadlock
+operating system abstraction supports the ability to have operation even when there is only one | pseudoparallelism
+the page size that is too small wil l generate | very long page tables
+in a directed graph used to model deadlock, processes are represented using | circular
+how many categories can be the i/o devices roughly divided? | 2
+what is not the technique of implementation for virtual memory? | partition
+a cpu may have separate fetch, decode and execute units, so that can carry out three steps of | pipeline
+which of a system call is to allow the system fetch the attributes and list of disk addresses into | rename
+which of the following statements is not correct about the device controller of i/o devices? | is software component of device
+qn=5 (6907) which of the following is not a task of i/o management of os? | mapping files onto secondary storage
+qn=7 (6916) ____ is the partitioning of a single server, each of which can support a different operating system. | virtualization
+qn=1 (6837) a cpu may have two or more complete processors, so that can carry out multiple threads in the same time is called: | multicore
+qn=8 (6896) the interface between the operating system kernel and the user programs is defined by the set of ________ that the operating system provides | system calls
+what happens when a thread calls down (s) when it wants to enter its critical section, where s is a binary semaphore set to 1? | the thread is allowed to enter its critical section and s is decremented.
+the file manager writes the volume name and other descriptive information on an easy-to-access place on each unit: ____ of the magnetic disk | the innermost part
+which of the following statement is not true about separating i/o and memory space? | caching a device control register would be disastrous
+each device attached to your computer comes with a specia l program called a | device driver
+which concept is described as "disk sectors are just numbered consecutively starting at 0, without regard to the disk geometry"? | logical block addressing
+what is the characteristic of the first generation of operating system? | vacuum tubes, plug boards
+which is not an example of a resource that is commonly time-multiplexed? | main memory
+which of the following process state transitions is correct, when the scheduler picks a process from | ready -> running
+which of the following process state transitions is illegal? | ready -> blocked (waiting)
+critical region (section) concept used in interprocess communication is: | a part of shared memory
+which ofthe following operating systems is an example of monolithic system? | ms-dos
+a well-known real-time operating system is: | e-cos
+which of the following instructions should be allowed only in kernel mode? | disable all interrupts
+the _________is the essential component ofthe operating system that remains in ram when your computer is powered on. | kernel
+which is not a goal of a sheduling algorithm for all systems? | balance
+a entry of the process table is called: | process control block
+one of the most important innovations of demand paging was that it made feasible | virtual memory.
+when a virtual memory system manages memory in fixed length units, which of the following terms | page
+which is the maximum number of partition that most disks can be divided up? | 4
+which of the following is not special file? | stream special file
+device driver is usually written by: | device's manufacturer
+imagine that a certain modem can read 7,000 characters per second and that the time to read a | 4% of the cpu
+in a directed graph used to model deadlock, ______represents deadlock. | cycle
+which is not a function of device drivers? | to accept abstract read and write request from device independent software above it and see that they are curried out
+what is the correct approach with the "mutual exclusion condition" to prevent deadlock? | spool everything
+an example of preemptable resources is | memory
+consider the case of a home construction company with two application programs, purchasing (p1) and sales (p2), which are active at the same time. they each need to access two files, inventory (f1) and suppliers (f2), to update daily transactions. the following series of events will cause a deadlock. fill in the missing event in the sequence. | sales (p2) doesn't release the inventory file (f1) but requests the supplier file (f2)
+fill in the missing step in the following deadlock situation. two users from the local board of education are each running a program (p1 and p2), and both programs will eventually need two dvd drives to copy files from one disc to another. only two dvd-r drives are available and they're allocated on an "as requested" basis. soon the following sequence transpires: | p2 requests drive 2 and gets it.
+with demand paging, jobs are divided into equally sized ____ that initially reside in secondary storage. | pages
+if a particular demand paging configuration has 9 page interrupts out of 11 page requests, failure rate is ____. | 82%
+the cache hit ratio is ____, if the total number of requests is 10 and 6 of those are found in cache memory. | 60%
+the ____ policy is based on the theory that the best page to remove is the one that has been in memory the longest. | fifo
+deadlock was a serious problem for early batch systems. | False
+within the memory manager the segment link table lists details about each segment (one for each job). | False
+multiple-level queues isn't really a separate scheduling algorithm but works in conjunction with several other schemes. | True
+in general, when a job is allocated to the cpu its page map table is loaded into main memory while the segment map tables are loaded only as needed. | False
+the processor manager is a composite of two submanagers: one in charge of job scheduling and the other in charge of program scheduling. | False
+the first-in first-out (fifo) page replacement policy will remove the pages that have been in memory the shortest. | False
+in the dining philosophers problem there are five philosophers and four forks. | False
+starvation is the result of the liberal allocation of resources. | False
+from hold, the job moves to waiting when it's ready to run but is waiting for the cpu. | False
+a deadlock is preceded by six simultaneous conditions that the operating system could have recognized. | False
+a job's working set is the set of pages residing in memory that can be accessed indirectly | False
+once starvation has been detected, an algorithm can be implemented in which the system blocks new jobs until the starving jobs have been satisfied. | True
+every time an instruction is executed, or a data value is used, the operating system (or the hardware) must translate the job space address, which is relative, into its physical address, which is absolute. | True
+one sector will hold one page of job instructions and fit into one page frame of memory. | True
+when modeling deadlock, if there's a cycle in the graph, then there is a deadlock involving the processes and the resources in the cycle. | True
+a variation of the lru page replacement algorithm is known as the clock page replacement policy because it is implemented with a circular queue and uses a pointer to step through the reference bits of the active pages, simulating a clockwise motion. | True
+each page of a job is actually stored in a page frame that can be located anywhere in available main memory. | True
+deadlock does not usually affect the entire system. | False
+when using a fifo scheme, more memory will always result in better performance. | False
+according to the banker's algorithm an unsafe state always leads to deadlock. | False
+if locks are not used to preserve data integrity, the updated records in a database might include only some of the data�and their contents would depend on the order in which each process finishes its execution. | True
+demand paging requires that the page map table for each job keep track of each page as it is loaded or removed from main memory. | True
+as a job moves through the system it is always in one of five states (or at least three); these are called the job status or the process status. | True
+the advantage of raid level 3 is that if any one drive fails, data can be restored using the bits in the parity disk. | False
+the job of the i/o control unit is to keep up with the i/o requests from the cpu and pass them down the line to the appropriate control unit. | False
+raid-0 is ideal for data-critical real-time systems. | False
+an optical disc drive adjusts the speed of the disc's spin to compensate for the sector's location on the disc�this is called continuous linkage velocity (clv). | False
+the scan algorithm moves the arm methodically from the inner to the outer track, servicing every request in its path. | False
+additional complex configurations of raid can be created by combining multiple levels. | True
+two of the most important measures of optical disc drive performance are sustained data-transfer rate and longest access time. | False
+a dvd with a fast data transfer rate will drop fewer frames when playing back a recorded video segment than will a unit with a slower transfer rate. | True
+the traffic controller maintains a database containing the status and connections for each unit in the i/o subsystem, grouped into channel control blocks, control unit control blocks, and device control blocks. | True
+when using dma, the cpu is involved in transferring data to and from memory for the entire transfer. | False
+among the many differences between an optical disc and a magnetic disk is the design of the disc track and sectors. | True
+a fixed-head disk is lower in cost than a movable head disk. | False
+direct access storage devices (dasds) are devices that can directly read or write to a specific place on a disk. | True
+for many computational purposes, serial processing is sufficient; it's easy to implement and fast enough for most users. | True
+threads share the same resources as the process that created them. | True
+the classic problem of producers and consumers is one in which one process produces some data that another process consumes later. | True
+multiprocessing can refer to one job using several processors to execute sets of instructions in parallel. | True
+the loosely coupled configuration features several complete computer systems, each with its own memory, i/o devices, cpu, and operating system. | True
+the success of process synchronization hinges on the capability of the operating system to make a resource available to other processes while it is being used by one of them. | False
+the common element in all synchronization schemes is to allow a process to finish work on a critical region of the program before other processes have access to it. | True
+the symmetric configuration is best implemented if the processors are all of the same type. | True
+the only reason for multiprocessing is to increase computer power. | False
+the best-fit free list scheme uses memory more efficiently than the first-fit free scheme but it is slower to implement. | True
+in the relocatable dynamic partitions scheme, the memory manager relocates programs to gather together all of the empty blocks and compact them to make one block of memory large enough to accommodate some or all of the jobs waiting to get in. | True
+to overlay is to transfer segments of a program from main memory into secondary storage for execution, so that two or more segments take turns occupying the same memory locations. | True
+during compaction, the operating system must distinguish between addresses and data values, and the distinctions are not obvious once the program has been loaded into memory | True
+after relocation and compaction, both the free list and the busy list are updated. | True
+research continues to focus on finding the optimum allocation scheme. | True
+the first attempt to allow for multiprogramming used fixed partitions. | True
+one of the problems with the best-fit algorithm is that the entire table must be searched before the allocation can be made because the memory blocks are physically stored in sequence according to their location in memory. | True
+onboard systems are computers placed inside other products to add features and capabilities. | False
+the supercomputer was developed primarily for government applications needing massive and fast number-crunching ability to carry out military operations and weather forecasting. | True
+in the 1950s, only one fortran program could run at a time, and then the fortran compiler had to be reloaded into memory. | False
+the file manager is responsible for data files but not program files. | False
+real-time systems are used in time-critical environments where reliability is key and data must be processed within a strict time limit. | True
+few major advances were made in data management during the 1960s. | True
+since the mid-1970s rapid advances in computer technology have blurred the distinguishing characteristics of early machines. | True
+card systems date from the earliest computers, which relied on punched cards or tape for input when a job was entered by assembling the cards into a deck and running the entire deck of cards through a card reader as a group. | False
+the first bug was a moth trapped in a harvard computer. | True
+the minicomputer of the 1970s was smaller than the microcomputer. | False
+many early programs used convoluted logic that only the original programmer could understand, so it was nearly impossible for anyone else to debug or change the program later on. | True
+the high-level portion of the process manager is called the process scheduler. | False
+a process requires space in main memory where it resides during its execution although, from time to time, it requires other resources such as data files or i/o devices. | True
+what are the allocation methods of disk blocks for files: | all of the above
+the following requirement must be met by any facility or capability that is to provide support for mutual exclusion: | all of the above
+which of the following is appropriate to release page table and pages? | process termination time
+which of the following information bits used by the various page replacement policies indicates if the page has been called lately? | referenced bit
+qn=42 (7487) in the memory-mapped i/o system, in order that cpu communicates with the control registers in the devices, the control register is assigned : | unique memory address
+qn=60 (7637) a system has four processes and five allocated resources. the current allocation and maximum needs are as follows: | 1
+1. the operating system does each of the following except | ensures that programs terminate their execution
+2. the process is the computational environment that includes each of the following except | operating system
+3. threads can be implemented in each of the following ways except | parent/child processes
+4. files are distinguished from other resources except that | the interface is exceptionally complex as compared with most other resources.
+5. a unix process contains each of the following except | thread segment
+6. the process manager deals with the following except | window management
+7. the process manager commonly interacts with other components except | device controller
+8. a trap instruction doesn't cause this cpu hardware step to occur: | return control to the user code which invoked the trap instruction
+10. on a magnetic disk, which is not a critical timing characteristic? | sector header erasure time
+11. which is not a characteristic of a thread? | thread parent identifier
+12. basic process states include the following except | done
+13. which is the least common reason that a running thread might cease using the cpu? | thread involuntarily releases cpu
+14. how many context switches occur whenever application processes are multiplexed? | 4
+15. the os implementation of a scheduler normally does not include | procedure call handler code
+16. in the synchronization context, process creation and destruction tend to be quite costly operations because of the following, except | parent processes have difficulty tracking concurrent creation and destruction of child processes
+17. which statement about test-and-set is incorrect? | test-and-set executes as a sequence of machine instructions
+18. the following statements about and synchronization are true except | simultaneous semaphore is slightly more powerful than basic semaphore
+19. which statement about monitors is incorrect? | monitors can solve just a proper subset of synchronization problems solvable with semaphores
+20. which statement about ipc is incorrect? | if the sender and receiver are on different machines, the os must obtain additional cooperation of the two processes
+: an operating system is? | a program that acts as an intermediary between a user of a computer and the computer hardware
+what is the main difference function between operating systems for mainframe computer and personal computer? | many i/o devices
+which of the following is operating system component? | file management
+which is the voluntary-condition which terminated process? | error exit
+what is the correct approach with the mutual exclusion condition to prevent deadlock? | spool everything
+: what is the correct approach with the hold and wait condition to prevent deadlock? | request all resources initially
+which of the following actions generates an hardware interrupt? | an input/output operation is completed.
+: which command is used to change a file's name? | mv
+which command is used to jump on sub-directory? | cd
+which command is used to display the absolute pathname for the directory that you are working in? | pwd
+which command can be used to list all file (include hidden files) inside current directory? | ls -a
+which command would you use to create a sub-directory in your home directory? | mkdir
+: which command will display current day? | date
+which command can be used to display the contents of a file on the screen? | cat
+_____ is the command that writes the bottom 10 lines of a file to the screen. | tail
+: _____ is the command that writes the first 10 lines of a file to the screen. | head
+: the _____ command will list all working processes? | ps
+a system has four processes and five allocated resources. the current allocation and maximum needs are as follows: | 3
+five batch jobs a through e, arrive at a computer center at almost the same time. they have estimated running times of 8, 6, 2, 10, and 4 minutes. their (externally determined) priorities are 3, 5, 2, 1, and 4, respectively, with 5 being the highest priority. for each of the following scheduling algorithms: p-priority scheduling; f- first-come, first-server (run in order 8, 6, 2, 10, 4); s-shortest job first, determine the mean process turnaround time. ignore process switching overhead. assume that only one job at a time runs, until it finishes. all jobs are completely cpu bound. | p-16.8, f-18.8, s-14
+____ uses the same underlying philosophy as shortest job next, where the shortest jobs are processed first and longer jobs are made to wait. | sstf
+the following,____, describes the first memory allocation scheme. | each program to be processed was loaded in its entirety into memory and allocated as much contiguous space in memory as it needed
+the ____ contains the value that must be added to each address referenced in the program so it will be able to access the correct memory addresses after relocation. | relocation register
+second-generation computers were developed to meet the needs of ____. | businesses
+____ means that several logical records are grouped within one physical record. | blocking
+____ include(s) every peripheral unit in the system such as printers, disk drives, cd/dvd drives, flash memory, keyboards, and so on. | i/o devices
+the overwhelming demand for ____ capability in the mid-1990s sparked the proliferation of networking capability. | internet
+the ____ is unique to each operating system. | user interface
+the ____ is used to indicate that a program is permanently held in rom (read only memory), as opposed to being held in secondary storage. | firmware
+
+Which deadlock condition does "Spool everything" attack? | Mutual exlusion
