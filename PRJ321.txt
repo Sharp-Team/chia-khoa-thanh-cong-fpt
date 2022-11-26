@@ -949,3 +949,4 @@ Which statements are BEST describe request implicit object of jsp file? | e. Thi
 Which is NOT a scope of implicit objects of JSP file? | e. response
 Which is NOT a state in the EJB 3 Entity beans life cycle states? | e. Exit
 Which of the following JSP variable is not available within a JSP expression? Select one correct answer | e. httpsession
+Classes HttpServlet and GenericServlet implement the___ interface. | c.Servlet
